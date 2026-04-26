@@ -79,3 +79,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+def send_discord(message):
+    print("Sending to Discord...")
+    print("Webhook:", DISCORD_WEBHOOK)
+
+    data = {"content": message}
+
+    res = requests.post(DISCORD_WEBHOOK, json=data)
+
+    print("Status:", res.status_code)
+    print("Response:", res.text)
