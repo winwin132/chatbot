@@ -80,7 +80,19 @@ def main():
 if __name__ == "__main__":
     main()
 
+def build_message(articles):
+    today = datetime.now().strftime("%d/%m/%Y")
+    msg = f"🧠 AI News ({today})\n\n"
 
-for article in articles[:3]:
-    msg = f"{article.title}\n{article.link}"
-    requests.post(DISCORD_WEBHOOK, json={"content": msg})
+    for i, a in enumerate(articles[:3], 1):  # ลดเหลือ 3 ข่าว
+        summary = summarize(a.title)
+
+        part = f"{i}. {a.title}\n{summary}\n{a.link}\n\n"
+
+        # กันข้อความยาวเกิน
+        if len(msg + part) > 1900:
+            break
+
+        msg += part
+
+    return msg
