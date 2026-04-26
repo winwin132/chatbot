@@ -1,0 +1,32 @@
+name: chatbot
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 7 โมงเช้าไทย
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - run: pip install feedparser requests openai
+
+      - run: python news_bot.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: Save log
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@example.com"
+          git add news.txt
+          git commit -m "update news" || echo "no changes"
+          git push
