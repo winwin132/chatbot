@@ -1,0 +1,22 @@
+🧠 **AI News (26/04/2026)**
+
+**1. AI is making it very easy for the government to spy on you. Some lawmakers are worried. - NBC News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHU3N05LUVJpVDBmMWdqZnNqS2JNRDU5VkJsY1Fhc2sya2M1Q04wVDFuaGNkVERxY3ZwdXo1TDRSZWJZbV9KeEFBYUU3UHA5SzgzODRaRy1NWHFjNl96NXRSNHdJOXFLdkFmTlV1NklxZi1jNnVMc0FTY3E2Z3BfUll1cWxHMnY3bEtYZ0g4UmNCd1VfZzB4ZlRPZmMwak5ybVE?oc=5
+
+**2. 'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDk5SnJIXzZFTDUwbVJZbzJnZTBZalE1STZnXzhnX3d4d180ZVdTNTlPVWdJQnNzUXdaZkZYdkZKZFlteTk2SE5kcVk1bEZDZ2ctaFp2ZWZ0SlkwY3lFc21PVDBxV3BsS0FCcExQQTZfckItSktUU1hLUUk2VWVyYXZYWXdzU2Yxb2l3?oc=5
+
+**3. Super Bowl champion uses AI to help detect for cardiovascular issues early - foxnews.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWRiYTd1dWQtbHlmeUJuQUZQcFZBOGkyS0pqYVM1VWZuLTRWRFBYS3NrX1pTSXR2SHFNWnBiZ1pDSWFuQUg0OHNsWlNob1lpUXloSUEweDRFSzRBSUFELU9kSllMT1QybUJqVzVxcmtYRjN4U20xTjJ2WDZsYmt1Qlk5OGVtX0JvZGxBdExTSTBwWi1nZUZxVDN6T3JGbTjSAaQBQVVfeXFMTVY3eHVPSlZpVm1FdTZWcXFiQzdxdk0yeFlGYnBkQ2ZHVjVvY2RzQWJLeEpteGdzNm05aFF6UmllZE5uLU1mNHYzNFNVWmdfeEIzTWZPNVVyNGpDVlJ1eXJkVFBOb0Q0QnlyZVFBOE5ZS1RPSC1VNTJwaGQ0QlNYdWhacjRPbFN2Y1lhbncxRmI2RmJDa2FEaHJjRFpvdjRRXzZlSWY?oc=5
+
+**4. In WA's desert, fusion power races to meet AI demands. Who pays if it fails? - The Seattle Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDgySVY0WTd5djBvSGI1YnhJUWNlN0lqeUtBdTZvRUN1TmFyeW1jMlI1c05Ta3NjNGNuSDM2TlJKeDlCZjJHbFRBWmdTRzR5dXF4ZmZ0V3hhXzVVSWJDT1VMUnU3UnNFLVRWSDR2ay13cTloOUdrY1lyOFlRSDRYMGtXLXp4OUpmQ0E0ejdtVzlGcHNzZ1ByS2wxcjNEWVN6cWJoVldTWW1NNkxrZklFX0oweE0zYUoxeWZKbA?oc=5
+
+**5. An AI hater’s guide to keeping LLMs as far from your workflow as possible in 2026 - GeekWire**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVpWMmJTUVhQME1JOXlkNER1dmZEbjNEd2pJTmVvZHVWbmhNT0gxQl80QmVqZXdEU0pEeXZHTkxPQWt4bVMxa2RKaXNtR0NnZ1BLYVBVOUtuYmRyd0RtMjh4ZVVOSXNPc1p2OE1Yc1F2WDVRR0VaNmZvR3dvMzJhT29yTTBNQUFHcGwwTVpXRmc4cFI5Wm5EODFrTkdkdXlLWWd4SURZWWMxTHhmNkNDUg?oc=5
+
