@@ -1,22 +1,22 @@
-🧠 **AI News (27/04/2026)**
+🧠 **AI News (28/04/2026)**
 
-**1. The Podcast Where You Can Eavesdrop on the A.I. Elite - The New York Times**
+**1. China says it will reverse major AI acquisition by Meta - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZk9rNmhIaHQwcUY4YWh0UmNEZ3FqM2syOVZJdVRJMlZIWjNsTmN2bVAtTjFmVUdRUzhFZm5oVzBBdHpfNUFCNFdNWHY1WjhHYmtuWlJ3dXhfMkg5eXRXLWJrQlgyYkZROTlpWHc5cHVQRjMzeFh4SU9zSUdCd0E?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTE4wbEw4czdzUDJyMVV4S19rT2JNTG9ySTZub2lsVzUzc0tEbjRIZWVOdnAzWkxONldEMmZBRGR4S2J6RlRSRlRFTEVYYXlEcjN3dzJ6WG1WOThxT0RyVHpacmEtU05OTXZuRkpYNEoxaUN2QkhVc2cw?oc=5
 
-**2. 'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune**
+**2. China blocks Meta's $2 billion takeover of AI startup Manus - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDk5SnJIXzZFTDUwbVJZbzJnZTBZalE1STZnXzhnX3d4d180ZVdTNTlPVWdJQnNzUXdaZkZYdkZKZFlteTk2SE5kcVk1bEZDZ2ctaFp2ZWZ0SlkwY3lFc21PVDBxV3BsS0FCcExQQTZfckItSktUU1hLUUk2VWVyYXZYWXdzU2Yxb2l3?oc=5
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2tNOUoxcFRleGEzeXlodnZWQXgtMU9TWk9nWUlERDB0emE4c1BTOFZmNjlrR2hQQkNla3llWTFXU0J1TW4xNGZpMFB6RlVUMlVuQWJLRFJmYzZxeHJQYzdBM0lvT0pkMTY5Ty1yNVI3NVFwUVQ4a2lRejg0V0xYbk9uZG1MQXVwZzIw0gGQAUFVX3lxTFBaMkdpQkdXUF96OW5iNjBDc21uZkVhNnBLM1ZmTmU2S2ZXQm5kYmVlWWhFQ0kxa3RlOUR0LTM3dmdYcHI0WTlIbjhxb0xTMXFuaTdJa01pYW9vTjdHN1dBS2pXMHYxSXoyaHN6WnNoTGQxcWxPRmloMUtCZTlTMmh3dHhTbThOX2hQLWt1Y01yeA?oc=5
 
-**3. Emerging Stocks Rise to Record High on AI, Iran Offer - Bloomberg**
+**3. China Orders the Unwinding of Meta’s Acquisition of an A.I. Start-Up - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2ZYTC1rZEp3M0FGLTlVUFhDMWVaU0NBbVBPSnVEd0dMVHpYOW5oWi1JYXJRUUljMVhCeWoxTDJhYmtVcWpfU0U4LU9yZlZxMjVpcTNLbEZuWnk1blY0Nlc0Tkk0aGJOQTdpMndDTkNrdFd3enh6SnRFOWRNTGttZTdnSXVjQ193bjc4Z1BDUDVZTGtxb3FpTTNJTjVaTURaTkFKR0t3?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5
 
-**4. AI crime cameras surveilling San Fernando Valley amid spike in home break-ins - KTLA**
+**4. Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE9hMGVDRVVFZk1WcWhNREloQXc4NDU1Tjc0M3FCaXlVelViSEUyOVBkX1FZeVhDWFRwZmNubHY1UE9HTXNtUVVnZGVTYm1yamRmbzhIMFNrR3JwU0EtZUdZUVZCay1tUjZIQXlud1pldXEtMkY4NnM4SUtfSXZWOFXSAYQBQVVfeXFMTmtwd1N5TzZIb093aDdFeklXWF9UWkdmNjRRQS1SNmI1TllsSm9hZFF3NVhROG5FTHdwY1BhNTlZdUt4UkU1UjU3MWw4c2d6OFc5OEduNU1XOTFMcEJRanpER2lua2FxaXRtQUJKZXJCUXRmUTlFdzZCT1AwbzVnWlNKTWx5?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPeC1wamNpNHVlc3V6cUJTRGUwZzBhdHBuN2toUFdqTUN5NE50eG1ocDdydURoMnhDNVI2UDdtekhDX0ItdmpxcV9fRGJOOUsyWTZqUURMdzNkUmN1NUtyMFh2UWJXWWRBM253SmJzb0t1U3FZVTJyd0h4QnVNU3ByVkNMSXVkdGJrVV94YzQyeThXd3JHZ1F0eWR6M3ZaVWdVTnRFSVpuay05a3ZF?oc=5
 
-**5. Nvidia Just Announced a Major Quantum Computing Development - The Motley Fool**
+**5. Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’ - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxORW5jU1FDWkNnNFZKRUpheGRidWpTMnB2Nzh1X0l3eEViNmVIeTlkY1kxYjlVQjhVLTF5YV9EaWs4ZTJ5Wjdva3Q3Q3Q1SEVFQks1emF2TXhQZ1AzWG1sYWE5bUVKeld2ZnI4b1FHR3BTMzdsa0xmQm5RR3p0Sk5oWGVWeDJCa2ZYRHF2UFp4ME5pdUkyZXVTbQ?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGdWUG1ib2FUcjFKdzZKWTMwcTk4R2FYOWpRWF9VU2hKZFpqZFdJdzVkb3FFVGdPT2xIYmh4M1RDZE9GYWxmTDhGWU9HUmxLYmhxUG9NRkRORlcxTFRmMEk0NFZIcXczUmUxV1pZWll4VDJncWFqZlZndU9sSnN2LWd2bU0weVhKT2VyMWFvc3E5aURid3dnN1l0N29YTGlmbkZN?oc=5
 
