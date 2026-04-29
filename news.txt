@@ -1,22 +1,22 @@
-🧠 **AI News (28/04/2026)**
+🧠 **AI News (29/04/2026)**
 
-**1. China says it will reverse major AI acquisition by Meta - The Washington Post**
+**1. ‘The cost of compute is far beyond the costs of the employees’: Nvidia executive says right now AI is more expensive than paying human workers - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTE4wbEw4czdzUDJyMVV4S19rT2JNTG9ySTZub2lsVzUzc0tEbjRIZWVOdnAzWkxONldEMmZBRGR4S2J6RlRSRlRFTEVYYXlEcjN3dzJ6WG1WOThxT0RyVHpacmEtU05OTXZuRkpYNEoxaUN2QkhVc2cw?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEh6TXNLZFQ4bGEycW1lUi1kYlVYMHozOWZ6M3M4OFV0a3Fud2JnMExQbU41YkxRWWVoU0FqUy0xTnlZMU0tQkxHSTBGV0xiQ01WRDVoWlNHZEtiemwzN1cyanY1YUxhdDVDRjJ0QUZoSEh1YXJjX0tJbE1WOTFSSm5GMVFJRFMxODdVUTFYVjVIbkE3UW9fbQ?oc=5
 
-**2. China blocks Meta's $2 billion takeover of AI startup Manus - CNBC**
+**2. Why Nvidia, Not Alphabet, Is the Best Artificial Intelligence (AI) Stock to Own for the Expected $1.75 Trillion SpaceX IPO - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2tNOUoxcFRleGEzeXlodnZWQXgtMU9TWk9nWUlERDB0emE4c1BTOFZmNjlrR2hQQkNla3llWTFXU0J1TW4xNGZpMFB6RlVUMlVuQWJLRFJmYzZxeHJQYzdBM0lvT0pkMTY5Ty1yNVI3NVFwUVQ4a2lRejg0V0xYbk9uZG1MQXVwZzIw0gGQAUFVX3lxTFBaMkdpQkdXUF96OW5iNjBDc21uZkVhNnBLM1ZmTmU2S2ZXQm5kYmVlWWhFQ0kxa3RlOUR0LTM3dmdYcHI0WTlIbjhxb0xTMXFuaTdJa01pYW9vTjdHN1dBS2pXMHYxSXoyaHN6WnNoTGQxcWxPRmloMUtCZTlTMmh3dHhTbThOX2hQLWt1Y01yeA?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1JqRGFpSHNjOUJuWUhwM1VBaHFKYjBCaFdycWQtRWl6eGlYMWZDOVRvcUhtVTJfZkE2a21SbFFlT3Fya2RQZDB2cjFkb1AxclU0VXVLMWRQRElFRVFnSjRKYnV4aFV4OEVqTk5JVmE4YmNidHI4bTRZbXFtRTBSdzNISnNXTnFhRFZhUFBrOU1RV3F3Y0lxYQ?oc=5
 
-**3. China Orders the Unwinding of Meta’s Acquisition of an A.I. Start-Up - The New York Times**
+**3. Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA) - Seeking Alpha**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2xic2NVTUYyandhclFRdnFEQ3BTeXFVUjA2VzhKendxZTkySngzaU9jcEp6ZDRJSlE0N1d6VDFRVldyWW8zM19sbm0zZVNwdUpobllMeFJCbV9fa2NSU2swNGlwZFM5c24wSDc0R3BITmEzN3U2dTB5RTQxYnZsTndqNGlwMXZHNzFBejh6WDg4VjRHdEJB?oc=5
 
-**4. Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI - AP News**
+**4. OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxPeC1wamNpNHVlc3V6cUJTRGUwZzBhdHBuN2toUFdqTUN5NE50eG1ocDdydURoMnhDNVI2UDdtekhDX0ItdmpxcV9fRGJOOUsyWTZqUURMdzNkUmN1NUtyMFh2UWJXWWRBM253SmJzb0t1U3FZVTJyd0h4QnVNU3ByVkNMSXVkdGJrVV94YzQyeThXd3JHZ1F0eWR6M3ZaVWdVTnRFSVpuay05a3ZF?oc=5
+https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTh6UWN0LUdiWWpBLS0xSERXMjJLTldpV1BMLXRzaW5pZFNibWJFaTdrblJKd3RDVFl3Tm5DYVFQUXJUcXI3cXctR3VUOTk3eVFVYWxCanJ4X3NBVWFqZ2tIYXZ0VHdMSU81ZHFhVnpDRFJ3MHZNbTBwZVpSVnpBU194WmhTb3BfeXFaRjl0LU9wMHBnZkdmQ2xFQk9QTDRfT2paeFlGcDhMSmQ3eDRlZWQyR2ZyQWlPNTExQXlrT0ZqakNFb19Z0gHMAUFVX3lxTFBIckFiYlY0Tno4bWhiWjVCYlN6aDY5cl9HajVCZ21UdmlyQkRHZEg5YnF3d2ZsNFZ0Qi0zUnFjMlVSMkt5SVRtXzk2ZGhTaDR0TEh4NUt1MXBOYldic3dEdlNiR3ZnQ28xMjZiYUEyeVlkRk9GR0hkVmxObnhZaVhsa1N5QUNYbG1jdmd6TGZtTER5LWpkb2d4czhrcG5XOVR4UzZab1hEb1JXSUtzdjMwOE1KUXJLTWpucGNDci1wd0I5THNrZFJ4akRQLQ?oc=5
 
-**5. Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’ - Yahoo Finance**
+**5. Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGdWUG1ib2FUcjFKdzZKWTMwcTk4R2FYOWpRWF9VU2hKZFpqZFdJdzVkb3FFVGdPT2xIYmh4M1RDZE9GYWxmTDhGWU9HUmxLYmhxUG9NRkRORlcxTFRmMEk0NFZIcXczUmUxV1pZWll4VDJncWFqZlZndU9sSnN2LWd2bU0weVhKT2VyMWFvc3E5aURid3dnN1l0N29YTGlmbkZN?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXExM3g2OXNDemZveUU2enJ0MGEtbks1blpqeXVtUWFDeGhpcHRMUlNVYWpHYUduXzFUNU05Q0RDb3Jxc2hIZXdBUG04UHdhUHpKbUEtQjA2OXU0b3VvVmY3ZVZMei0ySGwxNW8tRkVnMFVPaS1DcVpsYzkwQ2NKVjJ3bnJ1MHVOY0hoMjF0aUFZNHdTTndISElXb1JkWi1BT2lsU2RBU3hZRVRRRF9PekhYcHJLcUU?oc=5
 
