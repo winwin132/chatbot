@@ -1,22 +1,22 @@
-🧠 **AI News (29/04/2026)**
+🧠 **AI News (30/04/2026)**
 
-**1. ‘The cost of compute is far beyond the costs of the employees’: Nvidia executive says right now AI is more expensive than paying human workers - Fortune**
+**1. Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’ - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEh6TXNLZFQ4bGEycW1lUi1kYlVYMHozOWZ6M3M4OFV0a3Fud2JnMExQbU41YkxRWWVoU0FqUy0xTnlZMU0tQkxHSTBGV0xiQ01WRDVoWlNHZEtiemwzN1cyanY1YUxhdDVDRjJ0QUZoSEh1YXJjX0tJbE1WOTFSSm5GMVFJRFMxODdVUTFYVjVIbkE3UW9fbQ?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3RvT0tQdmZfT2xzTTBnbHJiQXZRVTc2WFJKM3FNNk9WMFpuWWdlMXBZSVF4emYxOXB1Uk03aTJYcmpMeUFON1dDNWhSdDJBdXotSUcyZWxkaFU1ZzRncmFVc0R6QVN3am1iTzBjNndscFBkRzVvel9YWHZpZzAxMmtJOVRPT3RZVmc?oc=5
 
-**2. Why Nvidia, Not Alphabet, Is the Best Artificial Intelligence (AI) Stock to Own for the Expected $1.75 Trillion SpaceX IPO - Yahoo Finance**
+**2. Remote agents in Vibe. Powered by Mistral Medium 3.5. - Mistral AI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1JqRGFpSHNjOUJuWUhwM1VBaHFKYjBCaFdycWQtRWl6eGlYMWZDOVRvcUhtVTJfZkE2a21SbFFlT3Fya2RQZDB2cjFkb1AxclU0VXVLMWRQRElFRVFnSjRKYnV4aFV4OEVqTk5JVmE4YmNidHI4bTRZbXFtRTBSdzNISnNXTnFhRFZhUFBrOU1RV3F3Y0lxYQ?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5
 
-**3. Nvidia: AI Transcends Semiconductors' Cyclical Nature (NASDAQ:NVDA) - Seeking Alpha**
+**3. 'I violated every principle I was given': AI agent deletes company's entire database in 9 seconds, then confesses - Live Science**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2xic2NVTUYyandhclFRdnFEQ3BTeXFVUjA2VzhKendxZTkySngzaU9jcEp6ZDRJSlE0N1d6VDFRVldyWW8zM19sbm0zZVNwdUpobllMeFJCbV9fa2NSU2swNGlwZFM5c24wSDc0R3BITmEzN3U2dTB5RTQxYnZsTndqNGlwMXZHNzFBejh6WDg4VjRHdEJB?oc=5
+https://news.google.com/rss/articles/CBMigAJBVV95cUxQNnNESllfdEhiRDEydmd2VVBIelhrTmFqRjhsSEJzZGZMZGpuYXIzcUE0T1hMWWw1eFBJcTdXWU9BVS1GV0FKRmhqQmoxOU5tNjBWdEZ0MVhqcXNrMWtlRzNEek1IQXlHOF9MMlJMUEdwRjM2MUlQRlhkZUtxSkdJUDh4b1h4dk5yOUJZQ2Y0WFV2MXVmMTNhZHdtblVxMmprcm5jdWl4Rzd1MUtBQVdfY0VjRFI1a2NmUnRDTVRBTklWSW8yRnpqRHZOWi00am04dEplMlNQN0Y5TWpWTThSOE02YlVUd2tzMENLWHR3cm5VNGxIV1BJbG1sXzRsVlEw?oc=5
 
-**4. OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling - CNBC**
+**4. A.I. Bots Told Scientists How to Make Biological Weapons - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTh6UWN0LUdiWWpBLS0xSERXMjJLTldpV1BMLXRzaW5pZFNibWJFaTdrblJKd3RDVFl3Tm5DYVFQUXJUcXI3cXctR3VUOTk3eVFVYWxCanJ4X3NBVWFqZ2tIYXZ0VHdMSU81ZHFhVnpDRFJ3MHZNbTBwZVpSVnpBU194WmhTb3BfeXFaRjl0LU9wMHBnZkdmQ2xFQk9QTDRfT2paeFlGcDhMSmQ3eDRlZWQyR2ZyQWlPNTExQXlrT0ZqakNFb19Z0gHMAUFVX3lxTFBIckFiYlY0Tno4bWhiWjVCYlN6aDY5cl9HajVCZ21UdmlyQkRHZEg5YnF3d2ZsNFZ0Qi0zUnFjMlVSMkt5SVRtXzk2ZGhTaDR0TEh4NUt1MXBOYldic3dEdlNiR3ZnQ28xMjZiYUEyeVlkRk9GR0hkVmxObnhZaVhsa1N5QUNYbG1jdmd6TGZtTER5LWpkb2d4czhrcG5XOVR4UzZab1hEb1JXSUtzdjMwOE1KUXJLTWpucGNDci1wd0I5THNrZFJ4akRQLQ?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTFBJakd5bnVrQ2lWQWU5X01nUzRGak43b3JCX0g3N3dYSlc0S0pvc2xNN2dRUVUtZzNURXBrWC0wbDk0bUF4RFNQeGpfVVFnZnFncUhyUEFlSHFheVdEeTJnaGJwYXRqZWNZX1o0MGl3YWtzcmVmcTd4MWdsaUozZw?oc=5
 
-**5. Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings - Reuters**
+**5. Minnesota Senate passes bipartisan AI ‘nudification’ ban, poised to become first-in-nation law - FOX 9 Minneapolis-St. Paul**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXExM3g2OXNDemZveUU2enJ0MGEtbks1blpqeXVtUWFDeGhpcHRMUlNVYWpHYUduXzFUNU05Q0RDb3Jxc2hIZXdBUG04UHdhUHpKbUEtQjA2OXU0b3VvVmY3ZVZMei0ySGwxNW8tRkVnMFVPaS1DcVpsYzkwQ2NKVjJ3bnJ1MHVOY0hoMjF0aUFZNHdTTndISElXb1JkWi1BT2lsU2RBU3hZRVRRRF9PekhYcHJLcUU?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmljeVozZG9XUXAwWVV3dUhiZWJPNEpEYWNPcUxjMGluZ2I0Z3pKYUxWMnFCQkJ2bERUdzhmSzctOW1MREZXZkFWaklpN1NIYV92NVJMZFd5VlQySTgyVUljNmRtVy11OXR1UzAtMGliRnp5T2otaGZOU1BLVUtGZ2VsVGhBMlc5OFFWdjJmT3NpVHdIVEQ5dXBmSGhGeHdYUGZ2NF9SS1h4VldveFHSAbMBQVVfeXFMTXN1bTBWd0FTYUJpVlFrVmdPY1BZM2hrLVQzX3Y3aUN6Z1VFXzhtOUZVOENQZ2JEZ0JKY0RTdkRQZUV4eW5JdlNEaGxjaHd4UEdXcENxQWc0X1prOEI3M1pZMkVLYUJCeG53LW1lWWxmRlB2ZjVtZTVxa1otZ1BWY2pFdk9jSGI4aG5MdmI4dU1KZjB1aVlrTXlqS2hQQzJiV19keHlvcmdrYkFzUHF6TVJEZEE?oc=5
 
