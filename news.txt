@@ -1,22 +1,22 @@
-🧠 **AI News (30/04/2026)**
+🧠 **AI News (01/05/2026)**
 
-**1. Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’ - The Guardian**
+**1. The AI economy: Business investment overtakes consumer spending as the biggest driver of GDP growth - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3RvT0tQdmZfT2xzTTBnbHJiQXZRVTc2WFJKM3FNNk9WMFpuWWdlMXBZSVF4emYxOXB1Uk03aTJYcmpMeUFON1dDNWhSdDJBdXotSUcyZWxkaFU1ZzRncmFVc0R6QVN3am1iTzBjNndscFBkRzVvel9YWHZpZzAxMmtJOVRPT3RZVmc?oc=5
+https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRzE2RFF2RjU0dnBmR0lHcDdkT19USVFkanoyRkNWZTBJTWY1WEt6YkR2WHQxRjNGRkVoX3NKQWxPM0pMek42S2dIblh4U3ZtcFRwNWZYd1p2QmROTHhqVlpFVF9aTHVfam9QRDNzZzVtbTV4VXRiQ2J2XzRWVUszN0g2bmlWUWtFNGMwN3I5Vkx0NEwwUUxNT0pkLWdvQ082cHhOREFnTW9hOW53c1VBUGdLQkpVdGRsTDN4a1JWc1hidEdCcEdidVQ1cUV1dVRoSkxSS3g2X3haVzYzT21YNVFTQWNpeFZWVXg0?oc=5
 
-**2. Remote agents in Vibe. Powered by Mistral Medium 3.5. - Mistral AI**
+**2. Economic Crosscurrents Go Global as Energy Shock Meets AI Wave - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2k1S3RodXVMU0h4WmdCSGl2Sk1ZYU95RXRUd3A2VWNiWi1lRDBOa1pEVGhxTUc4andRSHhLY2ROWlk3WnRyUFU3R3NfWFZaekNhejNEekhNTTVfQXJPOFhwN0pUQjc4dEkzMFkwdkpXdWF5djBLNkFjSmotTzJ2VF9oSzNxdThHcXdWSHpCLUJpU1l3UUZGSmEyd0RxZlU1QlBfTExBUlZ3WkZRNWlWTDlFTQ?oc=5
 
-**3. 'I violated every principle I was given': AI agent deletes company's entire database in 9 seconds, then confesses - Live Science**
+**3. Opinion | Silicon Valley Is Bracing for a Permanent Underclass - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAJBVV95cUxQNnNESllfdEhiRDEydmd2VVBIelhrTmFqRjhsSEJzZGZMZGpuYXIzcUE0T1hMWWw1eFBJcTdXWU9BVS1GV0FKRmhqQmoxOU5tNjBWdEZ0MVhqcXNrMWtlRzNEek1IQXlHOF9MMlJMUEdwRjM2MUlQRlhkZUtxSkdJUDh4b1h4dk5yOUJZQ2Y0WFV2MXVmMTNhZHdtblVxMmprcm5jdWl4Rzd1MUtBQVdfY0VjRFI1a2NmUnRDTVRBTklWSW8yRnpqRHZOWi00am04dEplMlNQN0Y5TWpWTThSOE02YlVUd2tzMENLWHR3cm5VNGxIV1BJbG1sXzRsVlEw?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjBFY1FqaGlCem1aWTl2THJiREo4OEkzc3UxRUx1WUJtcGhkUlpPc1M2cnpnaXBVZ1F1WjNuOXpmOEVnc3kwUlFSZkRJYWxvS1JRNWZudFd3aWdzOXRVVmdoU3Vvb0tNZGY3SmFpbXJid2xIQjFoNFBVdUg2SFVXNk1zUW1OOVVsU2c?oc=5
 
-**4. A.I. Bots Told Scientists How to Make Biological Weapons - The New York Times**
+**4. In real-world test, an AI model did better than ER doctors at diagnosing patients - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTFBJakd5bnVrQ2lWQWU5X01nUzRGak43b3JCX0g3N3dYSlc0S0pvc2xNN2dRUVUtZzNURXBrWC0wbDk0bUF4RFNQeGpfVVFnZnFncUhyUEFlSHFheVdEeTJnaGJwYXRqZWNZX1o0MGl3YWtzcmVmcTd4MWdsaUozZw?oc=5
+https://news.google.com/rss/articles/CBMijgFBVV95cUxORjBRRG5ZenFUYnhKZ3E5bDZ0Z3lRNXM3WTFGdTNTbHBkTG9GVEczYnBlZXBHaG5yLTVGYnZ6dnlfcVVaRmhLOVRfVEp2V25QaUFqc0lBcElOVjdKYXVpbTdOZWR2MUF3NFJiV1duTzNLZnF5THFtOENDeVQzSnVrMG9wWXpuUzVEekYyZW1n?oc=5
 
-**5. Minnesota Senate passes bipartisan AI ‘nudification’ ban, poised to become first-in-nation law - FOX 9 Minneapolis-St. Paul**
+**5. AI outperforms doctors in Harvard trial of emergency triage diagnoses - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmljeVozZG9XUXAwWVV3dUhiZWJPNEpEYWNPcUxjMGluZ2I0Z3pKYUxWMnFCQkJ2bERUdzhmSzctOW1MREZXZkFWaklpN1NIYV92NVJMZFd5VlQySTgyVUljNmRtVy11OXR1UzAtMGliRnp5T2otaGZOU1BLVUtGZ2VsVGhBMlc5OFFWdjJmT3NpVHdIVEQ5dXBmSGhGeHdYUGZ2NF9SS1h4VldveFHSAbMBQVVfeXFMTXN1bTBWd0FTYUJpVlFrVmdPY1BZM2hrLVQzX3Y3aUN6Z1VFXzhtOUZVOENQZ2JEZ0JKY0RTdkRQZUV4eW5JdlNEaGxjaHd4UEdXcENxQWc0X1prOEI3M1pZMkVLYUJCeG53LW1lWWxmRlB2ZjVtZTVxa1otZ1BWY2pFdk9jSGI4aG5MdmI4dU1KZjB1aVlrTXlqS2hQQzJiV19keHlvcmdrYkFzUHF6TVJEZEE?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUpTYUFZS1BYS0NqUlVDeVVrcWFsbVhSaDJWUks3eFlfZW13NTdDMTQwb2JEeWg4VmVOckhuQzRJZ29TMW5CNlg0Mlk0WG1QdE9UUF9fZWQzcnNiVHlTMHdpa0dVZmpZTDJUZVkyZjlZOEt2VXBxSzVGelhTakFTN0RWRzljOHBqS3NESlBjTUFBWDJGbkwyTzczQXE4aGQtTnlQd2d1VDZZTlp4RW9aOHhmOThZeE53WmJzMA?oc=5
 
