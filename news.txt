@@ -1,22 +1,22 @@
-🧠 **AI News (03/05/2026)**
+🧠 **AI News (04/05/2026)**
 
-**1. AI finds signs of pancreatic cancer before tumors develop - NBC News**
+**1. How A.I. Is Transforming China’s Entertainment Industry - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldZMWh3b0pBdjFlMGM5RUlienhqRzhJbnp3dzUtSHR4ZXBmX0Q3OG1HWDkwTW1pWUktN1ZUU3g0T3Z5YXRKdVZGLU1OcEZmQTBkTUxpUFFXRzF6MjJ0RFRTeW5DWW92QVNFbW8wejdNRGpJb21vaFNIRUVJQW9XUGJ6VE1sX0RXOVhDaGF3dnY5X3pTMWZFUnRBT3NNMnFUZlozUGt3?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2FKeHZCT01ROWJ1aVNMemctSFg5VkE0Z2R2V1Jwa3FzSS00UktvQ2pscEtLZno1N0R1NUdYbTVOSjk0OE5hWjNsUVYxQUhZMkxVX2pwVjJnX0tZSnZiS21UYlczNVZWejBCSEhobDVyYWxYeGtpWkdmaDJkcXl1bHg4Vi1nQQ?oc=5
 
-**2. Trump shares bizarre AI-generated image of himself lounging in Lincoln Memorial reflecting pool with Cabinet members - Yahoo**
+**2. Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDUySVNQUWxDc2twNlJnb3FfV3kxMWd2S09QUXdaaXdMM3VveWN6OXZUTnFTQlNiTlBURTdMR0pNX0Y2WWxJdlpxaVgtMjdDbFdvZkhQS25YaGxkR3hmSXBNaW0tX09pbjI0TVpRQ25XRXlvaDNNZ2ZRT084TDNQeFdVbWNDTUpKM0EtaQ?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a0d6S0FFdG9BNmhRU0xXTGtOMmxTcGFad0FlODRZb1dUNVVMOUZ6RjNLUWpxYTBrTlFDaFlqLXBqb1A1UE1PNVVjeHVqMGo3VUh2YVNxZUpoMzNyS1hmNGtmdlh1NGE4bUVLYjN2eGI?oc=5
 
-**3. Trump Exposes Bizarre Fantasy With Bare-Chested Image of Himself and AI Woman - The Daily Beast**
+**3. 7 Reasons Why Sex Still Sells In Age Of AI, Says Former Fox TV Chief - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0pmWndDa1VRWGt0QkxkQW5aSVBEM2g1N0tKenRJSVBWWFdMRmxzRDZNeE9NQ3QxMHd5WF9Jek9TRFBmMnpmSVhsb1V2emRnSVFhY3dUX2RzS29ZZkwyU2FWWXZpY1BaTlVwVUtmNXR0YWQ1NEh2NVJkTm53Q052bnFLNjE0bjE3TVFEbUlMd1UtTVZNRVhGWEk0dTFGejF0UURF?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFhHNVc0ODV0MUlKcmlfcEpXMlhvc3RjU3dmQmFod2lsQjVqZWh1UTZfaUhCVGhJRnFnb3hnck1tVVRZajg0NzRsaERkcG1hVmdiaktJRzBudm5feGlLTjhlZEp0dUtzSEFRTGJfT3AycDZKV0RCZ0ZGVDJfS1IxWlREQnoyNFFHRnlkUVRKdEtJRFZCWUJza2pKNERtTFRVWEhSYzRCSmcwSmY2djJ5UlZJZS1qTndKMUstbFRR?oc=5
 
-**4. Trump’s tariff-friendly White House celebrates these imports - The Washington Post**
+**4. Artificial Intelligence Has One Chance To Get Accessibility Right - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEdGdDNBVTEzVDRaWlVsbHJXbUxiNmJjcFdWNXlPLWE0OHEtemJWSFRDWDVRMTVVT19YNU1NQ2h1S2lhaV91SE9YOGxtdDZBaXFYTDJ4Z3NBM042V3JYbVNqS2NFZDZEcjNuZWtZb1pRb0JfdUtYX2RocFBZVWdNSF96SklWZUw1dkE?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxNdno5ZFpUVV84SWVjbU12N2p3THNYX1kxa1N1eTBNaW1hX3VhVU1VUDRIandST19zckQwT2s2enY0dkVUc0YtazhkejZ1Nm1DWHFtdFduOGdkdTJHclNPeV9uU1M4ZENJcUlzdGZBZ185SjlwSjVScnEyRnBkWmNSWkxfZ3lrdWhCeTdoMEF1ZnNHMF82ZW1jeUJyUlQ0WndPU2dWdmh3a25UUkdHckNZeWQxcjdpNWpKVXNJbQ?oc=5
 
-**5. AI told users it was sentient - it caused them to have delusions - BBC**
+**5. Poll: The midterms' new big players are pushing agendas that voters don’t fully support - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyOGZTbHhXOU50RnoteC15cmZmbTVCdFNUa3FUaTNjSmRrdGxubkpVOHZaLV8wZkZCemd3cktiS0xmUlRLMXVOSWVjTFI5aFFuRWFlRTJUNTVyZw?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzQ0T3ZodWhQbHNpTjVoZFI4WkcyQndXM2lZT3FJTV9JaGxzZndHaDRqMkZVZkQwV3FFREZmTEQzcm5yblhaU2NwdTYySWFURExTdHhKQ1JpMEt6Zm1iY1J5V0ZXcTE1MzZSZks1SUJoSk9NTmVjNDZxcklhbzhaWEt3b3dXMUE4YTlXbnc4NWJqYjlackxHRmtXUjQyR2RkTjlF?oc=5
 
