@@ -1,22 +1,22 @@
-🧠 **AI News (04/05/2026)**
+🧠 **AI News (05/05/2026)**
 
-**1. How A.I. Is Transforming China’s Entertainment Industry - The New York Times**
+**1. White House Considers Vetting A.I. Models Before They Are Released - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2FKeHZCT01ROWJ1aVNMemctSFg5VkE0Z2R2V1Jwa3FzSS00UktvQ2pscEtLZno1N0R1NUdYbTVOSjk0OE5hWjNsUVYxQUhZMkxVX2pwVjJnX0tZSnZiS21UYlczNVZWejBCSEhobDVyYWxYeGtpWkdmaDJkcXl1bHg4Vi1nQQ?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5
 
-**2. Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology - Fortune**
+**2. White House considers government reviews for AI models, NYT reports - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a0d6S0FFdG9BNmhRU0xXTGtOMmxTcGFad0FlODRZb1dUNVVMOUZ6RjNLUWpxYTBrTlFDaFlqLXBqb1A1UE1PNVVjeHVqMGo3VUh2YVNxZUpoMzNyS1hmNGtmdlh1NGE4bUVLYjN2eGI?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGlZa1RoakVfZmdhdU9fUnIwcHlvZWxNM09ZM2VEVmJ1Y2tBU0kycVFSMnN3UFFDUmJLUlMxb2Q4alg2dzRlNV9IVi1INTY4VlB4ZlZpczdEOWZyLWtGWmZYNVR1UDlVMGFUamFyUW5oYUpfcU40SVk4R3Zoc3NjbTZ0Tl9GRjU0eVZDZFh5RHJucHpIakFWWklhUE83Vzg5bk9HZFJvV2Y5NWg5NVFMb2c4TmRkNjNjUGc?oc=5
 
-**3. 7 Reasons Why Sex Still Sells In Age Of AI, Says Former Fox TV Chief - Forbes**
+**3. Barack Obama Speaks Out on Trump Posting AI Video of Him and Michelle as Apes - people.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFhHNVc0ODV0MUlKcmlfcEpXMlhvc3RjU3dmQmFod2lsQjVqZWh1UTZfaUhCVGhJRnFnb3hnck1tVVRZajg0NzRsaERkcG1hVmdiaktJRzBudm5feGlLTjhlZEp0dUtzSEFRTGJfT3AycDZKV0RCZ0ZGVDJfS1IxWlREQnoyNFFHRnlkUVRKdEtJRFZCWUJza2pKNERtTFRVWEhSYzRCSmcwSmY2djJ5UlZJZS1qTndKMUstbFRR?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPUy1BS3JRQTdKdWV5TmQzdlV1c3l5VndhZkpRSHQ4X28zNmppV0MwNXBYUFdIQ0V6blRzc2x3azBxZDVROWlHalhOR0JJQnNSa2FGY1NwNld0SnJHdmlfR1BYejN4R2VTVS1MdUE1VnMwS1VBeU5MaWRUMDd1bUVhMnZlcmhoZTQzMXJhQXVXU0JUT211N1Y4?oc=5
 
-**4. Artificial Intelligence Has One Chance To Get Accessibility Right - Forbes**
+**4. How OpenAI delivers low-latency voice AI at scale - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxNdno5ZFpUVV84SWVjbU12N2p3THNYX1kxa1N1eTBNaW1hX3VhVU1VUDRIandST19zckQwT2s2enY0dkVUc0YtazhkejZ1Nm1DWHFtdFduOGdkdTJHclNPeV9uU1M4ZENJcUlzdGZBZ185SjlwSjVScnEyRnBkWmNSWkxfZ3lrdWhCeTdoMEF1ZnNHMF82ZW1jeUJyUlQ0WndPU2dWdmh3a25UUkdHckNZeWQxcjdpNWpKVXNJbQ?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUU1GUEFDLVlxemdrZFI1WEl4U0dGYzZjcW96NHlpbUtfMnB4WFd1UC1RbXdUME1Ga2xobWlyaUhFUWFrTWhNdWhOWHJSckxjaTN6TzBhY1M3eTh1ckxFOXNmMHhqYk9hTzMtVFJyblV6X3Ez?oc=5
 
-**5. Poll: The midterms' new big players are pushing agendas that voters don’t fully support - Politico**
+**5. You built it with AI. Now run it with AI. - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzQ0T3ZodWhQbHNpTjVoZFI4WkcyQndXM2lZT3FJTV9JaGxzZndHaDRqMkZVZkQwV3FFREZmTEQzcm5yblhaU2NwdTYySWFURExTdHhKQ1JpMEt6Zm1iY1J5V0ZXcTE1MzZSZks1SUJoSk9NTmVjNDZxcklhbzhaWEt3b3dXMUE4YTlXbnc4NWJqYjlackxHRmtXUjQyR2RkTjlF?oc=5
+https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMmdpVDBLSWtjM0c1MG5Xdm1QY21jdGNSRDR1WjJ0RnMxYnBvMGRoREFaTEM4Vm12QnZocFVwTEh3MEhvamp1TTlkam95dll3ekFkdFltV0xVVGRYSHlodXhLQUJZa2Nod3RscQ?oc=5
 
