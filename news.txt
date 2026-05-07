@@ -1,22 +1,22 @@
-🧠 **AI News (06/05/2026)**
+🧠 **AI News (07/05/2026)**
 
-**1. The Federal Safety Net Isn’t Ready for Artificial Intelligence - The New York Times**
+**1. Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkI5d1Foa1h5VW1uVHROOEFfcVNGa2VMNFdJX2xyalo5QmsyN3ZxbWNqOFF5WldLeFVqZVE3VkM4REFxWExkdVU1QTRJWlc5Y3VMa1UzMG8yRGZCdnpGLXdpV2FpYmNkNWdNNjFlNzBGeWJtSTFwazM0dWcxNTdvZVhjcXRUMlNsaXN3?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5
 
-**2. Jim Cramer: Here's the list of AI winners to buy for 2026 and beyond - CNBC**
+**2. Supercomputer networking to accelerate large scale AI training - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMic0FVX3lxTE1YeWtkWTRKSW5kM3N3djJEX3VtbHk2LXg0anRWOTl1VHQwTExMNnQxS1dnUnU1TmFTVUxYdDRWMXp0aFpEa1d5YVVnVTQwUmZIUDhqSUxuMG5fdDVjMlRfZUx4cEh3STZ1SFgwT1pMYkZTYknSAXhBVV95cUxObHp1c19zZFlKNTM5UTJvcDNjekNORUVqamRva0FOb0doYzlLUUVxR1BpWEQ4ZlZLNHk3Z3ZxSUxwS1ZCeGhrV2tWMkN3NHprTnkybDMtdkNaczFJeHlMQ3pmUzZUak9KVWpZSmFmSFpFTllkOGhVbl8?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE44UjNuSVJqV1FLVFlvR2VfWjZhZmtNMDZjWkREZGpsOEx2UWN6c0JqZGZzZ1JyeV85aVB1Yk56OUhlUTV5bE1sZmVsUk9EaHJEcF9JakVLczQyd0dOMDVTcVdhcTg?oc=5
 
-**3. Stop overthinking AI. Simplify with 3 questions only you can answer. - Axios**
+**3. AI political ad stirs controversy ahead of California debates - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1pOUFJxX21vX1BQWkVSMDdyc3Q3MFpsM0s3ZnlYVk9BMDdjT3hEU2hXNDlvS3hoalUzT250VlBPc09zUGVlUUFiOU05dFQ3Zng4blRlOGhTeWMzUExoaTBtTVZqVE9wbzQ4eUFLN2xXZENadmN0cHpEUGZBUU5OS2R3?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlgwYkxyZGFGWHNfdWJ0bFZncXN2dm41SThsS0k0TUFkOFdFX0liaWR3ZkJXOEVJZWpxbnlpTkE3WHVpRnFIVDVjWl8yOFNDRzRXWENWUmZQOGtENDhSSEgtR3Q4VE00S3R0Q01MU0lIQkxHZzZYV1Y1OEJXQklWVkZ2SGd2R3VfZml1LVczYnlmSkdtQlhEUlQ5ZlptQTYtTlpreXJ1dw?oc=5
 
-**4. Experts warn AI-generated deepfakes are outpacing laws meant to control them - WMUR**
+**4. AI surge on Main Street: Experts weigh tax policy, entrepreneurship - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXBHWWpuT2tVTmtPZUZ3SVA3alBsd04xdlRndWp1N2M0eU1hMjNqMVBrZ3hoQ3Fjb1d0SnZXSVlrR2dQTVZadVNQSGdaRFNVU1ZxOFBXQ0stOXlYY2ZiX3o5NDZRakZLeHRiNHI3eFk1YzhncHdPcEU1dENiZGdBTXU1WGZCNUl1SHVN?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FYTk3b1hxSmhSV3pidnUtenk5bXFQdElncW1taUJndDBOSWdNSFpLUTRFbUliNDFZYTB3ZU5IZDd1U01XNzNSYVJGcjFaOTBjSUZKQW5KMVI3d2c?oc=5
 
-**5. Samsung hits $1 trillion valuation as AI rally lifts shares over 10% - CNBC**
+**5. Oscars Set New Rules: No AI in Major Acting, Writing Categories - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQa183anB4TjdlWGsyTU5NaTZ5M3EyOHJLaDBXbFQ4RFM5TUc5dU5qb2l2VDNlaDQzTmUtLW5BTms4UHhHanZGUVRBYlM4bzhYTm9qcklvV29oODRKa0hsajZBRTRxS3V1d0hjWmtVWkRoTDNIakNKUFN0TEVMYXMwX1pDdHNQVjl5bFJFbFVOVEUtZUFROXFhR1R30gGfAUFVX3lxTE1YTTYtaVlpRi1CQnowbk9nVUZNWFlXRHE4TVNyYmtQeGVLanZWSy1qRldmZjZBcTdWd2g1c0FLRHpUSGw3NW11VXJNc2cyNWVqOFJRTDB3ZzJ5UnVYS2xpM29nTnB1dnpzMUk5bTBORG4tdGtBaWFtc1gwM0p0SWpLTEdtNGNkLXdjZ0hkaU9TNnJ1N2ItZE15UHEyMndmNA?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkk5WVctc0JLWHU1c1VSeU40X1lMaHVIWFZCeVpDamR3UENHRW1HVEs3ZzluWXhPc0Jrb1Jpc1VobFpVTi1GUGMxLTltMGFLdzBtaDU5ZlUwWUxYZzg4VDh4b0toQTZPY1h4Sk5rVUZ2UFNJaTBlVmlDYXV4ejVKWGpzYVc3SnRyMi1kblBzcUhrT3M?oc=5
 
