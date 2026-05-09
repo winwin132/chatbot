@@ -1,22 +1,22 @@
-🧠 **AI News (08/05/2026)**
+🧠 **AI News (09/05/2026)**
 
-**1. France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA - CNBC**
+**1. Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1RmcjVwMU5naGZhdXRvT1BDNHktcERBdUFBaXFwTkJrTE5UaTRRNXdnXzRvSDEyenR0U2M0aTdzZS1UTFlLNThyOUpUS1N2VXFUUXRlc3p0ZU1jazZrZFJia1BBb0RocUZ6UEpQMno1dU55djFyajdMcURMbVJqOUZzV0lvMEpxemh4ZHM2TmZRZThYZ2FwNEs2SElqODDSAaQBQVVfeXFMUG9McTEzRjVXTENBZVpheVlnVTFQellwaUNMdjYxRWJJS2tMTjlxcVpzMGlSMm1uYVRMRWNFU1A3bzVwSEF3MVQ0dHA5aWpsWjBRalZ2amF4TFJlbXlMT1lUckxXbTgyRVZtMXVJQ0JYb3h1YTJhMHhpd2Y1N2NPMnlBMXNpZHdPdDJEZVJOY1pnMW1GU1podmxOa3VwSjFmOG50NWc?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxONnNrMkM2andrc2R0ZVdveDcxRkNmcWJyRlZ6RjNVd29NVzBCakVHUlFBN1FPOGVBNEJqWlg0TzRDN3pzZDNZUGo3dzZoR3c5VHZLUnRiQzBMR3BIWkNURmdYUFNHMEpXeEtTUko5bVJkQko5OHIwVjR1bjhET05RRHJqcmg?oc=5
 
-**2. Airbnb CEO Brian Chesky warns two types of people won’t survive the AI era - Fortune**
+**2. This new AI trade is leaving Nvidia and Micron in the dust - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGNLWE04ZENBby0zdXpTWFBSd3djcHEtLWhha3BkOFZLNHFTcXRKbmNuYmtPZUk1OUNhV1NfX3M3QjhOMWcyamI1N1o4S0haa2x2dTRPalFqR0lEbDBibHNPY1RxNEdYNjc1b0d5eGVNd2NRODN5VThiX3Y3Z1lSa1VEMUJqTzNnSmYzN2RyUjkxSjNXX2pXNGZwTlNpMGNCZjlrNldsd3YzZjg1a0dPSnpGNFNDcWlLeDJ5TEZRTkNKcDg3LWtHaA?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXRpVG1OYjRaWU4yQ3Z6R1Bfd2RRQjFGX1ZmbjZWSHNYb3p1WGF0LW9LbE1MOFpWSlZnejhGYmpyVnd5emJoRVlfM2wxSXhkWVJQVFNqWVFwT2tESkh2NDlhUlpVdnRpTk45VXJyQ3VJYmlsOHRONWZPWVd6WU5STnZ5YU5sUUxsUTJHVXptOUFxWDlRS1pqYTZ5eVJHeXJRYnpueF9rMXY4MHYxTXpUOXhvTGNaZw?oc=5
 
-**3. Georgia Tech get three hours to build an app using Claude AI - NBC News**
+**3. Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxObjI4OUl3VkhkamVTLVFBbXpDTU1JSTJlbDhLaG9ZcUl3cVQtLWloMW90MGZ5RlZXbk1Zc0RfM05hYlYybmxQeXdMYzEwYVduSFRabHhtcHJRVF9aNEtpZGtJNzhXSTBvQVBZemNQUHYxemxWSTdhNXdzNW1FNE9POHhtaVhoWFJtLXJyODNtWkMySU5KbjJFbkJxVXUzZ2RWbVR0X1BR?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFBsdk9WTUhFWTBZTElxNHRLQnBWYll6MWI0OFZ3cWZ3dFVSNkV6MFZIYW5zZGRPaFNwYmJfNmRiNl9hVFdDc2N5aC1FX0FWZV80d3ZKZDVlT3dpWkFseUJDalBySU1iWl90emo4N1pDVE1QYVRybVlyanNZbGdvdndmZ0NGLWh4UHRNSWxpeFdybzB5X0lZbzg5WWx3emJhMUZubTRB0gGrAUFVX3lxTE9mczV3bkZjVHJQNWN3RWtjQ3JrSHgwZjdad3hHRHVFSWFhWE80a005YlVTUVdkZVAzWDlVQUFTTFlKZVhTSXNtcnEtMHZWM1BUalNxUkZnXzdpSXFxR1hNdUg5MU16Ni1oMU9Ia3N2WTU2SkJzckVSMUZzUWV0WEpCX0NPTm9wWmVNYW8xUnZYMjVmeDVKbE9NQjRCNXkwNlBvaWZpLWZ6ZXNmTQ?oc=5
 
-**4. Experts weigh in on AI child pornography case - WCYB**
+**4. Nvidia’s AI dominance faces uncomfortable new reality - thestreet.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE15UjB3M0NOd3hvbUhqekdjUzR4Mm40dkctYUdacXhudE1qUnJZMkVvTkpGb09fZGlwU3lNYlU2SkUzaFNUT3VhTmRubk1lYUhNVEN2UnFvOWlCZjFNN0VtUldCUXBPUWxld3UyOW00bDJUcWlEV3pFckdrRVR2QQ?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNd21XLUxzcF9CZWdCQ2t3REV6TGE5d1huanRjZ2tndG9pWTdfdUtxS0VXRDBEVzNORTBsVGo4SE1hREI1VmZ6MGdYemlMVWJ1NE1KWU1uV3JDd2k5ZVhMMDRTNE04TXJCWUk0UDRVaTVMNXNuTEJTM2pJZ2dzYU1YOTl6Y0RHeGVMeXBNNFpDVmktQXAzQkE?oc=5
 
-**5. Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes - CNBC**
+**5. Teaching Claude why - Anthropic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUc5TGphbjJINVRjcVQyR2l0ME9OeVFUWlhrcXVoS3RPMHBXMTBDNjl2UnFJTW5TQV8zdmxMVldKd013OHQ5VjlIejFxT0U3ZXZLeHRSeF9mWE5WR2dybXIzaHJUSmlUUXJjZEMzNldQOEhOaXV3OE11X0J1NmI2RWxNWWlVUjFrUXfSAY8BQVVfeXFMUDVWN3ZKLXNzQjROaC1FTnN5VGJ5TVBXYXdlUXVzU0VZTnhZRkxwZ0dLdXFQeE9sMXhFLXB1cEU3MTV5Q0hFd2tGRkQ4RjlYQXB6aGNMU0JsaVJlY3gwTzFTdkhiYUFIRVA1X011NFdGbFRaRWZRVmRDN0M2MW4zalo2Qy1iNzEwYTZOVUFqa28?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5
 
