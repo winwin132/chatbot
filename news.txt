@@ -1,22 +1,22 @@
-🧠 **AI News (09/05/2026)**
+🧠 **AI News (10/05/2026)**
 
-**1. Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times**
+**1. All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxONnNrMkM2andrc2R0ZVdveDcxRkNmcWJyRlZ6RjNVd29NVzBCakVHUlFBN1FPOGVBNEJqWlg0TzRDN3pzZDNZUGo3dzZoR3c5VHZLUnRiQzBMR3BIWkNURmdYUFNHMEpXeEtTUko5bVJkQko5OHIwVjR1bjhET05RRHJqcmg?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0JoM2NVSHVZSjdnODFNbzVieW94bHlKaHBCNUtQZWVzWHpBU0Nua2p0QV9mN2ZUZjhza3lWTGh6aUd6ZUtEeTIySUtfUE5PaDc3VDlLbUpCT0prVHNuZzBBTnVrc3hzN0JFWUhnT043eWxNZkFUNGZmanA2ckFBeUpCdUYtcERYUFE?oc=5
 
-**2. This new AI trade is leaving Nvidia and Micron in the dust - Yahoo Finance**
+**2. AI in the sky: Inside the FAA plan to overhaul air traffic - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXRpVG1OYjRaWU4yQ3Z6R1Bfd2RRQjFGX1ZmbjZWSHNYb3p1WGF0LW9LbE1MOFpWSlZnejhGYmpyVnd5emJoRVlfM2wxSXhkWVJQVFNqWVFwT2tESkh2NDlhUlpVdnRpTk45VXJyQ3VJYmlsOHRONWZPWVd6WU5STnZ5YU5sUUxsUTJHVXptOUFxWDlRS1pqYTZ5eVJHeXJRYnpueF9rMXY4MHYxTXpUOXhvTGNaZw?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUgxaUtzZFBrR01jYWRDM2ZtY0JXTzl0Nk5jdW1KTDNTYUFVZ1pEbXl6b2stV2ZoNEoyR0hSY3M1VnhwTEtwaHA5QnlyNDM0NXVaRnZaYzF4YmJGbnZnUWtPTFZXdVkyYUIyTk42blRkWXhVZ0ZTdzFWeU1GRjRwd1pfYw?oc=5
 
-**3. Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags - CNBC**
+**3. Who's a good boy? AI can't replace doggie actors, director says - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFBsdk9WTUhFWTBZTElxNHRLQnBWYll6MWI0OFZ3cWZ3dFVSNkV6MFZIYW5zZGRPaFNwYmJfNmRiNl9hVFdDc2N5aC1FX0FWZV80d3ZKZDVlT3dpWkFseUJDalBySU1iWl90emo4N1pDVE1QYVRybVlyanNZbGdvdndmZ0NGLWh4UHRNSWxpeFdybzB5X0lZbzg5WWx3emJhMUZubTRB0gGrAUFVX3lxTE9mczV3bkZjVHJQNWN3RWtjQ3JrSHgwZjdad3hHRHVFSWFhWE80a005YlVTUVdkZVAzWDlVQUFTTFlKZVhTSXNtcnEtMHZWM1BUalNxUkZnXzdpSXFxR1hNdUg5MU16Ni1oMU9Ia3N2WTU2SkJzckVSMUZzUWV0WEpCX0NPTm9wWmVNYW8xUnZYMjVmeDVKbE9NQjRCNXkwNlBvaWZpLWZ6ZXNmTQ?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnRXWW1mNk0wbTVIdjdEYjNJUlpYX1VnSzZTS2xMM1JTOGlyNXlvRVBIOWZjc0NJZms2Z0Z1bkVrNXJ6UEJndmw0VGZuU0M2RnROTGFSYzhULVpjMWZtNS1EWGVpOVIxUXp3eHdIcDNIcmVCOU5sOFRhZWc5cENmeXBvUEhraG9JdG9aY01UU0gxdw?oc=5
 
-**4. Nvidia’s AI dominance faces uncomfortable new reality - thestreet.com**
+**4. How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure - Council on Foreign Relations**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNd21XLUxzcF9CZWdCQ2t3REV6TGE5d1huanRjZ2tndG9pWTdfdUtxS0VXRDBEVzNORTBsVGo4SE1hREI1VmZ6MGdYemlMVWJ1NE1KWU1uV3JDd2k5ZVhMMDRTNE04TXJCWUk0UDRVaTVMNXNuTEJTM2pJZ2dzYU1YOTl6Y0RHeGVMeXBNNFpDVmktQXAzQkE?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU44dUVFQ0tRNVAyU1Vmc3R3dzlDemgxOHIyVm5IQTlSb3N2THRicXVFemJCbm5OZ3hORWpUVXdNZHFYVkgxQTdjWVAybGt2WXh4Q2dob0FzNTFUVG1GX2dwY2tGZmRKdEtaV3RsM293aS1fVWZoaU5CeXJDRUo5S2NtR3FCUDFKUWlPaDlRR3Ztb0tYcTZ4WmM4S2drREItRkR1azFPQzFiOFBSQkE?oc=5
 
-**5. Teaching Claude why - Anthropic**
+**5. White House scrambles to tame AI fears - The Hill**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE53LU05elNVeUstRXdqU3VhVFllRVNUQ2pTUWVvZm1aVjA2S2RVQS1WWmozdlZQRDctUGQxTE5MTVhFNmpkOTUxbFpPMmI3SU5mOG1weGlheUxhX2h3MmlrQXR5aFY0QnVkazVLNDUtY19FeXctR1lCb19ORTBYYzTSAYQBQVVfeXFMUFdjU1NvQ3N4LXpHdC1kc185R2lKZXBEWUlfX2FuaDY0aHltYzdLTzl3TGFuUEVhUEZyQ3dUN1lpaWxJZ1N1QnM1cXlMTHhVelFNaWZMcDh5N0VZeVhEdS0wMTJzRVhfODY4NnVBN0ZmYWd6aFRUbWt0TGdOc21nMFREdHRS?oc=5
 
