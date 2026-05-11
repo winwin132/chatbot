@@ -1,22 +1,22 @@
-🧠 **AI News (10/05/2026)**
+🧠 **AI News (11/05/2026)**
 
-**1. All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. - The New York Times**
+**1. I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0JoM2NVSHVZSjdnODFNbzVieW94bHlKaHBCNUtQZWVzWHpBU0Nua2p0QV9mN2ZUZjhza3lWTGh6aUd6ZUtEeTIySUtfUE5PaDc3VDlLbUpCT0prVHNuZzBBTnVrc3hzN0JFWUhnT043eWxNZkFUNGZmanA2ckFBeUpCdUYtcERYUFE?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUdGUE1xbzN1V3F4OThyUkNCdnZQZ1d1ekh0TnJ1V0JoWHNnbk5kb1NwNmJZNlFPREJxVkY1OF9hYVdoaFc5VEdTSF9qTFVwLVZZaFBDdjBYZS16OG1LREZvdnJhNUlPWm1TUjNoX2I0OExMRkl4LXN3SGlYejloa3lzQ1RBbXhNZXpGRkxMdVJVNDFuSEE?oc=5
 
-**2. AI in the sky: Inside the FAA plan to overhaul air traffic - Politico**
+**2. AI isn’t actually ‘taking’ your job. Here’s what’s happening instead - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUgxaUtzZFBrR01jYWRDM2ZtY0JXTzl0Nk5jdW1KTDNTYUFVZ1pEbXl6b2stV2ZoNEoyR0hSY3M1VnhwTEtwaHA5QnlyNDM0NXVaRnZaYzF4YmJGbnZnUWtPTFZXdVkyYUIyTk42blRkWXhVZ0ZTdzFWeU1GRjRwd1pfYw?oc=5
+https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2cGNWU0ZlU21yWS1GMFByVzhKTEJDSGN2SWVzaTlHUlpIdmZNRzctWW9pOWRUdU1ZbjRjTWpNNGhJNWNYWE9rWG9sUkM3dTcta3BvV3R5V1VTVHA1MTBV?oc=5
 
-**3. Who's a good boy? AI can't replace doggie actors, director says - Yahoo**
+**3. Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnRXWW1mNk0wbTVIdjdEYjNJUlpYX1VnSzZTS2xMM1JTOGlyNXlvRVBIOWZjc0NJZms2Z0Z1bkVrNXJ6UEJndmw0VGZuU0M2RnROTGFSYzhULVpjMWZtNS1EWGVpOVIxUXp3eHdIcDNIcmVCOU5sOFRhZWc5cENmeXBvUEhraG9JdG9aY01UU0gxdw?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmJablFMOGJJcE9nLUNRNVd1TGNiZ1Ffem95VzlOU3VaUFk0VWRkcWRqWlhudTBFVmQzRzlFTVdTNEFGOG9NOE9JYk1WZDJfbDhXcFU4eHZHYUxTM1lwaGticEo0elU1WXZHZFJwaW8xVVRtSXRMMjB3TzZTSTZUblhjd2Jyd2p3clJQbkZNaXlZRkl0ZjFObVlIaTZsdmVJc1lCTXhMcjEwUzI1?oc=5
 
-**4. How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure - Council on Foreign Relations**
+**4. Do you need a chief AI officer? Here's how the tech is changing boardrooms - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU44dUVFQ0tRNVAyU1Vmc3R3dzlDemgxOHIyVm5IQTlSb3N2THRicXVFemJCbm5OZ3hORWpUVXdNZHFYVkgxQTdjWVAybGt2WXh4Q2dob0FzNTFUVG1GX2dwY2tGZmRKdEtaV3RsM293aS1fVWZoaU5CeXJDRUo5S2NtR3FCUDFKUWlPaDlRR3Ztb0tYcTZ4WmM4S2drREItRkR1azFPQzFiOFBSQkE?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVhfVDlueHlUUEZVM3FseWswZHRMZHh6UmdfZ2d2dlp3OEtKYU03RmpMdDBuMUhoMnFUZFh4bXRMQ3lUWjF4eFBFMWdDT3BKUmxlUDg4aFZ0czZFVkxTdVBZTjFGTUZoSlE3SEVNZU1EQXRfU21pTHJFay1CRUU4b1plSEFlbzgtVFNCeFZ2LXBnY3Fvd2JzRtIBngFBVV95cUxNbFZzVnlhZ3FDaW1SLUo4aGtqTFBFM2tFRWZQRW11R0hoRmV4RElrWFVpVGhXN3BsNHBLclp4c1gxanQyMmxkQWdHcXBkSHZsTGdjMTF5dGNSZXpJUDdGUEFNbVk0T1hZVkJRT1NmZnBpYk56eHZKbncwZkQ2a2ZDZWI1bk1meFJVZzItSllYOTNsbkx5Sm9HUVVKbW1hQQ?oc=5
 
-**5. White House scrambles to tame AI fears - The Hill**
+**5. How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE53LU05elNVeUstRXdqU3VhVFllRVNUQ2pTUWVvZm1aVjA2S2RVQS1WWmozdlZQRDctUGQxTE5MTVhFNmpkOTUxbFpPMmI3SU5mOG1weGlheUxhX2h3MmlrQXR5aFY0QnVkazVLNDUtY19FeXctR1lCb19ORTBYYzTSAYQBQVVfeXFMUFdjU1NvQ3N4LXpHdC1kc185R2lKZXBEWUlfX2FuaDY0aHltYzdLTzl3TGFuUEVhUEZyQ3dUN1lpaWxJZ1N1QnM1cXlMTHhVelFNaWZMcDh5N0VZeVhEdS0wMTJzRVhfODY4NnVBN0ZmYWd6aFRUbWt0TGdOc21nMFREdHRS?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbTZ0WUl0RzZFRi1KYVhxeHdfY2ZJdUJzQTEyeDFCUnFkSjZ5cXREUkNjZVo2blJ0dUczMjRGVy1yeWd4MzF5blJjdHVlVWZFUU9RTFZ6QlVqVENpYmVGTi1jSXdGZ05CaVFxcVdB?oc=5
 
