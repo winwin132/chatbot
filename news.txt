@@ -1,22 +1,22 @@
-🧠 **AI News (12/05/2026)**
+🧠 **AI News (13/05/2026)**
 
-**1. OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI**
+**1. How AI Killed a 133-Year-Old Princeton Tradition - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE01cjhta0REVFlPMkU3YWI0NUpUVDFCOU1IOXktR1A3bjVoVVFyWTFNSllaaDZTd2ZTaEo2TzlKU0RWUVMxaE5mYkZaSTlVWlFENTVzUk5kTHJSWjJDVEZkZ1YxeHlUeTRoYjk4SFh6aktzRTZhZ2VrdWxYVUpiUQ?oc=5
 
-**2. OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point' - CNBC**
+**2. Florida students boo graduation speaker who called AI ‘next Industrial Revolution’ - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTE56YkNzZ0NCdElkekVKSncwNVY2WmlBQzd1S3pvSkYxOXNFdW52MWN6MHFQV21sa0FaLVJqbEl0Zm9OczQ2ZGI4cVM1SFowenMyYzNKb3RydjBWNE1NNV9NUi1sZk9BZFlra3FrNUo0RUU5VWhpNVpJX2RYamrSAYIBQVVfeXFMT2RQNWJ3OC1vbGFKLWVWekdWNl9pc1htREFvRXBKUFNjM1NTWHpMb0RPMlkxOXZEUW1kYWZ4MDVTeGhMbjdYbFBlVG9jdk8xNWplRnliMmtxUnktS25tTTZjOGhfXzk2djI4UEJXRHBuTkhleGIzUXVlN1BfRjVjNUN0QQ?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmxtQ1BYWVR0U2hRRTJGMUZzMmxRNWIzblZpbl95NE9yVm5SWHRpdm9mM3RlUkZWQl83QjdqMnpGb3ZZYW9hWmotZk9hcG84ZGd6cWItcFZqcnBhdlFfeUJmcmVEdUF1WW9NeWIyYkppcE02LXlJX1dlMlBxXzhlTnNoVHVGVkVVYTBGa281OE83UzRtNjBFRw?oc=5
 
-**3. Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty - Reuters**
+**3. Students question college as costs rise and AI impacts jobs - PBS**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xZXFZVkl0TGx0UXF1MTNOMFNfYmthQ3hxN1JwRFltdW9Za0oyeXR5djRtNEVjUVg2ZHp6R1VxRXlldXBxSVMwYW5zZUdpZVN5dUVsakV0QUJMaXEtVlRLOXVvY0dIYUU?oc=5
 
-**4. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance - The Guardian**
+**4. Opinion | The Shared Feeling of Being Harvested by the Future - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVFjVEZoZGNDWXduSzVOcHIyYWVLcERmWjdUQnNCWDBaQXd5dms3enBkLVVXOUZlc1FIZkU4UTl5N2ZxMXBfY2VoVGRZdUdJOXlRR0QxTXpMbGVWYnR5cG1qVG0zd0hTLURzRURXZEgwMjlKdDNLU3lCdldkU2NOazFPamI0RVl3?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdG5jVDdPZlpING5rYll1Wk1fN2hRZlA3VW1UdndNUHNQM2lQZUJaS25wVUtBM3M1SWN0OXdicG0zTFN1WFYza2N2bFNwR1F2emxBNHM2Z28zWWNJSDJTODk1ZG1QVm9jaWdkcFd2d2dTRnVh?oc=5
 
-**5. Google says hackers used AI to develop a major security flaw - Politico**
+**5. Shaping the future of AI interaction by reimagining the mouse pointer - Google DeepMind**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxOeGpYbE5WczlSWVRRYnV5UVpWZmFFSnlCZmMtRTJISHEzNExabFk4NzM1R08ta1liQnBqQ0NxLTBlZTJ5WUM1QVBEZnoxT0VEZWJqYnpIRDhPdE15bVM1U1o1WEE4dmRaTjB5Wk5nNG11T0thSDktVGFKdjNULXE2ZWxB?oc=5
+https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5
 
