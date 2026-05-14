@@ -1,22 +1,22 @@
-🧠 **AI News (13/05/2026)**
+🧠 **AI News (14/05/2026)**
 
-**1. How AI Killed a 133-Year-Old Princeton Tradition - The Atlantic**
+**1. AI Chipmaker Cerebras Raises $5.55 Billion in Year’s Biggest IPO - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE01cjhta0REVFlPMkU3YWI0NUpUVDFCOU1IOXktR1A3bjVoVVFyWTFNSllaaDZTd2ZTaEo2TzlKU0RWUVMxaE5mYkZaSTlVWlFENTVzUk5kTHJSWjJDVEZkZ1YxeHlUeTRoYjk4SFh6aktzRTZhZ2VrdWxYVUpiUQ?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1lvblF3UXJBdlRXRmhXZkZ6bDRIN0hRLUpvZ2RVRDYxbGtZSlRHWVppM3VBencxM1dkQnZNbEhUdjQ2ZmZXb0FXcUYzR2QxZUVOcFN6S3pSNDYxVVVoUDlyRXhoY1JmNlZlMmM5MFFIUG14cjhTRFpENjdaWWhnRmRybjQ3WWZST2lEUUJydkdOcEQ0eERHQ2xBV2dDSm5HVGY2a1ZJdWFpNWdGb1JnNGVFQkU?oc=5
 
-**2. Florida students boo graduation speaker who called AI ‘next Industrial Revolution’ - The Guardian**
+**2. Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmxtQ1BYWVR0U2hRRTJGMUZzMmxRNWIzblZpbl95NE9yVm5SWHRpdm9mM3RlUkZWQl83QjdqMnpGb3ZZYW9hWmotZk9hcG84ZGd6cWItcFZqcnBhdlFfeUJmcmVEdUF1WW9NeWIyYkppcE02LXlJX1dlMlBxXzhlTnNoVHVGVkVVYTBGa281OE83UzRtNjBFRw?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSDBsVUI5Ykh6NXRVSDNLVUMzODdnbGtpZ0RxQlkxNVpGQzhqSC1QWm5aS2l3cUs0dHhJZ2wybDV6cmtISlhWb2Q3ZGw5eEFwSnAtS0Z1SV9tQWxuOWppNy1mT3R1dDFoM3FnOHNvUEV6RG14c3N2ZlZYNEl3YzhuV1B6dEVURUV2aENZdkw1WldlYWZVQ1lvXy1ZVTBKQUJvWE9vRzVEWjFYUdIBrwFBVV95cUxQQmJETnc0QlQtNzlnR0w1YkZIT1Yybjk3VmRMSFgxamh5U3JtU0JDVVprNjNhUWZIWVdQN09UYWRFdm1lT2pZRlMwWTJKWW82NEtPbVlHWV9rRlhTSUp5VlJFOWxLYTFtRnVMOUtDanFybHBob05XU0F4UUhGa29hWFpRa2Foa2s0U2ZUMHd4UjZWOVA2Z0hmejA5TWl5RE96NEhUNGsybXFxY0k3bmQw?oc=5
 
-**3. Students question college as costs rise and AI impacts jobs - PBS**
+**3. Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China trip - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xZXFZVkl0TGx0UXF1MTNOMFNfYmthQ3hxN1JwRFltdW9Za0oyeXR5djRtNEVjUVg2ZHp6R1VxRXlldXBxSVMwYW5zZUdpZVN5dUVsakV0QUJMaXEtVlRLOXVvY0dIYUU?oc=5
+https://news.google.com/rss/articles/CBMikAJBVV95cUxPUktSQ2ZNSU81QkZHbE1rMVJac2ZRRmpoQkNKOTA3ejlhY24ycDNxX21TSEplOUUwT1ZnWmI0UHVZWVM4WHJ4b1NLQkpyb2xLdjQzeEdEMTYwQWU1NDlmUmdEbEJTVHpVQnhUTl9lenlNakNfM3FiOHZyd09XSHZVeUpETWNINGVTSWxtNGRZOUhsYWYxSXBqN0NoRUl0SFpmOUwzVHJMZlNJQVA5MmhYQTdMXzlLQ3RwRmhGWlVocXpES0lvQXBpXzJXWXZ1RUJzc0dtdWktSEs5NVQtMkN2WlVXd191MmJRb3lhWHNFb0R3ZWg3VUlEOEhzNUtXMXZOYkZGekJfczFPSGMzelFFWQ?oc=5
 
-**4. Opinion | The Shared Feeling of Being Harvested by the Future - The New York Times**
+**4. Meet the Sad Wives of AI - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdG5jVDdPZlpING5rYll1Wk1fN2hRZlA3VW1UdndNUHNQM2lQZUJaS25wVUtBM3M1SWN0OXdicG0zTFN1WFYza2N2bFNwR1F2emxBNHM2Z28zWWNJSDJTODk1ZG1QVm9jaWdkcFd2d2dTRnVh?oc=5
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE55OVEwUkdHRGFsYTRHSUVhai1nc1d4aTd5MUxRSFJZNXR3SGEwRnV4OVQ5RzcwbWJ1ZEU4dGFUZjAxNzlGTWI1UjFTSjFyOHFTZXJQR0czaDczcEtRTHZaSjZiZw?oc=5
 
-**5. Shaping the future of AI interaction by reimagining the mouse pointer - Google DeepMind**
+**5. OpenAI backs creation of global AI governance body led by the U.S. that would include China as a member - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFOd3NjZDlrT1E0WjVYcEJnV3ItWXJCaktOa1laYTRYRk9fVTh0NDlkckV6QXV5eEcyMXd0OFFEVldMVlNPSGxMTi1fMnloX181MlJ5ZFM3cEcyaWo0TFRGeld4TTI1bElGNUplSkFqZktrRHN1WnVFUlBkdTZVMlhUR0s0eGZ2Vi0xSzBBT2hrSW1TeElGTHBqQ1pxWjJOcVgzTGZGWUdDQnd6NXpfampSTC0yUV9fN0NGekx30gHDAUFVX3lxTFBXRXhsU2hwM3dxd1pHc3hSaUFmWlB1V0FYclRiYlNHektZNmlZNGpuMzZMQk11UkhuV2hpdkVrUW16aXoxd0d5OHV6MUlpRlItMXkyR1Y3YnVHWHRYQVpoNmlCWnhmZlotb3RvcUVfb1VfaFdNSnA0eUFxZkVoWVh2bVF5VXRDQkF2OGYzZFdRR2J6TXhEejZXMS1NMEVER1AxMnN3bG9ZWE5mSmF4RjNlYUNmV0hwT0pteGxONHBLZjJqOA?oc=5
 
