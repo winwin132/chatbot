@@ -1,22 +1,22 @@
-🧠 **AI News (14/05/2026)**
+🧠 **AI News (15/05/2026)**
 
-**1. AI Chipmaker Cerebras Raises $5.55 Billion in Year’s Biggest IPO - Bloomberg.com**
+**1. 2028: Two scenarios for global AI leadership - Anthropic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1lvblF3UXJBdlRXRmhXZkZ6bDRIN0hRLUpvZ2RVRDYxbGtZSlRHWVppM3VBencxM1dkQnZNbEhUdjQ2ZmZXb0FXcUYzR2QxZUVOcFN6S3pSNDYxVVVoUDlyRXhoY1JmNlZlMmM5MFFIUG14cjhTRFpENjdaWWhnRmRybjQ3WWZST2lEUUJydkdOcEQ0eERHQ2xBV2dDSm5HVGY2a1ZJdWFpNWdGb1JnNGVFQkU?oc=5
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5
 
 **2. Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSDBsVUI5Ykh6NXRVSDNLVUMzODdnbGtpZ0RxQlkxNVpGQzhqSC1QWm5aS2l3cUs0dHhJZ2wybDV6cmtISlhWb2Q3ZGw5eEFwSnAtS0Z1SV9tQWxuOWppNy1mT3R1dDFoM3FnOHNvUEV6RG14c3N2ZlZYNEl3YzhuV1B6dEVURUV2aENZdkw1WldlYWZVQ1lvXy1ZVTBKQUJvWE9vRzVEWjFYUdIBrwFBVV95cUxQQmJETnc0QlQtNzlnR0w1YkZIT1Yybjk3VmRMSFgxamh5U3JtU0JDVVprNjNhUWZIWVdQN09UYWRFdm1lT2pZRlMwWTJKWW82NEtPbVlHWV9rRlhTSUp5VlJFOWxLYTFtRnVMOUtDanFybHBob05XU0F4UUhGa29hWFpRa2Foa2s0U2ZUMHd4UjZWOVA2Z0hmejA5TWl5RE96NEhUNGsybXFxY0k3bmQw?oc=5
 
-**3. Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China trip - Yahoo Finance**
+**3. Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikAJBVV95cUxPUktSQ2ZNSU81QkZHbE1rMVJac2ZRRmpoQkNKOTA3ejlhY24ycDNxX21TSEplOUUwT1ZnWmI0UHVZWVM4WHJ4b1NLQkpyb2xLdjQzeEdEMTYwQWU1NDlmUmdEbEJTVHpVQnhUTl9lenlNakNfM3FiOHZyd09XSHZVeUpETWNINGVTSWxtNGRZOUhsYWYxSXBqN0NoRUl0SFpmOUwzVHJMZlNJQVA5MmhYQTdMXzlLQ3RwRmhGWlVocXpES0lvQXBpXzJXWXZ1RUJzc0dtdWktSEs5NVQtMkN2WlVXd191MmJRb3lhWHNFb0R3ZWg3VUlEOEhzNUtXMXZOYkZGekJfczFPSGMzelFFWQ?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5
 
-**4. Meet the Sad Wives of AI - WIRED**
+**4. Why Cerebras AI chips stand out in the Nvidia-dominated market - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE55OVEwUkdHRGFsYTRHSUVhai1nc1d4aTd5MUxRSFJZNXR3SGEwRnV4OVQ5RzcwbWJ1ZEU4dGFUZjAxNzlGTWI1UjFTSjFyOHFTZXJQR0czaDczcEtRTHZaSjZiZw?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFUUVZDSFhIcHhia19PUHozRElDbGhDeWJhbG5pOWppc0tNZWI3NUtlYjNnbndIV3AyRDYzb2poNjMtRkRlS1FIRmtsZFpCVmw2VFhpUHhpdVRQRWNrbWxLX0t0SUpOVTUwYkFjRE9kWHBoRU1qMkVKZlF4TEx2eElXTGQ4ZnlKOWlFT25qN3Z1UHpfbUJsTS1KVFJlVENaQzVQdTNxOTh5Y0o5?oc=5
 
-**5. OpenAI backs creation of global AI governance body led by the U.S. that would include China as a member - Fox Business**
+**5. JPMorgan Hikes Taiex Bull-Case Target to 50,000 on AI Buildout - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFOd3NjZDlrT1E0WjVYcEJnV3ItWXJCaktOa1laYTRYRk9fVTh0NDlkckV6QXV5eEcyMXd0OFFEVldMVlNPSGxMTi1fMnloX181MlJ5ZFM3cEcyaWo0TFRGeld4TTI1bElGNUplSkFqZktrRHN1WnVFUlBkdTZVMlhUR0s0eGZ2Vi0xSzBBT2hrSW1TeElGTHBqQ1pxWjJOcVgzTGZGWUdDQnd6NXpfampSTC0yUV9fN0NGekx30gHDAUFVX3lxTFBXRXhsU2hwM3dxd1pHc3hSaUFmWlB1V0FYclRiYlNHektZNmlZNGpuMzZMQk11UkhuV2hpdkVrUW16aXoxd0d5OHV6MUlpRlItMXkyR1Y3YnVHWHRYQVpoNmlCWnhmZlotb3RvcUVfb1VfaFdNSnA0eUFxZkVoWVh2bVF5VXRDQkF2OGYzZFdRR2J6TXhEejZXMS1NMEVER1AxMnN3bG9ZWE5mSmF4RjNlYUNmV0hwT0pteGxONHBLZjJqOA?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOV09Gb3VaRzE3YzgwaC1Wbk00VjRXQ20xN2huTldIbjc0T1JXVElmRFFRdzJpNzR4QlgzdnZQNWhpNUVmY1hqQy1xVU5GcjJwcmdfd2NWOUliQjBZYS1VbEpQSHB0aDhyLVU2OUtBMWIzd1NiZnFiakoxTm5FeWx6cEFrd2V5bk9SaUVDb1FrS0YxdmV4b2V3dmo2TW1DR3VEdmUxOUZoXzdMTV91U3RRYkxfSQ?oc=5
 
