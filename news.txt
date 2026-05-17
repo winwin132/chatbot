@@ -1,22 +1,22 @@
-🧠 **AI News (16/05/2026)**
+🧠 **AI News (17/05/2026)**
 
-**1. The 3 big conflicts in AI race against China - Axios**
+**1. Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibkFVX3lxTFB1RFp1bWFrOGxwSExCbHE0ODctM3VhWEF1b3BWMFRCV19TaUhCQnhSYVI4QjRoLS1sb01GZ2lzZjB0ZWZCdld0VkNKRkNUQmRSdFZrUk0yZWg5WHZKcFFmWXpnVWpZWjliWnBua0FR?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXAwd1YwLWZMR0NTZVhlVFBHM1gwS0taWDFjcmFHMFdtOVc2NjdSd3dlNHBMVE1GYUo4c2IxMXQ2REl0Q2xnbUJnU0pxMG1USkZqempOWGdjN01obGJUNmMxSllFcGxWZUt4T1FXdHlGTHdKYVFMcGRiR0VJc25pQnpaT3FLU08zbzhIRzR6VzdMcVZiY0NING02UnJxTU9OZVdv?oc=5
 
-**2. U.S. and China Will Start Discussing A.I. Safety, Bessent Says - The New York Times**
+**2. OpenAI and Malta partner to bring ChatGPT Plus to all citizens - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWTYzaHFudVgzUDEzTEcwSUs2dWtrQ0x1SnFZSGZtYnE4VVRFNDhWUERrcm1tekRMMVdyaHVJeGpxX0h5aGxYaC1VN3FuWl9PX0lJcTAxOWo0OGNjWUh1NlR0bkhyTFN5RXllMTNsSy1SNGw4SEpfNA?oc=5
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVndPb3VQUlhvZ3F0SFl3dGxJX1BPUnFNZUpiMzFZaEVYQkp1elJMcHRYNWJUTVZYTzYtb0RBLVpLZ1dXek5aRmlGeERyZHE2bG5QQ3NRQ3FxM3FRTnN6SlFZS2tDYjg?oc=5
 
-**3. 2028: Two scenarios for global AI leadership - Anthropic**
+**3. AI Chip Mania Sows Seeds of Its Own Destruction - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxORk9KOG56WXNvNktfRk4zN1BsS1ludTZhSDRiOVdIQVk0UXZ2YXQ0bHl2WXJUQTh6OWh5N1ZRR0loYVFGVjZBSHhJSjk2d2ZmQVh6ajZKTkhZWk0ycEJmcG4yd0xfbDIwY0o2WlBpM3JDSDc3bHB2b0tCOEJlMUhacmlKLVpjTElaQ0l3aFE1ckgyV1dMQ1E?oc=5
 
-**4. Prepare for an AI jobs apocalypse - The Economist**
+**4. What do China’s plans for new AI law mean for future of technology? - South China Morning Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVaMVlCekNTcUJjMkZQdHduS2tBa0kzTHhEV090Vlp0Ui12Zjc0c2QyVE8zSFpzdThkcWxwaFlpN2I3SENZVVpYWVoxMm0tYlBGM2hUd1BZeWFGQWxTeDVIMW1zNGRoUkVqTVktdkJRcmhOck1COUNUaG5nOTBLblVBbms?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGR2cXZBYjg2SnIySmI5eFlheXBRNTRzaVJrZG9TWjFJbEpHWVRLSW1qUTA4c1AtdVBEb2cxN3Jya1hFWFB4RkdjQ21kYkhCZkFPeXJOY3FPWThabEVybDljeEl2NTJjMnBoQUtTN3pZXzBseFZQV0plQlg4c2FZOTgzWkd3NElvdDdRNXVGaDlTUFhDZFl0TmMtZEZkN19FM3JUWC1hVE00aWthOGpKVm5sRXNyczdpdkk3YzFuNkJCX3c?oc=5
 
-**5. Which jobs are most vulnerable to AI? - WYFF**
+**5. He’s king of the AI boom. Why do former colleagues say he can’t be trusted? - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVXBMQlZVWk5Fak5vVElRaWxnQmltX3JFSGZCclo3dnEwTmxlOU91M3RXenF4NTdNRlZpaU9CNWNhSWFPcmFtZzVLSGNWSXJXbE5LYXBFNlVhNWN1MUVGc3UwN2FWUUoybG5ob2lTUQ?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5
 
