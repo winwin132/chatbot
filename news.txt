@@ -1,22 +1,22 @@
-🧠 **AI News (19/05/2026)**
+🧠 **AI News (20/05/2026)**
 
-**1. Meta Reassigns 7,000 Employees to Focus on A.I. - The New York Times**
+**1. Gemini 3.5: frontier intelligence with action - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnVpMXh5RjM1NzVpTHA1NHFMbzhheVVqUElRUXEyVGZOV0lFZWRhdmdTelpMWDVLazJlaXlkd3ZVZHdTZ2VvR2oxZ251cng5aEFKdDh6NEJTeUlrQTJRa0xwTXJ0bFk0TTNpZy1zeTFkMDhocV9mZW5sNDNrRTJ6Rzhld3lySVBkZVJV?oc=5
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUldqeDBINW42S2dtZkxpcGNaclU0UGRQMG9VbDRXNnhiUEdwLXpacmp1bUxFZGFVeWJfRWo5eExHWFA5dE8yWTJBWEV3bjkyZjhSblVLMjNsXzVlQ3FfYXE4RmVwaXZIX3BaaDd6bVE4SlMyZHJrV1JfemlYNlZDQUtPLTJkb1Nld0lZ?oc=5
 
-**2. Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company - CNBC**
+**2. Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk5acW11WDJaTUNWSjRKUURib1l5X2RCZUM0SGN5UzJ4VEFRRFBENlpnc1M1b3dLdjNEd2hVS2daYWhkdXN6NDM5bm5yX3l0Nm5HOGt5LVc2Z296cXdrb0I3bmgxNlhGQ2w4d0NoOFN5Y01pQWZwOEZuY3UyNHJXMnF2NFY0RGVIZkppRmxja25jakRjZENlMXVsWGJ1N3ctbW9aSFBTTdIBrAFBVV95cUxNX3psSFNtU29lTlc1Q3BIUVBoRTVteEVGV0tzSFpXOUJHd3FqU19IeGJXRlRVNkFQa2JOT3kybS0xc2NrZmtNVDNwRjRSUmpFZUY5Sms1SDBLWWp2aTliSnExVjNua1pHeVRybHBVUkp5NzF6b09NZFpDTVk2RmdlZTNJeGVZR1RDYjc4MWt5RG1ZdGl1MUE2dmZVcFEzbDFkT1ZfRlV1TnFOU2lX?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5
 
-**3. Meta Moves 7,000 Workers Into AI Roles Ahead of Job Cuts - Bloomberg.com**
+**3. Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc21xdGxpVWF6UFVuTHpRWmVYTGpmTkFlUUxSaE1YN0lkZThjd0hhcFVDOHZ5eHpmcDk1bi1qYzZ1aHV2QWJnRHg1ZmlYQUoyeFkydFFBc0xLSXVxQ3FNbHctcUc1UE1YbldBRDNON2JxMmprSHItODdFTkR4SVRnMmhjNGp3WW40QkVQb25NOGxEa1BoZkUxSk1PaFNTdGtvZXR6a0xRV25vbkE?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzZ0WC1UelpJRkNTMldfbkcwaW43MDJ3cXh2elVTLVBhUHZBeTFWYWNXT3NHWjlPcFJ5SjZkOTdOZ21BdEJpeFE5NlE4ZUhpQllLcWEtM0RtTlJhdE9yOUdEajRELTR3ZVFpbXBrbVg3cUVVSGFyc1hTRERfZHhUbg?oc=5
 
-**4. Exclusive | Google and Blackstone to Create New AI Cloud Company - WSJ**
+**4. Democrats eye 2027 crackdown on AI in election ads - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikwFBVV95cUxQanVETXBuREY3VEdSekgyX1h4WmltRlVSNGpsdXh3cnIyVUVGN3k4Ylg5bzl4UXBLb1NJQzNPZFpNZ0pQVE9MejBFWE9oNWtRcE4wS1hqMURRbzZoTFFEX0J2UGlfZWx0d1JMcFdsMHpyR0NHWFcyTHAzbDZnTWdFRVpRakdkdGNhV1BRUDlzNkY0S00?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEFnR0lUaVczMDY3eHJhZENhUVR0M05TZ0ctNnFjQ3NzR3Nsd3R6UzQtZXc3RlJNS1pWeWFGZ2ZreFZNdmVpWHB1NV90SC1hb2h5MlZkdzh5cmdzUkhnRnRBZDFXcFNERzVxVzZqdUxyRHplWkRBVEkzbldvcE53S0lKWFRhQQ?oc=5
 
-**5. Google, Blackstone plan AI cloud venture with $5 billion backing, WSJ reports - Reuters**
+**5. Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5
 
