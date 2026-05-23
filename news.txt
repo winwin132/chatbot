@@ -1,22 +1,22 @@
-🧠 **AI News (22/05/2026)**
+🧠 **AI News (23/05/2026)**
 
-**1. Trump postpones AI executive order signing: 'I didn't like certain aspects' - CNBC**
+**1. Ask AI or just Google it? Google makes a big change to a little search box - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTE5uU2VtSWVRazhoNGlIY3lVcmtOQkJ5Qi15UTdmeVZUelJkTng3bnYwclB1U2NscUM4dTkydWIycTZXRHlfZ1pWanZ5bVpRZVA2N29YWDR2VDZpZjhreE1adHY5MGxLcVFxaFhjRGRySVFEamZfeU5mT3N0NNIBgAFBVV95cUxNeWdxWGEteGdLRlBXclhCVFJqMkJMVXVpSDhlSmNFTHVZVUU5b0h4dWVPX0pHMUpnZG81MGpLZmNUN0JBOGRnTmotSUhILWVmcEZIV3Z3a0ZIVnRBQUxyZlNxWkdIMnhFMVJmeEpjUGlnM0lzNnoyNno5WGctbFdpZg?oc=5
+https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRDJOZy1ncGV4Tjk3cGcyZUlXMU9TV3NiUDlYRVZ3dnlyVlhQbXR5YWlsQ3BkZ2NVUnJLV3NOUFV4TjhUbjFMWFAtYmRwS3I3eDAwaEhlYl8wS3NLNEh3NFF5SWRXeTdhN0FMeU9KUng3cjg?oc=5
 
-**2. Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models - The New York Times**
+**2. Even If You Hate AI, You Will Use Google AI Search - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxPTENUaVpTUUhycTFqeGNEaXJqMUpqUW5Bb3dmN0NLa3JTOTF5MmNoSTZSakE5Q3poZ1NRYWx2Nm5KR255QkxQTXZYWUF0bkVWS3o0T3FZTTFfaFM1NFNOeFItNE05WTZiSTRQM0daR3lNelktNWpyNHRoZlVkc1Q3NA?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFdVakFWMW5ScjJMaXN5NmV1OTFRc0dhOXdBQzh3eEpjQWVtTU9LeTdOQkdESG9tckdnQTZfYzVrVVQzZE9CejdIeWFCRzhTYkxHZjVpYkZwYkNpa2hxNmpMRE5YUjhuX0Z6dmh4MjEwTjVIQ0JBeU9KTDVHalBDQnhpZFk?oc=5
 
-**3. Trump yanked AI order after David Sacks raised industry concerns - Politico**
+**3. Sundar Pichai Understands Why People Are Anxious About A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTFBjQTFTXzVtTVlqb2tNSk9IcGNaMGxKS1daQWhoYUxEelZLZU1QTFpDWktuR2h0XzJzOGl1eFRPdFYtYjJ4dWtPbFBvVU1Qelp4UURLXzdDRU9la0wzcURaSU5yeGlGUmhhb0p3aWR3dGNrck1YUEZad05B?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkFrUldCZE5PcDBRMmlXeTZadGpFR3htWWpkUXJtOXhPT2ZjWDNLeFBJdllOcklXejNxSDJ4ZjJJdDRMcUtSQUlnLXZyZUROb2loN2dYWkNUUzdKUDg0YnVjSlBsRUxySGoyVXp0N2VsTHV3UkUtNUhtRzFKOEpRbTNQbHp4bkN4N3FKTUJ4R19vbHJiTkRHem9jV2FoeHJzRmIzYm50UWdYdw?oc=5
 
-**4. OpenAI makes breakthrough on 80-year-old maths problem - The Guardian**
+**4. Opinion | A.I. Is a Job Creator - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVp3NXJGa25uNV9MeXBOd0d0YTdkV3laM2UzYnRPd2R6RWpvZElMcUw3STFtTENKRXJvQkc3UVBILVpzSzFRSmJXa3RMU1FjRXJhRzFqZlEtTzV1cGItWmpSRWZEOXRldVl3bV9zaTdTVHRWcUs0SlNsX3NFc0VvVUxMYkZ2UmZ0Q2pMUlBNRnNiSW45TjRtZF9ySQ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQREhDYnI2N05oSUlpU25vNkJUWFpKQ2o0bHI0MEh4enMzaFJHdGdJUldMRjNaa0V3MmZDWDN3LWM1UU1wTGFEcTRlWDZocmplQzB4N05NRTBBUTdxQ2VlaWY5N2preVBxaTZzNkRhNE52eTUtZXM1Wmgzd0Izek1TeQ?oc=5
 
-**5. Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It. - The New York Times**
+**5. SpaceX IPO, AI momentum propel market - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHdPOGg5SGlRS3VOelYtdWFTZm1ERmtXaFFraWRTSVdjY3VFMkdWSjUxZzBaRmptODZ5RHpLMVZsSXFxV3hRSUZxYTlBRjFyWlFFMm5mYWx1N05JQjdmSUw1YmJjOFJXWmtSLVdHeV9FNE5ZRkdCUngyWThHX1RyWQ?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTjh1QUZjb2pySE8xa19sRk95eHRSMmxHNHpwMmJ5YXpycHp6ZGxNYWd5NGpEUnBCNlpTTml1bmRrQkI5bkVnYXFCQWF6SXMyVW5TYUZxc2p6b1E?oc=5
 
