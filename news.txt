@@ -1,22 +1,22 @@
-🧠 **AI News (23/05/2026)**
+🧠 **AI News (24/05/2026)**
 
-**1. Ask AI or just Google it? Google makes a big change to a little search box - NPR**
+**1. Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRDJOZy1ncGV4Tjk3cGcyZUlXMU9TV3NiUDlYRVZ3dnlyVlhQbXR5YWlsQ3BkZ2NVUnJLV3NOUFV4TjhUbjFMWFAtYmRwS3I3eDAwaEhlYl8wS3NLNEh3NFF5SWRXeTdhN0FMeU9KUng3cjg?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTE9nTVFscU9rVklYRE1EQ0k2SnR3MURkV0IyeUUxTEtXX1hzdmNfcUlvN3RfX2ZjcnVtVXpXZXVlTTJOQ0c5ZXFkZmJBR0UyUnVkSzdzUnpxQ1A0R1lqdTVUZWVMTkEzQ21PaFE?oc=5
 
-**2. Even If You Hate AI, You Will Use Google AI Search - WIRED**
+**2. ‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’ - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFdVakFWMW5ScjJMaXN5NmV1OTFRc0dhOXdBQzh3eEpjQWVtTU9LeTdOQkdESG9tckdnQTZfYzVrVVQzZE9CejdIeWFCRzhTYkxHZjVpYkZwYkNpa2hxNmpMRE5YUjhuX0Z6dmh4MjEwTjVIQ0JBeU9KTDVHalBDQnhpZFk?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0stY2o2clZIVjFPZlBSRzRobzhyZUliYk95STJWNWFEQXRKVWpVSlVUcFA5YXc2Smc5R2NmUFZHSG9CbmJyQUdkZnVMbjd6U2Y0ZGpEMlhuRG9ONUluMWE1eVRMTG9aUHU3LUhibGdnRG1Xd1k5QlJHZXJTMjhVMGU0cHlDaEpfajl1QTNqLVk1NDZEbDBuc3NaVnRFZjRJOVRJYnZwbEhiM3kxQVdZYUJvUFMyUmM?oc=5
 
-**3. Sundar Pichai Understands Why People Are Anxious About A.I. - The New York Times**
+**3. Plastic Surgeons Say ‘AI Face’ Is Their New Nightmare—And Kelly Ripa Was Right, They’re Not Magicians - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkFrUldCZE5PcDBRMmlXeTZadGpFR3htWWpkUXJtOXhPT2ZjWDNLeFBJdllOcklXejNxSDJ4ZjJJdDRMcUtSQUlnLXZyZUROb2loN2dYWkNUUzdKUDg0YnVjSlBsRUxySGoyVXp0N2VsTHV3UkUtNUhtRzFKOEpRbTNQbHp4bkN4N3FKTUJ4R19vbHJiTkRHem9jV2FoeHJzRmIzYm50UWdYdw?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlE2bTFaOTVveGxsS2hFeEUweFcxYjVwcHB0QzUwYUpwbkY3NEtlcW9CQ001R3Z0LTJKYW5Sb292TnVsS1FtQVV3eVkzR3lYSjZ1YUJ0bnV4MUg2WHdSWXRnSzJHSzhJVFlXOEx5VjQtUFdoei1MRk5FeFZuN3M2M0VYQlJYZnhLSWlLc1g3a3N2dEZ3ZERzR3JaQW9KV3lTWHUwYUVRZw?oc=5
 
-**4. Opinion | A.I. Is a Job Creator - The New York Times**
+**4. Here's why people are booing college commencement speakers this year - USA Today**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxQREhDYnI2N05oSUlpU25vNkJUWFpKQ2o0bHI0MEh4enMzaFJHdGdJUldMRjNaa0V3MmZDWDN3LWM1UU1wTGFEcTRlWDZocmplQzB4N05NRTBBUTdxQ2VlaWY5N2preVBxaTZzNkRhNE52eTUtZXM1Wmgzd0Izek1TeQ?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUZDR1FRUnlQM3pLNVEyNjBIX0dWb2plYmdiSHJHWjFOd19NWXh6ekpGcncyWFJ6V1FKaklSZlJyOVFEMnVMNXFqUTNhbm9oaFhfRk1sVV80bDB2QXN1MGlfTnVVT04tdjJVNkxTWENlV0Y3ak9xY2RpWklHcVlaa2J6Q3ZEQUtweDVpaEllRlhKYzVGMFNfTXJHNW9WMkxydFBtNXBR?oc=5
 
-**5. SpaceX IPO, AI momentum propel market - Fox Business**
+**5. ‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTjh1QUZjb2pySE8xa19sRk95eHRSMmxHNHpwMmJ5YXpycHp6ZGxNYWd5NGpEUnBCNlpTTml1bmRrQkI5bkVnYXFCQWF6SXMyVW5TYUZxc2p6b1E?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnpGcDNERTNKc2hlMHd6Z2VtYm56Z0JtRXhveUxVTEFsWXJiY3lpeWdBMGJwaVhLaXVITEFjSXl1SXUtbFplTUZoR1NnUkFqNkNfRlBhMk9FWVdlenNKOUJpS2djUm1SX1BubXNKWlhDbU14YmQ1XzU5NU5PaENZdDRNa1ZzUzJjMm9uQ1JfQ2Rfb2NX?oc=5
 
