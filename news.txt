@@ -1,22 +1,22 @@
-🧠 **AI News (26/05/2026)**
+🧠 **AI News (27/05/2026)**
 
-**1. Pope Leo Compares AI Threat to Biblical ‘Tower of Babel’ - WSJ**
+**1. To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zdFlKejk4WHRrY1lfU2oxb19IaVNGOUFKQlRyejYtNG1WR09lcmtPZ2EtdEZmNGViM05xeFppdGNUSmJZdjc3bUdmbDJBbHlNUTZrMlE1YWxmUFBrMjN3ZkpFSGc3UWZB?oc=5
+https://news.google.com/rss/articles/CBMickFVX3lxTFA0Z09CV0NlTHFKV09XWTluZ1JJdUFHY0VzWDNfQmVXUEJOaHRwTGh3NXg0elJaR1A5dzM3RjBQMlA5MEs1SFVkNUV3QmJ0Y2xZM3ZjTjNTOXVRd0ZlMklkOTZYUmc3MW96YzVkd3R6eGxTZw?oc=5
 
-**2. Ozzy Osbourne AI avatar will be ‘so tasteful’, Jack Osbourne says after fan backlash - The Guardian**
+**2. Vance Praises Pope Leo’s AI Warnings As ‘Very Profound’ - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTh1cnlOZmNUYmVSemtXdW5MSHZkVVN6VWk0X3BPbVlDREpObkxsQVh3aVp4MWNDQTBESzMyTXFkb0lOR0ltRDZ2V1FYMTN2ZUhya3pEYlg0Rk4tSnRjdndrSU1FdVprWkgwLVNET1dndDZKZFZQOTFvelM1MFhZdXctMzI5cllQWHlYWEJRcDR1M1ozenVkS0F0SGpPdUtFcnRr?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU5SU1RPbTdXdk1heDVCN1Q4SEw1TE5EeWxGcUhzSDRUUEprbzVTSFRaZFd0VTFUZU12NElKR1dVajFkMV95eVAzZ29OWS1zOHdGcWViSjNxSFFRWmloYUg4TW5pclZnRDY0SDloemtsdnAtMzAtLTA4QVVTRTVwV2xsdnB5OVd0SUVtbUlvV3ZZWGk5bWFaWThNM2J3NHhPeVM1QnZqWEY?oc=5
 
-**3. South Korea’s movie industry is embracing AI. Will K-film lose its magic? - CNN**
+**3. St. Norbert College theologian breaks down Pope Leo's concerns on artificial intelligence - WLUK**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBpQ0wtM0xONGpDTFhOTTNMOEVPRHZCVzdzV1V5OHVuUFV0XzcxVFlPWjNkdUhqT2tTTmNZSmQ3Z1hpa0NGcEF5MjAtMkU3Rm85UFVpWF9jZ2RRR2VrVTB2NFdFOGdNd2VVN2xRWEpWVQ?oc=5
+https://news.google.com/rss/articles/CBMivwFBVV95cUxQc21kZk1fSjNrYmo4YndVUzlxNEVEb3NNRUVsNmhZdXNwQ0YxekF6ZS1LalFhX2RVdzRYWVdUbGxqZmFqdFZ6WUlLbDJvZGVJM1pJNkMydmtKQ0RIazBrbmZndnlONkZ4dmdsR0lhcXV2ZGJKWTFMaXZUT0dkQkRhcUpJOUtXREVDQ3NLUTdGSDROR2lhczBFVzhhenFnMTI2VzNOMmQ3Sk92dEVrbUZZb0ZJR2pjM1RSckczNW1nbw?oc=5
 
-**4. This AI Stock Has Been Called Overvalued for 3 Years. The Bears Keep Losing. - Yahoo Finance**
+**4. Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxQZm5INi00STI3dmx1Ti11a2RvY1BzUzRpRFN2T0ZTc1IyZnFDcTBndnZUcl9vR1k1RDZZbldSdmttcFFFTGcwLUFicW1wcldWbWpwT3A4TUg2MXpETVdUbmpZeDVjaDlXN19rNzBBb0VDS0FCNnhtek85ekNmZGhVZUtmcnp2N2dPTlQ0RHFWVW9QeHQtajY0Tw?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTE9yeXo0WE4zM3ZWcXBrb0tISE5Wa1ZBQlRGdHlPcjlfZEVWeC03QVJWaVBMS01USWQxZTAwZ1BxRWZhdkw1N3ZjUE9NRjZvVWF3T3BwdUxFb0VlRVJnQUJHalFkOC1FbGhFNm5Xd0xibWlQa2tRSEFmUkFfVQ?oc=5
 
-**5. This big university system is embracing AI. Students and faculty aren't all on board - NPR**
+**5. Alaska's North Slope proposed as home for massive AI data center - Alaska Public Media**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3d1Tm5pbk5yYi1wS29KeE5fSlpXZUxScENHWlZ2ejQ4dFkta1ZOZ2tza0Y3cUc2UDB2S1BnYmk4a3loVF9HMU5pT3hCY0FqcTk2MUNtT2ZRY1ZNOUtfcjJMbTdMcEk4WWhWWjVZdG5VZUZNVEIxWlpxLTRYYlVrVmxUSlN5Vnlsa1JPSXBtS2JEOTZsTEozNmRFVWtRMWhEamZTS3lwa01iT1d2U2hONzBuZ2dsSzBj?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWVZVmJyVHJDRWF0bTZleGktdEhwdlNUQjU5RlNxTUdnaHJrNlVpeWp2V2RXSEUwcVJaM1FWTDQtT1cxX0VCRFBLRzdQbm0wZ0Q5bnBaakNGdDFDSHFseWdtS1JRU2VIbjBVLXlVVEhfcUhHc2h6YlpfV2U1Qm1yMkdGeEZQUmtKeG5vemRPZHR5NFE3cUwtRUd6cGVLQ2NFNkozVnN0dWFYdEYyRVdielBiRk1fTUp0ODlV?oc=5
 
