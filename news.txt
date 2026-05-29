@@ -1,22 +1,22 @@
-🧠 **AI News (28/05/2026)**
+🧠 **AI News (29/05/2026)**
 
-**1. Improving AI labels for viewers and creators - YouTube Official Blog**
+**1. I Tried to Sell My House With A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE1EbEFTQk0yZlI5ZDZRRFhHbWtwWDdxemptbnlhOFB6QkZWYzB5bnlLckRTRjAxM3JWRl90alRSbXRaSkcteEh4N081WFpYUHpTZFlPOUF3SV9fSU56RXZHaFFfbk9QbzVSXzFFTjVTUVpjRk1GYV9DS2RSbl9iQTQ?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?oc=5
 
-**2. YouTube to Automatically Label AI-Generated Videos & Enhance Labels - Variety**
+**2. Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWVFQ0prYjBSU0Z4aGxPRWJPcnVVU045bGYtclA3ZUFUU2tHYnhsNml5YjA0VmF0VmMycWI1Uk5Tc1JZQjBocVBKZ1hjZU9TMGJjSjNzelQ4U1JQampBVXRqbHAzaU8tRDhtSEd6WHlqVVRoRlp6TDVOUE04bV90WGVnZzZiYnZSc09Vd0ZOeDBNOXd0RUtzbw?oc=5
+https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?oc=5
 
-**3. YouTube taking steps to make clear when realistic videos are made by AI - CBS News**
+**3. Samsung's shares surge as much as 6% after company ships next-generation AI memory chip samples - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTE1yN2w3akhPa3o1Q3NvZU1WQ0lySFJhZDdkYWg2OGdQM1FiUFpZLVV5UjhGS3FHa01ZSnI3M2JiR1haWFY5bUlDdUdXdEFqMHN6ckJKZG9EMjg4dk01d2RKdk5zQjNSSFVWLXNsaVo0bFZjYXNvS284?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTFAxTlZIemkybWxHOGZuT0dRU3NsaEZVYkNLR0ZHVWpqR285cTVpeDVTTjE2S29EcE82NVhqUzZFcWJITHBjS2hiTUhmRzhMcVVRMEtWYVVrRlJzYWJZTEFUemVhMkxqclFDUnZLRm1KRXNNN2VjTDhLdU8zdVozd9IBgwFBVV95cUxNQ3B6dGllZmswNmw1YUoxWmJFOEt5dnpGcXNMejNKQ1VDU3MtQURvQlZicXFaVi1sZ3JzM21wSkd6QjlyMEN3WXRTUHdpX0FTZXJ4VnNOTEQxbGlueHhxZHdncEYwci14SHhjY3NidldNd011QmxwZ2owdkc3eVpkbFczOA?oc=5
 
-**4. Opinion | Writing Is Fundamental to How We Think - The New York Times**
+**4. Gareth Edwards Is Excited About AI Filmmaking — Even Though It’s Like a “Second-Unit Director Who Is a Billionaire on Acid” - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMW53WVdEdkthT0ZkaGYtc0RLcXFzTnZMendDYTFuYmNmTlhTbXM5RVlfZzN3QXFhLWQwaUdhRDBHaUUxSEF2Z2pORjBFUFJSM1VfV040MjlNZkt6TVZ2elJDNUdLS0NCRjJ6dDU4anFEalBpZVRGcw?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmthd0pDbzlrMkFVSmlZUmNGVkstSjk1ZXN2MUNVdllCM1RDeDJxdWZMbmRGeFJEMUhQQmxPNC13Z1pWam1XMHRZLVZvOGFzLVpXUUdLZmIwUjV6N2pid3luZkxzaUxSMUVZLWZSajRsSDdZVlpwSjhya0RiczRiRTlLVnN2RV84d2pXSGNnamxiZGJnTlhkRF9YWGl6bUFqRTNjVDdB?oc=5
 
-**5. AI Spurs A Cultural Shift In A 1,000-Developer Insurance Company - Forbes**
+**5. Brookhaven hearing to ponder moratorium on plans for AI data centers until 2028 - Newsday**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxORWExeVF2aDZtbDFiSHFkOVNfVTRmdnlfNllaUlRvWG50RGpRVnpuMkZST3oweHBSMkRxcV9SOHNVT1JCSFhFWkV4UFRxZzdrSkZNdjZ5SDdsanpNT3lIMXI3ZTdLYlVKTDQ4UnFTVzdmLUpBdmhKN2hjR2R6Yy1BWUJ4cDhiN1dkMENsZHFJSFd0UktpWkhwWG1oYWtvbUhxV3hsRWFjUndMaHB3ZjhvRFMzQVU2VkQwOHc?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGxKX0xTNTF4bElQZjNwYXJSQ1FDNUhUTm5iU2NZZFYwVVptWXI2c3BoTGNXRlM5MUdXbTBEMklUU0c2RHMxN1pnVGxOOElvODYyWF9HeDQ3dmdKTmQwT2lVVlRLbFQ2MHd0UTZTRlJJWmdLcW1IQlozVWp6RzFZZFpUaw?oc=5
 
