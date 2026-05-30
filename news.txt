@@ -1,22 +1,22 @@
-🧠 **AI News (29/05/2026)**
+🧠 **AI News (30/05/2026)**
 
-**1. I Tried to Sell My House With A.I. - The New York Times**
+**1. Nvidia Continues to Be the Core Engine of AI, Says Analyst. Plus, Walmart and 4 More Stocks. - Barron's**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?oc=5
+https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEVPZHVxVzRKYUJfVHRFZTRXdVoxTTIxNTZJZDBqWEstLWlHVnlQSWJpT1JzZmROQVkyUTE3cFNpVmo4RHd1NUJ4LVEzNW90Z05wTnRrV2I5MmlEcnRITE0ydnJQTzBrVWtVYnhfNTFGRENibmk1MmtkSFhrWHpPS1BPMkt2SEJOdV9iSzVGWXFIMUZzcVJwSTEwcXZMb1RLaFRoYk9qR3UzcEJZQ0xFWFFaSlhFS0I4T1RYa1pVdlBNSGZUbGRNUGtB?oc=5
 
-**2. Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek - Bloomberg.com**
+**2. Nvidia is investing billions into this emerging technology that could change the AI industry - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?oc=5
+https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdnhMdmVKM19DYkQ4c1EtWXk3bHI3ek1mRWZvVFV6b3RTdXp1Y2VWTk9KdWs2M1o4LXlxc3pkQ0JNeWNfVzlwZmM0c212cFJ6LW9pRm9MNC1wUUwwd0hRTTRMVUN1RDRUbkRBUnp3dFJvazR6eGfSAXtBVV95cUxQZktCN0hoc29UbEI1bHVGR2NGd0pLSnBkWW1xbFlWZ2hxV0JrcFd0NEFwQ0NHY3pqbHlvZG5nS2pGdTcwZjJEU2YyQWdHdWNDTkRnMGRkc0J1aFBRZ0M5UEh6T1RqT3ZRdVF1NHBCOE4yQk9wdzRkRWF0Vzg?oc=5
 
-**3. Samsung's shares surge as much as 6% after company ships next-generation AI memory chip samples - CNBC**
+**3. The Tech Download: How chip companies are looking to use light to solve this major AI bottleneck - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTFAxTlZIemkybWxHOGZuT0dRU3NsaEZVYkNLR0ZHVWpqR285cTVpeDVTTjE2S29EcE82NVhqUzZFcWJITHBjS2hiTUhmRzhMcVVRMEtWYVVrRlJzYWJZTEFUemVhMkxqclFDUnZLRm1KRXNNN2VjTDhLdU8zdVozd9IBgwFBVV95cUxNQ3B6dGllZmswNmw1YUoxWmJFOEt5dnpGcXNMejNKQ1VDU3MtQURvQlZicXFaVi1sZ3JzM21wSkd6QjlyMEN3WXRTUHdpX0FTZXJ4VnNOTEQxbGlueHhxZHdncEYwci14SHhjY3NidldNd011QmxwZ2owdkc3eVpkbFczOA?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkJUMlhlcDJ6RXhnM3ZfbEQ4dXNLRkRuVnEyNjUyNjFQSDNWamlCQXBxTjJtY2d3TmNHaTdKYlhBLWFMTl9qV1N6RFRfNHA4bjk4S3YtUlNGeXhNSWZnMkJnZTJqdUxNV2V0NG91Nk9xYlJnRFpubDVwQlVnWUtSZkd2VHoyRGEx0gGOAUFVX3lxTE5wdXB2WDFGVDg0b0xlcTVvOWVBb0lYYkVoLUZrZ0F0dXFmV0lKVWtwVHQ3RkZVZDBSUHlrS2dDc1BaUHlINE1TX3l1emFjdldpR1ROMzlWak5zTlE4UFhSbDBleWRYeFB5WWlKLVpOUTJ5WXh5TWQ2Zy1UT0tMZVNlV3JIZ3E5YjBNMmtNWXc?oc=5
 
-**4. Gareth Edwards Is Excited About AI Filmmaking — Even Though It’s Like a “Second-Unit Director Who Is a Billionaire on Acid” - Yahoo**
+**4. The Biggest Tell That Something Was Written by AI - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmthd0pDbzlrMkFVSmlZUmNGVkstSjk1ZXN2MUNVdllCM1RDeDJxdWZMbmRGeFJEMUhQQmxPNC13Z1pWam1XMHRZLVZvOGFzLVpXUUdLZmIwUjV6N2pid3luZkxzaUxSMUVZLWZSajRsSDdZVlpwSjhya0RiczRiRTlLVnN2RV84d2pXSGNnamxiZGJnTlhkRF9YWGl6bUFqRTNjVDdB?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOallYWnRyZXFwT0dkejNmSVI0RDYxUXRvUE0yekpDcGV4VTNBNWp4YlJnaDBNYnZvSzh5Zm1WVnMwUlNiNmlsM2tLdktnelVMdUhiSGY2RU5PLVh0bUNtUnRhdUd0MHQ4bkVjb2ZGVGVZWlZzTjdHZWNXcmt2QTFVdktuZw?oc=5
 
-**5. Brookhaven hearing to ponder moratorium on plans for AI data centers until 2028 - Newsday**
+**5. Ukraine using AI drones to strike vital Russian supply lines - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGxKX0xTNTF4bElQZjNwYXJSQ1FDNUhUTm5iU2NZZFYwVVptWXI2c3BoTGNXRlM5MUdXbTBEMklUU0c2RHMxN1pnVGxOOElvODYyWF9HeDQ3dmdKTmQwT2lVVlRLbFQ2MHd0UTZTRlJJWmdLcW1IQlozVWp6RzFZZFpUaw?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRVWQ3MnFUbWpEOWc5Tl90TElHeks1QVB6UEl0RG9ERE9GXzBXeVVzSUc2OEI2dzZ3c2J4blRCN194T3lLcmVVWFJFR3FVVzdiQ3RldzNqcVJRUQ?oc=5
 
