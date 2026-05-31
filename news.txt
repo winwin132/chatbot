@@ -1,22 +1,22 @@
-🧠 **AI News (30/05/2026)**
+🧠 **AI News (31/05/2026)**
 
-**1. Nvidia Continues to Be the Core Engine of AI, Says Analyst. Plus, Walmart and 4 More Stocks. - Barron's**
+**1. After the AI binge, companies balk at soaring bills - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEVPZHVxVzRKYUJfVHRFZTRXdVoxTTIxNTZJZDBqWEstLWlHVnlQSWJpT1JzZmROQVkyUTE3cFNpVmo4RHd1NUJ4LVEzNW90Z05wTnRrV2I5MmlEcnRITE0ydnJQTzBrVWtVYnhfNTFGRENibmk1MmtkSFhrWHpPS1BPMkt2SEJOdV9iSzVGWXFIMUZzcVJwSTEwcXZMb1RLaFRoYk9qR3UzcEJZQ0xFWFFaSlhFS0I4T1RYa1pVdlBNSGZUbGRNUGtB?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?oc=5
 
-**2. Nvidia is investing billions into this emerging technology that could change the AI industry - CNBC**
+**2. The Feeling of Control Slipping Away - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdnhMdmVKM19DYkQ4c1EtWXk3bHI3ek1mRWZvVFV6b3RTdXp1Y2VWTk9KdWs2M1o4LXlxc3pkQ0JNeWNfVzlwZmM0c212cFJ6LW9pRm9MNC1wUUwwd0hRTTRMVUN1RDRUbkRBUnp3dFJvazR6eGfSAXtBVV95cUxQZktCN0hoc29UbEI1bHVGR2NGd0pLSnBkWW1xbFlWZ2hxV0JrcFd0NEFwQ0NHY3pqbHlvZG5nS2pGdTcwZjJEU2YyQWdHdWNDTkRnMGRkc0J1aFBRZ0M5UEh6T1RqT3ZRdVF1NHBCOE4yQk9wdzRkRWF0Vzg?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEU5ZlhMdzhFMXZIWHE4cEJxM3RSM2xNcGVPY0VIRXZ4SjRLUlNySlNEd21HQlYxNHpjOHdmVHVkZVMxUm92UlVHWXBnaW1yN2ctT3BRV0thQWY2QlFwdHV1U09pbkFDUnVRbERzRUFsSG9FZTNIc1VOWGo0cjRYV2tRUWxMcUJsNi1rd2d4RWw?oc=5
 
-**3. The Tech Download: How chip companies are looking to use light to solve this major AI bottleneck - CNBC**
+**3. The NTSB tries to keep cockpit audio recordings private. AI is making that harder - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkJUMlhlcDJ6RXhnM3ZfbEQ4dXNLRkRuVnEyNjUyNjFQSDNWamlCQXBxTjJtY2d3TmNHaTdKYlhBLWFMTl9qV1N6RFRfNHA4bjk4S3YtUlNGeXhNSWZnMkJnZTJqdUxNV2V0NG91Nk9xYlJnRFpubDVwQlVnWUtSZkd2VHoyRGEx0gGOAUFVX3lxTE5wdXB2WDFGVDg0b0xlcTVvOWVBb0lYYkVoLUZrZ0F0dXFmV0lKVWtwVHQ3RkZVZDBSUHlrS2dDc1BaUHlINE1TX3l1emFjdldpR1ROMzlWak5zTlE4UFhSbDBleWRYeFB5WWlKLVpOUTJ5WXh5TWQ2Zy1UT0tMZVNlV3JIZ3E5YjBNMmtNWXc?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkRsSnJpMG95cVlkUGxxQi13Y0M4N1ZkS180S19SYWh0Z2lpckJrWXlyeDQ3UWw3TksyYUl6c01PY3hIWWNQaDFhVDRsdDZlSVY5OFRLdlNDZXYxYnJ1eW9nY21VS2tUSEstU3RBbkxpbmc5Y1Y4X3U2MWU1YllnLWhTTzhuZG4tSmc?oc=5
 
-**4. The Biggest Tell That Something Was Written by AI - The Atlantic**
+**4. SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOallYWnRyZXFwT0dkejNmSVI0RDYxUXRvUE0yekpDcGV4VTNBNWp4YlJnaDBNYnZvSzh5Zm1WVnMwUlNiNmlsM2tLdktnelVMdUhiSGY2RU5PLVh0bUNtUnRhdUd0MHQ4bkVjb2ZGVGVZWlZzTjdHZWNXcmt2QTFVdktuZw?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNMG5BeVlOWlJtNHdsSjhXcmxmVUcxQW5jV3FuNW9vUGl5RzZzalY2ZERLUXhKZ2FKU0xGZnpkN3lESDlkNjJMTUxtb3plWjdpNG51bThRT2RsandMcmtrOXVTNDJOS3FSRUpTMk1LWUxoazlCMjhSMDNEOEJqTEsyZ3phVzdOX3ZndDZOdkc2ekNzMzFRVEV5bEs5T2YwT1ZvX0gxM19uejhrWDZNQkR0QzBBYTE?oc=5
 
-**5. Ukraine using AI drones to strike vital Russian supply lines - BBC**
+**5. Opinion | The First A.I. High School in the U.S. Is Surprisingly Human - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRVWQ3MnFUbWpEOWc5Tl90TElHeks1QVB6UEl0RG9ERE9GXzBXeVVzSUc2OEI2dzZ3c2J4blRCN194T3lLcmVVWFJFR3FVVzdiQ3RldzNqcVJRUQ?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeVFBOU9acF82bzFULVA3dVh1MTdmcUVEYVgzbGFKaWQ3eEFMZGNTOE9TR1VvTS12V0hKMnBkdXJEX2U1LThGcjM3a3FCb2p6RzQwNXMwZHp0U2FBS3BCVU5aNHBBM3pybFJrN3A3cw?oc=5
 
