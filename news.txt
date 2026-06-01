@@ -1,22 +1,22 @@
-🧠 **AI News (31/05/2026)**
+🧠 **AI News (01/06/2026)**
 
-**1. After the AI binge, companies balk at soaring bills - Yahoo Finance**
+**1. Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE5wY3ZQLUFsajEySUd3WklSbjFTeEE0eXk2akdhVG92WG9wbFdfbTE4UWpLQ1lYZG9pSTZzQUR1MVdIUlh6QTY2U3R6SDJnZl9QdTRQbFNJTm9GdXhObmpGU2tGUU1NQjZLYjZhdkZHejZXbDZUYUdUeTV6MGNMQQ?oc=5
 
-**2. The Feeling of Control Slipping Away - The Atlantic**
+**2. US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEU5ZlhMdzhFMXZIWHE4cEJxM3RSM2xNcGVPY0VIRXZ4SjRLUlNySlNEd21HQlYxNHpjOHdmVHVkZVMxUm92UlVHWXBnaW1yN2ctT3BRV0thQWY2QlFwdHV1U09pbkFDUnVRbERzRUFsSG9FZTNIc1VOWGo0cjRYV2tRUWxMcUJsNi1rd2d4RWw?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5
 
-**3. The NTSB tries to keep cockpit audio recordings private. AI is making that harder - NPR**
+**3. U.S. takes step to halt Nvidia AI chip shipments to Chinese firms outside China - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkRsSnJpMG95cVlkUGxxQi13Y0M4N1ZkS180S19SYWh0Z2lpckJrWXlyeDQ3UWw3TksyYUl6c01PY3hIWWNQaDFhVDRsdDZlSVY5OFRLdlNDZXYxYnJ1eW9nY21VS2tUSEstU3RBbkxpbmc5Y1Y4X3U2MWU1YllnLWhTTzhuZG4tSmc?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjhnRnlwT00zMDNzTk9tSU03LUlUNGZra1JKMWIxVFJWWEt5dXhxbkJSbm93TDhZY21FT2lrLXI0ZXd1Z1NNNER2ZXBJX2xLUllrVUFkUnZOU0RSYlk1dUNTSEtnTGpTaEhrWXJTMjh5Vl9ENXZHY2ljY043MGI0a2VCWlkxZE9VRjRxVTZiRW1wVmg0UHdiREFsUUVxdTZKRjJRSVRxSGpkUTJVVFJ6bUdubVrSAboBQVVfeXFMTXF0VE9xWmRWVDIyM0JudDVTS2pYd0lkQmJpLUhITUs5cnZSaVJNd1RudVBuZV9ZZFp5WTRCa3ZjTFoxZlNDSjllNGZabWdvX0VISTFDQm1XeVNpQU9Da00zdnNKVC1tTUJucFh2NE93V21Idk4tejdjTmRDaTBkcVFIdWxIT2hEQ0tTWUV6VDhoQ1pJUF9EZmhKWlUtR1lEQjVqQXA0dDRjV0pWZkZ5LWxZN2Z3Znc5eGVn?oc=5
 
-**4. SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners - Bloomberg.com**
+**4. How US export curbs are forcing China to redesign its AI chip industry - South China Morning Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNMG5BeVlOWlJtNHdsSjhXcmxmVUcxQW5jV3FuNW9vUGl5RzZzalY2ZERLUXhKZ2FKU0xGZnpkN3lESDlkNjJMTUxtb3plWjdpNG51bThRT2RsandMcmtrOXVTNDJOS3FSRUpTMk1LWUxoazlCMjhSMDNEOEJqTEsyZ3phVzdOX3ZndDZOdkc2ekNzMzFRVEV5bEs5T2YwT1ZvX0gxM19uejhrWDZNQkR0QzBBYTE?oc=5
+https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGVMZklfbThua3lUeVJqUXdMbnA5OGRDaDFnV0VTOENvY1h5Wk9fZnpYMWRrMG1Ycmk2V3V6d25icWFZODhnRDJPdmR2RzRNUkFLUXIyU0pLeUN2V2JnbzM5cWNZcTJDWmxFNjhsLXg5a25GVWRlN0FfclR2bFdSRGNoWU5FbHQ0eURBelZLMHMwYk05a2ZXemFVRTM2YTVMV3hOYmFhQ1AydEZkQ3czQ0FCYk5lSjNHazZrN09XQUhqYzVHY18za25yNlY2MTgw0gHQAUFVX3lxTFB4eFd2TU8ySjdEVTVFbXduWWRWM2xDbGROZFZpUmZLWnZLa2M3OTktRFhnelhaRXpiUXpYaXdrRGZlUERMOVNhbmtmb1lWcU42bDRQdmlGNUotWFRvbjZleDlsaEhZSkJ4MkYyM0E1NC1zOG5zYnJuMmdtQ21EMmlQZ3lVdHlrN2Jvd2wxVlV5YWRKU19GZ0pRRGlOckVRVjBCeDB5RTFUVXZIS1Z4YkJiclNVWkNmZDZ4SE40UnEwR0o2UXFiWnBBcy1YdmtPUlE?oc=5
 
-**5. Opinion | The First A.I. High School in the U.S. Is Surprisingly Human - The New York Times**
+**5. Opinion: Don’t let Washington ground Alaska’s ability to protect workers from AI - Anchorage Daily News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeVFBOU9acF82bzFULVA3dVh1MTdmcUVEYVgzbGFKaWQ3eEFMZGNTOE9TR1VvTS12V0hKMnBkdXJEX2U1LThGcjM3a3FCb2p6RzQwNXMwZHp0U2FBS3BCVU5aNHBBM3pybFJrN3A3cw?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzNLel9pdkpEY05MV0c4MWEyVGJac2FzeGx6UDY5OF9Bd1JjRU5RbGxoSjQ5M3kzV2EwN3FTcGRIN3MtNU0wcG1qUVMyUl9DRUNreWNCYzVuX0p6QjRXdC0ydHVjMDdmcGRWSlpDeVR0WExYX0IydjdnQ0pYOTRRNXN6anNPSkxxS0g2WHZTU3BPN1Fla0RheHRKNVc3SVpndVJnR21kUEFldTJvY0cwd05JMlB0Vzc2ZVE?oc=5
 
