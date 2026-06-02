@@ -1,22 +1,22 @@
-🧠 **AI News (01/06/2026)**
+🧠 **AI News (02/06/2026)**
 
-**1. Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her - The New York Times**
+**1. California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE5wY3ZQLUFsajEySUd3WklSbjFTeEE0eXk2akdhVG92WG9wbFdfbTE4UWpLQ1lYZG9pSTZzQUR1MVdIUlh6QTY2U3R6SDJnZl9QdTRQbFNJTm9GdXhObmpGU2tGUU1NQjZLYjZhdkZHejZXbDZUYUdUeTV6MGNMQQ?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTZ0MEhiZm9TUzFpeHNtdkZGWDFVeUZqMjQyU2U0M1Q1OFk2RWw2dGYzNTVvWXZHYjdkRVdsbm9mQ0xOa0NoQWwta01TZW5Vczk4bXQ3OHdiVEJBUWFUcnZJZDE1YUp3V1FxcjROUEVEenZOLVJZUTItUzR4T3FKQmVTUW5ZM2JM?oc=5
 
-**2. US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters**
+**2. Alphabet plans to raise $80 billion from stock sales to fund AI buildout - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFdQ?oc=5
 
-**3. U.S. takes step to halt Nvidia AI chip shipments to Chinese firms outside China - CNBC**
+**3. Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjhnRnlwT00zMDNzTk9tSU03LUlUNGZra1JKMWIxVFJWWEt5dXhxbkJSbm93TDhZY21FT2lrLXI0ZXd1Z1NNNER2ZXBJX2xLUllrVUFkUnZOU0RSYlk1dUNTSEtnTGpTaEhrWXJTMjh5Vl9ENXZHY2ljY043MGI0a2VCWlkxZE9VRjRxVTZiRW1wVmg0UHdiREFsUUVxdTZKRjJRSVRxSGpkUTJVVFJ6bUdubVrSAboBQVVfeXFMTXF0VE9xWmRWVDIyM0JudDVTS2pYd0lkQmJpLUhITUs5cnZSaVJNd1RudVBuZV9ZZFp5WTRCa3ZjTFoxZlNDSjllNGZabWdvX0VISTFDQm1XeVNpQU9Da00zdnNKVC1tTUJucFh2NE93V21Idk4tejdjTmRDaTBkcVFIdWxIT2hEQ0tTWUV6VDhoQ1pJUF9EZmhKWlUtR1lEQjVqQXA0dDRjV0pWZkZ5LWxZN2Z3Znc5eGVn?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5
 
-**4. How US export curbs are forcing China to redesign its AI chip industry - South China Morning Post**
+**4. Google Is Suddenly Competing For $80 Billion in Investor Money That Could Have Gone to the Big AI IPOs - Gizmodo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGVMZklfbThua3lUeVJqUXdMbnA5OGRDaDFnV0VTOENvY1h5Wk9fZnpYMWRrMG1Ycmk2V3V6d25icWFZODhnRDJPdmR2RzRNUkFLUXIyU0pLeUN2V2JnbzM5cWNZcTJDWmxFNjhsLXg5a25GVWRlN0FfclR2bFdSRGNoWU5FbHQ0eURBelZLMHMwYk05a2ZXemFVRTM2YTVMV3hOYmFhQ1AydEZkQ3czQ0FCYk5lSjNHazZrN09XQUhqYzVHY18za25yNlY2MTgw0gHQAUFVX3lxTFB4eFd2TU8ySjdEVTVFbXduWWRWM2xDbGROZFZpUmZLWnZLa2M3OTktRFhnelhaRXpiUXpYaXdrRGZlUERMOVNhbmtmb1lWcU42bDRQdmlGNUotWFRvbjZleDlsaEhZSkJ4MkYyM0E1NC1zOG5zYnJuMmdtQ21EMmlQZ3lVdHlrN2Jvd2wxVlV5YWRKU19GZ0pRRGlOckVRVjBCeDB5RTFUVXZIS1Z4YkJiclNVWkNmZDZ4SE40UnEwR0o2UXFiWnBBcy1YdmtPUlE?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxONG1Nc1I3aVBhYmlCa0s2RE5KcXJ5bWtENmVfZUY4Z1E2dk5Gc05OTUpVaENRYVFrbllpYnJXYlBsc2xhUl9TdEY4SnJxT0d6dGotQkUwOWtNWktpMUlpTlRGbXh6VW1menpfeWJiYWY2eFBVN3F3bS03Vm03aUJRQ1hwQ1BkUHoxT1RkZU5NRk9id1dGOFljLTFrbEpjbjhPb2FBamdFU0lmb3VYcUJFQVdXTXdUaU9FTFVWSGtHWU9hd2t3TDVUYWxJb20?oc=5
 
-**5. Opinion: Don’t let Washington ground Alaska’s ability to protect workers from AI - Anchorage Daily News**
+**5. Florida GOP gubernatorial front-runner Byron Donalds breaks with Trump on AI - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzNLel9pdkpEY05MV0c4MWEyVGJac2FzeGx6UDY5OF9Bd1JjRU5RbGxoSjQ5M3kzV2EwN3FTcGRIN3MtNU0wcG1qUVMyUl9DRUNreWNCYzVuX0p6QjRXdC0ydHVjMDdmcGRWSlpDeVR0WExYX0IydjdnQ0pYOTRRNXN6anNPSkxxS0g2WHZTU3BPN1Fla0RheHRKNVc3SVpndVJnR21kUEFldTJvY0cwd05JMlB0Vzc2ZVE?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxPUG9scHZaNkJIQjc2bzFhVTlaX3o3c25GMlEwSVZ1MDZ3VUN6SjZPUkxiM2NaYWFka0drdmFqcy1GVUc5aFZMTHA1VV9fQUZlMTF5eTNEZkp4eDJRbmdxU3dPU3Bab20wLXN5ZnVDcnJSZ1JZWmVTQ05EUkRjQlZ1SnZmQzJsV0k?oc=5
 
