@@ -1,22 +1,22 @@
-🧠 **AI News (02/06/2026)**
+🧠 **AI News (03/06/2026)**
 
-**1. California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart. - The New York Times**
+**1. Trump Signs Executive Order Seeking Oversight of A.I. Models - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTZ0MEhiZm9TUzFpeHNtdkZGWDFVeUZqMjQyU2U0M1Q1OFk2RWw2dGYzNTVvWXZHYjdkRVdsbm9mQ0xOa0NoQWwta01TZW5Vczk4bXQ3OHdiVEJBUWFUcnZJZDE1YUp3V1FxcjROUEVEenZOLVJZUTItUzR4T3FKQmVTUW5ZM2JM?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRGajdRcnVMNE5FT1RwMklmNFlXVm5CRF9FSDRibkRDOHJrdGl5dm16RUl6VTR4Y19tMGR1dUtiNW15V3JHLXRyaUFqMDBGcEM2d3FTMXpGazFURDdsbllNM3dzajBjbkswdWpRZzlUTUZoNGJkN2hWd3dOWkI4Zg?oc=5
 
-**2. Alphabet plans to raise $80 billion from stock sales to fund AI buildout - CNBC**
+**2. Americans don’t know how to fight AI. So they’re fighting data centers. - vox.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFdQ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPMk5SZ3h0bTg5bTdDd0xJNGVqbEtJc1lONjFpOG5wX3J4Y2RXZW1OVHNaR0hJQzZFaU1aczR2MWZVVFdiZkRGV0dyUXNpQkx3ZWJBNjdlV3N5Y1dPczF6Y1BwOXI4ZjlqNnowTVVOb3FjbnppSW9xcW9mVWVtdy1LSA?oc=5
 
-**3. Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters**
+**3. Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNRllwVWpJS2s0ZHRINlMyWkZ6ckFSRkJYOVp5alp1NVNVSGtDV3BiVGJJeDhuYVlyZWpvSFllZWhIY09iMFJuMURWT2N6M0hGaTZWMVZibEsxZzBJd19kR3VfaGttV3ZOVFF5Q05salFHX0p2WHBMY0s1bzhQek1sSlcyWEZWVk9wWWU1Qk1HZW5udkZLMVHSAZsBQVVfeXFMT3BzbFNaM2xqZDhTN2hpaWhvMnBFRldLWW1rTjcyU2phMi13dWhOeUtFbEY5UDJ3aEMyVDFRdGpjQ2ozQnBzeTY4a2JBbHlESFg3aTFGWDBjQjJEWXlFTEFwSmxOYUhRckEyU3czclFXdHdmZl91UC03Vm00NlNLOFN6ZnYyLW9tZWZKN0JmTGdPS3JuS1pzZkxEc2c?oc=5
 
-**4. Google Is Suddenly Competing For $80 Billion in Investor Money That Could Have Gone to the Big AI IPOs - Gizmodo**
+**4. Alphabet plans to raise $80 billion from stock sales to fund AI build-out - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMizAFBVV95cUxONG1Nc1I3aVBhYmlCa0s2RE5KcXJ5bWtENmVfZUY4Z1E2dk5Gc05OTUpVaENRYVFrbllpYnJXYlBsc2xhUl9TdEY4SnJxT0d6dGotQkUwOWtNWktpMUlpTlRGbXh6VW1menpfeWJiYWY2eFBVN3F3bS03Vm03aUJRQ1hwQ1BkUHoxT1RkZU5NRk9id1dGOFljLTFrbEpjbjhPb2FBamdFU0lmb3VYcUJFQVdXTXdUaU9FTFVWSGtHWU9hd2t3TDVUYWxJb20?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFddIBqgFBVV95cUxQN1lhbnJlekNsalFLMEJhM0lqMEpsOE5jZFBqTjFWdFkzU1NDaWdwb3B4WVgtY2RfdWNuX1lOT1VOajBnTVEzSFl1Qm56NGJtMjZrN0g3WkZ3WmVrYVJ2THcwZXJQMlhyZWRNV01rLXpMWEt4MUdIUzRfOWd6dHFZSDR4UkJDYU9BWUIxU2V0RHV1aS02VGgySElWTkxYUEpCTzUtTllITlUwdw?oc=5
 
-**5. Florida GOP gubernatorial front-runner Byron Donalds breaks with Trump on AI - Politico**
+**5. Oil jumps on Mideast missiles while AI bulls carry stocks higher - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxPUG9scHZaNkJIQjc2bzFhVTlaX3o3c25GMlEwSVZ1MDZ3VUN6SjZPUkxiM2NaYWFka0drdmFqcy1GVUc5aFZMTHA1VV9fQUZlMTF5eTNEZkp4eDJRbmdxU3dPU3Bab20wLXN5ZnVDcnJSZ1JZWmVTQ05EUkRjQlZ1SnZmQzJsV0k?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5
 
