@@ -1,22 +1,22 @@
-🧠 **AI News (03/06/2026)**
+🧠 **AI News (04/06/2026)**
 
-**1. Trump Signs Executive Order Seeking Oversight of A.I. Models - The New York Times**
+**1. Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRGajdRcnVMNE5FT1RwMklmNFlXVm5CRF9FSDRibkRDOHJrdGl5dm16RUl6VTR4Y19tMGR1dUtiNW15V3JHLXRyaUFqMDBGcEM2d3FTMXpGazFURDdsbllNM3dzajBjbkswdWpRZzlUTUZoNGJkN2hWd3dOWkI4Zg?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdUNDVqeHpOQ3AtSDdyeE1oR2VVXzA2ZFNOTi1mZWh6ek9ZWkhjY19hZU1la2tBalJzcjVsVkk2RENHLWo5c2VDai13QXlZaGs2TXpfYWpkWTBKZnBNbnItYy0yUGpxSzRhQmpUT3NhSHhHOWZGUERHVjZWaDF6am0zUGJLekYtemp2SmhQODU4dDg1?oc=5
 
-**2. Americans don’t know how to fight AI. So they’re fighting data centers. - vox.com**
+**2. No, Artificial Intelligence Is Not Conscious - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxPMk5SZ3h0bTg5bTdDd0xJNGVqbEtJc1lONjFpOG5wX3J4Y2RXZW1OVHNaR0hJQzZFaU1aczR2MWZVVFdiZkRGV0dyUXNpQkx3ZWJBNjdlV3N5Y1dPczF6Y1BwOXI4ZjlqNnowTVVOb3FjbnppSW9xcW9mVWVtdy1LSA?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnU3T0NVWVg5MUFYMXlhcHJSc0NhdEF5QlpndHM2RHlBUzlfbEEyaFNVSXdlOHFiaWtrOEFZZndjYllFYkNSX1J4WTF5RlNyUkFhRUpURkF3eVc1UmFEU3FnZ3p1cGJ6c1B3cUNqNHNNN1dIUEdRTW4yQkl0b1p1VVRZX01fcVpCb1VrX2N1WEtITzNOU2J4YWdhUHFkdnM?oc=5
 
-**3. Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification - CNBC**
+**3. TSMC CEO Warns Chip Supply Won’t Meet AI-Fueled Demand for Years - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNRllwVWpJS2s0ZHRINlMyWkZ6ckFSRkJYOVp5alp1NVNVSGtDV3BiVGJJeDhuYVlyZWpvSFllZWhIY09iMFJuMURWT2N6M0hGaTZWMVZibEsxZzBJd19kR3VfaGttV3ZOVFF5Q05salFHX0p2WHBMY0s1bzhQek1sSlcyWEZWVk9wWWU1Qk1HZW5udkZLMVHSAZsBQVVfeXFMT3BzbFNaM2xqZDhTN2hpaWhvMnBFRldLWW1rTjcyU2phMi13dWhOeUtFbEY5UDJ3aEMyVDFRdGpjQ2ozQnBzeTY4a2JBbHlESFg3aTFGWDBjQjJEWXlFTEFwSmxOYUhRckEyU3czclFXdHdmZl91UC03Vm00NlNLOFN6ZnYyLW9tZWZKN0JmTGdPS3JuS1pzZkxEc2c?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1NaWEVzV3N2QTVEZk9md3Z5RXhJVHZ5VlJnVERyWllPZ1pITGdZY0pPcDlRMmd6VlJ0Q2lGUWlSQ2gzMEtOUUpNR21oVGVweGRtTHVDS05TdUI3ZndiUF93dV9QSEJMRHBNNWZKSXhYZTJ5U0c1V1RtN3VRN01Gd0JJTGJ6ZkItSUxUVHg1SVowSlZ4dUtLaDV0OHVuZUJoS0U3SElMdGVKRW84V0dfNHVzVm9Tdw?oc=5
 
-**4. Alphabet plans to raise $80 billion from stock sales to fund AI build-out - CNBC**
+**4. Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFddIBqgFBVV95cUxQN1lhbnJlekNsalFLMEJhM0lqMEpsOE5jZFBqTjFWdFkzU1NDaWdwb3B4WVgtY2RfdWNuX1lOT1VOajBnTVEzSFl1Qm56NGJtMjZrN0g3WkZ3WmVrYVJ2THcwZXJQMlhyZWRNV01rLXpMWEt4MUdIUzRfOWd6dHFZSDR4UkJDYU9BWUIxU2V0RHV1aS02VGgySElWTkxYUEpCTzUtTllITlUwdw?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5
 
-**5. Oil jumps on Mideast missiles while AI bulls carry stocks higher - Reuters**
+**5. Broadcom Shares Slide Despite Jump in Revenue on AI Chip Demand - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZyTm54LXhvU1BpcFBOODV5VmJqQXVING8tWVpBemVWRjR4czN2bXBHR3VUWjBnRTNEU3VQZFJwbE4xSnNqYVdEZTR5U2kwZHN0OExIZDFtQWhHY0Y2bTNOckdxRHFLbW9QVmc4WERJSGZCcmZyeVd0UFJVekl3UEp3emZXdzV0Wnl3MDBsbzBYdw?oc=5
 
