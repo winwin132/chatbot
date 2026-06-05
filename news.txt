@@ -1,22 +1,22 @@
-🧠 **AI News (04/06/2026)**
+🧠 **AI News (05/06/2026)**
 
-**1. Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google**
+**1. Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdUNDVqeHpOQ3AtSDdyeE1oR2VVXzA2ZFNOTi1mZWh6ek9ZWkhjY19hZU1la2tBalJzcjVsVkk2RENHLWo5c2VDai13QXlZaGs2TXpfYWpkWTBKZnBNbnItYy0yUGpxSzRhQmpUT3NhSHhHOWZGUERHVjZWaDF6am0zUGJLekYtemp2SmhQODU4dDg1?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tYzFpdVZLdWdTRG1iWGMyNjRsZVA5SU13WTVISS1mWWxFcVNncEVrUkZQMi1laWkzN25wOXJ4dDRZdGdETjFOS3MtbE5ZVkhmSG90bFZDY0pvZw?oc=5
 
-**2. No, Artificial Intelligence Is Not Conscious - The Atlantic**
+**2. Inside the Trump-backed push to bring AI doctors into American medicine - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnU3T0NVWVg5MUFYMXlhcHJSc0NhdEF5QlpndHM2RHlBUzlfbEEyaFNVSXdlOHFiaWtrOEFZZndjYllFYkNSX1J4WTF5RlNyUkFhRUpURkF3eVc1UmFEU3FnZ3p1cGJ6c1B3cUNqNHNNN1dIUEdRTW4yQkl0b1p1VVRZX01fcVpCb1VrX2N1WEtITzNOU2J4YWdhUHFkdnM?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFFoVno1anJYMFAtTzNfMHJWZHlzNGhKZndKd0lPOGJCNHBTTzA3NWVXMU15TFhFb3Rtam9qTDMwOGx6MmlIMGFodnhWZUtySlp1TTN6WGZ4aEswNVpDTzFUcTNMR29ZT212eER0RnUwNjROeTRKSnpQU1FZMkYtNHEtb1ZRWEZUaU9HcTlENnJaTEkxQ0V0ZFQ3OWlmTTJKWEZpUUR0Qk5jYzZXQmEyT3VlcFIxMlhkOEE?oc=5
 
-**3. TSMC CEO Warns Chip Supply Won’t Meet AI-Fueled Demand for Years - Bloomberg.com**
+**3. Trump is using taxpayer money for coal to power AI - Latitude Media**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1NaWEVzV3N2QTVEZk9md3Z5RXhJVHZ5VlJnVERyWllPZ1pITGdZY0pPcDlRMmd6VlJ0Q2lGUWlSQ2gzMEtOUUpNR21oVGVweGRtTHVDS05TdUI3ZndiUF93dV9QSEJMRHBNNWZKSXhYZTJ5U0c1V1RtN3VRN01Gd0JJTGJ6ZkItSUxUVHg1SVowSlZ4dUtLaDV0OHVuZUJoS0U3SElMdGVKRW84V0dfNHVzVm9Tdw?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxONFRTaEg0RG1WVHFMdUNXaGl4RHQxcXE2SHlKZ21MdGxLR0doQUI4TUpnV0E1VEowdHZuUFowZUNvVl8xRndZRGdaN0xnRWxnOHRacnZxOGdfRHI1RlpEaXUzVWhOQmZhZGExZnhaUkZtcUk3c2Zsek1Tcng2clA1aXh0YWJtY2pyaVJsQjRFVQ?oc=5
 
-**4. Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year - CNBC**
+**4. Opinion | Trump Is Finally Facing Reality on A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnVxc2F5dlFYSU9KVWdHa0hma3kxd1JmRmRpTGdDT0RoQ2NEcExCaWd3bUozdy1JRm1QN2FCTU9PRVZRVGZESDdmUmRhSmRZdVpKcGcyQ2tFTS15Y2x4eVlneWJkdVpTVDgtbDByblNXbTBGcHU0dkk2V3VaRGJZSnlveUVQYngwaVRQdWsyRQ?oc=5
 
-**5. Broadcom Shares Slide Despite Jump in Revenue on AI Chip Demand - WSJ**
+**5. TIME100 AI Leadership Forum And AI In Investment Banking - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZyTm54LXhvU1BpcFBOODV5VmJqQXVING8tWVpBemVWRjR4czN2bXBHR3VUWjBnRTNEU3VQZFJwbE4xSnNqYVdEZTR5U2kwZHN0OExIZDFtQWhHY0Y2bTNOckdxRHFLbW9QVmc4WERJSGZCcmZyeVd0UFJVekl3UEp3emZXdzV0Wnl3MDBsbzBYdw?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3U3TENjT1VPQ1d5TTFEbjNJeGdTWll3U1ZjS2p0TUhrQ1pXT2V1dkktbjhYRk82SmpWVzJ1aVRNUDhmbWpKVWJRRjMtRVUyZmZrNjdxYU9ON3R2eTlBdlBmMVVqOXBmaHVuTEx6MWhWOTF5NHpKOVIxLUVMRXhFbHMtYVZ5eE5oMjk2M0JQX1AtMURkTlRITWZGcXMzdXMtaEZwekhMeEZXdVIzeVFn?oc=5
 
