@@ -1,22 +1,22 @@
-🧠 **AI News (05/06/2026)**
+🧠 **AI News (06/06/2026)**
 
-**1. Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss - BBC**
+**1. Anthropic warns that AI will soon be able to improve itself without human intervention - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tYzFpdVZLdWdTRG1iWGMyNjRsZVA5SU13WTVISS1mWWxFcVNncEVrUkZQMi1laWkzN25wOXJ4dDRZdGdETjFOS3MtbE5ZVkhmSG90bFZDY0pvZw?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVjExV0hRLU93YmtWdzFiYWlCNjdpVTVDUURScUNPd3FrTzNaV3h0QkRJUU1FMXA5STVFcE5ZTjFEVHZSXzJFeEtaUDNJZ2xpaXQySnU2RjBodEhYYkdvWFJXMEZGdVE1MzNBMFFFaEp3cU1ocmozeGRqa05mRTg?oc=5
 
-**2. Inside the Trump-backed push to bring AI doctors into American medicine - The Washington Post**
+**2. Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFFoVno1anJYMFAtTzNfMHJWZHlzNGhKZndKd0lPOGJCNHBTTzA3NWVXMU15TFhFb3Rtam9qTDMwOGx6MmlIMGFodnhWZUtySlp1TTN6WGZ4aEswNVpDTzFUcTNMR29ZT212eER0RnUwNjROeTRKSnpQU1FZMkYtNHEtb1ZRWEZUaU9HcTlENnJaTEkxQ0V0ZFQ3OWlmTTJKWEZpUUR0Qk5jYzZXQmEyT3VlcFIxMlhkOEE?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZCalRnRjNtN09pZ25OckdJNUhjeVBVWlZnZVNVc0lxQm1NNjcwcjBkTENibi1DS05wQlR5WElPaXE2dTFpc19pUTIxckFXU2tLTjRZTmE4WHdTMGxBX3VjWmRrUGpEZkRNNUVKOVBkQzRqWHk2Mm9RdkFjWGNZTXVxM3NrVFc0UmZnQ1VXMmRKMnpGUUhhYU0ybGZLVS1ST3NIRl94Y1lOTVVTX2RnRA?oc=5
 
-**3. Trump is using taxpayer money for coal to power AI - Latitude Media**
+**3. Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxONFRTaEg0RG1WVHFMdUNXaGl4RHQxcXE2SHlKZ21MdGxLR0doQUI4TUpnV0E1VEowdHZuUFowZUNvVl8xRndZRGdaN0xnRWxnOHRacnZxOGdfRHI1RlpEaXUzVWhOQmZhZGExZnhaUkZtcUk3c2Zsek1Tcng2clA1aXh0YWJtY2pyaVJsQjRFVQ?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5
 
-**4. Opinion | Trump Is Finally Facing Reality on A.I. - The New York Times**
+**4. From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnVxc2F5dlFYSU9KVWdHa0hma3kxd1JmRmRpTGdDT0RoQ2NEcExCaWd3bUozdy1JRm1QN2FCTU9PRVZRVGZESDdmUmRhSmRZdVpKcGcyQ2tFTS15Y2x4eVlneWJkdVpTVDgtbDByblNXbTBGcHU0dkk2V3VaRGJZSnlveUVQYngwaVRQdWsyRQ?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTFBUckotREJ1ekk3Q1gweWZyUnByM3RBM3RZMHc3NGxwQ1JwQm9PeFhQbDl6NHduc3VDLVlkdDlsMTVRR2lRZVRGWUtFbEl5YThqanFOOWNUcTVOVmFhNG1ZWVRlTGZZTWw4eXVqQ2x3R21QXzI3Wk5j?oc=5
 
-**5. TIME100 AI Leadership Forum And AI In Investment Banking - Forbes**
+**5. McDonald's testing AI drive-thru order-taking system called ArchIQ at five locations across country - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3U3TENjT1VPQ1d5TTFEbjNJeGdTWll3U1ZjS2p0TUhrQ1pXT2V1dkktbjhYRk82SmpWVzJ1aVRNUDhmbWpKVWJRRjMtRVUyZmZrNjdxYU9ON3R2eTlBdlBmMVVqOXBmaHVuTEx6MWhWOTF5NHpKOVIxLUVMRXhFbHMtYVZ5eE5oMjk2M0JQX1AtMURkTlRITWZGcXMzdXMtaEZwekhMeEZXdVIzeVFn?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHdYNTM1QTUxejl3M1ptZGYtalVhd1dPYWZhb2FySUlCMkROZ0owZGNNaDJfdHJPcFhmMFAzaVB0Q3UyR3FNdVZyRklWT2paektwSDgxSlNzSzZYOWVVbFRpTzljQVV4a0x0Y2Jac1R3T2hNZWQ5VXA4T1BDbHJ2M2FtWHdFak9ZRDFMS1hWNi1ZLWpSeURfUlA3NWNFZ0hqLTZPU3hlVWlUU1FHd1hwMEdJZGE0TnFsVXQ2endQRGjSAcYBQVVfeXFMT1hMZC1WcGFJclJCb1BEcWQ4TTE1bnR2cFFRaXIwaFVpc1BTOU1GT3FBTXY4N3NlWUM1T0hyLVRNdHUyNFBydFY0MUYtVGhSU0xORHlqN0VTVkc5WDlPclIwaDg2ei1Jdk1rNTNydTM2alBNaHE5NEZZbG9jOG1tTXhvbU1wdkhqQnBtRi1EbnE4dDl0aVJGTWpENEgzdXU1QklvUW04MWxpY0w1SU9wMU14UjBCckxqSkdLUVJXZG41TUxoeklR?oc=5
 
