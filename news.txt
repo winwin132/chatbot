@@ -1,22 +1,22 @@
-🧠 **AI News (06/06/2026)**
+🧠 **AI News (07/06/2026)**
 
-**1. Anthropic warns that AI will soon be able to improve itself without human intervention - CNN**
+**1. 4 surprising ways AI is making your life more expensive - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVjExV0hRLU93YmtWdzFiYWlCNjdpVTVDUURScUNPd3FrTzNaV3h0QkRJUU1FMXA5STVFcE5ZTjFEVHZSXzJFeEtaUDNJZ2xpaXQySnU2RjBodEhYYkdvWFJXMEZGdVE1MzNBMFFFaEp3cU1ocmozeGRqa05mRTg?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEhpSXYyNFZOSVNqNzZ6WDlpY0FBdmJ5bzU4dC1QalRJMldsOVJoOW5SQU9XRzlSc19icG1wSjY1Q01TY1d3S0NnQWVteUdILTZBQ1VqOEJvLXc0WEZUNldwNEJVNEtTODAxRmpOekY1bVhXSVFxcXRTd3hpVEdoYzhIV3FoX0hHNHdLTm5YZy05SkFkSVpWTDVHaVlIZEZYZXd5Ym9YSkZSajFITHFRNTZDYzM3Z3drdmJfNWZGa1loS2s?oc=5
 
-**2. Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ**
+**2. Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZCalRnRjNtN09pZ25OckdJNUhjeVBVWlZnZVNVc0lxQm1NNjcwcjBkTENibi1DS05wQlR5WElPaXE2dTFpc19pUTIxckFXU2tLTjRZTmE4WHdTMGxBX3VjWmRrUGpEZkRNNUVKOVBkQzRqWHk2Mm9RdkFjWGNZTXVxM3NrVFc0UmZnQ1VXMmRKMnpGUUhhYU0ybGZLVS1ST3NIRl94Y1lOTVVTX2RnRA?oc=5
+https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WDZOYXdIWVhrM3VaYW5IeHI0YTRXQXdSQS1pMmZFeVo2WGxFQUhQSUc4X2gxRXMwWWthQ1FQcEhQeDRweHI3aFN2MHh0YUl4R0dRaG1LaWllcHRuNFV4cWQ1Y1NjT1dGeWl1OQ?oc=5
 
-**3. Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC**
+**3. Universal Basic Capital: Why Both Trump And Bernie Sanders Want To Give Americans AI Equity - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU1o5QkFTSHlja1A1WV9qRWNvX2UxVURLeXVYak1uWktGbmFhbFYyMjAtajdzSWtqWk9RWmJZdUl4WXdPSnZ2X2taRzVieXJNcUpSOWZVRXFrc3RnSWZDMGRrNkxPakVfMHhhRUpqWVlMeGdWd29kcmhSMHNGMHQ3Snd6cVBqYzM5bHY1WjdfQmxmNFREUHVzZUJjRTNGUHhDLU1kcTNKSTdIa25QcnZoS0dqN0Y0b2hHTzhZdlpMMWFpMVJzU3U1TXQ4YVI3UldZRVd5X0VPaERaX1FQ?oc=5
 
-**4. From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. - The New York Times**
+**4. Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTFBUckotREJ1ekk3Q1gweWZyUnByM3RBM3RZMHc3NGxwQ1JwQm9PeFhQbDl6NHduc3VDLVlkdDlsMTVRR2lRZVRGWUtFbEl5YThqanFOOWNUcTVOVmFhNG1ZWVRlTGZZTWw4eXVqQ2x3R21QXzI3Wk5j?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxQak1pb1pkVTR1VGhJSXZKMjU1d0gwYVU3NnlsRFJvQnNOdXJhTDFjQzVCbFBkbWJPRGV3d0N5RFUybHJ0c0s1NGdkMl9rNE1yMmVrX3VBRmV6VUNvRzdOOHZ3VTVMSU1Pc2JaYlhhQTROYjlGVnllbGNDWWdwMVUzbWo4YlVLSkQ5WUl2eWFjOXlqTUFwenBTMkZoM2Z6RElubWF2YUdZblNZalVVX3Zfbw?oc=5
 
-**5. McDonald's testing AI drive-thru order-taking system called ArchIQ at five locations across country - Fox Business**
+**5. A.I. Companies Don’t Know What to Do With Alex Bores - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHdYNTM1QTUxejl3M1ptZGYtalVhd1dPYWZhb2FySUlCMkROZ0owZGNNaDJfdHJPcFhmMFAzaVB0Q3UyR3FNdVZyRklWT2paektwSDgxSlNzSzZYOWVVbFRpTzljQVV4a0x0Y2Jac1R3T2hNZWQ5VXA4T1BDbHJ2M2FtWHdFak9ZRDFMS1hWNi1ZLWpSeURfUlA3NWNFZ0hqLTZPU3hlVWlUU1FHd1hwMEdJZGE0TnFsVXQ2endQRGjSAcYBQVVfeXFMT1hMZC1WcGFJclJCb1BEcWQ4TTE1bnR2cFFRaXIwaFVpc1BTOU1GT3FBTXY4N3NlWUM1T0hyLVRNdHUyNFBydFY0MUYtVGhSU0xORHlqN0VTVkc5WDlPclIwaDg2ei1Jdk1rNTNydTM2alBNaHE5NEZZbG9jOG1tTXhvbU1wdkhqQnBtRi1EbnE4dDl0aVJGTWpENEgzdXU1QklvUW04MWxpY0w1SU9wMU14UjBCckxqSkdLUVJXZG41TUxoeklR?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGJQM080cThSN1docXFwM3BHdk05ZlBSWXZwdWo5Q2RMY2t4akNNUWpqc2RmYWhMMHdWdHUtMFBOTlNHWkhhd0s2MzhLQmJWLXRWWlJIRjFfTWd6Y0RwU20xWTZOM2UyS0xpYXRnX2JqRkZ6WWI0VHVnYnlMM0V1ZWdxNDA5Zw?oc=5
 
