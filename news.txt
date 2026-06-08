@@ -1,22 +1,22 @@
-🧠 **AI News (07/06/2026)**
+🧠 **AI News (08/06/2026)**
 
-**1. 4 surprising ways AI is making your life more expensive - The Washington Post**
+**1. NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure - NVIDIA Blog**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEhpSXYyNFZOSVNqNzZ6WDlpY0FBdmJ5bzU4dC1QalRJMldsOVJoOW5SQU9XRzlSc19icG1wSjY1Q01TY1d3S0NnQWVteUdILTZBQ1VqOEJvLXc0WEZUNldwNEJVNEtTODAxRmpOekY1bVhXSVFxcXRTd3hpVEdoYzhIV3FoX0hHNHdLTm5YZy05SkFkSVpWTDVHaVlIZEZYZXd5Ym9YSkZSajFITHFRNTZDYzM3Z3drdmJfNWZGa1loS2s?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSURGOHpJeWFZa2kzTUJvcV9SbDQ1czl4cVltYW93cVdVWF9MM2twa1cyVVpXOHIyOFJtSUc4UU4wanozOWFuZHBaTUpqQV9qMExIX2hCWC1PX09TTHlIRTRRSm1fbDlvNkRtUkZhQXBsaE9T?oc=5
 
-**2. Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios**
+**2. The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WDZOYXdIWVhrM3VaYW5IeHI0YTRXQXdSQS1pMmZFeVo2WGxFQUhQSUc4X2gxRXMwWWthQ1FQcEhQeDRweHI3aFN2MHh0YUl4R0dRaG1LaWllcHRuNFV4cWQ1Y1NjT1dGeWl1OQ?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BsQ0dQblVJbnljaEk4cGR4eVZDSkdSd3plZkhWSVVSUlA3QkJrX2JtRnJlMjFmSm1ZbVRlZnVSMjNUWDQ4Um1xY3gzUzR1LUZhWE5RbnFuS2p1OFpEdkc1ejdab1VtNDg2elpuOVphRlM1UVVYZW9YMUNVbkdaSGNFQmxkRjlRUlZ3VF85bUhKZGFXRjRPcm1JTnI0OVhWUTVZcDEzRDI?oc=5
 
-**3. Universal Basic Capital: Why Both Trump And Bernie Sanders Want To Give Americans AI Equity - Forbes**
+**3. Jensen Huang's vision for South Korea's Robotics & Physical AI sectors - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU1o5QkFTSHlja1A1WV9qRWNvX2UxVURLeXVYak1uWktGbmFhbFYyMjAtajdzSWtqWk9RWmJZdUl4WXdPSnZ2X2taRzVieXJNcUpSOWZVRXFrc3RnSWZDMGRrNkxPakVfMHhhRUpqWVlMeGdWd29kcmhSMHNGMHQ3Snd6cVBqYzM5bHY1WjdfQmxmNFREUHVzZUJjRTNGUHhDLU1kcTNKSTdIa25QcnZoS0dqN0Y0b2hHTzhZdlpMMWFpMVJzU3U1TXQ4YVI3UldZRVd5X0VPaERaX1FQ?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnFnZ0FsMUdkaDJBTTZ3RnVqRVg1UjdubElpRHdBUmMyd0JsWXh3QjFFNV9HQmJhRURXdTBmQWNaMkZ2NV9rTjNEUU0yb3Q2OXp2TkNkWmpLcU95UmFoTFJOUWxkN3JUODdxQU5jZkVHbUZORzVqYmEyV2hVcGZtODB6WDM2YUZYYm5uTGFRRm9namFuZ05YZ3dOZ1VDM2hRakRCVTJB?oc=5
 
-**4. Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - AP News**
+**4. China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxQak1pb1pkVTR1VGhJSXZKMjU1d0gwYVU3NnlsRFJvQnNOdXJhTDFjQzVCbFBkbWJPRGV3d0N5RFUybHJ0c0s1NGdkMl9rNE1yMmVrX3VBRmV6VUNvRzdOOHZ3VTVMSU1Pc2JaYlhhQTROYjlGVnllbGNDWWdwMVUzbWo4YlVLSkQ5WUl2eWFjOXlqTUFwenBTMkZoM2Z6RElubWF2YUdZblNZalVVX3Zfbw?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDl0QkhfRnlHSFJ2QmdGUVE4QURVX3Y4eWcwSmp0Zm5Ta3RxWVJCMU9Qak1xTFM4UzZ0b3RxN0VLaHhkcVZxNHBIaVl5SnB1U004VG5RbnF6d1hfaXMwNzd1MU54aUNMQVZtWFdlbWtwM1pxSnNSdzZ2WnVVT2ItMlcxeno2NEtmY19QSjgtMjZJd2YwMHE4UWFDNlpwWDF0X2FwN2VsOV9EdXowcmJaQVlWb0o?oc=5
 
-**5. A.I. Companies Don’t Know What to Do With Alex Bores - The New York Times**
+**5. 'Strategic distraction?' Trump ramps up AI memes ahead of midterms - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGJQM080cThSN1docXFwM3BHdk05ZlBSWXZwdWo5Q2RMY2t4akNNUWpqc2RmYWhMMHdWdHUtMFBOTlNHWkhhd0s2MzhLQmJWLXRWWlJIRjFfTWd6Y0RwU20xWTZOM2UyS0xpYXRnX2JqRkZ6WWI0VHVnYnlMM0V1ZWdxNDA5Zw?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXpyOWFmcXgxcEIxbnJZYmQ4ZTZaX2ZveXFsZG1yV0Q1TUQ0Z01COXJickhqQkp5LW9GN1FOLW9tMy1Ldi1ONzBaOGhQRVE2ZWNLeU8zZmdkRk5HUWgyQ2ZUUV9Oa1ZWcl8yTUxJNjNkR29HREdaV1J3SmtDamZxeUdMcjBTdWFzT29tb3hMcGIzdWJYQWlnc2s4cms?oc=5
 
