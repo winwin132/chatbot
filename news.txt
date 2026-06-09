@@ -1,22 +1,22 @@
-🧠 **AI News (08/06/2026)**
+🧠 **AI News (09/06/2026)**
 
-**1. NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure - NVIDIA Blog**
+**1. They Spent Years on a Math Problem. Then They Were Scooped by A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSURGOHpJeWFZa2kzTUJvcV9SbDQ1czl4cVltYW93cVdVWF9MM2twa1cyVVpXOHIyOFJtSUc4UU4wanozOWFuZHBaTUpqQV9qMExIX2hCWC1PX09TTHlIRTRRSm1fbDlvNkRtUkZhQXBsaE9T?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGtHT3doUklVVXY0UWtQSF9IT2ZibnhKSVFqWjIzMU1ESGllb3pwRzBUWFlnYldhZkVGZnpyTTJfNkhJRU1wUHBRYndTQ3BKbjRyZUJNWm1VZW1aTG1ITzNDMm5jQ2ZLM1dtODRCMmZrWVc5WWp2YlVZeDFReHBVRlFGQQ?oc=5
 
-**2. The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom - Forbes**
+**2. OpenAI files for IPO, the latest in a stream of possible AI mega-sales - CNN**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNjhtZmVkWXBqUUUyYmt0N1ZpbWs0LS1RM1U3YkJHVEFwX0xsbUs4S01fc185OVpKeXN5LTAwWnVfclVCTllqMWswS19xVWFmN2hyS3RiWV9SU3YtZFZ4ajZXTWdadGc?oc=5
+
+**3. OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZ9IBrwFBVV95cUxNYmdiVHBYUUVMODVqaDh4ZjJmV3RyXzNJa1BtblRDRWRFbEIzb2tQNURabU1hSmEtQkZCSDhva3JCVWFIYV9leDVYaVFxWXBQeTNpeHoxbVQzRk5vMVdsa1dpZW0tLXVNRXhuVzZtLVBCSTU2U0pBRDE2NzFKOFRqT041anVxS0RfamwtcEpqeHhiTnNxZ3ZIZWotSzZsSHQ5eTRJcW8xRGdMRkdjWmxF?oc=5
+
+**4. OpenAI Confirms Confidential IPO Filing, With Big Stakes for the AI Boom - CNET**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlpEcFk1eWxtTDRlenlzeFFPOHNHeVYtaVJsOVdWUXF5eF9CM2RLSTVpUFIwdmlNdThFb2c2TTQ0RVZzOEF5LTIyNXVZQnRkbDRTMFlOVDJiZFJPSEd4bFluQ2MtMWRybUN4QS1SRGFPY3Q4WkhKdDJHRUJKZWFERVJMclFraW5SN1djS1Y5VUhqNUx3TUkwUnNoUkpZbEk?oc=5
+
+**5. The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BsQ0dQblVJbnljaEk4cGR4eVZDSkdSd3plZkhWSVVSUlA3QkJrX2JtRnJlMjFmSm1ZbVRlZnVSMjNUWDQ4Um1xY3gzUzR1LUZhWE5RbnFuS2p1OFpEdkc1ejdab1VtNDg2elpuOVphRlM1UVVYZW9YMUNVbkdaSGNFQmxkRjlRUlZ3VF85bUhKZGFXRjRPcm1JTnI0OVhWUTVZcDEzRDI?oc=5
-
-**3. Jensen Huang's vision for South Korea's Robotics & Physical AI sectors - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnFnZ0FsMUdkaDJBTTZ3RnVqRVg1UjdubElpRHdBUmMyd0JsWXh3QjFFNV9HQmJhRURXdTBmQWNaMkZ2NV9rTjNEUU0yb3Q2OXp2TkNkWmpLcU95UmFoTFJOUWxkN3JUODdxQU5jZkVHbUZORzVqYmEyV2hVcGZtODB6WDM2YUZYYm5uTGFRRm9namFuZ05YZ3dOZ1VDM2hRakRCVTJB?oc=5
-
-**4. China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks - Bloomberg.com**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDl0QkhfRnlHSFJ2QmdGUVE4QURVX3Y4eWcwSmp0Zm5Ta3RxWVJCMU9Qak1xTFM4UzZ0b3RxN0VLaHhkcVZxNHBIaVl5SnB1U004VG5RbnF6d1hfaXMwNzd1MU54aUNMQVZtWFdlbWtwM1pxSnNSdzZ2WnVVT2ItMlcxeno2NEtmY19QSjgtMjZJd2YwMHE4UWFDNlpwWDF0X2FwN2VsOV9EdXowcmJaQVlWb0o?oc=5
-
-**5. 'Strategic distraction?' Trump ramps up AI memes ahead of midterms - Yahoo**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXpyOWFmcXgxcEIxbnJZYmQ4ZTZaX2ZveXFsZG1yV0Q1TUQ0Z01COXJickhqQkp5LW9GN1FOLW9tMy1Ldi1ONzBaOGhQRVE2ZWNLeU8zZmdkRk5HUWgyQ2ZUUV9Oa1ZWcl8yTUxJNjNkR29HREdaV1J3SmtDamZxeUdMcjBTdWFzT29tb3hMcGIzdWJYQWlnc2s4cms?oc=5
 
