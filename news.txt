@@ -1,22 +1,22 @@
-🧠 **AI News (09/06/2026)**
+🧠 **AI News (10/06/2026)**
 
-**1. They Spent Years on a Math Problem. Then They Were Scooped by A.I. - The New York Times**
+**1. Ted Lieu slams bipartisan AI proposal - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGtHT3doUklVVXY0UWtQSF9IT2ZibnhKSVFqWjIzMU1ESGllb3pwRzBUWFlnYldhZkVGZnpyTTJfNkhJRU1wUHBRYndTQ3BKbjRyZUJNWm1VZW1aTG1ITzNDMm5jQ2ZLM1dtODRCMmZrWVc5WWp2YlVZeDFReHBVRlFGQQ?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxORkstOVhBeE9PWm4zcHlwR2JYdF9ndTNDRXdFbmFmZDNpdVYtbmsyNW8wSkxyNlhNOFJyeThwcWxLUFNobEYzUE1FUDVDaWRxekFxRk10NTZSTW5BQkJoQm9McFhxd1BGRUFWUGtxemd2bDZjblFZZUhMbUtDcUNGendadzNaX3FIY2kwb0ZRSjR5T3c?oc=5
 
-**2. OpenAI files for IPO, the latest in a stream of possible AI mega-sales - CNN**
+**2. Republican leading AI effort has ambitious timeline for getting his bill through the House - Live Updates - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNjhtZmVkWXBqUUUyYmt0N1ZpbWs0LS1RM1U3YkJHVEFwX0xsbUs4S01fc185OVpKeXN5LTAwWnVfclVCTllqMWswS19xVWFmN2hyS3RiWV9SU3YtZFZ4ajZXTWdadGc?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTRiWjZkTlkyTmRBbWczQVo5Y0lDOGluME9QMjBlVVNvNHFNaDYybEJjR2dBS0FURWNhTFBtdnY2YWNNYjgtMzBHaFF5VmNPVWtLalpRWnFma2pMcV9JWlBXOG1VZGVLZ2VVTFNxTUtjR2xZZGxhTmt5d3pNV3d4em1OVkR0M1c1SXFvRjlwNlRiNFRoWWFldktIdw?oc=5
 
-**3. OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC**
+**3. Abdul El-Sayed calls for public ownership of AI, citing risk of ‘human demise’ - Bridge Michigan**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZ9IBrwFBVV95cUxNYmdiVHBYUUVMODVqaDh4ZjJmV3RyXzNJa1BtblRDRWRFbEIzb2tQNURabU1hSmEtQkZCSDhva3JCVWFIYV9leDVYaVFxWXBQeTNpeHoxbVQzRk5vMVdsa1dpZW0tLXVNRXhuVzZtLVBCSTU2U0pBRDE2NzFKOFRqT041anVxS0RfamwtcEpqeHhiTnNxZ3ZIZWotSzZsSHQ5eTRJcW8xRGdMRkdjWmxF?oc=5
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZlF0OC1nclg3OHNJRW5iRlNZemxXVENFajYxV0ZvR2JoQ3NadjE0S2NfQTBvRWd6eFF6bWJoX1lDTDlGbjBJMXktMWhfOUllX2ppMl9nWGNJSFVFdTNJTk55QzJTSE9JUF9Ic1NrN0JwZVFkZG11RFFfMnJIdHlDdzdlblU2Zl96RzRhdEhWdHBmdkVoNHpJQ0pQRzBJYm5BVG01dXdWekhJMkZvc18zcWI2aU1HLXhZ?oc=5
 
-**4. OpenAI Confirms Confidential IPO Filing, With Big Stakes for the AI Boom - CNET**
+**4. Where Is the AI Jobs Crisis? - Apollo Global Management**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlpEcFk1eWxtTDRlenlzeFFPOHNHeVYtaVJsOVdWUXF5eF9CM2RLSTVpUFIwdmlNdThFb2c2TTQ0RVZzOEF5LTIyNXVZQnRkbDRTMFlOVDJiZFJPSEd4bFluQ2MtMWRybUN4QS1SRGFPY3Q4WkhKdDJHRUJKZWFERVJMclFraW5SN1djS1Y5VUhqNUx3TUkwUnNoUkpZbEk?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE4wb0k0NjBsUkh2aUlUN0phWVhEY2hjZEowZEVJNnYxOExuSHJRWGNaVG9iRzU2dlZfV25UU29UTWJNWGczUGIxZmxMSjJkbVpYZkJzRUszbHZPSWNZOFpWTnlwZ3JKTFNLRUY5OHVvd3dHRWJLS1ZjSnNWSlkzZw?oc=5
 
-**5. The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom - Forbes**
+**5. China May wholesale inflation hits near 4-year high on Iran war, AI costs; consumer inflation misses - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BsQ0dQblVJbnljaEk4cGR4eVZDSkdSd3plZkhWSVVSUlA3QkJrX2JtRnJlMjFmSm1ZbVRlZnVSMjNUWDQ4Um1xY3gzUzR1LUZhWE5RbnFuS2p1OFpEdkc1ejdab1VtNDg2elpuOVphRlM1UVVYZW9YMUNVbkdaSGNFQmxkRjlRUlZ3VF85bUhKZGFXRjRPcm1JTnI0OVhWUTVZcDEzRDI?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlFzVVkwTDNOVFEyS1Q1bDV3WEl6RlF4d0g1QURRb1o0aHVIeXdYNllDSnNKSEZpRHZPemRNQk5PSDIxVENIOXEtSVhNaE0wRnR3RFNsb1IwYXprSUtXSjF1QmFsWFFUbkhLTm03alFJVnJ6Ny1OR2xSbFNfbmlPWTM1MUVrQ1otQ0h3WENWVlhZTVNhT1AwOWE1TjEyNzU5YXJnYzFWZ1Z1a2JiejVneg?oc=5
 
