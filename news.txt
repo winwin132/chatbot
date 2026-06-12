@@ -1,22 +1,22 @@
-🧠 **AI News (11/06/2026)**
+🧠 **AI News (12/06/2026)**
 
 **1. Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5
 
-**2. Meta keeps distance from Trump's AI ownership idea - Politico**
+**2. PRC-linked influence operations are targeting AI debates in the US - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxPbk53M3N5dGNxT0dyQ0I5bWluWm9UUV9DUmZ0NmRKTndvNU1SN2MwXzVvTlRhQVVIUjg0OERJLWRSVnpfUzZTTy1LcTMzUjRCNFJkdkpZV1VFeTJSdUQ3WlBXTjIyTHVYNFhtNl9GZzFhT01KWmdoQzR1aFdFUUZtVWNSd1gwUnRqWWIzSQ?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbGEzYUxQMlNOVzFaanBFUmo0b09XUlhmV2txb19Vd0o5cXF6Wmx6cFJoVWtYRzZqaEJWSDU0eUF0Y3VfemVoRTdOcGJSMHFSWGtYSUhmZHFVTDlseS1GUDZpWkIwanlJSXlDU0s4aERjTnl1Q2o0?oc=5
 
-**3. Trump Muses About Government Taking a Piece of A.I. Companies - The New York Times**
+**3. Trump weighs in on DC mayor's race; Fairfax County debates AI use in the classroom - FOX 5 DC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dVamJJdWhzWWhVYUwtQkpyVXBTVWRKZjRaaEs2R2hjOTE2N0hDRmR0clZBeUlDcTJmRjdoR2J6TlVCT2dQQVBibXNZb1B2YV8zUEExN0EtYUppZzAtcjJYY2kzUDNYQk9ia3VqOXctdVpXaFFkd21VdU9ZVWJLVFowS29TV0Z0ZDgxYkFwZUpPUHEzeWRxSUh3?oc=5
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZXRlTnB0YUZoY19RYW12RWVWaVlHb3Jwdnd1Wl84VENqZmhNX1hEcUJaNDkzY3g1LXl6b19VOEc3Z3FvdjhYZjB0VzEwUmpKWjhtNWhvM1ZkQ1h3QWfSAWNBVV95cUxOMEU5QmNQamFvSldlMlVHbWZ3eFdyM0Rkb2h2Wm1ySlNtWUhUM2dfMGJGbGMtSE15elVWRi10dm5xS09sakQzaWNMWFFPa3ZhZGhmQmdOUWJIMkp4T2xVTU8zRHM?oc=5
 
-**4. Trump’s AI fund idea is good politics, but bad economics - Financial Times**
+**4. Apple’s Camera Chief Thinks AI Can Give You Superpowers - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxObE5yU0Z1eFVOTEVlQ1NEOHBZMEhtdlUtc3JrdFptRW5mQ09JUkR4R0xhRTFZX3VxaEFidFBLQW1FMHlKYlpBSW5CWkNqRUJsNS1pbmRrYWdMMlhNM2RSeVVvS19selNpcWFHLXVudDFjWlkzYlFsZ2ljUkFtSVhrWGYtWXc?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlsZ1BDV0hXZTRKd05KMTdxWEl6bzduU3pSOVB6TlFlY21JUFNXajI5Q1RMY0JnejJWTjBwWjhEelIwMURkbDd2Qy13Rms5TkZLb0g5ZUcwcDM2QWcwcTJsNGNsSDRUSFJXWU1SbGFQdlpKcTg2czJ2aHdPWTFRMjUtSnZOOFlHSHc?oc=5
 
-**5. Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology - The New York Times**
+**5. The Palantir CEO Just Accused AI Labs of 'Tokenmaxxing' at Corporate Customers' Expense - inc.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpkQjBWb1RrbXlrcjBtY3VON1FsVEExT1RRWFgxci1GQkN4SnF1OTdObjl4Rjc4c2ZLLWh5RS1RNFcxbTJkb2l5am5hNXFkd3pTTmxMbzJfaWlDc0pVYmtDenRUUGtlVFVQWXNYdlQtSzVob1VtMDktUTNLa0h0ZnNxaVhnYmVyLXZz?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjRrcUtpRkVLS1MtZXdHaUxhSkpLXzRZU0FyTjhUVU9hd045cDZ4WVYza2JwZlBDOU9aMkNTZTM0VngxOGlHekZ4UzR3MHRRSm9aYUZpRjQ5YVN6U1hpMVpYMHhmYzQ1S0xwc0RuNjF1NmxkRldJVXVSb2ZySFRFUExhcF9jNkIyLU1xUjhQR2lZbzVpVmZMVno0aWhWUGRmdjhVbFlLMWtpRUxiOG9pOWVXS3hnUDFtbWVlUnhMWXM?oc=5
 
