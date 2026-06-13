@@ -1,22 +1,22 @@
-🧠 **AI News (12/06/2026)**
+🧠 **AI News (13/06/2026)**
 
-**1. Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ**
+**1. Capitol agenda: What Schumer told us about AI - Live Updates - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjF0ay1lNFljSkl6ZFh1UDlVa08tWmZ4cDN0Umg0Qk5jVEFXR3ltN0JnMXhrNExNTU9mcFlGWnJhamdQU1o3MDFoSDBuWkNRdkE2QUJ2NHNiYlZna1V5SWFwRmgydzVaalJEOC1icjZ2YmFsVU95UVkwVWcyT1Q5MW4ySkVLd1M5c09UZ1NhdTV0c3BwczJB?oc=5
 
-**2. PRC-linked influence operations are targeting AI debates in the US - OpenAI**
+**2. Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbGEzYUxQMlNOVzFaanBFUmo0b09XUlhmV2txb19Vd0o5cXF6Wmx6cFJoVWtYRzZqaEJWSDU0eUF0Y3VfemVoRTdOcGJSMHFSWGtYSUhmZHFVTDlseS1GUDZpWkIwanlJSXlDU0s4aERjTnl1Q2o0?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTZaMEVPXzdZczdjYm92RU9RR2Y0WmpvNXd3RGk3ZnV2bXJyaU9JRlJteFRnQjlrcVp2dDV5TkpXVXF0dWhKQ0ttVjlESWU4N0l5UXNfeVpUZWd1ZmY1REQ5emNCVGZOVFZvZG4waG1WTUhlOVVRYW4taWxVWTF1QU5QVnJnX280aDhmWC05N1Utc3g1OTZHUUJFbVdMN2tINTVDQ2oyNE8?oc=5
 
-**3. Trump weighs in on DC mayor's race; Fairfax County debates AI use in the classroom - FOX 5 DC**
+**3. Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZXRlTnB0YUZoY19RYW12RWVWaVlHb3Jwdnd1Wl84VENqZmhNX1hEcUJaNDkzY3g1LXl6b19VOEc3Z3FvdjhYZjB0VzEwUmpKWjhtNWhvM1ZkQ1h3QWfSAWNBVV95cUxOMEU5QmNQamFvSldlMlVHbWZ3eFdyM0Rkb2h2Wm1ySlNtWUhUM2dfMGJGbGMtSE15elVWRi10dm5xS09sakQzaWNMWFFPa3ZhZGhmQmdOUWJIMkp4T2xVTU8zRHM?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVVrcUxGYkkyQkdjRGdjQTVrLUdneC1kYmMyVzdWMXhJVWU0WHJ6NE1yNlBZeF9iLWQteWt0ZUFtSWNCQldYVms4c2Z6MENaeFpmbjgzdVFsOWJkLVdVby0tWEhoVlZyX2M2R1c0MEp4dmNTQXBPRlNsdUZMa2RXelVzRHBoZw?oc=5
 
-**4. Apple’s Camera Chief Thinks AI Can Give You Superpowers - WIRED**
+**4. Anthropic suspends new AI models after government directive - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlsZ1BDV0hXZTRKd05KMTdxWEl6bzduU3pSOVB6TlFlY21JUFNXajI5Q1RMY0JnejJWTjBwWjhEelIwMURkbDd2Qy13Rms5TkZLb0g5ZUcwcDM2QWcwcTJsNGNsSDRUSFJXWU1SbGFQdlpKcTg2czJ2aHdPWTFRMjUtSnZOOFlHSHc?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk94bzRpQmZXUlJocnM0NEE0ZjFveFlSTEF1U1ZfQTM5VlFBaTlSQ2E4a0U4U2YwQTBYTkJXcU9sYlR2c3FIUkg5cVRJRzJNOG42S3NyT2pmQ0VhaWtxdU1ObFRyTzZiZE1qaTIyc2lfc2dVQ3FYMTZxaFhBNUU4NmZQVVJqMXZRTnpkbHptdFBsZUlVUE9PTEt0ZjJzcmh1RllYaThra2NsWkZwN2Vfa0x3UVI1MU0?oc=5
 
-**5. The Palantir CEO Just Accused AI Labs of 'Tokenmaxxing' at Corporate Customers' Expense - inc.com**
+**5. AI surveillance, drone defenses to secure World Cup venues - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjRrcUtpRkVLS1MtZXdHaUxhSkpLXzRZU0FyTjhUVU9hd045cDZ4WVYza2JwZlBDOU9aMkNTZTM0VngxOGlHekZ4UzR3MHRRSm9aYUZpRjQ5YVN6U1hpMVpYMHhmYzQ1S0xwc0RuNjF1NmxkRldJVXVSb2ZySFRFUExhcF9jNkIyLU1xUjhQR2lZbzVpVmZMVno0aWhWUGRmdjhVbFlLMWtpRUxiOG9pOWVXS3hnUDFtbWVlUnhMWXM?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEg0b2hjMmhvR29hakpUZV9tTlZuSjl1NUs1MEI4UnJ5aEhUcF9hRnJLajBlN2N2V1ZUcW13UUNoeHBrLTVON1BCeERULUY0NFJHOHJGOWJDdkhKT3Nic3F6ODA5T0syakdlQ25Ob3h1cUVjMGxjUTRUVTlQUHdRYmVsYk54bm9fcHpxTUZrS1c1ZTlvQ1E?oc=5
 
