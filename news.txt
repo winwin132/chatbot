@@ -1,22 +1,22 @@
-🧠 **AI News (13/06/2026)**
+🧠 **AI News (14/06/2026)**
 
-**1. Capitol agenda: What Schumer told us about AI - Live Updates - Politico**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjF0ay1lNFljSkl6ZFh1UDlVa08tWmZ4cDN0Umg0Qk5jVEFXR3ltN0JnMXhrNExNTU9mcFlGWnJhamdQU1o3MDFoSDBuWkNRdkE2QUJ2NHNiYlZna1V5SWFwRmgydzVaalJEOC1icjZ2YmFsVU95UVkwVWcyT1Q5MW4ySkVLd1M5c09UZ1NhdTV0c3BwczJB?oc=5
-
-**2. Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use - WSJ**
+**1. Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTZaMEVPXzdZczdjYm92RU9RR2Y0WmpvNXd3RGk3ZnV2bXJyaU9JRlJteFRnQjlrcVp2dDV5TkpXVXF0dWhKQ0ttVjlESWU4N0l5UXNfeVpUZWd1ZmY1REQ5emNCVGZOVFZvZG4waG1WTUhlOVVRYW4taWxVWTF1QU5QVnJnX280aDhmWC05N1Utc3g1OTZHUUJFbVdMN2tINTVDQ2oyNE8?oc=5
 
-**3. Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI - Axios**
+**2. The Job That AI Was Supposed to Kill Needs More Humans Than Ever - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVVrcUxGYkkyQkdjRGdjQTVrLUdneC1kYmMyVzdWMXhJVWU0WHJ6NE1yNlBZeF9iLWQteWt0ZUFtSWNCQldYVms4c2Z6MENaeFpmbjgzdVFsOWJkLVdVby0tWEhoVlZyX2M2R1c0MEp4dmNTQXBPRlNsdUZMa2RXelVzRHBoZw?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3JwdC1kbEQyYno1R1ZFV3lRWldZUnVSdDlrS3lMQzAyczNtbnVVZlhYNDlkTnluSkJmYy1SekZJRTRLOTlhdHNYWDNuNE5RRDFnVHQ4bHhrUjhiOXNMMEtNaDczcUlMLWVrZEdXQ3c5YTIzNUlCdVFnMUlqWjZrZmRYdDcwcC0tczN4X1B0YlBxX2tWcDhFWEgxWUZKUUN1VVpZ?oc=5
 
-**4. Anthropic suspends new AI models after government directive - NBC News**
+**3. The AI Rulebook Banks Cannot Afford To Ignore — Or Trust Blindly - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk94bzRpQmZXUlJocnM0NEE0ZjFveFlSTEF1U1ZfQTM5VlFBaTlSQ2E4a0U4U2YwQTBYTkJXcU9sYlR2c3FIUkg5cVRJRzJNOG42S3NyT2pmQ0VhaWtxdU1ObFRyTzZiZE1qaTIyc2lfc2dVQ3FYMTZxaFhBNUU4NmZQVVJqMXZRTnpkbHptdFBsZUlVUE9PTEt0ZjJzcmh1RllYaThra2NsWkZwN2Vfa0x3UVI1MU0?oc=5
+https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkdoeHRfaXF5NE5aQ3Q3Zjh6RHFJUldfMTFPbmt0bWpjbnhQRmtDamxTVU5KeVBja2t2R0NyVVoyS0h5X3M4ZFpXZjJ0QnZLeDFwdHJwSG5kSkJsSy1vNGdWMjh1T21feFlaczZTaWpSZDM3V09Sa2JHa0xyNWE1VDVpblJfUEdvMlJqcWk2Y1VWcVl3MnFDcXVYb3NmZHhQcVg5N2pnM1hHRnBYR3BmbHRCdEl1eWNjXzJuR01Fa0VKdjllVGJlaDhn?oc=5
 
-**5. AI surveillance, drone defenses to secure World Cup venues - CBS News**
+**4. Opinion | How to Kick SpaceX Out of Your 401(k) - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEg0b2hjMmhvR29hakpUZV9tTlZuSjl1NUs1MEI4UnJ5aEhUcF9hRnJLajBlN2N2V1ZUcW13UUNoeHBrLTVON1BCeERULUY0NFJHOHJGOWJDdkhKT3Nic3F6ODA5T0syakdlQ25Ob3h1cUVjMGxjUTRUVTlQUHdRYmVsYk54bm9fcHpxTUZrS1c1ZTlvQ1E?oc=5
+https://news.google.com/rss/articles/CBMidkFVX3lxTE5RWnByYTlyN0xCd3JUOFJiS3VSZk53M3YxMm1mTnk3R2JNS3h2VXRmcHpUY0tjaW9wNWo0UFJNM0VHY0VyVWY4ZzR3ZGtrSC1jTjl2dFVRenY1a2pLZlVlSERZSmJYQWtad0JhSnRWXzVTNFp5cFE?oc=5
+
+**5. Russian families use AI to 'resurrect' loved ones killed in Ukraine - BBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVWtPQ0h2bHFYeTVQNW9CMkhmeVdQQkdCWnhHeEVOdnc1SmFDb1lhYThWdkJMaDliaC0zcmxNQW1PN3ZYcS1UdVVKRktnOTZQaHFXcVJtSnpQQQ?oc=5
 
