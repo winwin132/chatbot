@@ -1,22 +1,22 @@
-🧠 **AI News (14/06/2026)**
+🧠 **AI News (15/06/2026)**
 
-**1. Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use - WSJ**
+**1. In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTZaMEVPXzdZczdjYm92RU9RR2Y0WmpvNXd3RGk3ZnV2bXJyaU9JRlJteFRnQjlrcVp2dDV5TkpXVXF0dWhKQ0ttVjlESWU4N0l5UXNfeVpUZWd1ZmY1REQ5emNCVGZOVFZvZG4waG1WTUhlOVVRYW4taWxVWTF1QU5QVnJnX280aDhmWC05N1Utc3g1OTZHUUJFbVdMN2tINTVDQ2oyNE8?oc=5
+https://news.google.com/rss/articles/CBMic0FVX3lxTFBRZlZKaXBLcEJKejFlb1RRZUR2R3N1UG40eG5GRDlFS1VFa1Q2dWhyem1MLVFwRU5rdThRbmxpVFJ0Z2RyUExaMjZIQ1FhNVNlNE1BVHlRYmxwbjJXUmtWbnd4czJhUWotZlppYlJvMEtYa28?oc=5
 
-**2. The Job That AI Was Supposed to Kill Needs More Humans Than Ever - WSJ**
+**2. A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3JwdC1kbEQyYno1R1ZFV3lRWldZUnVSdDlrS3lMQzAyczNtbnVVZlhYNDlkTnluSkJmYy1SekZJRTRLOTlhdHNYWDNuNE5RRDFnVHQ4bHhrUjhiOXNMMEtNaDczcUlMLWVrZEdXQ3c5YTIzNUlCdVFnMUlqWjZrZmRYdDcwcC0tczN4X1B0YlBxX2tWcDhFWEgxWUZKUUN1VVpZ?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5
 
-**3. The AI Rulebook Banks Cannot Afford To Ignore — Or Trust Blindly - Forbes**
+**3. Employers are putting AI skills to the test - Financial Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkdoeHRfaXF5NE5aQ3Q3Zjh6RHFJUldfMTFPbmt0bWpjbnhQRmtDamxTVU5KeVBja2t2R0NyVVoyS0h5X3M4ZFpXZjJ0QnZLeDFwdHJwSG5kSkJsSy1vNGdWMjh1T21feFlaczZTaWpSZDM3V09Sa2JHa0xyNWE1VDVpblJfUEdvMlJqcWk2Y1VWcVl3MnFDcXVYb3NmZHhQcVg5N2pnM1hHRnBYR3BmbHRCdEl1eWNjXzJuR01Fa0VKdjllVGJlaDhn?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE5IR29JU01VQ2pWLU54UU4yUkVaOFVtWnAwRWJIXzZvX0FUMk84UHpHR2xKeXVLeGxMdjJJNG1KU3J6M01vNTdTc3VyUjVrbG5oSlk0MTJwUDFzMUtPcGtBbGRobDVtNnlUM2FJVVRjU2s?oc=5
 
-**4. Opinion | How to Kick SpaceX Out of Your 401(k) - The New York Times**
+**4. Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI chips, sources say - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidkFVX3lxTE5RWnByYTlyN0xCd3JUOFJiS3VSZk53M3YxMm1mTnk3R2JNS3h2VXRmcHpUY0tjaW9wNWo0UFJNM0VHY0VyVWY4ZzR3ZGtrSC1jTjl2dFVRenY1a2pLZlVlSERZSmJYQWtad0JhSnRWXzVTNFp5cFE?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTF0Q29EQTc1emdqV0w0cExFTzVXMkd3V0MxcGtGMGVnZllvdWFpZFN1c3J6LXMyeUJUeFVEanBHS0oxRGpDNE5LODZsZ0R6Xzg2dVRfVG43Y0pIT01wN2VCc1hBampJWHg1TlVoUGJ4THZyb3Q3UmRaSW4yU2RZdk94U1A3UEc0bGlRT3dYNF9rSUxfTG1LOTlBUDA4ZnBQd0k0eVJFMkdoYkFTbU40TkpRY0JwandoVkcxbA?oc=5
 
-**5. Russian families use AI to 'resurrect' loved ones killed in Ukraine - BBC**
+**5. A Place Where Some AI Stocks Are Still Cheap: China - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVWtPQ0h2bHFYeTVQNW9CMkhmeVdQQkdCWnhHeEVOdnc1SmFDb1lhYThWdkJMaDliaC0zcmxNQW1PN3ZYcS1UdVVKRktnOTZQaHFXcVJtSnpQQQ?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0FYQmd0SEVXelN2YjJKOWkxcG1jVXNZbVFmWjBOLWFyVF9YSS1zWmU4TUU3bzJfVVA1LTFoQVNwa3BISEI0ZVVjNmJsX29UQ24wT1JsWEMyM1Qzb29sa3lIbW0tWkQ3U3JCMGlrLXhDOXZfODYzb3VHVlFiRmU2SFlsTHpRODhQcDEwUGs2ZlZ1em9GcTVlRkJ3?oc=5
 
