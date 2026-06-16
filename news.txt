@@ -1,22 +1,22 @@
-🧠 **AI News (15/06/2026)**
+🧠 **AI News (16/06/2026)**
 
-**1. In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes - The New York Times**
+**1. Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’ - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMic0FVX3lxTFBRZlZKaXBLcEJKejFlb1RRZUR2R3N1UG40eG5GRDlFS1VFa1Q2dWhyem1MLVFwRU5rdThRbmxpVFJ0Z2RyUExaMjZIQ1FhNVNlNE1BVHlRYmxwbjJXUmtWbnd4czJhUWotZlppYlJvMEtYa28?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1lODVpWG5scXYwLWE5QmZ2RVk5cjdUaGwwb3pGLUpSa195WTdFQTlhRldaTDR4dXZGOTJiTXFSMDgzWVRILUhjOWpJTDJzNk1jcDNhMldKZVRjd0NVYXJfOTBQSnBjNkhWaGZSODk0Ql9Udmkw?oc=5
 
-**2. A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC**
+**2. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5
 
-**3. Employers are putting AI skills to the test - Financial Times**
+**3. The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTE5IR29JU01VQ2pWLU54UU4yUkVaOFVtWnAwRWJIXzZvX0FUMk84UHpHR2xKeXVLeGxMdjJJNG1KU3J6M01vNTdTc3VyUjVrbG5oSlk0MTJwUDFzMUtPcGtBbGRobDVtNnlUM2FJVVRjU2s?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlBCLVNTYXZMb2NtNkFYTmVmZUF0ZGVoYXVManNOcHVDM0xGaWI1eXo4YjJCVjV1Nms1TUxfVVJpeDFtRXVoUG5LSlItckhTVnNsSXF4cFRoQm9UUWYtY2JJbHlHbXcxUGFhMzJvMUtSVWFzRnlQVUtSUVA0cldkcGdKOTZLMmVxRUFQVkpkYkZkcFpJeWRCWF9UeDRRWjVxZ0g4LUt4SlBWQQ?oc=5
 
-**4. Exclusive: ByteDance in talks with China's Iluvatar CoreX to purchase AI chips, sources say - Reuters**
+**4. How a 90-minute White House deadline sparked Silicon Valley’s biggest AI fight - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTF0Q29EQTc1emdqV0w0cExFTzVXMkd3V0MxcGtGMGVnZllvdWFpZFN1c3J6LXMyeUJUeFVEanBHS0oxRGpDNE5LODZsZ0R6Xzg2dVRfVG43Y0pIT01wN2VCc1hBampJWHg1TlVoUGJ4THZyb3Q3UmRaSW4yU2RZdk94U1A3UEc0bGlRT3dYNF9rSUxfTG1LOTlBUDA4ZnBQd0k0eVJFMkdoYkFTbU40TkpRY0JwandoVkcxbA?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzlpWmNDMDlrRHZqM3BBYUtyR0pjQWhwdFVXT25MdE96S3BaRkpKb2RXd2lteXpwNklGZHV3MDRmY1UydnRNalRxZ05Rc2owbUJuTGwzUUtMbEpDNlp4aWpJeW5wbTBtS21JQ3RZVmMzZUhvY1RZcEQxWWk0WWsyd0RCRk1xazF3eDBydWlKbEdmMFc4WkdHcGxsMjhsSTRMWjhIRER3NU1fa2dhQ3BvbUV4UEdPRXZud3VyZ2FTaXNKQlV3WmZzLQ?oc=5
 
-**5. A Place Where Some AI Stocks Are Still Cheap: China - WSJ**
+**5. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0FYQmd0SEVXelN2YjJKOWkxcG1jVXNZbVFmWjBOLWFyVF9YSS1zWmU4TUU3bzJfVVA1LTFoQVNwa3BISEI0ZVVjNmJsX29UQ24wT1JsWEMyM1Qzb29sa3lIbW0tWkQ3U3JCMGlrLXhDOXZfODYzb3VHVlFiRmU2SFlsTHpRODhQcDEwUGs2ZlZ1em9GcTVlRkJ3?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5
 
