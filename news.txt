@@ -1,22 +1,22 @@
-🧠 **AI News (18/06/2026)**
+🧠 **AI News (19/06/2026)**
 
-**1. State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’ - WSJ**
+**1. Amazon investigating engineers who criticized AI data center expansion - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDBDNVZPOWtzeS13Q1drYzBQVExrLVN0MWNqdXI2UzVzVzFHMi15aGZRa2VsQUpsZVlxY1R0eUZidVBDczRuUXhzS19PQWp2bXdjY0hVbklENU84QjU0TTdEUU9LSXhfeG81VkxkZXRNSy1HanRGMDJtUW96UHRuSFNBV05YSXJHRjdnbGxrZ3hjNXZXdFk5anltbllFNWJpMG5YRmRsWHRkcjJIVkZ6bg?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3BCZGNwWWowRVJKSUd5R2p1aWlqQU5sOV92bkIwTmJKZ2VyMmVxMFJkdHdDQWVxSnRxbVlBLXNfeW9JQVNnbEI3SEd6bjNUcTNYdDdUSlFPbVBLTll4SVFZcm5zN2NEWTE2cEhLcm9PVS1zaXNsZy1LMEdud3VFeG9Fd1pfUdIBiwFBVV95cUxPN0dUQUhRVWhaTHNaeGNRckNiRGtOM3QxakZ6WjFlSE5nQV9wejdfVTJfWkNkbXAzUW54b0twNXREUEhIYVVEMXdHZ2hGaU1EczZJdTVvbnZWYXliM3U0ZmNGYmpXeGpEOW1aSXJWRU5oNnFnOGN0OFhtX1Y5ZTdfN2JaaXlZXzBXcFBr?oc=5
 
-**2. Allbirds continues AI pivot with name change and CEO hire, sending stock soaring - CNBC**
+**2. Federal regulators order grid operators to speed power to energy-hungry AI data centers - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWwxY2RrSUUyVzJzU1pGXzByejdkRWhOTHItanNPd1c5SEhDVDlPV3VUaDdFVmZNVjZaVHo3WmlLX1lyMEk0N0toMTFET2hDS3NCMUVjQ09od3pKdzhfWnJ6QldQaGsyZ1YzVGdVNTFWVkhEaXfSAXtBVV95cUxNNlcwb1BZMUVRMFFES0NlQ195dENodUN0eHhCRUx2VUlmWDZORzZpVkpnbzNOWi05OVhWbGJuYjBlc1AzckJhcjhTdXhXN21od01XaHRETzZobkFsQk1XNThhQUVaNFQ1Y1VsN09pd2dQNS1xTGk5Z1UzNG8?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHdIVzBqWjdqZGwtSG9qajFHdkNQUmV3MmxVVmJ1Q0xPU1ZfdjEyZ1VXVWtrSXVMbGFPOTdON1JoN2tWal9GeVJnSFBCVmR5NWhOYTZzQ1pDODVNU0dFamxlTXBJdFl3ZFlaZVJxWUhVWExEcnZmYTNWa2lpNnljc2RqN0wxWkVYWU5zUFZWNEo5YzlEMHJOQlV0Y0s3aFJLY2czUExDVmY?oc=5
 
-**3. Allbirds rebrands as Smartbird in AI pivot, hires former AWS executive as CEO; shares soar - Reuters**
+**3. Exclusive: Conservatives plan nationwide protest against AI data centers - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFB6ZS0xMWdqYjVMN1pOTGctQXBQcWtsOG5XZkJrcEItbzlWbVJ0TFlxaDJnVkotLXRveE83NEFmc2pUeURsNGhIbnY2cW1BS3hjaDZJRWhrQTN0UUNqa0VyelI3aXZQUUhHcDlPSDZ2ekhOaVhaLXA1ZWVSdVZ0Zjg2ZEE3Nm5laU5iT3lZMXZVellSUHRxVXBpSjBfUDFoQ1VuNGFJa2FXbk0ySHV1dHk3Q2xCTmE2WnJOVUh5clRqOE0tRkFV?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE11ZXRSdjFMZVNPb1pmZlFBLTk1cDQ0NGdELWhlZTFtNjVSbFFFX1ViRWkxc2NHVFc1UndtNmpMUGx6VVBIWTh3TDVURDIwN3N6S1dtRWZGOFdxeDc4WkdvbWNPUG5zWl9BaDRiTlJNOFJJTXVfVlU1RXlR?oc=5
 
-**4. Allbirds rebrands as Smartbird in AI pivot, hires Amazon alum as CEO - Yahoo Finance**
+**4. Accenture Takes a Hit on Worsening Outlook and Cloudy AI Future - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWs0VWxRY2ZUMG9xQTVBSlJoOGNyZm0wSFk2ZG5Zb1ZyZ2ZnVWUzeFA5ZGpxZExxOVo0czVlWndNYmpORkZIeFk0ZGF1cERsMkFFUlhkbzRIZ2VwUE9iTDR6em5VdGpnR2R3a21FUUs1RXgteVFHeVJINkxFTHllVG1LWV9qUC1xWXlJ?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmVDUUFrRlNQN2lic3pEYXlOZWdxZUdiWHNRXzU4RjdaRmVuUHIzWVlLNE9JUlVGZzRWcGFTeUcyVUVrTTdPWFRkRm5nUjVWT29Oc3gxdS0yemdId29TakFZa1JKMzFaZi1RLWlGNVF4ZGplM1d1Z21BZ3ZJYzh5eDlsMGVEOEJjN3Naa1Q2eW1KQVl1UVAxUnUwallNNHhtSnp3?oc=5
 
-**5. Virginia law permits AI cameras to enforce traffic rules for pedestrian safety - WAVY.com**
+**5. White House talks with Anthropic shift to setting AI security rules - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFRGdzlORnVTZEdZOHZRMGtrcW8zSFFGU08yWWloUVBvb01PSndHWGhfS2VWeENRcWFKZmNMbjVNT2dNNEp0eTAwaHRYQ3dOT2NQN3ZoRWhySV9RckQyVEhTSjlGMDVWak5nSEZ5OUZxeERGU2xLcGZTbTBqMklmYUU3TF9tZFRKbW1ORmgtMWtUWDJyLVJ0WnpIT2dJV1Q0cFR6Tm9VQkxxVllVSkVkYVQycmtJZFRRbFBkN0Z2ZmFQQdIBxwFBVV95cUxNRXBST01sb1E2WGJqOTZvQkIwaDZkbFlhbkFJN25uQUFkeUhWcVN6VzRvX18zeGNsQS1qVENTUl9UZHRhQkQ4a1g1cTBIQjc1TUJNT2NlaVZIOTg2Wld1bjlFSDdUdWg1blpOZUZ3d2xTUXIyX0M3V1ZsSlZuQ0ZsTGJEcU1QRHh1TGgwdEJiUWpJQnIyRnBZSXVYdmZJZ2hLVmJxWWFzZmRpdGJjbTVZNEZvY25icDJ3eUFoUGF6ZTB1SFNlYndj?oc=5
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0FXaGwzckVjWDF5WFdrUHJkVV9aWGtxbFpDMmNTNEtQMzZsaXl3elJFX2c0ZFpaUFZhX1U3Vkh6Q1NwbHFzVEVUeUY5Z0Q5UC1rYjhqZ1BoU3FyaFRTSmc2U2JkYzdqQVdjLUhLOC1HZWI4RE8tbHVxaU80YnIwa1Z6Nm5RYkZ5T3NndVBkNjB3ZWlPamFyb1FraTBKdGpYUkpKbmJTQ1hNOC02MHJEbkFrbjFRX0N4?oc=5
 
