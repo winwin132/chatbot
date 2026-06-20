@@ -1,22 +1,22 @@
-🧠 **AI News (19/06/2026)**
+🧠 **AI News (20/06/2026)**
 
-**1. Amazon investigating engineers who criticized AI data center expansion - CNBC**
+**1. Norway imposes near ban on AI in elementary school - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3BCZGNwWWowRVJKSUd5R2p1aWlqQU5sOV92bkIwTmJKZ2VyMmVxMFJkdHdDQWVxSnRxbVlBLXNfeW9JQVNnbEI3SEd6bjNUcTNYdDdUSlFPbVBLTll4SVFZcm5zN2NEWTE2cEhLcm9PVS1zaXNsZy1LMEdud3VFeG9Fd1pfUdIBiwFBVV95cUxPN0dUQUhRVWhaTHNaeGNRckNiRGtOM3QxakZ6WjFlSE5nQV9wejdfVTJfWkNkbXAzUW54b0twNXREUEhIYVVEMXdHZ2hGaU1EczZJdTVvbnZWYXliM3U0ZmNGYmpXeGpEOW1aSXJWRU5oNnFnOGN0OFhtX1Y5ZTdfN2JaaXlZXzBXcFBr?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5
 
-**2. Federal regulators order grid operators to speed power to energy-hungry AI data centers - AP News**
+**2. Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHdIVzBqWjdqZGwtSG9qajFHdkNQUmV3MmxVVmJ1Q0xPU1ZfdjEyZ1VXVWtrSXVMbGFPOTdON1JoN2tWal9GeVJnSFBCVmR5NWhOYTZzQ1pDODVNU0dFamxlTXBJdFl3ZFlaZVJxWUhVWExEcnZmYTNWa2lpNnljc2RqN0wxWkVYWU5zUFZWNEo5YzlEMHJOQlV0Y0s3aFJLY2czUExDVmY?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxkcHpxVV9XRmJBUXJzN1RTOHYyTGtzTXZQOUQxRXRGQkl6NWFzdmpENkZjUjd1a3oxUmM5Ymt5YzAxdnREZjhlLUhHcFJNa3BlQnZ3dlVoaGFmOHVVcm5UTFBXUXBrUWQxSWs3ejJkRkNaOFN3cTBSajZPel8xT2FTOHpqczltVGF3Z2tGVWxaZXFUUTdoYUcxak4tOGxybHhqcEhWWHQtelFuMVN1UEtINW4?oc=5
 
-**3. Exclusive: Conservatives plan nationwide protest against AI data centers - Axios**
+**3. Old fashioneds, anger at billionaires, and 500 people rallying against AI data centers in Eau Claire - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE11ZXRSdjFMZVNPb1pmZlFBLTk1cDQ0NGdELWhlZTFtNjVSbFFFX1ViRWkxc2NHVFc1UndtNmpMUGx6VVBIWTh3TDVURDIwN3N6S1dtRWZGOFdxeDc4WkdvbWNPUG5zWl9BaDRiTlJNOFJJTXVfVlU1RXlR?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVpzbmdvSnZnTFRkb0ZHVWF4eWNGNTNLNm1FYUpWVmJrSFVDMkpZTldaQzN5ZmwwbEthVXJvRHBhMHZ5SUR3RFBlbFNWQVF0SHRyWHlNMVdLQXZpMEtaclVqak5xQzEzejRJNmdzSWlqZEltZElOM1RPRlhfMi1QU1F2Ri1vd3ZrM1VIVTJpZzZqSC1hRmc?oc=5
 
-**4. Accenture Takes a Hit on Worsening Outlook and Cloudy AI Future - WSJ**
+**4. Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmVDUUFrRlNQN2lic3pEYXlOZWdxZUdiWHNRXzU4RjdaRmVuUHIzWVlLNE9JUlVGZzRWcGFTeUcyVUVrTTdPWFRkRm5nUjVWT29Oc3gxdS0yemdId29TakFZa1JKMzFaZi1RLWlGNVF4ZGplM1d1Z21BZ3ZJYzh5eDlsMGVEOEJjN3Naa1Q2eW1KQVl1UVAxUnUwallNNHhtSnp3?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE0yaV9uaGItNXg3ZTNPVzNoZjhlblB1NVFlUmFKUmVRYUxVY21YbmVHRjVCemU0ZWtSTUlvN2thR1RDdXp6dGhpd3FFMWdZbXNZWkFSU191Q1YxY3JMSWQ2Ry1LYXRjQTZHQXp0ajdHcTE?oc=5
 
-**5. White House talks with Anthropic shift to setting AI security rules - Politico**
+**5. WATCH: President Trump talks Iran, Cuba, Israel, AI, and power on "The Axios Show" - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0FXaGwzckVjWDF5WFdrUHJkVV9aWGtxbFpDMmNTNEtQMzZsaXl3elJFX2c0ZFpaUFZhX1U3Vkh6Q1NwbHFzVEVUeUY5Z0Q5UC1rYjhqZ1BoU3FyaFRTSmc2U2JkYzdqQVdjLUhLOC1HZWI4RE8tbHVxaU80YnIwa1Z6Nm5RYkZ5T3NndVBkNjB3ZWlPamFyb1FraTBKdGpYUkpKbmJTQ1hNOC02MHJEbkFrbjFRX0N4?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE91S3piM2I1b3ZyUFg2N1Q3V1lRa3BMbkhnM2w4WWhqT3NWUmpfcDVfWHpOenFHUHFIcE5oMGRSTXRTZ1p5MnJhajJqNWhyNHlLdXdtVkhpMDJPNUtrdkFFU0U1ejBQTmhJR2pGSnV6dEFlVmk1?oc=5
 
