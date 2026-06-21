@@ -1,22 +1,22 @@
-🧠 **AI News (20/06/2026)**
+🧠 **AI News (21/06/2026)**
 
-**1. Norway imposes near ban on AI in elementary school - Reuters**
+**1. New global order: AI CEOs as heads of nation-states at G7 - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE45WlV4dzAwenB0NjJubFM1d0VJSThjT1U3RjBZWkxYNDc4SzZkekRIS0dNczd4ejc2LVB6X1VlR3pfSVNiSW5VeHB0WDlYQlNzRnFlRnVEbFpYLXpRclkw?oc=5
 
-**2. Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com**
+**2. A viral doomsday scenario aims to shake Europe out of its AI complacency - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxkcHpxVV9XRmJBUXJzN1RTOHYyTGtzTXZQOUQxRXRGQkl6NWFzdmpENkZjUjd1a3oxUmM5Ymt5YzAxdnREZjhlLUhHcFJNa3BlQnZ3dlVoaGFmOHVVcm5UTFBXUXBrUWQxSWs3ejJkRkNaOFN3cTBSajZPel8xT2FTOHpqczltVGF3Z2tGVWxaZXFUUTdoYUcxak4tOGxybHhqcEhWWHQtelFuMVN1UEtINW4?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNR01YUUNDaXhKRlNQUXE2eHA4bGFsMlZWT1BVT0dGUXN0dG5ON0Jmb0I1X3BmdUNPLTE5X3U3dFgxNzI0SjJsZmxlYm4zOEw0R3lOUks2N29FUzlBZmUtVGdEQS1idkZCRTJSVUowX2FadDRpcjFad3J5bkVrUV9FY1BVVS14QWJ2bUtzQWhfX0dnSXJVNGc?oc=5
 
-**3. Old fashioneds, anger at billionaires, and 500 people rallying against AI data centers in Eau Claire - Yahoo**
+**3. Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVpzbmdvSnZnTFRkb0ZHVWF4eWNGNTNLNm1FYUpWVmJrSFVDMkpZTldaQzN5ZmwwbEthVXJvRHBhMHZ5SUR3RFBlbFNWQVF0SHRyWHlNMVdLQXZpMEtaclVqak5xQzEzejRJNmdzSWlqZEltZElOM1RPRlhfMi1QU1F2Ri1vd3ZrM1VIVTJpZzZqSC1hRmc?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVpWNUFFd1JBV0dfSVBRSWlrWjBvRWtKa1NZUGRYeUNBeWgwVG9FMWVjekw5U2ItaXpFZEVYZER5RVUtNFJEemo3cDFwbldkejc3OTk2c3JUWG5ubENBQy1JTEwtWTlldVRIOFBNaEZXOWNZT1lsZjVCZ3o4a3pkWFlUd0F6MGlfbmtfUGM?oc=5
 
-**4. Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight - WSJ**
+**4. Temporary Cloudflare Accounts for AI agents - The Cloudflare Blog**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTE0yaV9uaGItNXg3ZTNPVzNoZjhlblB1NVFlUmFKUmVRYUxVY21YbmVHRjVCemU0ZWtSTUlvN2thR1RDdXp6dGhpd3FFMWdZbXNZWkFSU191Q1YxY3JMSWQ2Ry1LYXRjQTZHQXp0ajdHcTE?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JOEN5WlBkQU1FbjNpb2hTN3FMSmpycDhpZllUQlNWQ090bHg2cWlVNFZTUEoyVFNFTEttb2NWTjVyQzBfYnNmbk14WDRLOHZfN2RhLVBlX2dTUFk?oc=5
 
-**5. WATCH: President Trump talks Iran, Cuba, Israel, AI, and power on "The Axios Show" - Axios**
+**5. Why an AI company cleaned my New York City apartment for free - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidEFVX3lxTE91S3piM2I1b3ZyUFg2N1Q3V1lRa3BMbkhnM2w4WWhqT3NWUmpfcDVfWHpOenFHUHFIcE5oMGRSTXRTZ1p5MnJhajJqNWhyNHlLdXdtVkhpMDJPNUtrdkFFU0U1ejBQTmhJR2pGSnV6dEFlVmk1?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KYS1XT3E5aGp2NGZ2UFdsX3lsbmtZd2x4S19EbldDTU5VZV9LVlVkZTdjZnJYR3ZoMmNSZ04zV040Vk5fWUpaQjg5Y1p2NVRfMG5pS1JtbGotUQ?oc=5
 
