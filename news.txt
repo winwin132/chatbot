@@ -1,22 +1,22 @@
-🧠 **AI News (21/06/2026)**
+🧠 **AI News (22/06/2026)**
 
-**1. New global order: AI CEOs as heads of nation-states at G7 - Axios**
+**1. All the Money Flooding Into AI Is a Giant Warning Sign - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE45WlV4dzAwenB0NjJubFM1d0VJSThjT1U3RjBZWkxYNDc4SzZkekRIS0dNczd4ejc2LVB6X1VlR3pfSVNiSW5VeHB0WDlYQlNzRnFlRnVEbFpYLXpRclkw?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmVIbThnMUZPdEZ2RzhKWEliOUktWU1JUTVJcVY4aUJtM25oSS1PSVJwUTlCQlhzQ2ltb3lyek4yeDdPMnZSZWdpVkZfNnR1WUxTXzU4YmFiYmF4X1ZtLWJaTHJtYWlRN1BRWktIMDF4eWNyRG1fRkZaVkxqdjJNRXRzS3Jhelh3VXlQeDZGMER2Y1FXZlJUeU1peFVsRmM?oc=5
 
-**2. A viral doomsday scenario aims to shake Europe out of its AI complacency - The Guardian**
+**2. Top Value Investor Says Adobe Stock Is ‘Very Compelling’ Despite AI Threat - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNR01YUUNDaXhKRlNQUXE2eHA4bGFsMlZWT1BVT0dGUXN0dG5ON0Jmb0I1X3BmdUNPLTE5X3U3dFgxNzI0SjJsZmxlYm4zOEw0R3lOUks2N29FUzlBZmUtVGdEQS1idkZCRTJSVUowX2FadDRpcjFad3J5bkVrUV9FY1BVVS14QWJ2bUtzQWhfX0dnSXJVNGc?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk5EWVZ0ZGpDT0pGWnNldy14ZUVHa2FtcUdrV3VhX3Q0NXR2T1BSYzg0Y1oxYm9FY3ZBZ21YUHBQT0tvTXd0Z054cG4wTVlaTXhhaGhyWjY3MHhGem1fZzRYeS0zREpEeUNONlI5X3hkVU02V0dxR0lYSG1mdHFnYXdRLUREVmNOOXR6WDZBdDVCQ3dqNmp2d1lB?oc=5
 
-**3. Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - Yahoo Finance**
+**3. 3 AI Tech Stocks That Just Crushed Earnings: Are They Still Buys for the Long Term? - The Motley Fool**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERnajJIa2xfTnFqOGs0RnE4YVpWNUFFd1JBV0dfSVBRSWlrWjBvRWtKa1NZUGRYeUNBeWgwVG9FMWVjekw5U2ItaXpFZEVYZER5RVUtNFJEemo3cDFwbldkejc3OTk2c3JUWG5ubENBQy1JTEwtWTlldVRIOFBNaEZXOWNZT1lsZjVCZ3o4a3pkWFlUd0F6MGlfbmtfUGM?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlktN1JvcjJZanJCZ0E1cDgtTVFfSW5hR2VqaW50d09pNDZyNm4zLVFBZFRiMFZKUHZUNmZGM2hzMmlFclpkLVYtY0tuNzE5ZlZwQjctUnpMVkJjTGVUYWFZNGxQQlAxX3lrNmJQM3B3UEhUU2JiUDdzeGc3UXFmQlFvUVhyaFdqWVV1bktBaw?oc=5
 
-**4. Temporary Cloudflare Accounts for AI agents - The Cloudflare Blog**
+**4. No one wants AI data centers on Earth. Do they make sense in space? - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JOEN5WlBkQU1FbjNpb2hTN3FMSmpycDhpZllUQlNWQ090bHg2cWlVNFZTUEoyVFNFTEttb2NWTjVyQzBfYnNmbk14WDRLOHZfN2RhLVBlX2dTUFk?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxNckN0aU9QN2xCT0MxZGN1NnZkN19ZY3loUTdJUHc5dlBiUzV2bjgyVW85OTQ5czEzUDgxYU8tTnVMMnBEQUNOdUhGdGU0NmRDODJ1SGlEUGVxQm8wYVg0bVRRR0Y3U2g4djFUdFF4SEx0SS1lV3p3czM5NU9KWEROby1DNzdBcGhVb2VTakxOMTXSAZYBQVVfeXFMT05mN21fLUdwQTV1UnRjWHVneHAtR3RYTV9jMW9GMldVYmJNVlRmT055alVGTnJfVkU0Y2RWVElydzFJTUI3bkxxSGxYeE1BVFFlLWVwU1BmWFZGNVFDUXlNVHgwVkYyM1VhOF9zdHBrWXdYNUtHN1ZzWDBOYXE0cWx3SzFxRzY2S2ZWUWxBNnFQU2lRdlFn?oc=5
 
-**5. Why an AI company cleaned my New York City apartment for free - BBC**
+**5. AI data centers need power fast — gas plants are being approved before neighbors get a say - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KYS1XT3E5aGp2NGZ2UFdsX3lsbmtZd2x4S19EbldDTU5VZV9LVlVkZTdjZnJYR3ZoMmNSZ04zV040Vk5fWUpaQjg5Y1p2NVRfMG5pS1JtbGotUQ?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjUtZlRuTGpHazBzeUM1YzN1R25NLTVHbjQ5ZGF5Mk51RDdpV0o3OURmb3hhS21oYW9rTGphRUxSOWViNGxOa29vN1VhcnFrYnRQY2g4Q3JKaGhFMmR5Z3NBRERmYi11Zm5Dalo1d0IzVmR1Z1ZydUV4RnlfaEswU0FYQ1cyTjg?oc=5
 
