@@ -1,22 +1,22 @@
-🧠 **AI News (23/06/2026)**
+🧠 **AI News (24/06/2026)**
 
-**1. Alphabet has its worst day in over a year on AI concerns after high-profile exits - CNBC**
+**1. N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bUh0Uk95MWYxNVZRc2VQdFpaWWRYZEJ0MEdQOWhFWkNNa19pdDcyazBqTGE2MHdMTzhfTHh5STk2NVB0d2dsMlFFb0JteGR4MWxsY3VPUWM4NjdHUk1PY2pJdVA4S1E1allZS0JMWjAyX0lMdUlRRHZR0gF_QVVfeXFMTzFzeWhOZXAwdk9JNDJvekdBajl4X1lBSU0yUmkxVGpoS09rZmFoMDdMRUZkckM2TEs0M3JsZ3hxcThhS0xLRDhIeVVZU3otdWMteGVzMHdNMXBYdVRfZk0xZzg1NU1RbUlrVzNnTXNuX3Y4dEN2aGlzVllRNFA1Yw?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5
 
-**2. Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg.com**
+**2. Is AI 'one big bubble'? Behind the tech sell-off - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGd5bHRlMVJWY2RlcklxMXloNVlzOWhseDVfZmtrZXlDd2FWd1pvQW5ZZWJNeGQtdVJKWWJNX3hQVnJDcWJyWnMzZDZXSVVMRGUzdUJjRUlPQm81N1NUaFNkSlRjOEkyM0ppRkZRVVZ4VWl5eFRxZzdLOF8zUlRfYXBZblhYMl9SY3p0TzZ0TTlERGEtQWxzTy0yVEJOMHVEMUpyZFNqZzc3QzdReF85dFlR?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWU0VkdBSm4xdno0NjBPZDNmZlJ3dS02MVc4akhFVlpEalFDNXJoMzRQWmxaNnowWUxzM0w2N1RRZUVUUHFMZGprejR6Z2ltUkdYOE1Na3lfcVRNLVJOQzQ4c1puRUNSS1lLVndFV0lhNnFLZTNJYzB0Z2Y0YUVIRWZYd2NDdFQy?oc=5
 
-**3. Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's**
+**3. New York Democrat Micah Lasher wins House primary that drew big spending from AI groups - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlBvZ3NYaUM0UnM3S3lVYW1oaXhFMmkwX2JJdnFBWkdTc1Z1dzd2WmtmRDJIZEl6LXFCZVFOQ2VXcEZKdW1UYzg0SG5nelRjZml5ODZHT1lhV1dpbG5odUE1SlZSYUw1VVJrWGVtNFJ0XzVXOHQ1VHhYd3hwRGFSRGZLVHN0WGZ0VmtkUk5XSEdzUE5HNS02T1Q5MVQ3cmgyWUp5WjBMR3IyMjhvZ2ZqcTUza2h0UQ?oc=5
 
-**4. AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns - The Guardian**
+**4. Broward School Board pauses rollout of AI platform for educators amid privacy and security concerns - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDQ5cHg4SDgwQ0JuRmdwZUVGWGhBMFdydmxyRnFoaDFXeEtNT21MVkVBUEI3LXlYQ2dhTGlSbGZCdFFvQkdIY1p3MEpyR01PWGJxbDJnNWs0alAtd1FiOGx5VkhqdjVvQzBoaDlVZGV6UHRwdEVOVjRJSy0zRmx4MlpaOEhfUjR1cExvSjNhRVRnTjF6QlE?oc=5
 
-**5. IBM partners with OpenAI on enterprise security AI - Reuters**
+**5. Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWi1vbVJfRVl3SlVIX0xzRGpoS3pzMFBNYUJreWZsTVpRaUhwY0NFQlVvbGFzRWJRRnlNTWNYaHlTeFF4TUVBaTlkVmxSZ1h3T2tzTk5iRmpnNVZLZURiSkpoaGN0blFvVzMteEJxWFZTT0tOUXRrZlh3VWY?oc=5
 
