@@ -1,22 +1,22 @@
-🧠 **AI News (24/06/2026)**
+🧠 **AI News (25/06/2026)**
 
-**1. N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times**
+**1. Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5
 
-**2. Is AI 'one big bubble'? Behind the tech sell-off - NPR**
+**2. Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWU0VkdBSm4xdno0NjBPZDNmZlJ3dS02MVc4akhFVlpEalFDNXJoMzRQWmxaNnowWUxzM0w2N1RRZUVUUHFMZGprejR6Z2ltUkdYOE1Na3lfcVRNLVJOQzQ4c1puRUNSS1lLVndFV0lhNnFLZTNJYzB0Z2Y0YUVIRWZYd2NDdFQy?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1p0MDZhY19QcWdERmJDZzlJbWctaXlFbFVZcjRseEI3N0UwNDVyOGZubGpBcmlqN2lLNzZjajA0N1pReXViLWdNbzB2N3VqRFB0dGRjYXRiaGhwT25seXkxNF9RNWMtOHBoQWZHMW9FZGtwMnVZekdRdVBJMG5fcEkxNWNQcDlSSFRFMEdUM1lUX1RLQmE5a0N1SVNCSC1HVGtmb2NwQmVCT2dJMjhZazJvQQ?oc=5
 
-**3. New York Democrat Micah Lasher wins House primary that drew big spending from AI groups - NBC News**
+**3. Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlBvZ3NYaUM0UnM3S3lVYW1oaXhFMmkwX2JJdnFBWkdTc1Z1dzd2WmtmRDJIZEl6LXFCZVFOQ2VXcEZKdW1UYzg0SG5nelRjZml5ODZHT1lhV1dpbG5odUE1SlZSYUw1VVJrWGVtNFJ0XzVXOHQ1VHhYd3hwRGFSRGZLVHN0WGZ0VmtkUk5XSEdzUE5HNS02T1Q5MVQ3cmgyWUp5WjBMR3IyMjhvZ2ZqcTUza2h0UQ?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5
 
-**4. Broward School Board pauses rollout of AI platform for educators amid privacy and security concerns - CBS News**
+**4. Micron’s Blockbuster Earnings Quiet the AI Doubters - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDQ5cHg4SDgwQ0JuRmdwZUVGWGhBMFdydmxyRnFoaDFXeEtNT21MVkVBUEI3LXlYQ2dhTGlSbGZCdFFvQkdIY1p3MEpyR01PWGJxbDJnNWs0alAtd1FiOGx5VkhqdjVvQzBoaDlVZGV6UHRwdEVOVjRJSy0zRmx4MlpaOEhfUjR1cExvSjNhRVRnTjF6QlE?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVh6NkRqRVFPOXg0U3pVSkVGWWNDNXdUMUJiZHJ2OUkxVGJLRXBqemRabnJIVGNoQ1RmS0UyYi0wRzJxVGZmc2xESFMzRlBsMXg4dzNkaWZaMmhqdmJZS2FYanNNQU9jUlJ5cDV0dkFpcU1zYkVYNVJZZUtaMDJDNEE2WjZad2ZQN0ZWZ2NKRy1hUkZFdnkwWFpvTQ?oc=5
 
-**5. Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN**
+**5. Micron and Qualcomm Lift Chipmakers Amid Rapid AI Growth - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWi1vbVJfRVl3SlVIX0xzRGpoS3pzMFBNYUJreWZsTVpRaUhwY0NFQlVvbGFzRWJRRnlNTWNYaHlTeFF4TUVBaTlkVmxSZ1h3T2tzTk5iRmpnNVZLZURiSkpoaGN0blFvVzMteEJxWFZTT0tOUXRrZlh3VWY?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWZTRldXU24zOTdHeVl5LVMxeXNwUFoxRjV4Wl9JSlBadEp3eWE5d2xuT3k2RkVHdjNqbTMwSmlMN2w2QWJoTGhNRHRkTWFSbkpTMms4VC1MNDAtekNIem1NYXA1c2FfZzhFYWxaZmR6YTVxYU5oTHhZbEhtVzlBekJkUTl0dFA4Z0dwdmcyYXQtMlZ3Z0tpeTFBT2tUWF9iNEk1aFFTUTNIeWs?oc=5
 
