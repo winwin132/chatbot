@@ -1,22 +1,22 @@
-🧠 **AI News (26/06/2026)**
+🧠 **AI News (27/06/2026)**
 
-**1. The AI Data-Center Boom Is Sparking a Third Wave of Inflation - WSJ**
+**1. The U.S. government will decide who gets to use the latest American AI technology - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFBvWWhuUXlqLThqT0hMYWhQemh2YnZ1d05OSDl0NVE4S1pOa1IzdjBBUzBMb25Gakg2V0ZXWENyU3NiUlVzQkRtOVk3NUEyV0MtVU1lSEp1QWJnTjJkbERzZ3pZN2wtc1pCSjE4b282a0hIZ1ZuaE1vMGVONlZfdDBGOGtfVjFjcmpJNjVyS3VpZldPSkR2SF9JSQ?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5
 
-**2. Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters**
+**2. The AI backlash is only getting started - The Economist**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xzMEEtYzd1OXIwbDVTWnl1dEhZMTBVYVRGQWhVTV9JbUdGbzdmeWFmaF93ZklUWkE5RzZ0QV9iMWtRcFNPbVg3M2lSNjlEU1BLTzhPb0E1cWtfeXBnbUx4blg0cW9Xd1NBWWlFUGl6YzBWNmNFbXlVMFczdTZJQ3FmTTBkSDBXMXMzLQ?oc=5
 
-**3. Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities - BBC**
+**3. Federal lawsuit says AI fueled a California gas price conspiracy at 1,700 stations - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR0dJZ2hQS0JUbl9SYV9XVExWd1g1RzlKSnY4cW56NGc2SzNXTEVIM3RzVzR1cGlUVThlcmVEM25hRUxfb0pqaFhoR0RJcmk3TzBQNk9zbTV6Zw?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVl0bEJ6dlRRZ3VWTVlkT3hGVEFCM3g3b0lsOFBXWkdESUJvMmRtMEJiWHB4Zk5ieUZjTS0yaUtvdlVXWk5xSDRPQzZpRUpCMUl4RnNqRzN5eDdMczVtM2pxUkxYZlM2WW81RG9zS1VheXRROU1lUFlyOExidFRMR0VZb2F2SHM4Y3d3cw?oc=5
 
-**4. Anthropic Thinks Its Own Success Is Key to Making AI Safe - WIRED**
+**4. Papyrus scroll burnt to a crisp during Vesuvius eruption deciphered with help of AI - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHBwUko0c3RxQmJjWkwxOFloZFk0UGR3LVBfWEdsd2J3aWVkdklyUGtOWDdPMnpDaVlDTXZQTFJleFp3Zlh3RG5XSjRqaTB0ck55LWhhUlJBUjhBODR2RjgwQTRqVV9nX3FXM2l1NjhNaGJRR1dkb21zQkU4ZWwwVVNhQzM2V0pDcGMw?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPM09ySm10UmJQdmZKZjM1Qm5TeWRUNUdrNnRfX2tKaGpzLUI5ZkZxVXB4V1lYa2NxdG9EQUJBNm9Bbmg5V0tLWjhGd0R4akd3dlNUVmdramp4UjlLLTdtOU1QVHhSaGJCSWp0aE1fMjJJYVVORzQ2Rk9Wc2k2dTVtRg?oc=5
 
-**5. The Future Of Work Isn’t About AI. It’s About Us. - Forbes**
+**5. Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDNxMDZPUzRiRTJtQndBZVZiNm1pS1Fad1dNMTBfQ2FmU1FuM3B6RV9UNDljU1Y5dDZ4VlpPRWxsekJibWJ2YkpfbHRuOXdqZXlWS0pKT2hpdG16QVJqTjFLV3JXT0U2U1huZlVkM2dnczh6S184UDFGR21RRjFEU0J0NGtNRVJUVUk2bGktMUpkeWloWm83TnRCT21xQlk0VWNwVQ?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RFMEVwRFhxS2VQTy1ZcEpaUVFHNTVpVlp5QXJJWHRuc0xrbi12Qnh5MEdGazg1QUN3TWFXaGgzTl9DRmRaWjVSM0J2anJIdHFmdmlBVHF0MkNNSGNwYU1xWlQ0c19DTUs4ZzE0SFZlLWlhMmxqVGljNlBxT3FZY1ktMi1OeEJRUnd2LXlWYUFzVXlZbE12a2tzaWctV2ppZjFiN2wzMUlSTmPSAbABQVVfeXFMTnNmTzZwTVdCNkZab1JOWEdTblVvT1BCaEZHUHM5cTFfVVdnMXBoV3JYa1RwbzlTcmVoRlNVTnNxTjVpakVZQ1ZmcFB2YTA3cExiejlfcGNJeVFoc1RHSzVnaFJ4OTR3b3dSd0NJcm5Tc0hwTHRNakR6NU5JUmtubmRqWkdTa3Z4bjZoMHMtMVZtcm1ZOEJxUHJhOE55TUI2YkxQcTM0aXNuSTVFUkZnRlQ?oc=5
 
