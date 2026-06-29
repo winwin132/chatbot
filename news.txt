@@ -1,22 +1,22 @@
-🧠 **AI News (28/06/2026)**
+🧠 **AI News (29/06/2026)**
 
-**1. US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN**
+**1. China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5
 
-**2. Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC**
+**2. China, India See Top Firms Lose Market Cap Share in AI Lag - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE9ZNnB4d2ZGbU9LSE83eHhldFlELXVmNWZjZGdmTFFGTEU3WVhkWHBieTNCS3dwS0JKejJIMDktTEprZmYxS19YS0FEbW15MW5aR1FIWi1md25uSkVBQXBjY3lCTHR3alQxMHRlVXlSMFcxZDQ3c0p6UkpBSkNPMS1NejM?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFptTTVTY1VLYkZrYTdHQ2d5UUljc3V3Z3ZNeG9TaVplMnF2TDNYXzZxSU5heXJGREtJbEU0VzNmTEpNMlg0RFg3REJfdUpkeF9sSGlxeER3UVJNRk04X2Q5OTdFTzRwbkNHSXo4Vndlc1VCc296Nl9femF2eS11aGpxMmRaUWFneXJPbTBnaUYyTmg3dFlDM19HaGhodjZSem5lTDBqNk5fWW1y?oc=5
 
-**3. US allows partial release of Anthropic's Mythos AI model - DW.com**
+**3. Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5
+https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5
 
-**4. AI is creating America’s next underclass - The Hill**
+**4. South Korean president to unveil massive AI and chip investment drive - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNN09kN0tNa2NJT3BVV1UwVzROR1BFb21Wa0I2dVN2YU4zYnp2Z1JXN0E3d21ETWJJZzZUdm9ZcjB5YmVGY3F2V0VmcHc3NU56bjZBZmlYVFRrZFl6a2hoUFViV3pyakRyOU1VTWNMN2dGTzlxUTBpcjFwWER4WGt6YdIBhgFBVV95cUxQSEpESnF4NUM0RXZQMFZGWHlhRUR2T29kajBfVS1LX2VFNXBoWjdDMFdVbkJGUDBNMlhnTV9XbVFRc3lRemJJczZDMGtRT01EazVwOWFTM1JNYS1mX2JFc3BVV0xXb25DSHd2Vk9oSE5CejhaV1ZtaHlPTFVqc19hWmQ4SWdHdw?oc=5
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5
 
-**5. Chip Makers Are Profiting Off AI at the Expense of Just About Everyone Else - WSJ**
+**5. This anti-AI evangelist is growing more popular. That could be a problem for Trump - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXdKTzZZT284TDBSeE15SGJqSDRNR2hqWmxpTTVIenN5S1h5ZF8wZEFoSk4wMVJVV3FFMWRfcmdtVXpHRURFbHk1RDlMYS05dTFGemxLeDBmU25JZ3I4UVNpVlQ4emdMWncxVEduUV9VUVpyVTNBSE9NQU9PM19ET3ZJOFpNVGRwaVNhT3FNUW1ONzZiaFFsSDMtaWpwRm9fOWlab3lnUDFGcFFHU3EtSklB?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE94XzRKeXNTXzNEYkVtYS1lNkxlWnNUc0ZGLW1vM0tqY1JvVm4tYXY2bnBpUmh5Rmd1YjY3dldycWNjWmFsOUVpU0g2N3I1OExJbXBQdGJpbGhLNEhxZEZJbnJGSkF1dE1oTmwxUXhIT2NET0pIaXBUekJ3?oc=5
 
