@@ -1,22 +1,22 @@
-🧠 **AI News (30/06/2026)**
+🧠 **AI News (01/07/2026)**
 
-**1. A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways - The New York Times**
+**1. Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxORFFITnFHSGhKdWwyMUxnYmYxVmROZHpCSzloT2pOWUZCRFhFSlNURVQ5UWNMRXVURm9BeVNXNHhkcjhRSDdYaFBsYU9RMmphSVpGWjRaRXBmSTNhTXlsZl8wYU95SDUtdG5hQm8zSHUxRUdOWWM3cndhc3NfbUpmcFFPS2tEdEV2bzMwdjJGLS1NaktXbENEcFEtdw?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5
 
-**2. Ford rehires human engineers after AI fails to match quality checks - BBC**
+**2. US lifts curbs on Anthropic's Fable, Mythos AI models - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMjM5RGdYR3NJUFh5VTJQMFgwSEkzRkM1ZXZRdl9CN3VBNDJyUWw1dWRTUXVNRVNhX1FUZTh0RXlFRnE0VDBCRTRaYUUzNzJrYVB5cFFRalY1dw?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5
 
-**3. Ford rehires experienced engineers after AI misses the mark - Fox Business**
+**3. US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says - Al Jazeera**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQdm1FT093SnJ0bklVeTVxbU8xektacFJKRFpuTUFDQWFVYnZFbHUtc2NPbFk1M05KamZVTjhvSWluX1VRb1pjYU9DbGFNdEVtbzk4OWEwYVBLeVRwN3FMRkVIVmNMVDZhN0k5eXFmbWVPejVNTGFCTjlTeFBBSEN0cVdmc2NDaXAzb0ROVzhVU0ZKQURVSG04cS130gGfAUFVX3lxTE40NDFpZFJtV2dmaHUwYm9CUTdqT1d5MUM2bW0yb2RUSGNaX2ZIa3ZXZTBzX2hfVDlZY3lZLTlLbUp5dDhIZzdfNlBkWk9idnZMUFJ6LUZiSVRLRjFKV0FnR3d1NV95ajJSY3RLeHM0bEdfUFJOYnpVc3JSakNrd3k5VUhQX21RalRrRS1nbTZtMm0tZGZQNkVpS3hPWGJsSQ?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5
 
-**4. Ford realized AI wasn’t capable of taking human jobs years ago—and hired 350 ‘gray beard’ engineers to steer its program - Yahoo Finance**
+**4. CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0FKWVE3aVE0UDdwNDAxVnl3V3ZESkJmbHZrWVpkbTdLa01XVzV2QkpmV3djWUdCdmtEOEhwNC14WTF1aW9ISUZqbUxCalZZX042YU5SLWtBMHI2TFdzYWMwNnFZRV9aYjlJRnM3Sk9mbHFuS3BnaC1ZVDNQdXFSbVY1SWdHRDdFREU2NldqLWY?oc=5
+https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVFiOXdrc0t2cE5pT3I0dGFXdldQX2dERTI3bmFWOHN2cTBTTjg2NU1lLWR0V0JGMHZDbUoweG5hM3RHelFwNFdZNGhETGRXLXl3NXNsZjBMQWR2WDJUWDl2QTlWeUFQU05ZMVM1bEhxdmVmOFV3OFREcUVZeVlKYzZQZUFnVDdGZVBEeDByYmRqLVRqTDVsd3VTRFRYa2JRRnVxVlVRNHdaOTNLUFFTVGNIYTdnUGJwbWYyajRYNy1fWUxpaW9R0gHMAUFVX3lxTE5wS1dJM3gweGRvX1B4RmYwZ04xcXMyNXB2OTRsYlR0QmFfUDYtRWFFb3JhbkFsNjY4VkFkWExJVEpFTk1YUkZZaU9UMlc5S2FYVkhybFlpS21vVldnNFA5R3E0dzlLU3dYVldvNncxRkVtaUdocmdRUnQ3aTJHRXBneDgxWVRzd1hBYlgyZloxTjVBeWItRWZPeHF4MS1NeUNuMk84bVBBajFZcFV6MG9ISE9VNXgwMWE2QjJnbFR1N19uUHNyV2x0N1lRaw?oc=5
 
-**5. Wall Street Tech Analyst: Micron Could 4x If the AI Cycle Lasts Through 2030 - Yahoo Finance**
+**5. How Airbnb uses AI to thwart disruptive parties during the Fourth of July holiday - Los Angeles Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3BybTVhWldVanh0WW9peUtYQzY4Nmh1WTVtYi1YdzA2ZTVZMXc3YTVnX0R5cDlRNTdzSE1Pa0hZUUkwSVowT1VadnptcTdrVFlaZ0k3RFlDb2ZDXzB4T3FhYnBwWHFkZXJlUXlHUlF4UEROdXhpLTZvci1ncl9UVl93NERZLU1yNmpISXpCU3lkclducndfRXR1aw?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDZ4Q1lXeEs0SW1rVjZkUG9fTmVOcWstWEhyOVQ3LWtUbzRsNzFSLWxPZ2ExcThXWDAwSl9fYVFCLWE2YUppWjBtTnpqX2NfeEZVU0ZYS2xKcEdkMENOQnNkcXpsR3NiTXVyM2JpMTNtbTZ1QXlCLWYzTDZ2cWlKdWpCODVkWGdhSlV3a1ozT29ESU0xa2hUc1JRRUxzNE5wcmdzN1B2THJJLUk4aXNHc3RfRmI1NDJtWkhlY3hYSHl5c1NSODFudQ?oc=5
 
