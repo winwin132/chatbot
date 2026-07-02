@@ -1,22 +1,22 @@
-🧠 **AI News (01/07/2026)**
+🧠 **AI News (02/07/2026)**
 
-**1. Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian**
+**1. Employers who laid off workers citing AI are already starting to regret it - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5
 
-**2. US lifts curbs on Anthropic's Fable, Mythos AI models - Reuters**
+**2. The World’s Top Economists Are Sounding the Alarm on AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNMU80M3FHYWI2Vld0c1o5LU8yQnFqVkJPM3Y3OVpfZnk3MHYzT2huMkk0ZzZNd2drM2ZFVUc1NzNINUIycGhHNTZxTU1zUWNISUFwaWp4UDdxMXlkYTlyOFBfLTR2M0luZHF2SFZFZUZUT18tb3ZxaUNmbnF2VnZWYXBmQkJ0ellNZlczamdTNGQzN2ZoOVE?oc=5
 
-**3. US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says - Al Jazeera**
+**3. AI-powered robots are new tech searching ocean floors for mines - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU20wUllDZ0ZDZFAzelJadmh4SkZZLW80WTIyYmp3VWhvd1ZCRzg2NGp6cW5uVnRDdVY1aW5nXzBna1VDTlJrQWdRV2dUNWFlOTdvV2FCMFBFOERjdHVnbVdWZGc5NFN3SnhCb0U5a0Zsc0lDMHlRNjVWVzNmX3o0RlFKOXZELVp1THZFSU5BUXhXV0NqVTlYNXhvWXJuNU85bkRZSmM4ZjRnUQ?oc=5
 
-**4. CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline - CNBC**
+**4. Why did an AI K-pop anti-drug video cause backlash in Hong Kong? - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVFiOXdrc0t2cE5pT3I0dGFXdldQX2dERTI3bmFWOHN2cTBTTjg2NU1lLWR0V0JGMHZDbUoweG5hM3RHelFwNFdZNGhETGRXLXl3NXNsZjBMQWR2WDJUWDl2QTlWeUFQU05ZMVM1bEhxdmVmOFV3OFREcUVZeVlKYzZQZUFnVDdGZVBEeDByYmRqLVRqTDVsd3VTRFRYa2JRRnVxVlVRNHdaOTNLUFFTVGNIYTdnUGJwbWYyajRYNy1fWUxpaW9R0gHMAUFVX3lxTE5wS1dJM3gweGRvX1B4RmYwZ04xcXMyNXB2OTRsYlR0QmFfUDYtRWFFb3JhbkFsNjY4VkFkWExJVEpFTk1YUkZZaU9UMlc5S2FYVkhybFlpS21vVldnNFA5R3E0dzlLU3dYVldvNncxRkVtaUdocmdRUnQ3aTJHRXBneDgxWVRzd1hBYlgyZloxTjVBeWItRWZPeHF4MS1NeUNuMk84bVBBajFZcFV6MG9ISE9VNXgwMWE2QjJnbFR1N19uUHNyV2x0N1lRaw?oc=5
+https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qU0trSjhZekhoQ2NKdG9ZU3BjTW42a3pyZWNUQnpkdWxRb0plNjRKZEgyUUdOZUN6YUhaSXFkOG4yQjRqQ2dOeEt3dnoxTUdjT0ZLWlZtRQ?oc=5
 
-**5. How Airbnb uses AI to thwart disruptive parties during the Fourth of July holiday - Los Angeles Times**
+**5. Korea sinks as AI chip selloff deepens; Japan suppliers tumble - Investing.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDZ4Q1lXeEs0SW1rVjZkUG9fTmVOcWstWEhyOVQ3LWtUbzRsNzFSLWxPZ2ExcThXWDAwSl9fYVFCLWE2YUppWjBtTnpqX2NfeEZVU0ZYS2xKcEdkMENOQnNkcXpsR3NiTXVyM2JpMTNtbTZ1QXlCLWYzTDZ2cWlKdWpCODVkWGdhSlV3a1ozT29ESU0xa2hUc1JRRUxzNE5wcmdzN1B2THJJLUk4aXNHc3RfRmI1NDJtWkhlY3hYSHl5c1NSODFudQ?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEloYUt3ZzNvaXZKam1Sa1gyLUY4WUNCOU5oQW1YQ2hlN2ZvMDlDYzRvOTFXcUFkOEJXcjhTNVVXYVBBMXZ2Slo3dDBhTDVSaExnR0RyRXR3S0tMV0VJVlV1ZGk0SmZJZVFuWkh4NDRtVl9iM1RZcGllLUd6OVhfZTVpdnluMGEtLWFwNjBvcmNfY1JBVVRtOE9Vak5FRGx0SXBYaUhjWlJTN0F2WmUtZFVSdDc3OUd3Smc?oc=5
 
