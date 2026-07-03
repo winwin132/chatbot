@@ -1,22 +1,22 @@
-🧠 **AI News (02/07/2026)**
+🧠 **AI News (03/07/2026)**
 
-**1. Employers who laid off workers citing AI are already starting to regret it - CNBC**
+**1. EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5
 
-**2. The World’s Top Economists Are Sounding the Alarm on AI - WSJ**
+**2. Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxNMU80M3FHYWI2Vld0c1o5LU8yQnFqVkJPM3Y3OVpfZnk3MHYzT2huMkk0ZzZNd2drM2ZFVUc1NzNINUIycGhHNTZxTU1zUWNISUFwaWp4UDdxMXlkYTlyOFBfLTR2M0luZHF2SFZFZUZUT18tb3ZxaUNmbnF2VnZWYXBmQkJ0ellNZlczamdTNGQzN2ZoOVE?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFQd2UyR0hnMVdEcm1LVE5TRUVnYzBfdmJsQlFpaU9qVG5pUUQxY1BQbW05ODk1Qk5JX0ozV3VsN0lsQ2NreGlBYkdwZmRrakZMakZ3Q3BFRkxYWXYzNU5ZSEw5YU1Ba0oxVEJCaEo1UGZCNXBRX0NBb0dBTHViTWRyX2ZOY2ZsMF9PeUlsb0tWVWFvV1hIaEJRaXV4ZG8?oc=5
 
-**3. AI-powered robots are new tech searching ocean floors for mines - NBC News**
+**3. Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’ - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU20wUllDZ0ZDZFAzelJadmh4SkZZLW80WTIyYmp3VWhvd1ZCRzg2NGp6cW5uVnRDdVY1aW5nXzBna1VDTlJrQWdRV2dUNWFlOTdvV2FCMFBFOERjdHVnbVdWZGc5NFN3SnhCb0U5a0Zsc0lDMHlRNjVWVzNmX3o0RlFKOXZELVp1THZFSU5BUXhXV0NqVTlYNXhvWXJuNU85bkRZSmM4ZjRnUQ?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE4tazdJM3VjMlFiS1l5aWdnQS13SjRvZ0ZOME9wTUFWd3NlZXdvcFNTbGJnRnp5TWMyd05IVXh2NVZMQmdYclZpbzdrbmxlM0hvS2ozVWhiYll2SUZrZTVzRENQRUxCdmVPRXpyWGh6VWV0d1RRVm9icg?oc=5
 
-**4. Why did an AI K-pop anti-drug video cause backlash in Hong Kong? - BBC**
+**4. How A.I. Might Change the Way Doctors Think - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qU0trSjhZekhoQ2NKdG9ZU3BjTW42a3pyZWNUQnpkdWxRb0plNjRKZEgyUUdOZUN6YUhaSXFkOG4yQjRqQ2dOeEt3dnoxTUdjT0ZLWlZtRQ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPczBOcmI5b21jeGxvajBYVHExcXVUckVjUFNGQXgxSFkwemxSRHJJenlaRTQtam5aTEZwS01Za3VGbGFOSDFBZE5ZeTRkcDRlNlZLTHU2VlVpRkJsREt2V1JuelQ5LS1GYzVlS2I3VVFYbmZOS0M3ejl0cndMelp1MA?oc=5
 
-**5. Korea sinks as AI chip selloff deepens; Japan suppliers tumble - Investing.com**
+**5. Peter Thiel in Aspen: The pope is ‘working for the Chinese Communists’ - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEloYUt3ZzNvaXZKam1Sa1gyLUY4WUNCOU5oQW1YQ2hlN2ZvMDlDYzRvOTFXcUFkOEJXcjhTNVVXYVBBMXZ2Slo3dDBhTDVSaExnR0RyRXR3S0tMV0VJVlV1ZGk0SmZJZVFuWkh4NDRtVl9iM1RZcGllLUd6OVhfZTVpdnluMGEtLWFwNjBvcmNfY1JBVVRtOE9Vak5FRGx0SXBYaUhjWlJTN0F2WmUtZFVSdDc3OUd3Smc?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT3RJVk1lN091M1dJN2JXaWlvUG94dTV0T0VkMFJDV2hzOXZJNEdvN1dCLXk4UC1DMFNYNUlSUWFxVDNHY3h5TGEtekRQZXhTM1FCeUVTQVUwdDVLNzlaM242U1lyZGp6RjZGNkc4b19NWTBZcFpiQQ?oc=5
 
