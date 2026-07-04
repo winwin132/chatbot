@@ -1,22 +1,22 @@
-🧠 **AI News (03/07/2026)**
+🧠 **AI News (04/07/2026)**
 
-**1. EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters**
+**1. The AI Trade Is Losing One of Its Key Signals - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPV29oaENnam4xVUgxbW5mQ3BsVUM1MjA0bmJub3BLQnFEQjNWS0ZQN25faXN1eC1JdUZJa3lFQnZBeU01LXFqR19YSzJCYUVSUnh1OXBSWGgzTlFPTGZtVUlSVC0wZTNtSHZUckhROHAzQ093SkZpSHpfTVM5NVk4dzR0X2dLVkVpT2s0TnI1ckRmM3dEanU0a2d5RlY0RUZQcm1aS1pjVU1STlMzOGc?oc=5
 
-**2. Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device - WSJ**
+**2. A Twist in This Year’s Strangest Literary AI Scandal - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFQd2UyR0hnMVdEcm1LVE5TRUVnYzBfdmJsQlFpaU9qVG5pUUQxY1BQbW05ODk1Qk5JX0ozV3VsN0lsQ2NreGlBYkdwZmRrakZMakZ3Q3BFRkxYWXYzNU5ZSEw5YU1Ba0oxVEJCaEo1UGZCNXBRX0NBb0dBTHViTWRyX2ZOY2ZsMF9PeUlsb0tWVWFvV1hIaEJRaXV4ZG8?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXJibU9rTFE5M2lWT2VHN2VqSHFuNlNCV2NLbTI1c3NiYTJLTS1ISE1QNnhZakMxbTNJU2llNWtjVGpuaEtabUttOVFTdTA4TmVBdlZBeUlsdFU2dFU5OFhvR3B4Z0Fnd3pxM00tQmVEMlNEWWdnVDZhSjVqdW1lcUtoQmQ1MTRsMnc3WFplSFFENnRxU3JLTzlLNFU?oc=5
 
-**3. Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’ - The Guardian**
+**3. Flock's A.I.-enabled street cameras see backlash as more communities cancel contracts - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE4tazdJM3VjMlFiS1l5aWdnQS13SjRvZ0ZOME9wTUFWd3NlZXdvcFNTbGJnRnp5TWMyd05IVXh2NVZMQmdYclZpbzdrbmxlM0hvS2ozVWhiYll2SUZrZTVzRENQRUxCdmVPRXpyWGh6VWV0d1RRVm9icg?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3J1VzJTRXFTMktXWm5kWEFXVXZSMUlxRFMtX0pNNUxLR2ZqeUJKMm1BdlV0MmZJbllhU0E2WnJHNHlNaDc5VElsaVN3T3czeDcxZWd6U24zcXpmZlFfZldORTg2OXNKb0oyUzNQbUlFVzY1NC0tS0xxcnVhdUIxNU4tNExjektsZnF6UUozQTZoMDJmRklJd1BfTTRPSkIycXlyazRrMHdhYVlWSEE?oc=5
 
-**4. How A.I. Might Change the Way Doctors Think - The New York Times**
+**4. High-Earner Families Are Ditching Traditional Schools for Life Skills and AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxPczBOcmI5b21jeGxvajBYVHExcXVUckVjUFNGQXgxSFkwemxSRHJJenlaRTQtam5aTEZwS01Za3VGbGFOSDFBZE5ZeTRkcDRlNlZLTHU2VlVpRkJsREt2V1JuelQ5LS1GYzVlS2I3VVFYbmZOS0M3ejl0cndMelp1MA?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVNaSkZIbGJ2TmhwLTY2STlISDN3SmhWcG9iS1dJNTJaNzFxWW00Qk1td21SVFI4UFlTUG1wZzlDTTU1SkxoSnBfRnNDdEJ3Wm1hNERIdmIyNURyeHpScHRaZVF0RlpHZDFBNzU0bHc0YW1zOFRHbDdDeElxNkxVSFVmY2hWR3lxMU5XOWp0WEZSZw?oc=5
 
-**5. Peter Thiel in Aspen: The pope is ‘working for the Chinese Communists’ - CNN**
+**5. Faith-based co-working spaces emerging in Silicon Valley as AI prompts reflection on changing indust - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT3RJVk1lN091M1dJN2JXaWlvUG94dTV0T0VkMFJDV2hzOXZJNEdvN1dCLXk4UC1DMFNYNUlSUWFxVDNHY3h5TGEtekRQZXhTM1FCeUVTQVUwdDVLNzlaM242U1lyZGp6RjZGNkc4b19NWTBZcFpiQQ?oc=5
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUlaZ0ROamtoRWdTdmdsY2N6Wk1qbVcxZTR1UU9mVkdOZENpN0U1bUI2SndYZXJpUVFiZUpyNGpwYlowT0hEcU1VY3ZNbFhQSFRUOWI1Y25KN2ZGS3puQ3BnazJZamE4cVZoVktFNnM2eUlkS25yQUtuMEFaT2dJZm80VkpQbnZ5LU03LVhGZmR6Nnp2YVFEUXQxZWJaVmVwcmFjWlpkOUlqUllodHRzdWx0SWs0d1VFTEV4S010c3o0ZnF4cnljNFlKOGZDV29XbjZhZmdZUXJlT2ct?oc=5
 
