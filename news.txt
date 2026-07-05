@@ -1,22 +1,22 @@
-🧠 **AI News (04/07/2026)**
+🧠 **AI News (05/07/2026)**
 
-**1. The AI Trade Is Losing One of Its Key Signals - Bloomberg.com**
+**1. ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPV29oaENnam4xVUgxbW5mQ3BsVUM1MjA0bmJub3BLQnFEQjNWS0ZQN25faXN1eC1JdUZJa3lFQnZBeU01LXFqR19YSzJCYUVSUnh1OXBSWGgzTlFPTGZtVUlSVC0wZTNtSHZUckhROHAzQ093SkZpSHpfTVM5NVk4dzR0X2dLVkVpT2s0TnI1ckRmM3dEanU0a2d5RlY0RUZQcm1aS1pjVU1STlMzOGc?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU5sN0JqMFdYMXJHNUtVSWw3TXF5dDhOT1h3SWpiVWVlS1VBTktxZ2U3MzRjQlFuUVhJMFk1TlZleEwyUmJKWnJqZGFlZWZyTDltbUFTU2tjTnlKV2lPV3JuMzlYdHJ3QzVldHZoNEl3ajJseXpzai15eUxwTVdzaXdtVDIwNTg?oc=5
 
-**2. A Twist in This Year’s Strangest Literary AI Scandal - The Atlantic**
+**2. How AI is changing language - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXJibU9rTFE5M2lWT2VHN2VqSHFuNlNCV2NLbTI1c3NiYTJLTS1ISE1QNnhZakMxbTNJU2llNWtjVGpuaEtabUttOVFTdTA4TmVBdlZBeUlsdFU2dFU5OFhvR3B4Z0Fnd3pxM00tQmVEMlNEWWdnVDZhSjVqdW1lcUtoQmQ1MTRsMnc3WFplSFFENnRxU3JLTzlLNFU?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQaURKR0J3RXFEWDBDZFota2NxdkMtRGNpYnlKUUkzQ2NCb21rbnU5N2ZEQ3NKSjgwLTMyMl9kVTFvLU1ZLUJxMUNTY0dFRFB2WlhWRC1VTVduT3ZnYWpDa193WXVkdHJidmtrbjIxT1FmeVllcmZkd2hPQ0NiNTV5RjQ3Rk5heUNHMDRYcWVnSUM3TF9aZ1hCa0lralhjZ2lJYmE4TUFrQlFaQ3lsSEZqVldObWpQUDQ?oc=5
 
-**3. Flock's A.I.-enabled street cameras see backlash as more communities cancel contracts - NBC News**
+**3. Trump's AI plan has governments and tech firms panicking - Sky News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3J1VzJTRXFTMktXWm5kWEFXVXZSMUlxRFMtX0pNNUxLR2ZqeUJKMm1BdlV0MmZJbllhU0E2WnJHNHlNaDc5VElsaVN3T3czeDcxZWd6U24zcXpmZlFfZldORTg2OXNKb0oyUzNQbUlFVzY1NC0tS0xxcnVhdUIxNU4tNExjektsZnF6UUozQTZoMDJmRklJd1BfTTRPSkIycXlyazRrMHdhYVlWSEE?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFY3Nkc5cndvbUhDeWpwX0R1YUxBRVVGelRDRWlSaEFvWWxaQ3hmdkVsMHNzbUlocnR0VzhwMFl5UUh1SHl1MnN4WjB5WG1pM1UtMS1jVndhdlJNWUhoMVlFUXBnMjJrUmZJZlZZdjlUUURHSGdLbW5WZTJsdzhlcTY0NHNucU90UldlTFRsRmdwRklncmc?oc=5
 
-**4. High-Earner Families Are Ditching Traditional Schools for Life Skills and AI - WSJ**
+**4. AI Data Centers Use Far More Water Than Most Tech Giants Report - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVNaSkZIbGJ2TmhwLTY2STlISDN3SmhWcG9iS1dJNTJaNzFxWW00Qk1td21SVFI4UFlTUG1wZzlDTTU1SkxoSnBfRnNDdEJ3Wm1hNERIdmIyNURyeHpScHRaZVF0RlpHZDFBNzU0bHc0YW1zOFRHbDdDeElxNkxVSFVmY2hWR3lxMU5XOWp0WEZSZw?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTFBqTElVaVdXZ2dkdkE5VXhXejFKSkZCV2hxbV9BVnROc2p3WmJvM0xwOFktOENsUU5OblZqdHBwcURqbVRSOWNJX3U1NUNZS0hxVEJDOGtfR1ViT0JYLUY0OGQydURWeXU1dFBXblNEOA?oc=5
 
-**5. Faith-based co-working spaces emerging in Silicon Valley as AI prompts reflection on changing indust - CBS News**
+**5. Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUlaZ0ROamtoRWdTdmdsY2N6Wk1qbVcxZTR1UU9mVkdOZENpN0U1bUI2SndYZXJpUVFiZUpyNGpwYlowT0hEcU1VY3ZNbFhQSFRUOWI1Y25KN2ZGS3puQ3BnazJZamE4cVZoVktFNnM2eUlkS25yQUtuMEFaT2dJZm80VkpQbnZ5LU03LVhGZmR6Nnp2YVFEUXQxZWJaVmVwcmFjWlpkOUlqUllodHRzdWx0SWs0d1VFTEV4S010c3o0ZnF4cnljNFlKOGZDV29XbjZhZmdZUXJlT2ct?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEVfdnh3bDVKODhUM1N4Q253eFpsSm50SDBIZ3RRQUh5UmxJSEwxRjZUWTVOcmQyLVVBSE13ZDlKb1pjNDA5RGViOUZSUjZlYzJXbjBmcUVFS2NWM1J2cnBOaFpaTmxKcm5OZmJ0MlV3WkE5UlA1M0hhR2NHdUNyR3lzZlM3WVp3NG0zSldmcXVWanVsZ09n?oc=5
 
