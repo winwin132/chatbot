@@ -1,22 +1,22 @@
-🧠 **AI News (05/07/2026)**
+🧠 **AI News (06/07/2026)**
 
-**1. ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots - The New York Times**
+**1. Philosophers Are the Latest Hiring Target for AI Companies - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU5sN0JqMFdYMXJHNUtVSWw3TXF5dDhOT1h3SWpiVWVlS1VBTktxZ2U3MzRjQlFuUVhJMFk1TlZleEwyUmJKWnJqZGFlZWZyTDltbUFTU2tjTnlKV2lPV3JuMzlYdHJ3QzVldHZoNEl3ajJseXpzai15eUxwTVdzaXdtVDIwNTg?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5
 
-**2. How AI is changing language - The Guardian**
+**2. Shark Tank's Kevin O'Leary says if he were 25 today, he’d chase these two booming opportunities in the world of AI - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQaURKR0J3RXFEWDBDZFota2NxdkMtRGNpYnlKUUkzQ2NCb21rbnU5N2ZEQ3NKSjgwLTMyMl9kVTFvLU1ZLUJxMUNTY0dFRFB2WlhWRC1VTVduT3ZnYWpDa193WXVkdHJidmtrbjIxT1FmeVllcmZkd2hPQ0NiNTV5RjQ3Rk5heUNHMDRYcWVnSUM3TF9aZ1hCa0lralhjZ2lJYmE4TUFrQlFaQ3lsSEZqVldObWpQUDQ?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcml5M3kxbVV0Y0F6YTRyR3hrWUwzWlVUNndkUjMxS2xreVVMRUdySk5Wdm5hQ0I3MHVBNFdhVVUtcnV1X2toNGFYRnRGZGhBYmxTbDdBOTRxckNLZnh1aTFreS0wMjRhc2RXaXJBWktRMGRoWFR3d2Rqd0xDcFlSRzk0X1NoSUNNc2xEOFJRQTZNekxhV216emwtTFdJMVA3MXU2a3FZazhpM0FZTXFXMGN4a2czMjdWZjZIRFZyY08?oc=5
 
-**3. Trump's AI plan has governments and tech firms panicking - Sky News**
+**3. Paige Spiranac insists 'great cans' aren't AI after Fourth of July post called into question - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFY3Nkc5cndvbUhDeWpwX0R1YUxBRVVGelRDRWlSaEFvWWxaQ3hmdkVsMHNzbUlocnR0VzhwMFl5UUh1SHl1MnN4WjB5WG1pM1UtMS1jVndhdlJNWUhoMVlFUXBnMjJrUmZJZlZZdjlUUURHSGdLbW5WZTJsdzhlcTY0NHNucU90UldlTFRsRmdwRklncmc?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3BJbXZ0V2d0Y3FfTHFrVEEySDg2TEdmZ01pdS1XcWVlUk1ETW5uV2VNQndyT2RUdmZNbU9oUmdRWFdTZVdzUVZGcTluNEg4UzZPZVpWelhhUnVMeUJ1VWIyN1hHbk5XVFdfXzYtWEM0NDJOdEFfbXFlTm9rdHQyTlBBX2l1WTJycEpmbHRXMDJBcXBMaWYyTVgxUHM1NzZkemRUc0tXY2tnVl9aUWJ1aHh1bUc?oc=5
 
-**4. AI Data Centers Use Far More Water Than Most Tech Giants Report - WSJ**
+**4. Forget Wall Street. Elite Students Are Spending Their Summers on Startup Dreams. - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBqTElVaVdXZ2dkdkE5VXhXejFKSkZCV2hxbV9BVnROc2p3WmJvM0xwOFktOENsUU5OblZqdHBwcURqbVRSOWNJX3U1NUNZS0hxVEJDOGtfR1ViT0JYLUY0OGQydURWeXU1dFBXblNEOA?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUpXbUtabVVrdVprSE9sVWZTUFdJbThGaVlXbkw3emJDZnRZMVNkUEJYYVcxUEZXbG55b1N4REtRbkd0am5DdXFGYzZZelpUQ2R1LUp1dXU3Vzg3YjVuazVaUmU0TmZlSnNLRVdjYVl1QUh0Ui1GWnM5dXlraWYzSzVtbk5XdExLY05kMDRmb2tIWkdCTmNQR0wxTzdYY3JmVEl1aU82eldZR09TX0tZbHI3clNWQQ?oc=5
 
-**5. Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content - Yahoo**
+**5. Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEVfdnh3bDVKODhUM1N4Q253eFpsSm50SDBIZ3RRQUh5UmxJSEwxRjZUWTVOcmQyLVVBSE13ZDlKb1pjNDA5RGViOUZSUjZlYzJXbjBmcUVFS2NWM1J2cnBOaFpaTmxKcm5OZmJ0MlV3WkE5UlA1M0hhR2NHdUNyR3lzZlM3WVp3NG0zSldmcXVWanVsZ09n?oc=5
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZllISm9LOHNIM1hINXd3VXJ2UVIxVHN0aHRPcXZPbnozRElWRlBaeGZqVFhWN0lsOThHcGlVMTktTlp0OHVoSGhuc3pzMDVyU2prSEVCVUFZOHhJUVVPWW13cTZFS2Yzal9xTDBtMU9ZM2FDX3I2YWQ2WklfdkFSYll2WmlyWW9MZWFheURBUHNKNExhQUotRWdRNnMwejJHWjFQOXdTUzVGOHJkOERaNHQ4Xy1JdF9x?oc=5
 
