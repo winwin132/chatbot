@@ -1,22 +1,22 @@
-🧠 **AI News (06/07/2026)**
+🧠 **AI News (07/07/2026)**
 
-**1. Philosophers Are the Latest Hiring Target for AI Companies - The New York Times**
+**1. Why A.I. Distillation Has Become a Hot Topic in the Race with China - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5
 
-**2. Shark Tank's Kevin O'Leary says if he were 25 today, he’d chase these two booming opportunities in the world of AI - Fortune**
+**2. AI actor Tilly Norwood set to star in first feature film - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcml5M3kxbVV0Y0F6YTRyR3hrWUwzWlVUNndkUjMxS2xreVVMRUdySk5Wdm5hQ0I3MHVBNFdhVVUtcnV1X2toNGFYRnRGZGhBYmxTbDdBOTRxckNLZnh1aTFreS0wMjRhc2RXaXJBWktRMGRoWFR3d2Rqd0xDcFlSRzk0X1NoSUNNc2xEOFJRQTZNekxhV216emwtTFdJMVA3MXU2a3FZazhpM0FZTXFXMGN4a2czMjdWZjZIRFZyY08?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQam1xRnItYlhDbWdTbVV4RGRDNi1SRklVYnJWcWhqeElKSkVLREFabC1fejBKZkV1ZnNZV1o3T3NlLWtMVjdkX3pDQXFGVmt2OXBTRWRsT2loMnBWbXliU2Vhb2NEVC04Wmx3Z3QzZFY0cE1Ra2s5aGhleHR2eklfRQ?oc=5
 
-**3. Paige Spiranac insists 'great cans' aren't AI after Fourth of July post called into question - Fox News**
+**3. AI ‘Actor’ Tilly Norwood To Star In Feature Film ‘Misaligned’ - Deadline**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3BJbXZ0V2d0Y3FfTHFrVEEySDg2TEdmZ01pdS1XcWVlUk1ETW5uV2VNQndyT2RUdmZNbU9oUmdRWFdTZVdzUVZGcTluNEg4UzZPZVpWelhhUnVMeUJ1VWIyN1hHbk5XVFdfXzYtWEM0NDJOdEFfbXFlTm9rdHQyTlBBX2l1WTJycEpmbHRXMDJBcXBMaWYyTVgxUHM1NzZkemRUc0tXY2tnVl9aUWJ1aHh1bUc?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE10MDJEd05zNUJiZ3hLa04wMFo0dG00QmJDY09jSUtKWW43V0hYc0tzcm5XZEROYzdRck9pR3NYeC0tTzBCQUVLWmtyQlBVZXB1SEdzNlNXMHlxeVBGVHVGTlBvVmpTNWhaNlBwTjJGMTl4QUQ2UE5rTzRRWlRrYmc?oc=5
 
-**4. Forget Wall Street. Elite Students Are Spending Their Summers on Startup Dreams. - WSJ**
+**4. Tilly Norwood to Lead New Movie ‘Misaligned,’ Marking Feature Debut for AI ‘Actor’ - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUpXbUtabVVrdVprSE9sVWZTUFdJbThGaVlXbkw3emJDZnRZMVNkUEJYYVcxUEZXbG55b1N4REtRbkd0am5DdXFGYzZZelpUQ2R1LUp1dXU3Vzg3YjVuazVaUmU0TmZlSnNLRVdjYVl1QUh0Ui1GWnM5dXlraWYzSzVtbk5XdExLY05kMDRmb2tIWkdCTmNQR0wxTzdYY3JmVEl1aU82eldZR09TX0tZbHI3clNWQQ?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0xzZDUtQXRJLW9ybUtETXJHcG5KNzBPM2hRUEZBbElMTDNkMlVJTWhIamxidXdUc3h6djdpbkRNclQxbHFGVGM5aFA1dnJHMWNwZjlvVVVaUjRjaHVTczNNVFl5NHFIbnpWTFJwSGYwbkZ6cGdMX1FUS1dhWGlodlhuTGZmNnlOWlpTQmp2Nlk2X3pIYzBqQzZJU0t2c1djMHNuVQ?oc=5
 
-**5. Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite - CNBC**
+**5. AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZllISm9LOHNIM1hINXd3VXJ2UVIxVHN0aHRPcXZPbnozRElWRlBaeGZqVFhWN0lsOThHcGlVMTktTlp0OHVoSGhuc3pzMDVyU2prSEVCVUFZOHhJUVVPWW13cTZFS2Yzal9xTDBtMU9ZM2FDX3I2YWQ2WklfdkFSYll2WmlyWW9MZWFheURBUHNKNExhQUotRWdRNnMwejJHWjFQOXdTUzVGOHJkOERaNHQ4Xy1JdF9x?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5
 
