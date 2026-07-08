@@ -1,22 +1,22 @@
-🧠 **AI News (07/07/2026)**
+🧠 **AI News (08/07/2026)**
 
-**1. Why A.I. Distillation Has Become a Hot Topic in the Race with China - The New York Times**
+**1. Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZS1QSW1CTERfWjJOLThtLV9XdXR6WFFIdFNuVFEtZXZfT054Si00SzdUZW9fbDJIN0lIRXNTQ3NaZW1ORzBzVE9Wc3ZZQkhWVW9qMDJmS1VSMGJsM1dpRjc5RDJjSVNpU1N0aElFdk85TFhwMzFCa3VLeXVZWkxpbkYxZDhKR3BUMkd3THBGNFB4MzdzVGFvM010TnZLWGkzMHhXNjhLUVNNdm8?oc=5
 
-**2. AI actor Tilly Norwood set to star in first feature film - CBS News**
+**2. Meta enters AI image model race in bid to court advertisers and subscribers - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxQam1xRnItYlhDbWdTbVV4RGRDNi1SRklVYnJWcWhqeElKSkVLREFabC1fejBKZkV1ZnNZV1o3T3NlLWtMVjdkX3pDQXFGVmt2OXBTRWRsT2loMnBWbXliU2Vhb2NEVC04Wmx3Z3QzZFY0cE1Ra2s5aGhleHR2eklfRQ?oc=5
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5
 
-**3. AI ‘Actor’ Tilly Norwood To Star In Feature Film ‘Misaligned’ - Deadline**
+**3. If You Have a Public Instagram Account, You Might Be Surprised What AI Users Can Now Do With Your Face - Gizmodo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE10MDJEd05zNUJiZ3hLa04wMFo0dG00QmJDY09jSUtKWW43V0hYc0tzcm5XZEROYzdRck9pR3NYeC0tTzBCQUVLWmtyQlBVZXB1SEdzNlNXMHlxeVBGVHVGTlBvVmpTNWhaNlBwTjJGMTl4QUQ2UE5rTzRRWlRrYmc?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9NT09STWNCYVpUaGlHa29INmlSQ2xKcU4wT2k2OVJqdHFMYjlFZGd2aTVUYW9wSmJXZHFqdWE2OVFsNkV5Tzg0a1VnM1RyNWZtRDBUcC1JYXpMYVNBa0UyeE9YZGp0bC05S2twQlJHems0SnpuSWJ2dHJ6WFlWRVFyVG1qRHBQNGxvVzhjVDdiSnloTldlcldweHFKSjhMb2xGN25STWJLTW5qdmRiRU9XNnRiM2NPOVYweUhPZnl5ZjhJSlFTNHAtOXg?oc=5
 
-**4. Tilly Norwood to Lead New Movie ‘Misaligned,’ Marking Feature Debut for AI ‘Actor’ - Yahoo**
+**4. EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0xzZDUtQXRJLW9ybUtETXJHcG5KNzBPM2hRUEZBbElMTDNkMlVJTWhIamxidXdUc3h6djdpbkRNclQxbHFGVGM5aFA1dnJHMWNwZjlvVVVaUjRjaHVTczNNVFl5NHFIbnpWTFJwSGYwbkZ6cGdMX1FUS1dhWGlodlhuTGZmNnlOWlpTQmp2Nlk2X3pIYzBqQzZJU0t2c1djMHNuVQ?oc=5
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5
 
-**5. AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ**
+**5. Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5
 
