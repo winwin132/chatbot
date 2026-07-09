@@ -1,22 +1,22 @@
-🧠 **AI News (08/07/2026)**
+🧠 **AI News (09/07/2026)**
 
-**1. Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED**
+**1. How to Prevent Meta From Using Your Instagram Images in A.I. - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZldLcGpqR1JOYkhkYmFKUkJObnYzTEVscFM3T1FDREZPV2ZremRhQ3JTRm9HU3pHdFY2dkRTNDh6SzQzV193OGpQeE1GNjBRc1E1UkFhUWFxUHpYUWVWMlBpYzNiYWN0ejNCQzVxNDVlSnZVX2ow?oc=5
+
+**2. Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZS1QSW1CTERfWjJOLThtLV9XdXR6WFFIdFNuVFEtZXZfT054Si00SzdUZW9fbDJIN0lIRXNTQ3NaZW1ORzBzVE9Wc3ZZQkhWVW9qMDJmS1VSMGJsM1dpRjc5RDJjSVNpU1N0aElFdk85TFhwMzFCa3VLeXVZWkxpbkYxZDhKR3BUMkd3THBGNFB4MzdzVGFvM010TnZLWGkzMHhXNjhLUVNNdm8?oc=5
 
-**2. Meta enters AI image model race in bid to court advertisers and subscribers - CNBC**
+**3. CAA Calls on Meta to Tighten Muse AI Likeness Protections: 'True Innovation Puts Creators First' - TheWrap**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxOVUo4ekNaTC11Ty1vQnFVSXpzYzk0cDJoMkNCZDd5bmpXNGk2M2hsWU9xVHktR0ZMVHpHNWM2UE9DanBNOWQzNzlwcXc1b0hNaE0zZklmdUZSWm9yU3FuMmM2OV9zRjdpV0JsNVFqa2QtNnVCa1c1WXZrUjZvcTVvZnRRb1JYbWt6NmNjWTE0dWswZEZFYndxZExocEk3dw?oc=5
 
-**3. If You Have a Public Instagram Account, You Might Be Surprised What AI Users Can Now Do With Your Face - Gizmodo**
+**4. Opinion | The Problem With Google’s A.I. Overview - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9NT09STWNCYVpUaGlHa29INmlSQ2xKcU4wT2k2OVJqdHFMYjlFZGd2aTVUYW9wSmJXZHFqdWE2OVFsNkV5Tzg0a1VnM1RyNWZtRDBUcC1JYXpMYVNBa0UyeE9YZGp0bC05S2twQlJHems0SnpuSWJ2dHJ6WFlWRVFyVG1qRHBQNGxvVzhjVDdiSnloTldlcldweHFKSjhMb2xGN25STWJLTW5qdmRiRU9XNnRiM2NPOVYweUhPZnl5ZjhJSlFTNHAtOXg?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hHU2dKeTFxODhsWlUtS1UwSkRxUUtIRlFZbnJhcllYbDhGUTlYdzZmRFJPQ0xtR2Y0VGxva0RoUXdrZHExRDl4cmVwdmVNWDhLY3R5Sk5oekdfeDZEaWM4dFNDQi10NzBKYkNQRTVJcHRlZGhySUcycUhKdm5xaFhpMWhkaHhS?oc=5
 
-**4. EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters**
+**5. When Your Factory Worker Is An AI Model: What Boards Need To Know About Physical AI - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5
-
-**5. Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX1dPUElvQm0tSnpSd21QY1RCTk0yaUZjQmdmWVhTTnBUUlNhNldQczRzOUpLQ2RmblpjbnpiV3ptdUpjYWlFVHNvNFc4aHpjaVRBSFZ5Qm5kVUlzZ1JsSHBHRmVpdE4zSHJ2dmN2QlhybjFobE5yaFUzX2tpUHN6ejNTdFZIZ2xvNDNBSEVTSk1vNDhkUVE2ajlGMldFT1RNXzNQWHBTTDFpejZ1NmE1MVA4a2tZeGZCbHZIT1lWbktpcXVkeVpFV1hYQ1VxUHBYWWo0?oc=5
 
