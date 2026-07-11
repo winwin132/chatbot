@@ -1,22 +1,22 @@
-🧠 **AI News (10/07/2026)**
+🧠 **AI News (11/07/2026)**
 
-**1. EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters**
+**1. The Work of Helping A.I. Destroy Work - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE0tLUgxYXNqRnA3ZVVsUmlUdl9YOHFWaFA2eWt1dXJDMC1UdTNlUDEyMWhndDFVNDNSYkNldEduNkZKX0xDRW9kcUR1SFJJajBEaHZ2V0M5UXdWRUtnS2J1UWd5ZWFIOHdyNFhpSHhyd0tkUFItcDJmRw?oc=5
 
-**2. China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers - The New York Times**
+**2. Meta reverses new AI tool that uses public Instagram pics after backlash - WLKY**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUNJcVI0aDBVVjNHVExVd1BkYkVFT3lEMXAxb09JYkRHRkh5UjJYTllybk5tUGJPaHhhVS0xUFBMdTdyRzNXNDd2WkNUcmNlZG9kdFJncWhsQkoxTkd4bVZLeGpoeWxScEZpdU5YZ2pMMDlHWndJeFdzR2d2Qkxnc3pMUQ?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3RoeUtwV3hraTZVRFZKSl81aC0xM1B1eFdvS3RENWdLVXp1Mk5rM1ZOSUstRy1LM2xhNzZJaTl4YTNMc1h4RGZ4QmUyeHlqTFVpNzR2dGJBTnFTb2RvQkF3RUswYTJRWkJ0eGlRSm1lRE9Id3M3a1N0bjhkTmVReFlTaDlPOHc?oc=5
 
-**3. Lawmakers probe growing use of Chinese AI models in U.S. companies - CNBC**
+**3. How to Prevent Meta From Using Your Instagram Images in A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmZOM25aOFllc2FQbDdwQ2lkdUZGSGlrZm1kZEpNYTZPN0dfSWJjLUtZT3p4M2w3Wm9vT21SaUxRdWNTVlRHR0tIekRJQjQycnNuWHVtUzIybGtmTktTQjlZMGVoTU1LWlgyUkFfbklLeWZoLVNLYlFpajhpZ9IBgwFBVV95cUxQUlFLcm9ZazZUYXBDbUZ2RTFWMENXdFpWYW1iY1ROS08ycWZGRFM3eF8xU29KUkZ3T0dBY3BxcnRqV3h6aEdETkNHWXFnc1VpTllhNWFGZmxoOERadzdrdXNjUGVjTjRIbHNOWFhsTWg4YjNTUTZ3SlZPNVVDdXRwbEZHbw?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZldLcGpqR1JOYkhkYmFKUkJObnYzTEVscFM3T1FDREZPV2ZremRhQ3JTRm9HU3pHdFY2dkRTNDh6SzQzV193OGpQeE1GNjBRc1E1UkFhUWFxUHpYUWVWMlBpYzNiYWN0ejNCQzVxNDVlSnZVX2ow?oc=5
 
-**4. Introducing Muse Spark 1.1 - AI at Meta**
+**4. Zucked Up! Meta Disables Its New AI Image Generator After CAA & SAG-AFTRA Trashed It - Deadline**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxQZERyWXFoMXJETUFVTnRXSHVweHhXOVllVTVISXBlRm5CeXJZUHRXMlg2RExiQW9pQUNaZnhQekJuYmdaZjNTY3lXcDFSWVN4aFE3NXN6bGRyRDNhRGpqRTl1eXJnNEg0al9HSFV6bllNb0FvMExPNWNSZ2plRWV0V2h2cHNMcVhhNTRjNU12Uk9pZw?oc=5
 
-**5. Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC**
+**5. AI-enabled cheating is forcing some schools to go analog - Business Insider**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxQemp1QmFidXZNbmVhVHFsNS1qOFh3MTY3Rmw1N21pOXhPQzQ3ZkRCYkktd1Y5Rlh3VW5MZmI5V1FvQXFTU2M5LVJjUWIxbjFnS2F1WE1UT2U3WmtpYzN0SFZHNTUtZlNubWRzRUVUaEx2WDBkV1hlZ0NIb3JXNjZCdm9TdkVhWmdCaHZKMmNHR3ZOUm9qWDVNeDZYVUpVRUk?oc=5
 
