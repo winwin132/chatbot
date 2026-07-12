@@ -1,22 +1,22 @@
-🧠 **AI News (11/07/2026)**
+🧠 **AI News (12/07/2026)**
 
-**1. The Work of Helping A.I. Destroy Work - The New York Times**
+**1. Alex Karp Is Saying What Every Angry CEO Is Thinking About AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE0tLUgxYXNqRnA3ZVVsUmlUdl9YOHFWaFA2eWt1dXJDMC1UdTNlUDEyMWhndDFVNDNSYkNldEduNkZKX0xDRW9kcUR1SFJJajBEaHZ2V0M5UXdWRUtnS2J1UWd5ZWFIOHdyNFhpSHhyd0tkUFItcDJmRw?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlVfd3loZUtwa2N4dS14ZDhrcUVFTlVZWGJKZFVzdDVpZXFnZjFiOEt1XzlKMV9EQnJsbnJoSmU5ZDNQN3A4UDllX2pFZENKSEtzaXI5T3FOcnU0U1hmcmpaSWpmdUR4MlEtTEcySkZjaUdicHNFZEhMSW8yQ3M0ZWtjbFZkTVgwNnNPNTVOSUxYMllEanVVNXhMWHJkM00?oc=5
 
-**2. Meta reverses new AI tool that uses public Instagram pics after backlash - WLKY**
+**2. Opinion | We Returned From China. We Realized Our Century’s Biggest Challenge. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3RoeUtwV3hraTZVRFZKSl81aC0xM1B1eFdvS3RENWdLVXp1Mk5rM1ZOSUstRy1LM2xhNzZJaTl4YTNMc1h4RGZ4QmUyeHlqTFVpNzR2dGJBTnFTb2RvQkF3RUswYTJRWkJ0eGlRSm1lRE9Id3M3a1N0bjhkTmVReFlTaDlPOHc?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2JlVGZRWjFKSkRka0MwQ24zaEt5ZEJCSkpYQzEzWnJEOEoxZ09ZX0RCcUthUEM3Q25RUUszVFlRVXc0VnRsMTdCMWQ5bXZtNzhRUi1uLUxHOGFIczZTVVppaDhoMjR2b2hhYTM2OHJjV1pJQ0tHYUpBWFVuOHlfdmxTdw?oc=5
 
-**3. How to Prevent Meta From Using Your Instagram Images in A.I. - The New York Times**
+**3. Meta shuts down AI tool after backlash over public Instagram accounts - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZldLcGpqR1JOYkhkYmFKUkJObnYzTEVscFM3T1FDREZPV2ZremRhQ3JTRm9HU3pHdFY2dkRTNDh6SzQzV193OGpQeE1GNjBRc1E1UkFhUWFxUHpYUWVWMlBpYzNiYWN0ejNCQzVxNDVlSnZVX2ow?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDdTSlZzQTlXdGJyZVZqb3R3TFpJVktHMGE3Nnd5aVlrZDFBdWwwSFA0djJiZGd6azc1eHFmM01aZjQtM0tyNzB4M0tTRENOYjdPdjlwZVk2eWJUZHhLVHg0Uk1iSzN5Q2NJXzNxV1VQbXhXMXRlNm14ZUFELXJRWFM1UjV2cnR6XzJpMkxzMWM3YkV4azFmU0cxMGVnbUo5THJJQ001RHNFUlpq0gGyAUFVX3lxTE1mbkRocG1wWndRZ0VabHQybE9HblVkUWZzQWkxdkVoOGNZdi1GbzJuaTRURkp1RWRFTWJUMVh0VkVmVGxhb0dQUmsyR1NzQ0hZU18xSDUtNlRtWTJqUHpkWU1ZUTJLMHZ5emtaNG0yZW83VTJra1Q4NkpMc1NlZmFfQ2dBU1BJYzBFY1NTU1BPTW5ocWJlcWZPb2ducmFsR3FZbDNTNWlPeU9tc09tVUhkZlE?oc=5
 
-**4. Zucked Up! Meta Disables Its New AI Image Generator After CAA & SAG-AFTRA Trashed It - Deadline**
+**4. Meta pulls new AI image feature after days of backlash - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxQZERyWXFoMXJETUFVTnRXSHVweHhXOVllVTVISXBlRm5CeXJZUHRXMlg2RExiQW9pQUNaZnhQekJuYmdaZjNTY3lXcDFSWVN4aFE3NXN6bGRyRDNhRGpqRTl1eXJnNEg0al9HSFV6bllNb0FvMExPNWNSZ2plRWV0V2h2cHNMcVhhNTRjNU12Uk9pZw?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5
 
-**5. AI-enabled cheating is forcing some schools to go analog - Business Insider**
+**5. How to stop new Meta AI model from using your Instagram pics - WKRN News 2**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxQemp1QmFidXZNbmVhVHFsNS1qOFh3MTY3Rmw1N21pOXhPQzQ3ZkRCYkktd1Y5Rlh3VW5MZmI5V1FvQXFTU2M5LVJjUWIxbjFnS2F1WE1UT2U3WmtpYzN0SFZHNTUtZlNubWRzRUVUaEx2WDBkV1hlZ0NIb3JXNjZCdm9TdkVhWmdCaHZKMmNHR3ZOUm9qWDVNeDZYVUpVRUk?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm1rU1RHX2NFa1luVGx3Ylo3dUFWSXN2blBVOG9sYVRNOW9tQWhMbXpNSUNtNG56VV9iWV9DbGR5MjNKcDE5eHJQbkhOcjVucWpMMl8zNTduVWQxc2M1RmJSRHZLQkw5b1pSalBfVEJXX3pUaTRRdlpkdF8ybmNuNmN5eG9KcU1Pa1IzZndEOWc3YzdpeTIxVVQySjPSAaIBQVVfeXFMTlhrSlZ5dllMUWI5clJ0b3hjR3pOVmpoSURzRG5EUE96SkxOX2FWUUM3clQ0YVJ6bHY1SGw1WEJnZmNJV0xfN3czX3BuUThIcTY1cnNPdy01cEVFWE1BWHZ4RkRfTXN4dnJtWUNMQ29nbzhZYzR0NnJncTRtSHBtNVJlMFF6WTJLa0ZSTWwtR1ZURHF0WndUeWJhSTZOWmpwcHV3?oc=5
 
