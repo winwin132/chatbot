@@ -1,22 +1,22 @@
-🧠 **AI News (12/07/2026)**
+🧠 **AI News (13/07/2026)**
 
-**1. Alex Karp Is Saying What Every Angry CEO Is Thinking About AI - WSJ**
+**1. Campaign text messages could soon get more effective — and annoying - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlVfd3loZUtwa2N4dS14ZDhrcUVFTlVZWGJKZFVzdDVpZXFnZjFiOEt1XzlKMV9EQnJsbnJoSmU5ZDNQN3A4UDllX2pFZENKSEtzaXI5T3FOcnU0U1hmcmpaSWpmdUR4MlEtTEcySkZjaUdicHNFZEhMSW8yQ3M0ZWtjbFZkTVgwNnNPNTVOSUxYMllEanVVNXhMWHJkM00?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FsTHYzdUp1alY5RXBqUlNGa3hnSW5zTWpBbV9jOW12RFlFcXE1WnFkdzRPbkRiNlJ3UER5YmJyRVJrMkNvZG9MbThOVnAyNHZ2VzZNc3gzNERHdjgzSW9TS2lSMU1VY2taX3gxNjBFNDFQMVZKYUhSTDRzaURzeThPTU5hMWJtUmRNYWQ0VERhWnJLdXJTbjc5R0JuQ0QtTVp5ZEZxQQ?oc=5
 
-**2. Opinion | We Returned From China. We Realized Our Century’s Biggest Challenge. - The New York Times**
+**2. Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2JlVGZRWjFKSkRka0MwQ24zaEt5ZEJCSkpYQzEzWnJEOEoxZ09ZX0RCcUthUEM3Q25RUUszVFlRVXc0VnRsMTdCMWQ5bXZtNzhRUi1uLUxHOGFIczZTVVppaDhoMjR2b2hhYTM2OHJjV1pJQ0tHYUpBWFVuOHlfdmxTdw?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlFFaHgwdkZuNVNqN2xlOW91UHJrMFNmQlpTVFVFSTl2MWt0djJVRExpRUFTWWltXzJhRm5HTjVBSVAyRUZXYW1mQ1Y3VWEyVUlxYy1BMHFaNExGZTQ0aW0wS1RwOFJ6U29Gdi1zaVBuSE1KVHRmSkdVNUpDVUh3Ri16ZExiNW5uVldCZnJWVmF1Y2tlMG5pbEZmM29VWlNkUVHSAacBQVVfeXFMUHpIZkI1czZRdnJIMHFyb3R3RTVDNEljemxLdGplRDE1OFpEdHBleGY1NGxiNWozcjNRd3lhVF9uM1JBdXFMMVljbEtrUlVlVGkwTzlMYVplZFhZdGhCVjNaWXNlSHNRa2g5dFl0TU96OURvVG9jV3plcC1kSEpPem9YY3YzTkZnYTRPNng3RDVqa2JxbERnNnNLTmtHSUhDOE52WjFEVk0?oc=5
 
-**3. Meta shuts down AI tool after backlash over public Instagram accounts - Fox Business**
+**3. Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’ - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDdTSlZzQTlXdGJyZVZqb3R3TFpJVktHMGE3Nnd5aVlrZDFBdWwwSFA0djJiZGd6azc1eHFmM01aZjQtM0tyNzB4M0tTRENOYjdPdjlwZVk2eWJUZHhLVHg0Uk1iSzN5Q2NJXzNxV1VQbXhXMXRlNm14ZUFELXJRWFM1UjV2cnR6XzJpMkxzMWM3YkV4azFmU0cxMGVnbUo5THJJQ001RHNFUlpq0gGyAUFVX3lxTE1mbkRocG1wWndRZ0VabHQybE9HblVkUWZzQWkxdkVoOGNZdi1GbzJuaTRURkp1RWRFTWJUMVh0VkVmVGxhb0dQUmsyR1NzQ0hZU18xSDUtNlRtWTJqUHpkWU1ZUTJLMHZ5emtaNG0yZW83VTJra1Q4NkpMc1NlZmFfQ2dBU1BJYzBFY1NTU1BPTW5ocWJlcWZPb2ducmFsR3FZbDNTNWlPeU9tc09tVUhkZlE?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQTll5RGR0Z3YzblNRUkFyVWZ1YUx3SUN1cGxqSXBaV0FZcmpMdmhkYl9tRnJHdEpIWnNpMzlHLUNycTJDSnRFMXZCVFFHcHp3M2kzN0gybEhWcEZONVJ1TVh2SlZHYVFKelliVU0yY29WcDhoaW5KR1A3VDhKMzJubXpqOWhCdy1tMGdLM3dnTGtncmZJdTR6ekRTUXhEMnBnbjNIMC1aYUJzeTNkcFU0RVRrWUMwQQ?oc=5
 
-**4. Meta pulls new AI image feature after days of backlash - BBC**
+**4. Sacramento to begin issuing $150 fines with AI parking enforcement program - KCRA**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5
+https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDljVEtXUDRVYjM1dVJpLXpQZ0dnWUg3V0Q1dUFMOXZGYk52Q2NRYUQ3eGlmTmFqQ3FsOHpmMENaWjVHdU9YY1IxOThsNUR4QVlSeVVCSkhVSkJ1SWFwTF9xX3U4bVdXdVN4U2p1SzRBWVVpT0g4ZmctcVpDbTFKM09KN1VHa25OVmhIbG5n?oc=5
 
-**5. How to stop new Meta AI model from using your Instagram pics - WKRN News 2**
+**5. Why AI is driving a record boom in new US startups - The Detroit News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm1rU1RHX2NFa1luVGx3Ylo3dUFWSXN2blBVOG9sYVRNOW9tQWhMbXpNSUNtNG56VV9iWV9DbGR5MjNKcDE5eHJQbkhOcjVucWpMMl8zNTduVWQxc2M1RmJSRHZLQkw5b1pSalBfVEJXX3pUaTRRdlpkdF8ybmNuNmN5eG9KcU1Pa1IzZndEOWc3YzdpeTIxVVQySjPSAaIBQVVfeXFMTlhrSlZ5dllMUWI5clJ0b3hjR3pOVmpoSURzRG5EUE96SkxOX2FWUUM3clQ0YVJ6bHY1SGw1WEJnZmNJV0xfN3czX3BuUThIcTY1cnNPdy01cEVFWE1BWHZ4RkRfTXN4dnJtWUNMQ29nbzhZYzR0NnJncTRtSHBtNVJlMFF6WTJLa0ZSTWwtR1ZURHF0WndUeWJhSTZOWmpwcHV3?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5PSkZycVZpSUpTY0N5bUZHb2hpZFFFLTJUMi1tak1ONVkyNGpQandCVTVoQVJLYmlKY2o2em9Hd1E5bjE1U0ZRMy1keEF4ZDdFb3c0WTJpZjlDU2hndVFEcHJmWGNzdzhoQ0pQZ2p0cld6QWxzbUIyc1Jjdm9lOExjZHEwZnJrYzE5RUpXNGxvV1FiU1RKNF9fRm40NkY4a2ZFcjBkcS1kemdtbnlJVk1yTjRTeU0?oc=5
 
