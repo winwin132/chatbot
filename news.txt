@@ -1,22 +1,22 @@
-🧠 **AI News (13/07/2026)**
+🧠 **AI News (14/07/2026)**
 
-**1. Campaign text messages could soon get more effective — and annoying - NPR**
+**1. Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next? - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FsTHYzdUp1alY5RXBqUlNGa3hnSW5zTWpBbV9jOW12RFlFcXE1WnFkdzRPbkRiNlJ3UER5YmJyRVJrMkNvZG9MbThOVnAyNHZ2VzZNc3gzNERHdjgzSW9TS2lSMU1VY2taX3gxNjBFNDFQMVZKYUhSTDRzaURzeThPTU5hMWJtUmRNYWQ0VERhWnJLdXJTbjc5R0JuQ0QtTVp5ZEZxQQ?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5
 
-**2. Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds - CNBC**
+**2. Georgia family says they're forced to sell home to help power AI data centers: "It's theft" - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlFFaHgwdkZuNVNqN2xlOW91UHJrMFNmQlpTVFVFSTl2MWt0djJVRExpRUFTWWltXzJhRm5HTjVBSVAyRUZXYW1mQ1Y3VWEyVUlxYy1BMHFaNExGZTQ0aW0wS1RwOFJ6U29Gdi1zaVBuSE1KVHRmSkdVNUpDVUh3Ri16ZExiNW5uVldCZnJWVmF1Y2tlMG5pbEZmM29VWlNkUVHSAacBQVVfeXFMUHpIZkI1czZRdnJIMHFyb3R3RTVDNEljemxLdGplRDE1OFpEdHBleGY1NGxiNWozcjNRd3lhVF9uM1JBdXFMMVljbEtrUlVlVGkwTzlMYVplZFhZdGhCVjNaWXNlSHNRa2g5dFl0TU96OURvVG9jV3plcC1kSEpPem9YY3YzTkZnYTRPNng3RDVqa2JxbERnNnNLTmtHSUhDOE52WjFEVk0?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5
 
-**3. Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’ - The Guardian**
+**3. Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQTll5RGR0Z3YzblNRUkFyVWZ1YUx3SUN1cGxqSXBaV0FZcmpMdmhkYl9tRnJHdEpIWnNpMzlHLUNycTJDSnRFMXZCVFFHcHp3M2kzN0gybEhWcEZONVJ1TVh2SlZHYVFKelliVU0yY29WcDhoaW5KR1A3VDhKMzJubXpqOWhCdy1tMGdLM3dnTGtncmZJdTR6ekRTUXhEMnBnbjNIMC1aYUJzeTNkcFU0RVRrWUMwQQ?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtTQ2toaDhkd1dtTmQ2MlpDVkJSSFlidkxnUjVNMllfZmd1allzZjRxUm9qYWtCOXNSUk53QWd1akdLZWJyekJjYTVhQ2ZWa1lzclhQYUpSVF9fYUg3LURpQ1dkUUg5TGpJVnY1NDVBbFBxcXFtRXU2T1VZV0dzNHVvYjVtT0xmVXJvZ19JaE9JYU52WkU5SmVnb1o4aXRrdDZPRVFDTHM5QdIBrwFBVV95cUxNSzVPT3Rpbmx1LVcwMUJnX1dKVVIzX0ZYSFZ3TExSNWtHODFpT2hOVTdOSDUteDhPdGtxOGVWaUROREVBME05dUFiSGZ2bWloN3VpZjVTaERLRENib2NSVmhkMnAzXzlvdTVWeUs0SUstME1xaE9HbXg5d3Qwd0gtT1ZVZl8tUjg0RjIzVGVsbVJMb19SSzZKTkdQR2ZFelRkaTJvaFNSQmNTWkYwMlFR?oc=5
 
-**4. Sacramento to begin issuing $150 fines with AI parking enforcement program - KCRA**
+**4. Meta's AI advertising dreams have become a nightmare for brands - Business Insider**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDljVEtXUDRVYjM1dVJpLXpQZ0dnWUg3V0Q1dUFMOXZGYk52Q2NRYUQ3eGlmTmFqQ3FsOHpmMENaWjVHdU9YY1IxOThsNUR4QVlSeVVCSkhVSkJ1SWFwTF9xX3U4bVdXdVN4U2p1SzRBWVVpT0g4ZmctcVpDbTFKM09KN1VHa25OVmhIbG5n?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWdXWmRZel9FUENkN2FVQmFickVUUmVEYi1WUk9qMHRuZW5vQXJwSi1sLWdPZ18tZXVGV1FBdUdkLVY4WEM5dDBzUmkwalp3cVYwZmFxbFVMZk5UTDZhVGNIZUdhOHpBNUM2U1p4S2l4Y3RiMUxIQk1rSmYzdDlJRTRHNkloRGc?oc=5
 
-**5. Why AI is driving a record boom in new US startups - The Detroit News**
+**5. 3 AI Workplace Research Studies Every Leader Should Know This Week - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5PSkZycVZpSUpTY0N5bUZHb2hpZFFFLTJUMi1tak1ONVkyNGpQandCVTVoQVJLYmlKY2o2em9Hd1E5bjE1U0ZRMy1keEF4ZDdFb3c0WTJpZjlDU2hndVFEcHJmWGNzdzhoQ0pQZ2p0cld6QWxzbUIyc1Jjdm9lOExjZHEwZnJrYzE5RUpXNGxvV1FiU1RKNF9fRm40NkY4a2ZFcjBkcS1kemdtbnlJVk1yTjRTeU0?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHNZNXlibUs3XzU0ZzQ3cVMtREJhZFdsRDlFSVBlMHNxZXRvQkxXVkVIeXBnYTB3OFV2V2w0RFhWQTlLYUozQmt4a3BmNEJvREpfMS00NVVWNFY1NDRJSzl5NU9qTFlmYmRsdGdxZF80MHdaaDRrVDdlam9XNEtWeTZqUUxUTmpWbUFsdU5OdjZYOFZteEFDc3Z3NFhieExnUFNYaHFBMWV0b2dxZURxc1o3RXFMckZfejdtTmhR?oc=5
 
