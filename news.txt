@@ -1,2 +1,22 @@
-🧠 **AI News (15/07/2026)**
+🧠 **AI News (16/07/2026)**
+
+**1. Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip - WSJ**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5
+
+**2. Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model - Financial Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQaF9lNEswQ2FpWkpjVE05amdYTDlvRTA2NXU3Q3hTbHluZHE5blFFMlQ0WEZFbXFtMGFTa0Utcl9YY3Y0ci13T1N2VXZvUy1Fa1RSNVdoY0F1Tll4VFN3RnBHNlhndVVkUW1mRDRkejljRlR1enNWUml3YmVVQkplX2NCNHI?oc=5
+
+**3. Thinking Machines' first model bets big on customization - Axios**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOOERjNmwyMFU2X2p3TG8yc1lQSFk1MG15cE1VVndGSXo1S2pzeUFmUlZvSmt0bTVteDFNZVhuWWh2RGxpbmZCbloxelZsbnJFcHZwVkN6TkE5bEh1M0N0YzB0VjZBQlJCZGFaVVQ3QVgwOHpKQjMtUWtJSEs3QkR6d2RLNVJnd092eVVuZWhqdWExQQ?oc=5
+
+**4. An Ivy League professor suspected AI cheating, so he decided to fight back - The Washington Post**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkNpUzNvSWtfd2JSazAza05HTEphMk8tSVdlMl9kMDliLUlJeTVVM2l6WVM4NTR1bnBhZUVyYjJQTEVidnZmMDJjR1dBS212akhkMmNJUGZjb0tTSjczUTQwQTNyTWhpdXNpYWkxdjFTTmVXY05WLXhkOXFpMVNXTzJsNGJ6a3pCY2Q0Rk02U3lrSnRxcG82MEk4cWx1V1AzOWNMWlFJRVY2RnJU?oc=5
+
+**5. After floods kill dozens, local Chinese official uses AI to build evacuation app - South China Morning Post**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVPN2NrNFBCN0dJQnFNbmkybjhIVkNuNTBqRW9RU3VmUWhvTGVnaU85UmpHSFotS0RzWU1XTXZERm9LSlRRWlA2MF9KZjlqQnFCWnpYbWo4QlUzLXdyaDRCNmdHSVNwZ3A1Vkl6VzM0QVNDQUV3ekRteG9lRGdvYkVSWFhQWEhIVHVpaHFnNnNUWXpjMWdsc05mVDZPZWpkUkxBUmxXQzRPdWNEc1ZwWUc5d25EbGdaREQzOHEzcWVCT1NCd3JraDFodjFiZ9IBzgFBVV95cUxQbnVZaWR4M1Nuc2dRMVIyWDU4amFmN0NwUTBKanI3N2xFT3BEenZQMWpWTmdNcFFsQVZXX1FhbFNPU3VaWmNOWlh5ODJWcXoydzZKU0JlVzU4aWFoN1FiaWFLZGJRMnJfRFNxQTkyVXRYbk5Yb2VkZjdnaHNFSjV5NmlKbl96NzR4eXd6emlKSlgxaUcwcXhNZ3Z1VGdSV21ZWDNUY3ZzdGdYTDFTUFh6RWVISzdFdGNnOEhROElXMzdla3dnV2RsVUJOTWRTQQ?oc=5
 
