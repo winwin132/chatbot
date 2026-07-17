@@ -1,22 +1,22 @@
-🧠 **AI News (16/07/2026)**
+🧠 **AI News (17/07/2026)**
 
-**1. Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip - WSJ**
+**1. Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1JOMXAzc1ZCOHlqdE13aUNCNGVqbVBFRURBSkloZnVXYkFpbGJ3WGRxRFk5RTdQVmpGWHdIUlIxZUNVdXVKUmRPQlg3OHVZYnVPZkY1b0JYdTF0b3l1T19hMGI2VmR6T1VUOHNjenBxRkh2N0l3M1BtQkJyUWM4bEtSSFpvZl84?oc=5
 
-**2. Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model - Financial Times**
+**2. Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQaF9lNEswQ2FpWkpjVE05amdYTDlvRTA2NXU3Q3hTbHluZHE5blFFMlQ0WEZFbXFtMGFTa0Utcl9YY3Y0ci13T1N2VXZvUy1Fa1RSNVdoY0F1Tll4VFN3RnBHNlhndVVkUW1mRDRkejljRlR1enNWUml3YmVVQkplX2NCNHI?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5
 
-**3. Thinking Machines' first model bets big on customization - Axios**
+**3. Chip Stocks Fall as AI Trade Loses Steam - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxOOERjNmwyMFU2X2p3TG8yc1lQSFk1MG15cE1VVndGSXo1S2pzeUFmUlZvSmt0bTVteDFNZVhuWWh2RGxpbmZCbloxelZsbnJFcHZwVkN6TkE5bEh1M0N0YzB0VjZBQlJCZGFaVVQ3QVgwOHpKQjMtUWtJSEs3QkR6d2RLNVJnd092eVVuZWhqdWExQQ?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxOVS1DS0g1UmFPM0NrLU9nVW1SdGRsZnZLTTZXT3RUeDRHOG5od2tYSmcwYmxadTFsWmtFNEU5RkZDU3J3T29NX0VPOEVMc09LUnFnbHBraHFDUDNLT0dTNVpiUmZncDdoUjRacmM3eE15b3NFVjE0ZXVNRjVNRUFGMDV4MGJfSFRLRHUtYg?oc=5
 
-**4. An Ivy League professor suspected AI cheating, so he decided to fight back - The Washington Post**
+**4. 3 of our stocks rode the AI rally, while 3 others fell out of favor since last month - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkNpUzNvSWtfd2JSazAza05HTEphMk8tSVdlMl9kMDliLUlJeTVVM2l6WVM4NTR1bnBhZUVyYjJQTEVidnZmMDJjR1dBS212akhkMmNJUGZjb0tTSjczUTQwQTNyTWhpdXNpYWkxdjFTTmVXY05WLXhkOXFpMVNXTzJsNGJ6a3pCY2Q0Rk02U3lrSnRxcG82MEk4cWx1V1AzOWNMWlFJRVY2RnJU?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1o0N0ZZMng1QlpVY1hzSGF0czFBdTB3WWpsMkl3dzFkOXVERlhvN2xGc1A0VUdfc0g1TEdHc3dQaERVUnBCNzhtOXFZTXFqRHlFWWdlNkdTQjJrQzZVMHNVOHZNZkhLNE1NTmp2Z0VHdVFsNVNjWlhPckQ4dUlfdmhyb3gyQ21FQlhYaEpGNHpEdkZaLXZpaWRrbWFrX0J6UWdsLTBPZGpaSG81dUk4UmhJQWJJZjJIbWg3cA?oc=5
 
-**5. After floods kill dozens, local Chinese official uses AI to build evacuation app - South China Morning Post**
+**5. China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVPN2NrNFBCN0dJQnFNbmkybjhIVkNuNTBqRW9RU3VmUWhvTGVnaU85UmpHSFotS0RzWU1XTXZERm9LSlRRWlA2MF9KZjlqQnFCWnpYbWo4QlUzLXdyaDRCNmdHSVNwZ3A1Vkl6VzM0QVNDQUV3ekRteG9lRGdvYkVSWFhQWEhIVHVpaHFnNnNUWXpjMWdsc05mVDZPZWpkUkxBUmxXQzRPdWNEc1ZwWUc5d25EbGdaREQzOHEzcWVCT1NCd3JraDFodjFiZ9IBzgFBVV95cUxQbnVZaWR4M1Nuc2dRMVIyWDU4amFmN0NwUTBKanI3N2xFT3BEenZQMWpWTmdNcFFsQVZXX1FhbFNPU3VaWmNOWlh5ODJWcXoydzZKU0JlVzU4aWFoN1FiaWFLZGJRMnJfRFNxQTkyVXRYbk5Yb2VkZjdnaHNFSjV5NmlKbl96NzR4eXd6emlKSlgxaUcwcXhNZ3Z1VGdSV21ZWDNUY3ZzdGdYTDFTUFh6RWVISzdFdGNnOEhROElXMzdla3dnV2RsVUJOTWRTQQ?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVFTTC1hb2hyMl93emxXU0pEaDRZODJFbGVtOHlwVkVMWFltQ1JCY0xiQkFxRFZka3d3VXBFZVRZVml1TnVnTlRRY3ZDX2d1TVJkb0xUNENjVndlU29fN255NHEzQ3BqMUtsTmgtRFhVQ0xEYkJRRU5hWjJQVWJCeUZ6S3M5MG44SmU0aElTQ3pINF9sLTcwMmtzNkozal9WeTBBYXZJb3lXbzBPMHJzNk5vRQ?oc=5
 
