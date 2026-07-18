@@ -1,22 +1,22 @@
-🧠 **AI News (17/07/2026)**
+🧠 **AI News (18/07/2026)**
 
-**1. Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It. - The New York Times**
+**1. MLB restricts using dugout iPads for AI-assisted in-game strategy - ESPN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1JOMXAzc1ZCOHlqdE13aUNCNGVqbVBFRURBSkloZnVXYkFpbGJ3WGRxRFk5RTdQVmpGWHdIUlIxZUNVdXVKUmRPQlg3OHVZYnVPZkY1b0JYdTF0b3l1T19hMGI2VmR6T1VUOHNjenBxRkh2N0l3M1BtQkJyUWM4bEtSSFpvZl84?oc=5
+https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXhZWUlDMmhHckx3YnlSTktDS2k3QnlfOEFaaGZiNnNUTVQwX3g0T2pzY09OSlREMVRkSndFY3ZQOXQ2WTJTVUZYZTJPZHVnZnUzeGVZSms1alhtUmUxby11SjhpQlFjV0dLbE95MnFKbDI3eTVlUG9uLU1hbmlhanlralk5Y09CNjFyNDR3WWV4a29mZGltdllUeDBzSWprRnVtNUJGbFhDTFFzckR5V25sQWFvTFJyRG1QLWgzRDFsYmhhVlE?oc=5
 
-**2. Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ**
+**2. MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlIxeG15ZnRPbWE3enRTbFZuRUxmbkFmZlUwdE9aZzlTU3RhVTBhSHhidFp1dlNXZEZoOTVNbFh5bmdldDBtcWw2aW9GY0pmOHRENWZoT3JjM0R1bVRfVkNOWjdjQW90VHFzNVdjekQ5UFk0VHpzUU5QcVFmd0RMdzVfZw?oc=5
+
+**3. Mets among teams who used AI loophole with dugout iPads before MLB crackdown - New York Post**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFFwMTliZWtpZFY1V0Y3RWY3OHpFOFVhRHdEaVhKc3ZWUmsxcXJ4VThwY3ZQOFZ4V2NTWGdlN3NzaTRySS0waTh2QnFHOFdFT3VpRm1RWFVkZGZjSlpZQVJTWi00aUFaYU9vSWEza3JQdjUwQmhxc1dtU3d4ZDF2TWU0X1lJUWRKODM0MnFwZDF6aUcyM0Rqdw?oc=5
+
+**4. The White House is dictating access to frontier AI models, shifting power from tech giants, sources say - CNBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ?oc=5
+
+**5. Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5
-
-**3. Chip Stocks Fall as AI Trade Loses Steam - WSJ**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxOVS1DS0g1UmFPM0NrLU9nVW1SdGRsZnZLTTZXT3RUeDRHOG5od2tYSmcwYmxadTFsWmtFNEU5RkZDU3J3T29NX0VPOEVMc09LUnFnbHBraHFDUDNLT0dTNVpiUmZncDdoUjRacmM3eE15b3NFVjE0ZXVNRjVNRUFGMDV4MGJfSFRLRHUtYg?oc=5
-
-**4. 3 of our stocks rode the AI rally, while 3 others fell out of favor since last month - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1o0N0ZZMng1QlpVY1hzSGF0czFBdTB3WWpsMkl3dzFkOXVERlhvN2xGc1A0VUdfc0g1TEdHc3dQaERVUnBCNzhtOXFZTXFqRHlFWWdlNkdTQjJrQzZVMHNVOHZNZkhLNE1NTmp2Z0VHdVFsNVNjWlhPckQ4dUlfdmhyb3gyQ21FQlhYaEpGNHpEdkZaLXZpaWRrbWFrX0J6UWdsLTBPZGpaSG81dUk4UmhJQWJJZjJIbWg3cA?oc=5
-
-**5. China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally - Bloomberg.com**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVFTTC1hb2hyMl93emxXU0pEaDRZODJFbGVtOHlwVkVMWFltQ1JCY0xiQkFxRFZka3d3VXBFZVRZVml1TnVnTlRRY3ZDX2d1TVJkb0xUNENjVndlU29fN255NHEzQ3BqMUtsTmgtRFhVQ0xEYkJRRU5hWjJQVWJCeUZ6S3M5MG44SmU0aElTQ3pINF9sLTcwMmtzNkozal9WeTBBYXZJb3lXbzBPMHJzNk5vRQ?oc=5
 
