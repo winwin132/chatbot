@@ -1,22 +1,22 @@
-🧠 **AI News (18/07/2026)**
+🧠 **AI News (19/07/2026)**
 
-**1. MLB restricts using dugout iPads for AI-assisted in-game strategy - ESPN**
+**1. Green says Mets fully compliant on AI after report of usage - ESPN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXhZWUlDMmhHckx3YnlSTktDS2k3QnlfOEFaaGZiNnNUTVQwX3g0T2pzY09OSlREMVRkSndFY3ZQOXQ2WTJTVUZYZTJPZHVnZnUzeGVZSms1alhtUmUxby11SjhpQlFjV0dLbE95MnFKbDI3eTVlUG9uLU1hbmlhanlralk5Y09CNjFyNDR3WWV4a29mZGltdllUeDBzSWprRnVtNUJGbFhDTFFzckR5V25sQWFvTFJyRG1QLWgzRDFsYmhhVlE?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkxDSkQwWl9WWlhPR1JzMk5wZ21LTnVyZmVHUHI3NjRpVmFOX3BHczFVUENKR2hIM3lOQWg1TURCUjQyWmRhbkRhYXUwR3hjdTFfSzBtSlVVV1AyWFpHZmlQUktxR0hZNFpjSWV5dlZiRzR5M1JzbHdXSU93WkU5RWVGbUpRaVVoT3hCbmVfZnJ4WmdhdXRr?oc=5
 
-**2. MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic - The New York Times**
+**2. Silicon Valley Has Lost Its Biggest Advantage - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlIxeG15ZnRPbWE3enRTbFZuRUxmbkFmZlUwdE9aZzlTU3RhVTBhSHhidFp1dlNXZEZoOTVNbFh5bmdldDBtcWw2aW9GY0pmOHRENWZoT3JjM0R1bVRfVkNOWjdjQW90VHFzNVdjekQ5UFk0VHpzUU5QcVFmd0RMdzVfZw?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlRXNHB1ZnQ0SmpSSzR1eHMtMXFaMW9BSDFlcDhVWGotZDJVQ0djNGhkMWRjUTVmU3ltZ0RGV3hIM1p0bWplYUVDQkJ1cWkzVmF1SUMtaWZiVGtkR0RDbkFGaEplaHpEM25KdjEwSHJ1SktGRDJlQmNxOW1VRDVmWmtSNUkwd0tyY1A4Uw?oc=5
 
-**3. Mets among teams who used AI loophole with dugout iPads before MLB crackdown - New York Post**
+**3. Data centers have united Americans of both parties in a shared hatred - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFFwMTliZWtpZFY1V0Y3RWY3OHpFOFVhRHdEaVhKc3ZWUmsxcXJ4VThwY3ZQOFZ4V2NTWGdlN3NzaTRySS0waTh2QnFHOFdFT3VpRm1RWFVkZGZjSlpZQVJTWi00aUFaYU9vSWEza3JQdjUwQmhxc1dtU3d4ZDF2TWU0X1lJUWRKODM0MnFwZDF6aUcyM0Rqdw?oc=5
+https://news.google.com/rss/articles/CBMioAFBVV95cUxPR19mdHcyX3U4a0k0QWU2Z3k0VFdzWk5YTzlsS19Bdm5PeWRoanY5OWV5V2daSlYwTWhvZXhsRFpZbWFIaTJMZ0JHWmNucjU3N0Z3TkJPVkZTTi1wZ1p1d0lOc0ZlRFg0WjJZT0NDYWR6aTlPRUdmSS1PaUw1MDhQZFFSNXJDTTBhc3BhRG0tcnVKalUzTDA3Nlkxa0pxZDlS?oc=5
 
-**4. The White House is dictating access to frontier AI models, shifting power from tech giants, sources say - CNBC**
+**4. Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFkRlhlWjFRTTRweHNMZjc0d2RWR01wcWF5dUVEMmc4aDNuSHdRWTBmclhmRTJlSTdCNEJxc3VtVWlWNUhwN1VORWFUYnBfZXZacklFWHJLUmFQX3FMX1VJUmtoTGNMRzdFZjhWNDdwcVYxWUlXMFlzU0dmYlh5V3g5YlctOW8?oc=5
 
-**5. Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ**
+**5. The CIA Operative Who Spied on the U.A.E.—and Played a Role in its AI Win - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5
 
