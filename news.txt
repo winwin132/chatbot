@@ -1,22 +1,22 @@
-🧠 **AI News (19/07/2026)**
+🧠 **AI News (20/07/2026)**
 
-**1. Green says Mets fully compliant on AI after report of usage - ESPN**
+**1. Could AI be conscious? - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkxDSkQwWl9WWlhPR1JzMk5wZ21LTnVyZmVHUHI3NjRpVmFOX3BHczFVUENKR2hIM3lOQWg1TURCUjQyWmRhbkRhYXUwR3hjdTFfSzBtSlVVV1AyWFpHZmlQUktxR0hZNFpjSWV5dlZiRzR5M1JzbHdXSU93WkU5RWVGbUpRaVVoT3hCbmVfZnJ4WmdhdXRr?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5
 
-**2. Silicon Valley Has Lost Its Biggest Advantage - The Atlantic**
+**2. Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlRXNHB1ZnQ0SmpSSzR1eHMtMXFaMW9BSDFlcDhVWGotZDJVQ0djNGhkMWRjUTVmU3ltZ0RGV3hIM1p0bWplYUVDQkJ1cWkzVmF1SUMtaWZiVGtkR0RDbkFGaEplaHpEM25KdjEwSHJ1SktGRDJlQmNxOW1VRDVmWmtSNUkwd0tyY1A4Uw?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxORkJrNHZIMndwVTZXcmE0SW5CYlFNd3hsbkRnU05uRzFYY3REemJiQjMtN1NhSkVKRXdXbExHM2xIb3dwYzhMWE0tMkNXYVJoZ1ZXemlmRGRLaVBnbFVFNEotczVIME11Q0ZTaGx0Y2s2d09faXZzYms0UVVrRkVHdjhOYWt1dTFKRkhVckhTZkJLWjlISnR4UHBfb05uTUJKRFJwR1ZPMElhTHZ3SkJNNw?oc=5
 
-**3. Data centers have united Americans of both parties in a shared hatred - The Washington Post**
+**3. Battle against AI data centers grows nationwide - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMioAFBVV95cUxPR19mdHcyX3U4a0k0QWU2Z3k0VFdzWk5YTzlsS19Bdm5PeWRoanY5OWV5V2daSlYwTWhvZXhsRFpZbWFIaTJMZ0JHWmNucjU3N0Z3TkJPVkZTTi1wZ1p1d0lOc0ZlRFg0WjJZT0NDYWR6aTlPRUdmSS1PaUw1MDhQZFFSNXJDTTBhc3BhRG0tcnVKalUzTDA3Nlkxa0pxZDlS?oc=5
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhV3dpYzJKWjduQUlOY1lUNjJHb2NCSy1qUjZEQmdvckFOdVhYbFVIR1NmOFQxMnJSNEpPYmJOUDZ3dmx6aEYtWDhoSDZoODNUNVNrRzRR?oc=5
 
-**4. Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers - The New York Times**
+**4. TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFkRlhlWjFRTTRweHNMZjc0d2RWR01wcWF5dUVEMmc4aDNuSHdRWTBmclhmRTJlSTdCNEJxc3VtVWlWNUhwN1VORWFUYnBfZXZacklFWHJLUmFQX3FMX1VJUmtoTGNMRzdFZjhWNDdwcVYxWUlXMFlzU0dmYlh5V3g5YlctOW8?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2FWclZGano0cHJOODVWcTdPLWpsQ2RXbzIxYkg4ZDFkd2JkOWRVMS1nWVlnR3c1bURNcFdCUE9sZzIyZUtzSU01V1FUdDZIdWRzbWlJVElCRXNWenUtejRIa2I3X1NrcjFMNEVRWTQ0YVBORFluR0hsTGVIWUpWUkpuONIBiAFBVV95cUxNUkJaNENZWmFKeTlhY3cxV254bVd1MWVLZWYxWEplcWZ0RXNKZWxCaXdzbWxVcld2OGdnMTU3WTRjQXNOLUNBNThIRVpWT1p1QWtPR2M4RTVnY0gyVlN5cVlTbVhTbWt0clBVaVRySF9mSUhaZU5mb1AzMm1jRFdWRmtUYTFjYTdX?oc=5
 
-**5. The CIA Operative Who Spied on the U.A.E.—and Played a Role in its AI Win - WSJ**
+**5. TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk?oc=5
 
