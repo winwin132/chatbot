@@ -1,22 +1,22 @@
-🧠 **AI News (20/07/2026)**
+🧠 **AI News (21/07/2026)**
 
-**1. Could AI be conscious? - The Guardian**
+**1. How Google’s A.I. Search Is Imperiling the Open Web - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUjF6UzRoT0FXakF3OTNUaktTRW96NjIxOWZhZGpVaFRtZDFMNGtQTDZyRkFwQlpRT2ppNWpvS1ZRQzhjaHlsQUttVkUxQUd4dE1qUGlQa094c1hxb0JPbHRqQUM5WUMwUmlKYmhMTHBCSzBSY2d6ZQ?oc=5
 
-**2. Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line - WSJ**
+**2. Scoop: Trump AI security agency head resigns - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxORkJrNHZIMndwVTZXcmE0SW5CYlFNd3hsbkRnU05uRzFYY3REemJiQjMtN1NhSkVKRXdXbExHM2xIb3dwYzhMWE0tMkNXYVJoZ1ZXemlmRGRLaVBnbFVFNEotczVIME11Q0ZTaGx0Y2s2d09faXZzYms0UVVrRkVHdjhOYWt1dTFKRkhVckhTZkJLWjlISnR4UHBfb05uTUJKRFJwR1ZPMElhTHZ3SkJNNw?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE9ua3RCSEtKaWpKTGgwbTd5bWR3MEdDeE5SM0VyYUVaM2txRnZ4R2N4d1o2XzRKLTVhTDd1VnlWeldSaWZ2V3I5WTdtZXExYWxXa2xwX3M3U0ljRG82eVNfMS1Ta2pKRnU2MDd5eHRYR2JHVTJpZDIzTDh3?oc=5
 
-**3. Battle against AI data centers grows nationwide - Fox News**
+**3. Trump administration's head of AI safety agency resigns after 3 months on job - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhV3dpYzJKWjduQUlOY1lUNjJHb2NCSy1qUjZEQmdvckFOdVhYbFVIR1NmOFQxMnJSNEpPYmJOUDZ3dmx6aEYtWDhoSDZoODNUNVNrRzRR?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQakNEQlhTN0EyQ19FQnA4T2Nub05IWmNBUnAteVZTNXM3Skd5ZjB2QUJiWG1qdHJMVFJkejlJd3V5aUdoaVlOc1FxM2Fjb3FtUEMzb01iOWJHX0F3MXJLYW5lNGVtc2hrMjRpOFJEb3d5RWpnTVZ0T2Nfc0IwelFZSFRpU3NKbmZCMTFRczE3TUZXaGR4VGJKX0FnN2xwWjJxam9LWtIBqgFBVV95cUxOczQyenJJUXNSUWZ3bXRCRXJuR0ZzNnN1eVJYVDNmSzJyTC1FeVhCMkMzQ2N0TERWbnNPTzR3MGlIYl9nZGgwMzJXWF90QVZDQzFnUU9DeTQ2RDcxQkZkRWl3TmhIRFQxQ1k3QzQ2a21OUi1MTmk2S3paT1drR2RraVFubjU5NG1iWVVlX0J5TWdNVW1KbGtWdmxwcXpLSEtHbF8yVmNQY2xZZw?oc=5
 
-**4. TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC**
+**4. Trump’s latest AI czar has already resigned - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2FWclZGano0cHJOODVWcTdPLWpsQ2RXbzIxYkg4ZDFkd2JkOWRVMS1nWVlnR3c1bURNcFdCUE9sZzIyZUtzSU01V1FUdDZIdWRzbWlJVElCRXNWenUtejRIa2I3X1NrcjFMNEVRWTQ0YVBORFluR0hsTGVIWUpWUkpuONIBiAFBVV95cUxNUkJaNENZWmFKeTlhY3cxV254bVd1MWVLZWYxWEplcWZ0RXNKZWxCaXdzbWxVcld2OGdnMTU3WTRjQXNOLUNBNThIRVpWT1p1QWtPR2M4RTVnY0gyVlN5cVlTbVhTbWt0clBVaVRySF9mSUhaZU5mb1AzMm1jRFdWRmtUYTFjYTdX?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxNREtQUjdkT0VVMUc4QVF0QzBNMGZVd0VUZkZGd2dwNjNQcy13RTBRTHQ2ZDNENmF2MEt0UnBVN3VBYW5mWXZIWkVkTkN2UmlSQXN0YlQzbGJkRnYtTEtTZmZsNEM0aEgzclVhNEpOeUdBdEs1R044aFo5WENOdG9vemFOQQ?oc=5
 
-**5. TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters**
+**5. The secret Trump administration battle to fight Chinese AI - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWTlIa1VpT2FIbVZmcFZOeURoNEtPdEE5MzVib0YxNGhUOWg2cFBncmxoLU1idmN4eXhLX1FxQzZpbjNIck9NdEZZcVBMNlRpaTVlTHNwSi1KYzYweW9xMm1RWGpWT0pyZ216Wk53?oc=5
 
