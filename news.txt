@@ -1,22 +1,22 @@
-🧠 **AI News (21/07/2026)**
+🧠 **AI News (22/07/2026)**
 
-**1. How Google’s A.I. Search Is Imperiling the Open Web - The New York Times**
+**1. OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUjF6UzRoT0FXakF3OTNUaktTRW96NjIxOWZhZGpVaFRtZDFMNGtQTDZyRkFwQlpRT2ppNWpvS1ZRQzhjaHlsQUttVkUxQUd4dE1qUGlQa094c1hxb0JPbHRqQUM5WUMwUmlKYmhMTHBCSzBSY2d6ZQ?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5
 
-**2. Scoop: Trump AI security agency head resigns - Axios**
+**2. OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE9ua3RCSEtKaWpKTGgwbTd5bWR3MEdDeE5SM0VyYUVaM2txRnZ4R2N4d1o2XzRKLTVhTDd1VnlWeldSaWZ2V3I5WTdtZXExYWxXa2xwX3M3U0ljRG82eVNfMS1Ta2pKRnU2MDd5eHRYR2JHVTJpZDIzTDh3?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5
 
-**3. Trump administration's head of AI safety agency resigns after 3 months on job - CNBC**
+**3. OpenAI says its AI models went rogue and attacked a digital library - The Seattle Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQakNEQlhTN0EyQ19FQnA4T2Nub05IWmNBUnAteVZTNXM3Skd5ZjB2QUJiWG1qdHJMVFJkejlJd3V5aUdoaVlOc1FxM2Fjb3FtUEMzb01iOWJHX0F3MXJLYW5lNGVtc2hrMjRpOFJEb3d5RWpnTVZ0T2Nfc0IwelFZSFRpU3NKbmZCMTFRczE3TUZXaGR4VGJKX0FnN2xwWjJxam9LWtIBqgFBVV95cUxOczQyenJJUXNSUWZ3bXRCRXJuR0ZzNnN1eVJYVDNmSzJyTC1FeVhCMkMzQ2N0TERWbnNPTzR3MGlIYl9nZGgwMzJXWF90QVZDQzFnUU9DeTQ2RDcxQkZkRWl3TmhIRFQxQ1k3QzQ2a21OUi1MTmk2S3paT1drR2RraVFubjU5NG1iWVVlX0J5TWdNVW1KbGtWdmxwcXpLSEtHbF8yVmNQY2xZZw?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlk3Vzh0a0tPN0VXbFluR0JvaXlreF82TXpsd0VNMUh5UGo0VjA1NWg2dUtCYWZ6NkM2S1BEUEZrMHNub2NkdG8ya0hiaGNnSmFwMUZ0bHVzVjkyQmJXNTB0LVI1RnpTTU5pTm9JY3pDZThJbUVDWFNIUU0wSWYtMzBSejR0aFNHQkhNQjVvT0duTTFleXBuUTJSX3JEQ0o2Q3FMSWNYd3VvQQ?oc=5
 
-**4. Trump’s latest AI czar has already resigned - TechCrunch**
+**4. Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNREtQUjdkT0VVMUc4QVF0QzBNMGZVd0VUZkZGd2dwNjNQcy13RTBRTHQ2ZDNENmF2MEt0UnBVN3VBYW5mWXZIWkVkTkN2UmlSQXN0YlQzbGJkRnYtTEtTZmZsNEM0aEgzclVhNEpOeUdBdEs1R044aFo5WENOdG9vemFOQQ?oc=5
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5
 
-**5. The secret Trump administration battle to fight Chinese AI - Axios**
+**5. Florida's Department of Education pushes for all school districts to define rules regarding AI - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWTlIa1VpT2FIbVZmcFZOeURoNEtPdEE5MzVib0YxNGhUOWg2cFBncmxoLU1idmN4eXhLX1FxQzZpbjNIck9NdEZZcVBMNlRpaTVlTHNwSi1KYzYweW9xMm1RWGpWT0pyZ216Wk53?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDVlWHlaNXFiZjZwY3lvazFwelVrd0RPV2NiREczaDFBRlYtY085MFRZWDAyZ0ZPblRueFQ3Y1pxTFNwYUd3Ml9vWlg4TXZYa0ZlNWFBM1hBT1NlSlRmTXVNMGx3cDJwZGhTbnQ1Y0dDclZmQXlZT1NBR2ZmZmZyNDlRR21kbk5mVGlvNWIzY0tVNDRQMm9vOGd3?oc=5
 
