@@ -1,22 +1,22 @@
-🧠 **AI News (23/07/2026)**
+🧠 **AI News (24/07/2026)**
 
-**1. OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC**
+**1. US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZFJnRzEzWG5aR0pVLTdCbjNtOXpLdmJiQVRxXzI1RVlJQzJycnc5V0p6V2RIb2VZZzM2VHNaUk9Ed1BlZ2haSmtHeFhUVlRtY1dFdlpKWHRBQQ?oc=5
 
-**2. Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments - The New York Times**
+**2. OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGRkSDhSdi1IQlludFBtc2paX3p4Z1AtaTJFVy15VmtMVDJnZjRnVHRSRllRVGJySXEzV0VhazU5T1dYcXVVc3o4dFVreHBWeFNLZ0Q3dS1EYW5ybmZmTDlrTFI1bEs3dENPVi1OZTNzZmc1WTE0RmRPNTVEV0FpdFh5WlZvTjUzWWc?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5
 
-**3. Google’s profits are outrunning its AI spending boom: AlphaCheck - Yahoo Finance**
+**3. For years, they worried AI might break free. Now they have to stop it. - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQi1SSDMyRlh2YUtUTzZUOUdFZzRyZG5jakFBVjRVVHZvOWJGUGpmQmJkY3Z5MkxwT080NjgzV2IyeERIVnA1dDNFeFhvaHk3RFlCd3p4NFZ2ZVNEcXlpd2F3SFVnSFVXb2lrbGQ4b2tNMmg5TWlzbUNCVWdNa0t3SzdQMW05RjZTTWt5RW94Zmd2QzA2UFNqUy14ZEVwRWdUR3VlVlZVOEJlTWs0WU9qWGhlalQydlItTTBv?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzJ6UTNnai1IR1AtWlJ3Mm9hZG1pelQ4UUxVN1k3RE1fMzNwYWIwZHQ3Y2Z5TFQwWS1wYndwcWN1WGlGU1J2bFhsNFpsOG9CODJ2SnhTVkM4THNvSkgza0JQN1Q0SThFMlJ0TVZsLWJZUE84RERBTzg0MkZPbFN3MVk1dC1JQk0wWDZiU050MWV2U3JvaXdpNTBhYzhPSEwyOFUwLVRoYi05bjRCbC1LU2o0WXVERlJ5eUNMbXBn?oc=5
 
-**4. Why we're sticking with Alphabet despite an imperfect quarter and more AI spending - CNBC**
+**4. AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1JCUU9Ba3lJZHAzdE9GOWx2UmRLM3FxTy1VQ0hwSnFYaXcwUUNnNG5KdWh5WC1oWnJhS3E2ZTBiaWZyYmdJNGdycjNQNnRCbG9KNEw4SWhXM0lrUFVIVnNNd3lqZWxYT1lsQnVtWndKZFZIb3hveThtaE9PbzF0MzU4ekx2RHJjMGE2aE9DeEJzYXR6aDllTXhuVW5kLVpzbmNmeXFsczBpYW9KLWxqSkZWRE04NG1uSXc?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnNxMjFJeHUyM3hUZWttY2xvMm0yeDc5bl9XLXU4T3ZmeGI1M2tMUDIwcC1SaUFlQ2lCMGdJbHBDUFo0VWREdlQwcDRXRDFob1pfdDNueFVKTEI0S09pTnZVY25oOTFXMXZkRkU3NzlZSktRZDl0UDlpNU4xc3B6dVJEY2xZZw?oc=5
 
-**5. Top American AI Execs Sound Alarm on Chinese Models - WSJ**
+**5. Hochul says AI companies are 'flooding the zone' with data centers - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjdKbzFPR0FobDdMZk1iajVVTnhpdWVfcW1Hc0VPd1hyUnBUZ0IwWjRLTVZnd3oxMjhxc1RFekVGZ0hGUjJTZTUwc0JLdUJIN2o0MHF3YkZmbkRqWUMxZktKTm1uTXRkSnNKSktYaVpCTFVsQU9fbUE0eVJMSWxpOC1qYkE0Ty1IRTdmOHNhSENEQQ?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPenQ2clRxNFAxcXJjT3hNQ2NtaFRlOVhEN0hxR3hYeWFtMTZKSEJFOTd0YzhjUWRUckkxOUwtNnF2TnRLT2Y1ejktQnFDWk1Ec2Y4RG9kYUFJTzlLR0t0bV9rdTI4SF8zRlJjaGZ2ZDZjT1cycjItSW94bWg3bThvdlRHdzJ6c0wzM1luM0Y5WDZkaGg0YjBqWmhHS200eVZYY3hmbng4UTd3SzVlelMxbW9OeDc?oc=5
 
