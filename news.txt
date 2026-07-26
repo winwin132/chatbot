@@ -1,22 +1,22 @@
-🧠 **AI News (25/07/2026)**
+🧠 **AI News (26/07/2026)**
 
-**1. OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times**
+**1. From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5
 
 **2. EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5
 
-**3. I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else - TechCrunch**
+**3. Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVpYeDhuTjJZSWI3VTF6eWxTQzFoQWE1a0pPMzhWbGp0UkppWFBsM2RWS2dkOWpnNGp0Z3daMmFyQU5aVXRTcVVGcUxEY2d5OGp6MHlkYlRkWmFIQWpCenh5dnV0cGsyaHlzLUw2bXdHRW9Xbjl2bnZpSm85RjQ2ZlFiYk0xcUt6ZHRhUjFqYnRlSTZFVjBUTi1kLXlzNElER25CR0hTbnBraERQb1hFa0pSdEVHSVh1UGFsNnVxdDB2REJ4akZicWVyMFZ3aWdKYTVfdA?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5
 
-**4. Nvidia, Microsoft and other tech giants back open-source AI models - Reuters**
+**4. AI Chatbots Know How to Make Biological Weapons. Some Will Teach You. - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2tmdEpBLWR6Sy1ZM25aUndPUkhtMTBOOHRjUVN0SFlacU9rR3QzWVhzQVdWdDJrZHpxX3Bld0pIQjVwcEFBVUdsTVFyajJ3R0RwZWFiTHRfQkwzVUp1LWtjenB4RFd1S2R6LWYxTXZHeldzMGJiaEVWMm5TaEd6VUVRYw?oc=5
 
-**5. Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models - CNBC**
+**5. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE13ZHNTM1NUV0Jyd1ZlTmJpYWNFQmZ6dUd6N3JlVC1scVpSNUN2N0xRWUd0ZmVWSlFCZGd1MHZIYzBzeXQ2MjVGNzhtZ2RVVEVsUDBSV0Jwa0JieUY3SjJXcmp6S0R1WnZNLWNoZVRHYk5zdWZF0gF6QVVfeXFMUFY0a1BQZVRCWTMxWl9sNVg2U0JHaUlNTGNVb3g4VnJueXFMV195VWo0bWkxOFF6Z19ZanBFS3haTTM0ajJEYTZSMDN1Qno5ZUVXU2NyaVQ4Tm9pV1BIcDh6RHE0b3NQYUdHT2lmVldPRnlaU2IyelNNX0E?oc=5
 
