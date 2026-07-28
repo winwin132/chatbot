@@ -1,22 +1,22 @@
-🧠 **AI News (27/07/2026)**
+🧠 **AI News (28/07/2026)**
 
-**1. How AI wealth could be distributed to all Americans - CNBC**
+**1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVdJTnFxWVJxeTJkcVNJcmJoekVxVWVXOXh0RFgxWHFlWU9Va2kwZUVleERmQVBBcTN0N1gyaExJNnVPRzkyVHl3ejFLSHhhdW9PT3h5bGlJa0hLakp2cDdGdDRyOHVmVmZCTE9RSV9fRmh0cjF3NFNGYzBkV3hZRE9XQUhCTmM4X3Vn0gGQAUFVX3lxTE9fR0U5ckFnNWJvQk1sWjZ2UERhVUktSGtZRUFLalpKZUhMZ3phYlpIeExtYk1rdDQtSVl6RVJSUTdMU2ZBemFicC16aDBrbDN0a0JkVERhM09iN1labDE5Nl9zZG5SUzU4d05CVFozSkVWcElfRFRuVEdJTFBLYUN5VGtFX2t3NmxZaDVnQlU3dQ?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5
 
-**2. Why are investors freaking out about Big Tech's booming AI capex? - Yahoo Finance**
+**2. Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXdzVmRjS1BDY25Fa3hTWVlXclVIQzkxblFXVWNqdTkxd1BfWHg3aHlUVFo3MDJVQ0pPWVZVR0ZYbUxtM3VkSlMtaTdpLWctR0xldEUyQ0hUd0Z4dXh1QTVIcEFPZjF3Qm1hOUxJcmQ4WnNFRUgyQWFwZE5MQU1lSms3cHY4M2t4VmpqbmQxbFd1N29scUxoVkRyZ200YXB0QTVvbnpEZHVBRnIySEt4bGFfM1lDenpCWjkyRA?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5
 
-**3. Trump continues to threaten Iran with AI social media posts despite lull in fighting - The Times of Israel**
+**3. Nvidia’s Huang heads to Capitol Hill for AI talks - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmRZdGtNRjRya3lsSlNBcC1Wdld4a1h5OG5WRThDM3hmY0hQOWN2R2RlRmVRT3dsNW43UVh2NzM5V09YRVM3aWhCakF4dXlXNmZOeTJaTEp4SV85UHlZVnBnbDRQek5FYlBCZnZSYWUzRkpOczRoaTdwUGdlZmRmU0kyNDdzeldYVFpyRVpvQ3JUeWdDWGt2SzlTM3lfMkVEOUtweG5tRnhZX2FQQmFaOEdsNzFqUdIBuwFBVV95cUxPNEtQUlJPem5FYVJzSXRKMklwMkQ0YXRGT3BVbjRrdUIxS2FEWmNQYW53d190bnM1TUpsWG5wQjdXazMtN1FhU0RicVBpMWxLNkQwMC12LUlLa051bjVIS29SZGVSSjdlYUMwblB3YTE2YW5vX0Utb0Q5bGRxVS1wN3lmejJvd0RnWHF3NWVnTGlmRXhtZWN2X2JrWEI0UElWVlRWNTh0b2M1QjJfdWJod2U5eWdXaEFMaGdz?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDNZVE9vaU03c000Zm51TEgwU3Vkcy1pR2hnY1JtMUE3Qms1SElkSnl3T2dTOVlvVHlIOEJFZ0l6NjFnczN3WDVjaHhnWGpkSF9LZTZ6MHpMT2tWc2F1ZW5FZkhlemlMbWxzeXJIVVBrLUhTVVNTWXpMVGVnN1dFQm5LeXV0RGhIS0lqS29hYlQwNER5R2VwRnE3bHQtSzk4R1ByamRWZEhrODM4dk4wUmNvSmJ1QQ?oc=5
 
-**4. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot - CNBC**
+**4. Chinese Start-Up Moonshot Details New A.I. Model - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMidEFVX3lxTE13ZHNTM1NUV0Jyd1ZlTmJpYWNFQmZ6dUd6N3JlVC1scVpSNUN2N0xRWUd0ZmVWSlFCZGd1MHZIYzBzeXQ2MjVGNzhtZ2RVVEVsUDBSV0Jwa0JieUY3SjJXcmp6S0R1WnZNLWNoZVRHYk5zdWZF0gF6QVVfeXFMUFY0a1BQZVRCWTMxWl9sNVg2U0JHaUlNTGNVb3g4VnJueXFMV195VWo0bWkxOFF6Z19ZanBFS3haTTM0ajJEYTZSMDN1Qno5ZUVXU2NyaVQ4Tm9pV1BIcDh6RHE0b3NQYUdHT2lmVldPRnlaU2IyelNNX0E?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE9veDlGZlRsc29JNlFwSDFXUEI0V1pJMFBOR05lSjFtRmRWZmw4cldKUXFYaGVmZW9MM0JiMWt1Z0Jnem5od1AtdmJrdUhSZU5VZlVxZWVWaG1zUGNvR3dBQTVjckxrNjFUci00b3UxdHV3QUFXSVVnZ1N3ajJramc?oc=5
 
-**5. Trump releases AI images of attack on Kharg, and bombing of Iranian vessels - Ynetnews**
+**5. China’s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RODdDc290VW9CZHhzbzVjX1NRU2FmVnBVbGVlYk5sMVBvMS13SmNTeGMyUWZ1LUtVX1pDeDFVN0Z0aVR4UHhQZXhabTRVQW5TU2hQYml3?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5
 
