@@ -1,22 +1,22 @@
-🧠 **AI News (28/07/2026)**
+🧠 **AI News (29/07/2026)**
 
-**1. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC**
+**1. Opinion | The AI Future Is for Everyone - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaldnTmlIZ2o2cXp5OXhiVG9BNFU2OTdEQzJ4azB2RXRzZktpd1gzNWVfYVhOaWxpRFZtekJ0YXFCUnBuWTJJRTJXUkwybjRHTDBlWTdJcFFNWk5WVVdyRFFGM09hd1hnQ09aTThQODNaZFBm?oc=5
 
-**2. Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters**
+**2. Employees at the world’s biggest AI companies are calling for a slowdown in AI development - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOYks5WUNMMWVCa3VHZTRwTlBHeVNzQ0lDWmE1VEUyNm9kdkJDYWgtS3doWUhzcVNsamsyWFUxelZaUWpxdGZMb1RXdUphcTRIMks3MGVUZVJhbWFOb0swUU5oNnlQT3dXbUFnQVRDZmZiMW1wOVhpWU5QbDJabWZZZE5HNA?oc=5
 
-**3. Nvidia’s Huang heads to Capitol Hill for AI talks - Politico**
+**3. Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDNZVE9vaU03c000Zm51TEgwU3Vkcy1pR2hnY1JtMUE3Qms1SElkSnl3T2dTOVlvVHlIOEJFZ0l6NjFnczN3WDVjaHhnWGpkSF9LZTZ6MHpMT2tWc2F1ZW5FZkhlemlMbWxzeXJIVVBrLUhTVVNTWXpMVGVnN1dFQm5LeXV0RGhIS0lqS29hYlQwNER5R2VwRnE3bHQtSzk4R1ByamRWZEhrODM4dk4wUmNvSmJ1QQ?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5
 
-**4. Chinese Start-Up Moonshot Details New A.I. Model - The New York Times**
+**4. Workplaces look for cheaper AI as ‘tokenmaxxing’ fades as a corporate fad - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE9veDlGZlRsc29JNlFwSDFXUEI0V1pJMFBOR05lSjFtRmRWZmw4cldKUXFYaGVmZW9MM0JiMWt1Z0Jnem5od1AtdmJrdUhSZU5VZlVxZWVWaG1zUGNvR3dBQTVjckxrNjFUci00b3UxdHV3QUFXSVVnZ1N3ajJramc?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjd5VHZ2c3lPU2xkZ2ZUd1NqZy1JcTNHRHk3X2R0dHc1TUpNdGR1REtPYk9LQ1FCT09kcEFHaXVuNUE2dGx1WWdKQ3BLNVBtd3VURkE2cUtpODBJam9zMjlaWThKZ2JyNy1QWmtJN2FyX1c3RFB3V0VSTkVOUTRxUWxwMURQaEFKX1BZVUxvb1ZQcnI0T01RQndKOA?oc=5
 
-**5. China’s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com**
+**5. One AI Chipmaker Trade Blew Up $60 Million in Crypto Bets - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMW01YTdDa3FEclkxdkJ2WDBQcDJOUDBpUk5wNTB4VDlKSG9ROWh5cW8taXl6aV9TMUF6bnhCQmJpNWpCcnBLd19SNVdEeG1iUTFYQ2Jndk1CM0ZzSVRtWEJncEVjRG1rQjBHaWdPUTBxWEVIUzN4SGttQUVTRlB6emkxY3hMNXlFUGxTbHVOWXM5RFBDZVM3YzU3WkpMMmpaOHZYRjJYV3duckU?oc=5
 
