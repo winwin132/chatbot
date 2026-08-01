@@ -1,2 +1,22 @@
-🧠 **AI News (31/07/2026)**
+🧠 **AI News (01/08/2026)**
+
+**1. Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5
+
+**2. Google pauses AI satellite images, after fears of deepfakes in the sky - NPR**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTNrVDk0NTVFVFRNSlVEU2UxNExON1I0WDhqTzV1aDJLdHo1eWc3QnE4TkRzNjFqZGtNbFFsVEhjNnBxT09UdTAya2pSMi02bWN1SnpaTl9KMWh2MWdCY1ZlWHJuVFJSYkZ3bGpFVWRHTk9aSnRPcGN4NVBNNVdES1VJSlp0U1F0R3VFak5xdldCTTNpVWtLblE1dnpNdlI4X3pTSHhnSWozOGhYamFrdHlIMG1QbkVT?oc=5
+
+**3. Google Just Ruined One of Its Most Important Tools - The Atlantic**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0JHbHoyZ3lLQ25yaHBsT0taRDM0V011bHdwYjc4aEdjYmZCdElONDlSdGRDTGk1OVlmbnBiTW5BdFdVOTRORE1KQkdOOTNWdXJJRXZVQmdlQ2RKZGk3dkNweGdlQ2pRM0xrV0hoOWRRQzZBbnc2SFlxMFMyMEVmQVpPVQ?oc=5
+
+**4. Transform any place with Nano Banana in Google Earth - blog.google**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXA0MWxUaW5IUGxodl9ZNlJBTmtRX1R6TnhtSVd1eW1iYjdFb0R1RDhKb3puWDIxeDR3Wm01WFpDMmgyZFVpTDVRRmJWN29NVE9VNHhGa2dZRUZrMzA4cEFMd044NVBmZTJQbFJ1aXFyU191UlpKbXhoR2t5bVNrU2pmTTdsRHRFall6ZkRTQXN0bEI2OUpxTkV6cDM4YmpfbWc?oc=5
+
+**5. The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc?oc=5
 
