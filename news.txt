@@ -1,22 +1,22 @@
-🧠 **AI News (02/08/2026)**
+🧠 **AI News (03/08/2026)**
 
-**1. Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - nytimes.com**
+**1. Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5
 
-**2. EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters**
+**2. AI-assisted staging draws boos at the Richard Wagner festival in Germany - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3ozYU5WMW5HQTZ6cTJUaWk1dWxtRmVmQXhFOTBxa25rWUpZYVZPTHBsaXRwcFE5d3hCX2NtLU42cWk5Nm9LVHhhaDN4VWFKSWl5cHBNQUI5MFQ5U2JKUHh4cVF3Zk1MeTRrMndfenkyZmJqQ2RyTWsxYkRGTXJJUk54UndCak5BQXVVdmZtdDRsbWhpaENHS1lsWQ?oc=5
 
-**3. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC**
+**3. Meet the coaches, measurers, and builders carving out a slice of the AI cost-saving business - businessinsider.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHVfQ28xdGc3dVpDRURXb0hseTY5UWVYWFR5RzJuQXdLUW9UU2k5eTNTamFJekotQk44eG53Q0gtODA0ZUd0RDBlLVB0U2J1cVlYOEtiazhZMS1CNEQ5UGxTaXlUOTdmcFNvYlg5TDlyZms1UlJycFk1LVFkLWpSckM5MA?oc=5
 
-**4. AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed - Forbes**
+**4. Resistance grows nationwide against AI data center boom - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXRmTGxuNzJYbE9wa3JYVHNfeHEzRTZLd2JlZXNjMThMTUVCOG5YZXd4Z0RpR194c2hGYTlzQ2pORnR6bGlOSFN6UE1ZdEFoWFlsdWlRNlB2a0FjeWtwaXN4V0FsSFl1cVFYc0dsNDVQQ09zbkdtaWFTRVZfbmJNb2tXbkZZVDlPTEdCWHFKNjU4TWpycEt2YWxSZ3FaaDhnVnFRM3BLdm1BWDNXVWk2ZnpqSkZoZEd6QVE?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjQycmk1NjVlTDJVRUo5akU5a2p4NEJqQlg1LVBZeE5ZVGlZS3RlSV9CZ3VEblA2RzdTeERqWjVvaHZlQ2lrX0steERNWkJRTlk4TXMtMzRXNFQxekNzbUp0SUZsdzNVZDRDczYzM2FCRHR3QVZwV3E1MFRraWEwN0VySkVucm8xSHlRS2NJbw?oc=5
 
-**5. The Race to Build an American Alternative to Cheap AI From China - WSJ**
+**5. Tulsa forum examines impact of AI data centers as major projects expand in Oklahoma - KTUL**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxNc00wczl4ZVM3aUNYNjQwSTVkVmZ0NTRxOXB0RE5nZ05Ic3ZNYU53TDdmUjg1dldoNVlndF9tZVVMRDUxamNRUzMzN2NZSUJlcnhXWTRWX2NDX2V1MXNkYWR5X0p5UENHam9UVkdsZzdiV3VsWlhxSlZLclVZOVgzLXlVenlfaTRBMnNtdlpVeXQ5RHBlbXZ5dm1Nd0lzNTZucm8tclJDNDlpUUVqdUhuTg?oc=5
 
