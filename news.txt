@@ -1,22 +1,22 @@
-🧠 **AI News (05/08/2026)**
+🧠 **AI News (06/08/2026)**
 
-**1. Opinion | I’m Begging You: Never Write With A.I. - The New York Times**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjVoUVhCUTFjY01GVi16ajNGNzNlSXVEZGVsU0hKbzR1SmdaMjBBRjdXMGtXTml4Ukhpa1BrSTV3aW5LaU10emdCMU9nOFp4UEJhM0d2am9KMjhfWms0WkJ5bHBLbU82WlY4ei11SmhKbmtGY0FfbXBhRUliZ3dNbVlXcnlOM3VzV1E?oc=5
+**1. Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO - CNBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5
 
-**2. The latest AI news we announced in July 2026 - blog.google**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxQemtQSDNYOWU4ZTlNeURXUE1RNFM0TXVScXFhRENEcEN1NnhCeTNlVURYaXBnaUVlQUVNYWd1THllTDRYQ0NvamNjeXFMYjFqS3dnT09Hby1VemQzaEFJUXhPM3o0V3QtZlE3b3VnOThqeGV4cXBCMmQ1M0JjM3llSmt3Y3lMcjQ?oc=5
+**2. Google DeepMind CEO Demis Hassabis is stepping aside - Axios**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaExwUzJFX0xDWmVYTWJ0ZlBxcHB0Nm96cUZfcTY2dFNqZi13aF84QXh3c3VFLTdvRTNwLW1RVU9jZ0Y0ZjdWSlRXZnRoaUJiLU9udl9fQTBkX2JMemN4ZURpbEo3RXJndW10X3hsWWtydFB0?oc=5
 
-**3. OpenAI, Anthropic AI Models Involved in More Security Incidents - bloomberg.com**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB?oc=5
+**3. Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI - Bloomberg.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBYmI4a3FyQjZmT20yRGUtVjVBa0pzMl9YMUgtS2hmRUJ2U3lmSmtHazl0cEc2ZXY1T0xJRnZ5WnlTaWY4enlmNWN1T09UVFhfR2NYdzFrZVM2ZU1Sd3djLTV1MkZfMnpMRTRsTFpQOTVtSWlWODhna2h2STNYdUNBdXZqcTQ4RVM0RTBzMnRLdDM2TWJyZHBlelFCN282SnZUSlVsRzFtY3BFMzM3SGZFWUctM2p4VXhLdA?oc=5
 
-**4. AI Just Went Rogue Again. This Time It Turned to Deception. - WSJ**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhDVFlZeWgwUnNUSUxPSlhYaTZCRFQ0ZFBuelJ4OTNBWjFrWkZDUDM4bklOdlFPLXFYTVJya0h2WmQ4UFN1NVljMTFoWUNUVHdjeGp3ZXBGMnhkVk01NEgzMjNJWmVQdlZJZUFpelpjYlU4bFEtZ0tFMjhwRTNYdENXQmExMUtlZ0xOalZVbDdkLVQyOW9PVGl3?oc=5
+**4. An AI model from Meta also hacked another company during testing - CNN**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5
 
-**5. Third-party cyber evaluations involving OpenAI models - OpenAI**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENBNFQwQ0gzSm1EbTFlZmNhZmhBX2RPYzRSR3E4YUYtNmNsYnZ2Ml9ncDN4TGJOOExiSkNxYlhTbV9Zek1kSmZxVUYxck93bWc5VnpGcE11X1RRYWhnZDZZNC1XalhtMVgzNFc4WHBwVmNzM05tMHo1aV9jM0YtUndhbG1JZw?oc=5
+**5. Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5
 
