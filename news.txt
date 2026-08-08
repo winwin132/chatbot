@@ -1,22 +1,22 @@
-🧠 **AI News (07/08/2026)**
+🧠 **AI News (08/08/2026)**
 
-**1. This A.I. Just Created Viruses Not Found in Nature - The New York Times**
+**1. This A.I. Just Created Viruses Not Found in Nature - nytimes.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5
 
-**2. Artificial Intelligence used to design brand new viruses - BBC**
+**2. Artificial Intelligence used to design brand new viruses - bbc.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5
 
-**3. The Latest Scary-Sounding AI Milestone: A Brand-New Virus - WSJ**
+**3. Study examines the ability of AI to create viruses - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjFockNBNGMxMkZQQlNjdHQ4VWFzTFV2Z0Z0N1Eza2xiWjYyZjVxVnNZQ0FISmh4Y3hsSTVOaEZ6STV4WC0xLWludk1vWmNYQUZtVUdCSmZJcEdjMVdZcGs1cnB3dE1NUmxsMUN4dXZaODhEcWNwZnQzN3RKNHV4MktzVXN6dDFtZmdFQ0ZMTG1UbnY5czFyVw?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHExa0VZM0tBa0Rubkl1bzFJZjFDekpyYW8wcnliVFNGSV83eU1nOFdJSU4tRE1YTU1FMmZuaHZfZl9jaGQzTEtncWNocktwNUJBSVM0S19RVHZNa2JWR3dnRFJZdThTdm5JVUNrdm5sN3hMaDlxQmpvNXBjZlY0TVVJNlhkVkVW?oc=5
 
-**4. House Democrats pitch AI tax to fund worker protections - Politico**
+**4. Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkM1QUVqbVVRTTdFLWxBbjJZZXBXWDBwNklPYUhzWDJCR09qQXZhQ3k1OUF0ZkN4TG5KanVQOFMyYnBjbC1lU00wVV9yY2I1T0FmQnFuUUoxSWNwOVJvcG9ndVdzd05OR2ZHTU94eC1obzB0QU1JYmdibzQxR2xSU2xXcE9HVmdhalFuLXZVZ0tyeEdGZlZLS1pfLXpRc2xDd1Y1T3lQRks5NHZrbkZOUV80TWFPM1JqNkY5MDh3VQ?oc=5
+https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5
 
-**5. AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia - Bloomberg.com**
+**5. Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJwWmV5RmdYVWY2LW5FNFJBMW0xeHF6MmJrMHJfUjdLX1BpSURJTWVBbFNFa0JmWFc2TjJ0RXRwMDlyVWZvb1NBXzJIN0RZQlJCVG9QQ1Q5R00xR1NSTk5nQ2pIV09jeUtUd1NCUjQ0UzJ5Q0p2MEx1aGJOczB0ZlhacUN4cnRMU1gxR25sUjd4eEFCUGt2NG9UVzF4LVBoTXBQdEM0UmpMZGVYTXJqeGYxZw?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5
 
