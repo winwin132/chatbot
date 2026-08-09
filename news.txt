@@ -1,22 +1,22 @@
-🧠 **AI News (08/08/2026)**
+🧠 **AI News (09/08/2026)**
 
-**1. This A.I. Just Created Viruses Not Found in Nature - nytimes.com**
+**1. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5
 
-**2. Artificial Intelligence used to design brand new viruses - bbc.com**
+**2. OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
-**3. Study examines the ability of AI to create viruses - Yahoo**
+**3. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’ - Variety**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHExa0VZM0tBa0Rubkl1bzFJZjFDekpyYW8wcnliVFNGSV83eU1nOFdJSU4tRE1YTU1FMmZuaHZfZl9jaGQzTEtncWNocktwNUJBSVM0S19RVHZNa2JWR3dnRFJZdThTdm5JVUNrdm5sN3hMaDlxQmpvNXBjZlY0TVVJNlhkVkVW?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3ppb185ZHVaUFFuVHkwdU1SVmdGanFYS1hEdnJ0eUoycl8zMWlOREl2bm5xVzBRcl9oLURqUTNiWU1xRE5wcEwzVmoyWDNUSTlxTENNUUNRSXFuRUpWQVN5M2UtdG1Mb2p1WkdyTk9xSDNaR2ZYM3VEc0psaW52NmhEMmJobnJvUW4xaWEtRzhrSGh5T3BwRDE3RQ?oc=5
 
-**4. Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters**
+**4. State of Texas: As Texans worry about AI, lawmakers push proposals on jobs and safety - yahoo.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmh3S1Rac2FmdjhDNERlUnBQc3MzendILWZsSkpIcHVvdHl0VExzb2FHWjk4N1dZQ2JQQlV3MzFILUprM1ZTOFJNbDBZUFA0RU0zUktGa3ZxS0RMTHk3bHNiNGtPWS11dXhjaHBpcDRIUkUtRnMtX09LbzJqd3J3eC1QRFFRU0pSMVhfYzBKeXM?oc=5
 
-**5. Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ**
+**5. Customers Are Getting More AI Than They Can Put To Work, Survey Finds - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5
+https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGd0R09wUldRaHhqTDBOa0NZeVhuRnlDUWFNalBJTm1aMUpiYXBkYzRFMTAxaFJDNHROTWZXbjlHMW9YVElLQkM3a080X0xrdF96UThkTkxWRmk0Wm1DVFZMVXFpcV9DV1FOalJqdjljLU1uX1N4V1duZ1BJclNzQnV0VElINm12LXdKdHc3MU9jUFA0SWkwcWJLNVVBb1Z5bkFUb1BPY3RuWmMwZmM3MThsUHZXY2xWNnJyMGhPdE81SDJ3ZmdJ?oc=5
 
