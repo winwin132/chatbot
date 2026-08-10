@@ -1,22 +1,22 @@
-🧠 **AI News (09/08/2026)**
+🧠 **AI News (10/08/2026)**
 
-**1. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - CNBC**
+**1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5
 
-**2. OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian**
+**2. China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5
 
-**3. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’ - Variety**
+**3. Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3ppb185ZHVaUFFuVHkwdU1SVmdGanFYS1hEdnJ0eUoycl8zMWlOREl2bm5xVzBRcl9oLURqUTNiWU1xRE5wcEwzVmoyWDNUSTlxTENNUUNRSXFuRUpWQVN5M2UtdG1Mb2p1WkdyTk9xSDNaR2ZYM3VEc0psaW52NmhEMmJobnJvUW4xaWEtRzhrSGh5T3BwRDE3RQ?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5
 
-**4. State of Texas: As Texans worry about AI, lawmakers push proposals on jobs and safety - yahoo.com**
+**4. AI Helped British Airways Reach Its Best On-Time Performance - PYMNTS.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmh3S1Rac2FmdjhDNERlUnBQc3MzendILWZsSkpIcHVvdHl0VExzb2FHWjk4N1dZQ2JQQlV3MzFILUprM1ZTOFJNbDBZUFA0RU0zUktGa3ZxS0RMTHk3bHNiNGtPWS11dXhjaHBpcDRIUkUtRnMtX09LbzJqd3J3eC1QRFFRU0pSMVhfYzBKeXM?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWVKY1NWeGF2c3RlTkkyMnB5MHVBdk95djJnMWt1WXFfempheUtLUlNlVlM5WXNrZEg2T3duUjQ3YmZvU0lRbDVqLTVrSnE5QnpMT0RBWXJ1VTJVNERMUzR2cEh3ZElYRTZ5Szc0OEFXUm9TYTFtOFNrZzFQOXBqWFZIcXd6dVVYc1A3NW9FMzVfOVNmZlhnZWRxdnM2MTQ3VzkyQzhDcjFzdmM3cUFmTHBKaTNXMEtvQUE?oc=5
 
-**5. Customers Are Getting More AI Than They Can Put To Work, Survey Finds - Forbes**
+**5. Nvidia CEO Jensen Huang Told Investors in Seoul to "Buy at a Discount" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off. - Yahoo Finance**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGd0R09wUldRaHhqTDBOa0NZeVhuRnlDUWFNalBJTm1aMUpiYXBkYzRFMTAxaFJDNHROTWZXbjlHMW9YVElLQkM3a080X0xrdF96UThkTkxWRmk0Wm1DVFZMVXFpcV9DV1FOalJqdjljLU1uX1N4V1duZ1BJclNzQnV0VElINm12LXdKdHc3MU9jUFA0SWkwcWJLNVVBb1Z5bkFUb1BPY3RuWmMwZmM3MThsUHZXY2xWNnJyMGhPdE81SDJ3ZmdJ?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPa282U19rVjFDUU92T0kwU3dRVmo1T0FYM1pJaWd1NzRDNDROZ011ZEhGOWlyaGY4bS1wSGF2NVhmWUg1VmlHbkgwOTNhTFBTdTFkNmo3SnNOYnBQMTduNG5nMEp5NzJKOG9wSTNDdjFhTnZqOTFTX05fa1p4enhicHVjX01FT0Y2SDJPZXN1ckJxSS04bkhUNg?oc=5
 
