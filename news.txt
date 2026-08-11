@@ -1,22 +1,22 @@
-🧠 **AI News (10/08/2026)**
+🧠 **AI News (11/08/2026)**
 
-**1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC**
+**1. A.I. Agents Are Taking Entire Online Courses for Cheating Students - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5
 
-**2. China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com**
+**2. Zuckerberg lays out vision to put superintelligent AI in everyone's hands - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5
 
-**3. Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ**
+**3. New Orleans deploys AI to answer 911 calls - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5aTJpUHdRMXVnaUpHZXV6WEVFTGdfREd3dEdoRDBMbEhEbFpNNzd0dVlUTi02eDQtTmEtX0NzN1NiV29XREZSMDhrV1BEVlYxYl9Gc2R3?oc=5
 
-**4. AI Helped British Airways Reach Its Best On-Time Performance - PYMNTS.com**
+**4. NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital - NVIDIA Newsroom**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWVKY1NWeGF2c3RlTkkyMnB5MHVBdk95djJnMWt1WXFfempheUtLUlNlVlM5WXNrZEg2T3duUjQ3YmZvU0lRbDVqLTVrSnE5QnpMT0RBWXJ1VTJVNERMUzR2cEh3ZElYRTZ5Szc0OEFXUm9TYTFtOFNrZzFQOXBqWFZIcXd6dVVYc1A3NW9FMzVfOVNmZlhnZWRxdnM2MTQ3VzkyQzhDcjFzdmM3cUFmTHBKaTNXMEtvQUE?oc=5
+https://news.google.com/rss/articles/CBMiywJBVV95cUxNUGxLczhkY1phSHVqWkVkVWFNZUtzVjVXSmxlUzZBd1hjc1huVnpiMXZ1VWI1VE8zR09yR0ZQOURYM1F6Yl9mYlVtYmMyeDV1RHRSdVRvT0hfT0tzSklWb1plUHdpSXRjazVSVDIzMmFJekd2M1NXV2F2OW5UZ2dDS2F6LXBya2FpODJySFNVdjBFdFQyVkxCQ2F0ZVdCYkVxOEM5c3NZZ1VGTWhvS2V2V205dVVQRFJGRGx4N2xoRXBZQmpodzhxeHU3VGstV21KUEhfeGgwd1FYRVlXRGQ4WVJPUXpFM0dqS2lPaDZiV1VfOXdERVFGZVlHVHZaY3o0a0xTME9JMFJxaklvV1NNNEJabWdCNlhFT29sVE9UQ0FNX3o5ekY4YmtCLTlOTnZiZnUxSThVRVRwOHFhUldVSVIxU0FuWVpQSEpn?oc=5
 
-**5. Nvidia CEO Jensen Huang Told Investors in Seoul to "Buy at a Discount" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off. - Yahoo Finance**
+**5. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’ - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPa282U19rVjFDUU92T0kwU3dRVmo1T0FYM1pJaWd1NzRDNDROZ011ZEhGOWlyaGY4bS1wSGF2NVhmWUg1VmlHbkgwOTNhTFBTdTFkNmo3SnNOYnBQMTduNG5nMEp5NzJKOG9wSTNDdjFhTnZqOTFTX05fa1p4enhicHVjX01FT0Y2SDJPZXN1ckJxSS04bkhUNg?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5
 
