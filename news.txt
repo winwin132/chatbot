@@ -1,22 +1,22 @@
-🧠 **AI News (12/08/2026)**
+🧠 **AI News (13/08/2026)**
 
-**1. Why Go is an Ideal Language for AI-Assisted Software Engineering - blog.google**
+**1. EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5
 
-**2. Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC**
+**2. Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5QYWQzLTczOGV1N2M0SlhMWXUxcFR2RDhaVVBpYVZuLVFQOVpTd3UwN2k1RTIyX2JUV20zNnE1Y1pFUm1MQ1V2MGhRcHlQc1hoTEpRcUN6ZUlldnFfdGdlRXBsVXh0SXY1OWl3STEtc1pRcTNzTVRpbUlqMUtKQUXSAYQBQVVfeXFMTnNxZnVnbkhtUllzWU5oeEZQbUFsWklxdEpkNjlCQ0JWeFJEc01HeERYcGl2YkdHbU1zQ2tzOG9JSndfOUdkczl0czhxQ1lnY0t4QmQwVUMyamNMeXdFT2tIVkk5OE8teDM4M3lGU3JUTGxmNldCUjlaeDVtdkFyNlhMRVpF?oc=5
 
-**3. Nvidia and Wall Street team up on $500 billion bet on AI infrastructure - CNN**
+**3. Departing Google chief scientist Jeff Dean has been in talks for a $10 billion valuation for his new AI startup - businessinsider.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVBjLTZ4MVBOZF9EOWVmWXVpbUJwSXoxckZXQnpROVQwS0FidHNnU2JrOFNhZm9ieXUxX1gtNkdxNkN3UDF4dFZZUk5uRnphenhKRE9vSTd0cDZRMWM5aTRCNjlKVm1SRGprUUt3d0RxRWUwY1JxdHFtS1VtbWRqSDhBdFJycTRrYXN6dl93?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUZ4OFpwM25HSldhaHJWcjBTcVY0XzdwMUhlTlh1bHFoOU1iUzF0eklSZU9rWTMteEVvN0QzZDlOWHkybExON1JXNk51MjIwcXhlR1Q2SVdVTkFlZmNfMG9Bak1hSFQtLXdydkZ0Ynp4MGRMOS1temtZdkwyRm5vaV9PT0I3d3ljM1YwTFJoMjd4TWZRYlBDRTFXWm0?oc=5
 
-**4. Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom - The New York Times**
+**4. It May Be Time to Panic About AI - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ0NCZDFkRmlVTmI3bGlCNHZFR0dUa3k2NW9ldmJqcGxlYXhKRnFhUUtTMENheXFFSkRkaVJDN084Y2JvZXRFZHhkaTlzc015WUhpeEE5eUx0SmlrZXBEX1pTS25laWhBN3RWNmRoSlI4UnMtWW1pdk5TR2ozdktQUmkxMUU?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE9KYzcxZG1NdTVITUVrWlFaeXpER2NqR28wMHk0ZlhnbUFQSEJRSVZhSXNpVVVJY05GTzdhRGRBWUNPSHZURV9aWnluMXl1M1liNXZYS2FnNm92M1cwN20zSVYycWlSSnJVOVpCQkctdk8wclRCeUZiYXg1RXRKUQ?oc=5
 
-**5. Watch South Korea's AI Investment Plans - Bloomberg.com**
+**5. Watch Blue-Collar Workers Are Training AI To Take Their Jobs - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxOeV9tQm1Ka2tZUkJ2bld4Z2kwLXpreVdZY2s4UEJwSG9UNmhaRUtVUkFfZXY5TFJmdzNkQUlvLXRIRUk3Tkg0aGlaazZGYUN2V3RoM0p4eWZaMXFjbWxoaktkZW1SS014STFxWjVBOXdXVWNUWXBUVkRsVTl6ZkJaaUFwel9RUFQ3czh0ZmJDd2JQQQ?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmI3SndtTkZ3clRjRGI4S01vMHNGamlmbXhxX3hkQU8xZ2JDOG01T21VaGRTTlQzZDIxckdDVmtMV1lhQ2hUX3pmT01xR3NGbF9sZzRLQXByZGR6ZjBnMlJUd0NMRmcwZFhJLU04b0J6M0tuVHhXOW9pb2FuUjZSVlF6LTFCbVNZaDRCZHpyZ1BrNUFGOUNqNTlNTm1QQW4yOFhxMEw0NXhLTzdaM3c?oc=5
 
