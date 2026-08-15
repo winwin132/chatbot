@@ -1,22 +1,22 @@
-🧠 **AI News (14/08/2026)**
+🧠 **AI News (15/08/2026)**
 
-**1. Chatbots are doing the work of Congress with little oversight - The Washington Post**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWJDTzRMOTVBMGdLWUQ0OXlDN3FiQ01Mai1jbm5PRnRZTTNhUFk1MHNvWHhtY1drU3h6WGVfZnJ4MXdfOG9JeGpiQW1TNHZZcVh2UW15YWJOQVRCbXJlQnhkdDI3OW5ReWFCVGZENjNqREJTZlV2NlpiZ29lclBXN01mQnFFdnp6VGtFWTB6aTVubUh5YmNrUHEyYldueEoteVJmb3R0TW42QQ?oc=5
+**1. Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5
 
-**2. 'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkpfY2JKdFdkaDE2ampuV3NwVy1pUURxRGNTR0FrUy1IeG1ublk3c2lCU09rOGl1T0sycFY0QmFIQ0NFR3N0NkVqU04zYlBSTWJhcGhyVTJHZmxiNmdtX09OcEE3ZmpPUUxlQVpqNnlYLXJiQ1RLcnpVWTBnMEo1R0dGOEoyWFFaTGJCRkRST1ZVSC1WWmhvVnhzaDA0V1QwdkpfekR2aHPSAa4BQVVfeXFMT2pqT1RCdEdyN1N0RU1EdE45R0ZuMU1Va3k0eWxQREhieWQ3dU5NaFRPdkVQYUM5TGVKdE9LdktYUFpwODIwVzBfUF96YmlyT0hCcTB2NV9GZUZla3pKa2pkSzI3S21pdHpkdjdNZEhfd0xDdzdSX01mRkZ4aWF6cGN0VThCaEwyWFZDQzRmQXVKQlNKSUtNVjYxdHB4UkEyanVxOXN4NVB0Qk1zWG9R?oc=5
+**2. As online dating goes into ‘salvage mode’, can AI solve all its problems? - The Guardian**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1BJdEEzT1otM2Q4d3lDdm1Jc1lkVHhhOEpNXzNNbTdvYmxWOGI4X1NCZnIxalpSX2JjN2ptbzZ5SlBVUnphcjB5TGdzV3RhN1E3a0Q4aGtsS29Zb0sxb0d2c0JJU0YxSVVoenRnM05qVC1abHp0Y0Y0elh5R29HNTFPZXpNek91RkVoVU5sWFpvY2VNLXFvM0Fn?oc=5
 
-**3. Twitch creators push back against Amazon’s using their content to train AI - NBC News**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0hORnFleEYtY1pIalZnTVNDV3Q2SFh3R0Nta0ZNT2x5aFhhamNWTUNGUk1TblhWRzJZcUJ0Y25mMnlMbERiREp1a3NiTTNWdmg2bE9KMUpNWlRLQTRDSDlQNnNjZkVNSHphd1FPNFhRT1d2MzhqV2VYZkpKVEtON1U2MG9mQkRFR2ROOXBHNTJDTnJBRGUyOGluTTFmc0ItQlJoTUhRQkI?oc=5
+**3. How one Sacramento County school district is using AI in the classroom - CBS News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVgyUm9PdnZMV2lqdTBRcVVVUHdkRGZHTGtBZWdZbk5sVlhMQ3UyOUJJWDg5X2h2T25tMFJSc1JrNzRiYXFsVnVDRFpOM1I5VFljYmxEbHBxY0RHRUc3WDdibVZSX1prVUptRkhYTW9GMDR3dk1EN0lXU3ZzZFgycExPT0tKblN0RlRwMG9FM1dDRmlWUW1tTG9NYzBHaW1kck5CdnMzYmZ0MFZxSDZFdG9R?oc=5
 
-**4. Japan Stocks Rise as US Rate-Hike Bets Ease, AI Chip Shares Gain - Bloomberg**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxONktpaUJuSkh5OUJYQ0JVSDB2Tk1xUDdMSl9IUDNXVEVxZWkyZ0ZYQnVORGVOcXJQM0J2SFNjRGMtZHlJWjAzemZtRGlndm4tcW95ejE0c2E2M1FZeVBmWDl3cnBJN2FMaWVWSlRtOVVqS3paUFNVMGx4aWhpOVY4ZHNBNHJlLVVUS0hrVFhNSnhpZGdtR2U3TWVPaC1ZaEVLWFk1SjZNNkJ2RUhyWmZzQkpoaEk?oc=5
+**4. VA says AI helps staff serve veterans faster, answers 53,000 questions since April - AL.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3lrOVNJRzFYVW9sYmUzWEkxdHpSa2RLX0VGdXZiel9faHJIMVptaEM5VU1lNUhmV0E0ekVoSXc0QUlZS0pzME1MR1RiNVR2ZWxmRmhScUlpdmt2a2dfb21qTEhDLThGdUw3ZGQ3UGhxWkZ6WFI1dzFGa2R1Snd0aTM0TGdmUkNPdkFMa1puQ2lOT0J2RERZRWhvaUdidE1LU2FlNnFPZVFDazhBUmdiTFVwYVBta1g20gHMAUFVX3lxTE9OU2RDYmFDRnhLYmJhWERPNzVMclBnN3dYdFRDSDh2cGZLUlh3NmlzQkxOQ0l0UGI3enZVNldtOEJrRDIwVkZONTlXeUlQeU8xdUNOZ18tdGU3aVd1OW0yOHZ1cXpGalViZkVqNVF3SVRHWXNRbV9FQl9mSDRTbWx1QjlwQzYwTWNORUxuMVBXamJ2Mm9oZU9zSmpvcko1ZzQ3c0ZJbDBpNVViNkd5Y1VVeW0wb3RRWnlReHV5RDVqbHNuOVZPLVdzREFzMw?oc=5
 
-**5. China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe - reuters.com**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFjbGtTXzEyN0FWNms5M1Z5ZnlDZXA1Qlktd3ZFOWk3N01FQXNPdFlNaFBRNGotM295YkhCWkh5WDh5WjByaUc3MlN4N3hnYTlVVlB6SW81elB0M0dFeldIcFMyQ2ZkQTFvVjFpMlNVd3otMVJFWlpjTGlOMW5LWVNtOUJreDNhNjBvRXY3cV9sMDAzMGE0djRCWUJwTnp2Y3pXVkVYemdaS00?oc=5
+**5. This is how AI could be a deflationary force - Fox Business**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
+https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtNEFOclRxdmRIazN6Y1l1UE9tV3Y1YWZPaHNhUXlrWVF1aHdOU1k3R0hZUmFDbkJ6V0xfSEtlZ0l5UVVCejVhSEdmQS1qVzU1TkNUU3ZjNjdMMVE?oc=5
 
