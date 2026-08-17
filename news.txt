@@ -1,22 +1,22 @@
-🧠 **AI News (16/08/2026)**
+🧠 **AI News (17/08/2026)**
 
-**1. Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com**
+**1. Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMixgFBVV95cUxOOExrX3ZOZm42OC1DNDd1MlY3dE5VWDM0MEV2NDdSa3gzal9majFhTm1UQmkwc0tZSHY1RnJVMUZZN2VuQjJJN0hfNncyZTNMRVJsS2lkdmt1T1FaQ2c3bEEwbUdyaHAtdklzaTFkUjdNcUJZTWVwQ1BHY1lyRG9rOURJQngxSS1XbnJrVFBQM0VyU2tKbXZCQ1UwSVBranN5QXhHSTlPSG55TEROSHJfeUF4Nms4RzU2NUVVdHdrWDIxYUJPcXc?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5
 
-**2. Secondhand book sales are booming. Is it because of AI? - BBC**
+**2. The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrU2JHa1hKSExGUmE2LXhpY2VuZWpLNnhpZGhNVUd6d3RrSzRPQTRaWWM3UG14c1VEY2xZUWZGTEt5cTZlUWZiRVJPV05xSlMxNWpzcnlmamVFQQ?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5
 
-**3. AI Is Helping Patients Solve Medical Mysteries - WSJ**
+**3. Will AI Watermarks Stick Around, Or Are They Just For Show? - forbes.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2VIVTZYdlF1N1E2b0tmNVVpUUpnMFJ1LU1kc2FIN19ld1F2ZElWdV80SE5GOFhpa20yWXZJNVFibVNxWFFkMmFvM211STVjdWZYalRHTDJRTWR0NDhiOXZKR0JabjU5Y3BnVUtZNlE5Rl9VZjB0Q1ktLTlad0ZkR1lOWi1qeVVoZFE?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxPWk5MWTVUMzlRNmFlU0dJVUJqMHlHTXhGdHdFUDljTzljYkEyQmgyb3VsSnFYcy1PYS1RY0ZubXBMNGdDNjVVZUxza0FIUHc0SGNOVmRrZm1CVWNkU3YyMktSUG9UWE85YkRpZG44Z3o4SzZHeVgtYW5nWEQxclpRZ1FySzZfOTF1MUJMUDN0ZmlqaC1wSmRlRVozaXY3WWJPRkIxODNBSjVmcUxLQzNz?oc=5
 
-**4. How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire - Forbes**
+**4. I’m a novelist — cheering the $2.4M AI book deal that should open everyone’s eyes - New York Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmFJNFVuTGJGemJpYWhqbU80MEdmN0RCVFpVVWFlekdZaEp0NEtKQktjRW10Qld3NU5GV1hOT3YwTGtTZ1hTY2FXeEZyVmpOclNHZEpmcTE1UDJXVG1wUkEzOUkwbHdPUi1UZmhVMXhrUmRwR0JzTWxabEUzRktlQjlpdEhOaU0wazhxdG5NN3RQdEUtNGpqZWc2SllBeFgzWVphZFQ0Y19wanFtYVJWa3JfbG1jS1hLNXhLLVRSRQ?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFlhRjd1UkJTMmZvQ2FNLXA3UDI1VG1fQUZlSFU5OTBFNFRGZS1XWVgzaVdyOHpyWnRoR3NwYzBTcmMxbmxmYjAzVUhieV93OF9kNUdraTU4WjZ5WmIzdkVQelRoN1RSYWVnam9UaFdrb0Fmbjd6MmpqWmVueGJDOTgtdTdPMmN6M2o2TjMxa1ZLRXhYRmdJRHI4NkYyUGVQakRFR3g3eE4zUVVPMXFoYTc1amF6UQ?oc=5
 
-**5. U.S. to tell partners they must pick sides in AI race with China: Reuters - CNBC**
+**5. ‘Godfather of AI’ predicts mass unemployment is on its way - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmxheVQtQ3RYOGwwbkpaWmpyZlIzVmdmemJkS2F4bVBsUEs0NW5zRW80RFNYZ2hUbjlxMnBxZHc2VzMwVDVWZGp3bEtVQ2JFdWFMUTIzbHVvdEJiekc3MTNOeEhCRVo4eFBBWkVldW5pbUZzQkEyS3RoV3EyRkhUVmlDd1hnS0ltbm9QOHg3eC1SUVFEeVNEdERXYnRTM3NDbzQ5Um1GaEhfOGFUMmtLbk5TeWxzVjg?oc=5
 
