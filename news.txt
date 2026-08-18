@@ -1,22 +1,22 @@
-🧠 **AI News (17/08/2026)**
+🧠 **AI News (18/08/2026)**
 
-**1. Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com**
+**1. AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5
 
-**2. The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times**
+**2. ‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE5mNWpVOGF3Q0ItNXNqYU5qODY1MElabkxBb0N5UHl3X29Za1kzWkVVY2JUaWFYQUxPSldIcEFhR2N1dmZFUjN2a2xaNmRkQWNULUp1bzZmcXd1N0x0SlZ2ZmtTeFhWMVZSSERTeWp4V0w?oc=5
 
-**3. Will AI Watermarks Stick Around, Or Are They Just For Show? - forbes.com**
+**3. Alphabet Kicks Off Aussie Dollar Bond Sale as AI Spending Soars - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxPWk5MWTVUMzlRNmFlU0dJVUJqMHlHTXhGdHdFUDljTzljYkEyQmgyb3VsSnFYcy1PYS1RY0ZubXBMNGdDNjVVZUxza0FIUHc0SGNOVmRrZm1CVWNkU3YyMktSUG9UWE85YkRpZG44Z3o4SzZHeVgtYW5nWEQxclpRZ1FySzZfOTF1MUJMUDN0ZmlqaC1wSmRlRVozaXY3WWJPRkIxODNBSjVmcUxLQzNz?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1A0dmpZOXRuRmpXQjFWMEtqMklYdGRNbFlsMzFiaXVjU0RiM0RaNGhqdzItUEhQa1pYaXJ6b3BBRVY3UUtvNmhLSUE2X2xCT3ZNczhLWUc0eFVoTmllbWlENmhVcjBRcndLd3JuOWotb19wOTRVOTFKYVV2bmpKa09UZExVNWhCcmdCVlItZm1uM2JBQTF6Rjdad2t4RnF4RE5LTk1EWEN5MDdpRU5ubDlZcmo?oc=5
 
-**4. I’m a novelist — cheering the $2.4M AI book deal that should open everyone’s eyes - New York Post**
+**4. Dating apps bet big on A.I. to fight 'swipe fatigue' and reshape the search for love - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFlhRjd1UkJTMmZvQ2FNLXA3UDI1VG1fQUZlSFU5OTBFNFRGZS1XWVgzaVdyOHpyWnRoR3NwYzBTcmMxbmxmYjAzVUhieV93OF9kNUdraTU4WjZ5WmIzdkVQelRoN1RSYWVnam9UaFdrb0Fmbjd6MmpqWmVueGJDOTgtdTdPMmN6M2o2TjMxa1ZLRXhYRmdJRHI4NkYyUGVQakRFR3g3eE4zUVVPMXFoYTc1amF6UQ?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnRpcEY4YXlqdldZYzRxdUtOX29MelVYMnRKeWcxbkhaQXZNanlEVHlzNnVYTkVNYmNCNVdmZE13QXE5YTdYWllRVmhmRk5MTkhhcldvSFhjSmNYRGZQNEN0c0NiLWphZExNS1g1NEt6NDFnalRoTk9zdW9BNWV3bTUtdjZoaVI0dEg4WWVMS2x4NHpaa2FSU0d3?oc=5
 
-**5. ‘Godfather of AI’ predicts mass unemployment is on its way - Fortune**
+**5. San Francisco record label Empire caught up in AI slop accusations - SFGATE**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmxheVQtQ3RYOGwwbkpaWmpyZlIzVmdmemJkS2F4bVBsUEs0NW5zRW80RFNYZ2hUbjlxMnBxZHc2VzMwVDVWZGp3bEtVQ2JFdWFMUTIzbHVvdEJiekc3MTNOeEhCRVo4eFBBWkVldW5pbUZzQkEyS3RoV3EyRkhUVmlDd1hnS0ltbm9QOHg3eC1SUVFEeVNEdERXYnRTM3NDbzQ5Um1GaEhfOGFUMmtLbk5TeWxzVjg?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE4xRWRQdkxmYk9BMEVpOV9hSzZHYXRIUmFKMkNFTmx4SWJ5MjBNeDhmOVJLcHV6TWhBR29JYXU4OHphekp3czFldE5fbzYtcTFfbTFKZUFlMmpUcXJGMmExeUhCamt5dG9KRDdobzNDaUtYZG92a2o0Tw?oc=5
 
