@@ -1,22 +1,22 @@
-🧠 **AI News (18/08/2026)**
+🧠 **AI News (19/08/2026)**
 
-**1. AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough. - The New York Times**
+**1. She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5
 
-**2. ‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco - CNN**
+**2. Texas Tech University Is Using A.I. to Cut Left-Leaning Content - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTE5mNWpVOGF3Q0ItNXNqYU5qODY1MElabkxBb0N5UHl3X29Za1kzWkVVY2JUaWFYQUxPSldIcEFhR2N1dmZFUjN2a2xaNmRkQWNULUp1bzZmcXd1N0x0SlZ2ZmtTeFhWMVZSSERTeWp4V0w?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5
 
-**3. Alphabet Kicks Off Aussie Dollar Bond Sale as AI Spending Soars - Bloomberg.com**
+**3. Radio show with an A.I. host expands to new markets - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1A0dmpZOXRuRmpXQjFWMEtqMklYdGRNbFlsMzFiaXVjU0RiM0RaNGhqdzItUEhQa1pYaXJ6b3BBRVY3UUtvNmhLSUE2X2xCT3ZNczhLWUc0eFVoTmllbWlENmhVcjBRcndLd3JuOWotb19wOTRVOTFKYVV2bmpKa09UZExVNWhCcmdCVlItZm1uM2JBQTF6Rjdad2t4RnF4RE5LTk1EWEN5MDdpRU5ubDlZcmo?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFhCVGtiR3IwVFpFZS1xODJvR1c1UGszMFgyU04wM2VGV3ZVOGk0am9YWWFoZktyVkVfVHpvU2JUN21JcEtka0FiY3FKRGd6ZEVKZTZYek1NNUIyakN6a2JMLVBfaXViZzJTRklYam9KUUphRUt0RFNFdHpxTy0yNDZqSlFTQ05pWGx4QXFYcGR1NzNtUThSOQ?oc=5
 
-**4. Dating apps bet big on A.I. to fight 'swipe fatigue' and reshape the search for love - NBC News**
+**4. Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnRpcEY4YXlqdldZYzRxdUtOX29MelVYMnRKeWcxbkhaQXZNanlEVHlzNnVYTkVNYmNCNVdmZE13QXE5YTdYWllRVmhmRk5MTkhhcldvSFhjSmNYRGZQNEN0c0NiLWphZExNS1g1NEt6NDFnalRoTk9zdW9BNWV3bTUtdjZoaVI0dEg4WWVMS2x4NHpaa2FSU0d3?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWdZeVVubTV4bWgzbGN2T2cxX0lFMHVaRkJyd0ctcW9JLWIyVjBGV0tqNHdRUEwzYUhLR0VtTml4bzE3WENQY2tBcTgzVzJaR2NmTmZSQVlmdkgtZ2M2bUtrYzBxSmJNeHFsSWNWdWJ2VkFJYXgzOXd6d0k3OWl6amNZMjNWSjh0YTRURmpQN1RVSXJ6RXV3RDJON0xRaWFIRGZpNWxLN0pzUlBvLU45ZnNXOA?oc=5
 
-**5. San Francisco record label Empire caught up in AI slop accusations - SFGATE**
+**5. Are Maine political campaigns required to disclose when they use AI in ads? - KATU**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE4xRWRQdkxmYk9BMEVpOV9hSzZHYXRIUmFKMkNFTmx4SWJ5MjBNeDhmOVJLcHV6TWhBR29JYXU4OHphekp3czFldE5fbzYtcTFfbTFKZUFlMmpUcXJGMmExeUhCamt5dG9KRDdobzNDaUtYZG92a2o0Tw?oc=5
+https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUtqUEJPN0RSemhYbERjdGdQekZWalROdTFNU2xkc2thOWo0eER4YzNUR2Q2bHM0cWxpVzBaUV9MeHZEeE9HclpPbUprdkZmWDk4X0tQRGxQbTU1aGxleTBXc0d4ZWxlNHlJVVpMSGNYSXJOampsXy05NXdrVWstYm9VdDVEN05fSzNHajZHWXp3Q2NCSFNIS3VPaDBUcTBKWno5MENqczNYOWRydHJhd1o2RkJ4OXkzN2ltZVFfQS0xMW1jNTc3YUZteUlFUQ?oc=5
 
