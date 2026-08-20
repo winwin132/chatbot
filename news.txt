@@ -1,22 +1,22 @@
-🧠 **AI News (19/08/2026)**
+🧠 **AI News (20/08/2026)**
 
-**1. She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR**
+**1. Start the semester with one year of Gemini, on us - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxNazZwOEE3ZTJuRTVnY3NDNEJwQzU3dnYyWkk4bHcyMHNGTVdYZFAta1dlWGt4Rm04MXdtdFkzUmx4R0tQbDQ1VDlqcEY0MHNTWEg4VjJuVktDczVFaE5mblpBTGVEUk1jRzNJSXdkMXVyVjZRQkpHMjlVR2lqVnBla0hpbTRSQWhVTEE?oc=5
 
-**2. Texas Tech University Is Using A.I. to Cut Left-Leaning Content - The New York Times**
+**2. Google Goes Back to School With New AI Study Tools - CNET**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdlZCWG41V0xLNmJZT2ZlWkJHVl9KVUx0M3hqd0JxSnMyXzdQT2xyd3FyYmlmaUtqQUcwOG52ZHpNN2lOMnNDRzBPTGcxWTVqelNnZmJOZjk3Q2VVRlZ2WFM1X1g2TXpOWVdfQjZlQQ?oc=5
 
-**3. Radio show with an A.I. host expands to new markets - NBC News**
+**3. Google packs Search and Gemini with new AI study tools - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFhCVGtiR3IwVFpFZS1xODJvR1c1UGszMFgyU04wM2VGV3ZVOGk0am9YWWFoZktyVkVfVHpvU2JUN21JcEtka0FiY3FKRGd6ZEVKZTZYek1NNUIyakN6a2JMLVBfaXViZzJTRklYam9KUUphRUt0RFNFdHpxTy0yNDZqSlFTQ05pWGx4QXFYcGR1NzNtUThSOQ?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5
 
-**4. Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment - Bloomberg.com**
+**4. Flock Has a Powerful New AI Tool for Police. We Got Its Code - wired.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWdZeVVubTV4bWgzbGN2T2cxX0lFMHVaRkJyd0ctcW9JLWIyVjBGV0tqNHdRUEwzYUhLR0VtTml4bzE3WENQY2tBcTgzVzJaR2NmTmZSQVlmdkgtZ2M2bUtrYzBxSmJNeHFsSWNWdWJ2VkFJYXgzOXd6d0k3OWl6amNZMjNWSjh0YTRURmpQN1RVSXJ6RXV3RDJON0xRaWFIRGZpNWxLN0pzUlBvLU45ZnNXOA?oc=5
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeVRVZUVZTWR6TVNZQUtFbm5sT0llSlpDTUpKcWRuQXlsQjU0X3oyZk9MMnhoTVVkRzFzR1RHWnpHc1RrY0ZTbzhTTzdwd3N3Z3gtMjBiQkw4aEdPLWFKaF93WXJSOG8?oc=5
 
-**5. Are Maine political campaigns required to disclose when they use AI in ads? - KATU**
+**5. South Korea’s rookie investors lose small fortunes amid AI stocks frenzy - Al Jazeera**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUtqUEJPN0RSemhYbERjdGdQekZWalROdTFNU2xkc2thOWo0eER4YzNUR2Q2bHM0cWxpVzBaUV9MeHZEeE9HclpPbUprdkZmWDk4X0tQRGxQbTU1aGxleTBXc0d4ZWxlNHlJVVpMSGNYSXJOampsXy05NXdrVWstYm9VdDVEN05fSzNHajZHWXp3Q2NCSFNIS3VPaDBUcTBKWno5MENqczNYOWRydHJhd1o2RkJ4OXkzN2ltZVFfQS0xMW1jNTc3YUZteUlFUQ?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnNUNTNYeHFLcTVvN0VZNTBkbXpHT24tS2FveUNYZ3AtTEpXV0NUWHhmdmV6Yy1wT1lfMWpjbWRNaHR6ZVRXNUt2UWNmVGhIR2pEdnBYNHlmMGNXLU11NEltNjZySVo1Y1FiOFBBcGhha194ak5VX2JQd3Z1Z3RZUDRVZFRpV1Jlb1AyZFFZZDNsSDF3TzRyV1pFSEVfTHh4eUVlU3ktZy0wZjEtbEhyODAwb2hrQdIBuwFBVV95cUxPaUFRcmhiMnNBVFd6R1ljaGl3am9pdnhld05XSkUxSzVwcmhBcHpUcEJuMnJFN3NWN2V5OGtZd1ZXcUVadjNzY2JyRjZvT1Q5em1LUVhOVm5BT1BHOFl6bUE1S0M4QmtYNnZfUDJCenA2S1hnNGYzcDA3TXJ6MTVDUE1EQzBNY0VDZnpuekNJMUk5SjM4QlNVZk95elBPYVJub3pkS05IbXRJeXJfY1k2TnZNb1RzbW91dURJ?oc=5
 
