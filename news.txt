@@ -1,22 +1,22 @@
-🧠 **AI News (20/08/2026)**
+🧠 **AI News (21/08/2026)**
 
-**1. Start the semester with one year of Gemini, on us - blog.google**
+**1. How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNazZwOEE3ZTJuRTVnY3NDNEJwQzU3dnYyWkk4bHcyMHNGTVdYZFAta1dlWGt4Rm04MXdtdFkzUmx4R0tQbDQ1VDlqcEY0MHNTWEg4VjJuVktDczVFaE5mblpBTGVEUk1jRzNJSXdkMXVyVjZRQkpHMjlVR2lqVnBla0hpbTRSQWhVTEE?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUW5BM1JyalVycE9mRmNLa0xnaUE3emw4cE1XbjJwbG5DOXhwYmRwNUJ5MHN3Si16QlFLeUtZTUhDYTBrUHJUbjdxS1J1bzBLSndOM3NuS0FlM0VRRXdURWlPeFp0eWRPZl9CRzA2dHdlSXNlcldWbXEwZE1ndw?oc=5
 
-**2. Google Goes Back to School With New AI Study Tools - CNET**
+**2. A new force is increasing inequality in America - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdlZCWG41V0xLNmJZT2ZlWkJHVl9KVUx0M3hqd0JxSnMyXzdQT2xyd3FyYmlmaUtqQUcwOG52ZHpNN2lOMnNDRzBPTGcxWTVqelNnZmJOZjk3Q2VVRlZ2WFM1X1g2TXpOWVdfQjZlQQ?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHF0WVI5bG82QUc5TlYxRG1fRjZYT1dWTFVnd1JSaVBCaS11U1hwdVhlS2ZVaG1CcVZqS2pZV25SdjlJbmNuLWpjb2RQV3Z4QUZYUlIzc0lKd0tFSlRSV2k2LVN3OUt0LWl5cmJjSzN0UmNpcFpsX2twSTV6VDV4dkZ6TU9XeDNNQnhSSmZ1N1ZBbzZoN0RnbWJ4c3V5QlNBRzMzYzd1TkR4eEtlc245Q2loallSTFk?oc=5
 
-**3. Google packs Search and Gemini with new AI study tools - TechCrunch**
+**3. AI data startup Micro1 reaches $500M gross run rate amid AI training boom - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTlycWN4OE8teHZpeC1TVlBDN2VyNlpUYWFSUjJxT0NYRHM5Q3EzNmNjb0RmQnJScDlWbU1uUFZpTE1tN3A5YTFma2h0dDZXLWxleU92QWxxNjZPVE02dTNOY2FHSHlMMWtBZ1pYU3I2bk5LYzI4S2hXYmt3NnhTVTgwaXZLUUZLMUhEYWZ6V2tDQWMweXRzVEJ6S2VBN0N6TzRrYnU0Tk9KRFk?oc=5
 
-**4. Flock Has a Powerful New AI Tool for Police. We Got Its Code - wired.com**
+**4. Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeVRVZUVZTWR6TVNZQUtFbm5sT0llSlpDTUpKcWRuQXlsQjU0X3oyZk9MMnhoTVVkRzFzR1RHWnpHc1RrY0ZTbzhTTzdwd3N3Z3gtMjBiQkw4aEdPLWFKaF93WXJSOG8?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxNZi1WZVBreHVYXzVqYmRMSjYyWVJTV1FHMUJsSldEMjdnRW5wdlBvVWFMOTIta29zLUdDZEQwQUU0a2F0ckZMb3d5U2NtM0VTVktZdm9scGo4V3NKR3pRMTNVckxYbkFBNk9LekZhcnJCZFprYWtEbEh3WWtIZHhhOE54eklIczlQZTltYUdRMV9GVzNmVldHVWhZSQ?oc=5
 
-**5. South Korea’s rookie investors lose small fortunes amid AI stocks frenzy - Al Jazeera**
+**5. AI "nudify" apps that can digitally undress any photo pose back-to-school risk - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnNUNTNYeHFLcTVvN0VZNTBkbXpHT24tS2FveUNYZ3AtTEpXV0NUWHhmdmV6Yy1wT1lfMWpjbWRNaHR6ZVRXNUt2UWNmVGhIR2pEdnBYNHlmMGNXLU11NEltNjZySVo1Y1FiOFBBcGhha194ak5VX2JQd3Z1Z3RZUDRVZFRpV1Jlb1AyZFFZZDNsSDF3TzRyV1pFSEVfTHh4eUVlU3ktZy0wZjEtbEhyODAwb2hrQdIBuwFBVV95cUxPaUFRcmhiMnNBVFd6R1ljaGl3am9pdnhld05XSkUxSzVwcmhBcHpUcEJuMnJFN3NWN2V5OGtZd1ZXcUVadjNzY2JyRjZvT1Q5em1LUVhOVm5BT1BHOFl6bUE1S0M4QmtYNnZfUDJCenA2S1hnNGYzcDA3TXJ6MTVDUE1EQzBNY0VDZnpuekNJMUk5SjM4QlNVZk95elBPYVJub3pkS05IbXRJeXJfY1k2TnZNb1RzbW91dURJ?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZVE9RazZ1MGRRakNIVnhCZmVidjZnNzZ0UEsxNGUzQjg1MHhQQ1d5c1pnbW5DU2FKWlA5S0M0eHcxaThVOTZmVlh2OG5TQlZodXcyWGVYaFVOVTF2U0Iyb2hkbG9PVXdxb0ZSZU5aMXN6U3ZMeXRmanB3?oc=5
 
