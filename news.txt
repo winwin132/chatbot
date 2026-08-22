@@ -1,22 +1,22 @@
-🧠 **AI News (21/08/2026)**
+🧠 **AI News (22/08/2026)**
 
-**1. How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields - The New York Times**
+**1. Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUW5BM1JyalVycE9mRmNLa0xnaUE3emw4cE1XbjJwbG5DOXhwYmRwNUJ5MHN3Si16QlFLeUtZTUhDYTBrUHJUbjdxS1J1bzBLSndOM3NuS0FlM0VRRXdURWlPeFp0eWRPZl9CRzA2dHdlSXNlcldWbXEwZE1ndw?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5
 
-**2. A new force is increasing inequality in America - The Washington Post**
+**2. Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say" - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHF0WVI5bG82QUc5TlYxRG1fRjZYT1dWTFVnd1JSaVBCaS11U1hwdVhlS2ZVaG1CcVZqS2pZV25SdjlJbmNuLWpjb2RQV3Z4QUZYUlIzc0lKd0tFSlRSV2k2LVN3OUt0LWl5cmJjSzN0UmNpcFpsX2twSTV6VDV4dkZ6TU9XeDNNQnhSSmZ1N1ZBbzZoN0RnbWJ4c3V5QlNBRzMzYzd1TkR4eEtlc245Q2loallSTFk?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5
 
-**3. AI data startup Micro1 reaches $500M gross run rate amid AI training boom - TechCrunch**
+**3. Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTlycWN4OE8teHZpeC1TVlBDN2VyNlpUYWFSUjJxT0NYRHM5Q3EzNmNjb0RmQnJScDlWbU1uUFZpTE1tN3A5YTFma2h0dDZXLWxleU92QWxxNjZPVE02dTNOY2FHSHlMMWtBZ1pYU3I2bk5LYzI4S2hXYmt3NnhTVTgwaXZLUUZLMUhEYWZ6V2tDQWMweXRzVEJ6S2VBN0N6TzRrYnU0Tk9KRFk?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmliQzZiNWdyUmFtSG5pRllQTVpsNDMzSmxLaHRkcEE5aDJlN0hUSUhMWWhTUGg0T0lIdGZYdTNURGV2YTFnMUJjVmtzQ0p2RnJpQTRSWUhaeW43YmV0dFNya3FPZm1iNVJueWZyUG1Ob0oyT3lHZE5jNERlZ3Z0aXlzZW0tX2pJaDlIZFR3NnZ5UExHdU1rQkx1V09CN3hhd0ozZjlfbnltTjA?oc=5
 
-**4. Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones - The Atlantic**
+**4. The Unlikely Place at the Center of China’s AI Boom - WIRED**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxNZi1WZVBreHVYXzVqYmRMSjYyWVJTV1FHMUJsSldEMjdnRW5wdlBvVWFMOTIta29zLUdDZEQwQUU0a2F0ckZMb3d5U2NtM0VTVktZdm9scGo4V3NKR3pRMTNVckxYbkFBNk9LekZhcnJCZFprYWtEbEh3WWtIZHhhOE54eklIczlQZTltYUdRMV9GVzNmVldHVWhZSQ?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPTXlsYVVLSFltbmFyTENuVDJ6Qk9fZV9lZDN4a1ZrTnBrTWhZemV0ajZISTUzT3BHOFRFU1ZGOENPRHo1QjJyYzQ3SXg4SlhCTlB0bWpsWjA4QmFST3NlM0ExcTdXazJaWFRqS2hmblItSHNOaXE4OHVHa0FiT2FWMXVUYW1sdw?oc=5
 
-**5. AI "nudify" apps that can digitally undress any photo pose back-to-school risk - CBS News**
+**5. Online streamers sue Twitch, Amazon over generative AI training - Courthouse News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZVE9RazZ1MGRRakNIVnhCZmVidjZnNzZ0UEsxNGUzQjg1MHhQQ1d5c1pnbW5DU2FKWlA5S0M0eHcxaThVOTZmVlh2OG5TQlZodXcyWGVYaFVOVTF2U0Iyb2hkbG9PVXdxb0ZSZU5aMXN6U3ZMeXRmanB3?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzh6dHF3NWtpWktuZkJnNEhRZm5nTnUzMkhMWVcwTzB1NC1RQkZfTERpUXFLcTFMc0FMN3B0aEFsZHpmRHBfWlMwaHFLRHN4NjZfQmNxMWxyQVY0X2Z6Ulowbk9zLS1lRm1yeWl1UUtEaC1uSko0NEZPWlNiN1kySS1IR2pEejE1eVFBeHhPLThib2R2NjNJRmVB?oc=5
 
