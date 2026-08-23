@@ -1,22 +1,22 @@
-🧠 **AI News (22/08/2026)**
+🧠 **AI News (23/08/2026)**
 
-**1. Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC**
+**1. Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5
 
-**2. Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say" - CBS News**
+**2. Nvidia customers reportedly warned about AI-related price hikes - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5
 
-**3. Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis - Bloomberg.com**
+**3. Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmliQzZiNWdyUmFtSG5pRllQTVpsNDMzSmxLaHRkcEE5aDJlN0hUSUhMWWhTUGg0T0lIdGZYdTNURGV2YTFnMUJjVmtzQ0p2RnJpQTRSWUhaeW43YmV0dFNya3FPZm1iNVJueWZyUG1Ob0oyT3lHZE5jNERlZ3Z0aXlzZW0tX2pJaDlIZFR3NnZ5UExHdU1rQkx1V09CN3hhd0ozZjlfbnltTjA?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5
 
-**4. The Unlikely Place at the Center of China’s AI Boom - WIRED**
+**4. Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPTXlsYVVLSFltbmFyTENuVDJ6Qk9fZV9lZDN4a1ZrTnBrTWhZemV0ajZISTUzT3BHOFRFU1ZGOENPRHo1QjJyYzQ3SXg4SlhCTlB0bWpsWjA4QmFST3NlM0ExcTdXazJaWFRqS2hmblItSHNOaXE4OHVHa0FiT2FWMXVUYW1sdw?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5
 
-**5. Online streamers sue Twitch, Amazon over generative AI training - Courthouse News**
+**5. A battle over ‘Italian brainrot’ could shape who owns AI art - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzh6dHF3NWtpWktuZkJnNEhRZm5nTnUzMkhMWVcwTzB1NC1RQkZfTERpUXFLcTFMc0FMN3B0aEFsZHpmRHBfWlMwaHFLRHN4NjZfQmNxMWxyQVY0X2Z6Ulowbk9zLS1lRm1yeWl1UUtEaC1uSko0NEZPWlNiN1kySS1IR2pEejE1eVFBeHhPLThib2R2NjNJRmVB?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzh1Mko3T1FvaWRhSi16X2NYTm5URmdpaXY2YjJGQXV2SFlmYkh4Y0ZGazBDOEhLck1RV2xfVVlRZVBSLWphc2dlTlFvZW5rd2Zwd2t2b1hNT19tWHVtYTZyUFBPVmtLN0FoR2dWeXRJNk5tMWRkWmQ3TENGSkxUdFFHMVExTEhucGJmUUZsbnRvMS1ZUzVYWGhJOVpKWHRvYVdqSDZKR00xaWJseEdSTUVfX0FQNFU?oc=5
 
