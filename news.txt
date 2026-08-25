@@ -1,22 +1,22 @@
-🧠 **AI News (24/08/2026)**
+🧠 **AI News (25/08/2026)**
 
-**1. Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ**
+**1. Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5
 
-**2. Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks - The Guardian**
+**2. Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5
 
-**3. Watch Nvidia Notifies Customers About AI-Related Price Hikes - Bloomberg.com**
+**3. AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmNtcFVnZC1nRkhuQUk1Y2hmOFR5V2JpUHpqQkhHUThPUnF5SUNqdzE4TEtXVzNnM1ExVmVSUFB6Z3VUQllPRlE0dHhlSzNxV2JGMjBrQjJoR2hnRmV5M2FicmNjcGx6YWdnZFNxamRWeGc5ajRzZ2pSTmdldlEybDBuRzdzN3Q1a1lSNVhjSllPTzgxSTgxdkF6MkFTT0YwTFVYdzBvRTYwNndSS3c?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnFGMmJzb3hpNVRqTGljVGpzRmVSX3NKUEp0eHFrMlduSnpzSTRmVkFaeGxKcEh6UGhrQ1ZTMXhubTZBUXpiVUhENnJZUThIWWE3a0FtUGViMEhZWDlWYXZRQTVnNnZCNGJEWm02MzZiaFJ3T1d5bmZ4RUhMQlJZQVBCblQ2ZXhRSFJIZjdDczhTeTNIb25QaHg2RW1Oc1BxVElzcFJlUWd0ZlhVNzJvS3lB?oc=5
 
-**4. How Trusted Founders Are Quietly Winning The AI Backlash - Forbes**
+**4. AI flooding public bodies with complaints and requests - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDNXZHBZeWpMSzNFdzNoZWl6MGU4WmVzemFrQkVpeHlVU2Q4SDVaQTNVTFVpVjNXWlRXb2Q5RWIzWnp5Tnhpcks5cTBGOWduR1BPbWM2YzhhR1lVLWRDMEtpanRnQzNqUW43X3NqWGhPblBqY0RRdlpWM3BENkstOGliQW5tNDBNdW9qNUp4SW1xMEhhMElCX1BNRk1JREdpRXZKWjNpLUJkd3c1?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OWXNaNmpqakc5VDhmZXpvUHl1ekw0Nm5aOGhFSmEtbUxZUWh6eUlhTURfQTZrVnVVckhRNHdFeUx4MGF0aENFNGpEaVpRZm9aZG43VURTengtdw?oc=5
 
-**5. Robin Williams’ children revive late actor’s Instagram to combat AI abuse - WKRN News 2**
+**5. Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFJ5ZjJQT2tBZm1PZVhWMVItMm9kcWdrblJISF9XY2xYLUs0Ri15LWdYMzc3N0pSTWpTUDFXQXJrQW4tcFlUSGZjZWlEeHZqX0h1T3ZGTW9CV29oeF82WFV6Y1VrV2xWRzVmcFd6WV9Jc3BOdEhzek5qOXpYd3NJSjlHVkd0a0FSazdtUWtrNnVoWUhVU3dETkJ4XzhYOFAwLVhrN284cGVyNUXSAbABQVVfeXFMTnYwNnhoX0YzYzNVQXpuUU92cE1yQkI3WVBnRXNtZ3gzcTZVRUVNbDUzOEZiaFkxVjk0Yl9oUmEtS0V1MVh3eE1lZTh2NzZKRVBXTWZYcU5YWVdZQndXSXpRZW1ZaElqRDJMUEl6MVdVY3lkUl9OVF9KcWlXQXhXckJkZXFINVJSelZhZTdHVmVGNUEwaW1QRmpTTzZkZjJock91UkV2THcyVVhXTThhVi0?oc=5
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjBrSWtRMndCRjhNMk9KeDJ2bmpEMWtPRGhBOWVzTm1sNG1lbzhHanZDdzk5dEZ5OHVpdlgxMDlGcTAxOUFlVnZKN3pGSDBZcDhiVTZyLVJ4NlMxY29VSlZ4SjBVSXhremtUY0dMak9uOWR1MU5YRm5WYjBJZk1tQ2RoSml1SGhMQ1lKeFQtZGFUMk96Nkt0WEdxTkloRlBuWlR1aHdhT0p2VkZOdzlwUExwaUJGaXF1QWdwVVJBcE12dw?oc=5
 
