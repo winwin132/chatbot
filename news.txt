@@ -1,22 +1,22 @@
-🧠 **AI News (27/08/2026)**
+🧠 **AI News (28/08/2026)**
 
-**1. Bill Gates proposes major limits on AI development - CNN**
+**1. 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM0tMdlVIZW1SXzhxY1ZORHpMVnFDT01QRER5VEo3OFFNLWVkTGJmZldndGphUGo3NVJfcDNpT2lNTEpPMTNJY3k0X25BdVo2c05xZ0lVUk9ZLS0zVTZ0WFY4Y01IajhUZ3YxU3ptZWtPS0NRVlNhNA?oc=5
+https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5
 
-**2. Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times**
+**2. AI-proof? Younger workers desert the digital world for traditional crafts - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzlCcHRRNXA2S3Z2SGRwRFF1bTd0dXdaVEhSZGJWWjZRMV9IcUdlZEdmSW8ta0EyMWplWGFRS21UYWFFLV9OcUtCWXh6S3NheVBjbHV6UDNlRTNJQV9uZFotVGVWQU52YmE5VzVSWnh2VngzLWxob2UtenVUZ1hkalFHdWw?oc=5
 
-**3. Bill Gates says 'there's no plan' to address AI fallout - The Business Journals**
+**3. Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmU4U0FMSnRqVEw5amo1TnZpQTl1SjU0VDhvTjJPb2ViaFJ4dTRyaC1adm01cXFDWlRRekdiQTRWa1pOU3ZxYWNNM21Xc0hhRmJWV2JycEhNUVdOZHlEenVMSlIta3A1aW9QMFJfOU01QXpKQThNZUw2TmIzV3Bpck9WVkN4Z2lfTE54MkRWRQ?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5
 
-**4. London neurosurgeons perform first successful AI-assisted operation to remove brain tumour - The Guardian**
+**4. Trump administration illegally retaliated against Anthropic, judge rules - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldrM0lCSVVfODk2T091ekNBdGZ6Y2RJbWg0WW5aLW5hQ21pdWtzdnZRVlcwUVJua3FVdmVJMzliSUpQcHk0eXJ4S3RnRnhnZFRGWmxGdEJaajU1WjRmV0s1ajVIcWlPazBNY2gtSm8ya0NaNUV5WG82MHJNTENqbUhvb2c2bnUtTzNmNF9NNkVZY0NCSzJVUkdnTTBDb1YyNkpxLWdpM0pHZw?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSEtpbWFrLThEbVNOQk15R05rUk5ZR1QyRG5PWWtYOUdEUkNsUUlQel9fWFljbm1XbWY4ZXBCY2ZoS3hnXzdjSm5oT3BmZVRGX0hzQlJiRlN3UQ?oc=5
 
-**5. Cheap Tokens, Costly Chips and a Missing AI Payoff - Bloomberg**
+**5. US judge blocks Pentagon blacklisting of AI firm Anthropic - Al Jazeera**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUhBRnpRNTM1V0ZNeWlCNDgwMUVwUnYxdlJfWmN4UXRnR0hIaDYxRE1xLUluWVV6LXFJaUhHMTBEZVh3SnRKc0tJRDlxbU0yREk4YUh0a2U2RUI1MHByeUxQaUFRSkhNaVZaUlBLSGtRRGE5WVZiVmVlRW84UE13cjRsaC1kNnNmcFpTNGMzak1FRjM0R3YyeVFqeTlQdnprR1drakdFUEhMTFU2dlBtVEhDTQ?oc=5
+https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTNzNk5XaHlld1A2T1NvbXM0SU5WclJhOXRPWGxRMXQyTjQzV1hhdFItZXZCYmFEWHBGWEdMU0N1bFRMVjFFMFZzOTdGWkhsd2ZvdjVuSGV6M2VFZnE5VnNWS0lhZ2ZNekZ0TWpPSUtCaHplc1ZWdFlBT08zd0I2ZElXOERnaGtLb2dldlY3NlFRVHU0OEI3LTdEWHlNekY40gGmAUFVX3lxTE5fZFRGc3ZiMmRGTlA5dHpnVmVvTm9pdU81Nk1QaEx4RUVqMnJLV1ZNeFJhcW5jcXhzTERCcFlURjBqZWdxTHRXcVhnbjdzVkN5RnNBMXg5eEE2TkFPSHhMQmhLdFlGRng4ZWVqVWhwVEg2R1FKaHhpNnpUTjh4ZFEzUHh1bl90S0Jjbm5BYnVPNHVud21yWm5KOXlOYjJvR0Q1clhTcHc?oc=5
 
