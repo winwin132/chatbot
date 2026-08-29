@@ -1,22 +1,22 @@
-🧠 **AI News (28/08/2026)**
+🧠 **AI News (29/08/2026)**
 
-**1. 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5
+**1. Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5
 
-**2. AI-proof? Younger workers desert the digital world for traditional crafts - The Guardian**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzlCcHRRNXA2S3Z2SGRwRFF1bTd0dXdaVEhSZGJWWjZRMV9IcUdlZEdmSW8ta0EyMWplWGFRS21UYWFFLV9OcUtCWXh6S3NheVBjbHV6UDNlRTNJQV9uZFotVGVWQU52YmE5VzVSWnh2VngzLWxob2UtenVUZ1hkalFHdWw?oc=5
+**2. The AI Backlash Gets Professional - The Atlantic**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPazJwSE44bGM4WWpYTzVadTFBc1k5MUYtV2hIN2hnd1NUS2l6b2ZFNkhsTUNrWFFFN1Y2SkdXOXllSzFKdXV5OC01Nl9EOTFCT1pEWE1mTGtTQjJpeFBuWjljdnliRGNHZmw0dlBldFNFT3JDU3BJZm91RnU5bUF5ZFRLb3lKRFVVWkotT0w4LTF1S0c2NkQ3V3FJSVZWY2c?oc=5
 
-**3. Pimco Says ‘Too Much, Too Fast’ AI Debt Is Stoking Bond Yields - Bloomberg**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3ZIMGF0RUppLTZSMkZ2c1dpbjZBR09LNmxRTEpmXzBmNWZpNkRZc3NkVlUzcUx0SlVSeGlOUDdNMEE0SmJkaGdzbDFlMnQ4d2gtZlRYNjR1azBxOGszcURyaENtYU5NLTZRLUYwTXNhSi15bEs4ZXo2WkVMQnVvYUxWaTJydFl5alhXWXVCaVhoN2o4YTEyTGVmV1RCal8zTzdVdE9SWXdNWmkwUWVR?oc=5
+**3. Texas Gov. Greg Abbott moves to cut state funding for AI-powered Flock cameras amid privacy concerns - Fox News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDc4MGh5b0Zka1p4S1hPNWRHb1FMd3RkdUgzY1MzZndEVWR5eDdvTjY2N2JtbUNXRVYzc0drZlhmMkhoRDM2Sk9TQWdTUmtBdk10OGMzWWtOR3p5OVZKODN6czlCbTlMWkhZMWcySUVrODYyekZGbUh0c1ZNNWpqQ1l3ZEVURlhWSjJ0QjFVblgxaVRQZTkzZG8ydUdxSTZWLUJoQ25nWVFLOGxFNTVrQ3F6cHJodk1palN2d3BQTmw3SEnSAcgBQVVfeXFMTVlCZ0I0VDYxRjBTX21STVppV1c1emV0RV82QnVrb3dLTkFYM2syNVR1WmRiUUg4a3ROY3d1aGxES2JmZDFTM3JjaFFlREJKd09xYlpIbC1panRJRDZHOURzVjlsaE9FRDJMWC1MVXQ0aUczSGFock4yb0tjWEdpdWRoOWFvUlBSZzF4VVc1MWhWQzhMbkFMRXJ1T1VCbFVKVWVFeVhnN2JzcGplNEdENFF1OHJZeFphRWdhVzByeW5vTlRIV0RGLW0?oc=5
 
-**4. Trump administration illegally retaliated against Anthropic, judge rules - BBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSEtpbWFrLThEbVNOQk15R05rUk5ZR1QyRG5PWWtYOUdEUkNsUUlQel9fWFljbm1XbWY4ZXBCY2ZoS3hnXzdjSm5oT3BmZVRGX0hzQlJiRlN3UQ?oc=5
+**4. Did AI write this? It’s getting harder to tell - Financial Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOTThpSHE3aHFSc3A1UXVGOUtENzF2ZnFyblFuQVVUTFJTQjdMeHpLZ3JTdjRoNEpiclB4bDVmdlV1dUtkUlgwLVlsTHpaUmJkbDBzcGxyR0Y2eGhwVzV6QXdSV0Rua3lOTWNwOVNoS1h4eUZOVF9KQUQ5aFcyVUU2XzFiXzk?oc=5
 
-**5. US judge blocks Pentagon blacklisting of AI firm Anthropic - Al Jazeera**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTNzNk5XaHlld1A2T1NvbXM0SU5WclJhOXRPWGxRMXQyTjQzV1hhdFItZXZCYmFEWHBGWEdMU0N1bFRMVjFFMFZzOTdGWkhsd2ZvdjVuSGV6M2VFZnE5VnNWS0lhZ2ZNekZ0TWpPSUtCaHplc1ZWdFlBT08zd0I2ZElXOERnaGtLb2dldlY3NlFRVHU0OEI3LTdEWHlNekY40gGmAUFVX3lxTE5fZFRGc3ZiMmRGTlA5dHpnVmVvTm9pdU81Nk1QaEx4RUVqMnJLV1ZNeFJhcW5jcXhzTERCcFlURjBqZWdxTHRXcVhnbjdzVkN5RnNBMXg5eEE2TkFPSHhMQmhLdFlGRng4ZWVqVWhwVEg2R1FKaHhpNnpUTjh4ZFEzUHh1bl90S0Jjbm5BYnVPNHVud21yWm5KOXlOYjJvR0Q1clhTcHc?oc=5
+**5. Hurtado pushes for Central Valley cyber defense funding amid AI attack warning - kmph.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FoTkkyVktnc3VoUjdIZ2hKZzZfY09OSDRHcUgzaVF1aG1hUHBxaU4zbHA3VGFSVGgzRngycTRnd2Y0cGQ1a1JhTFFtMUMtY29vekU3ODlLZWFGdlZ2Xzh1dEJWS2hIdGFtVENiVUZtY0dZOUZ5eW9pbk9vdjh1SGd4MTFVZUp5R09sNnRUYUtqRncxS2tRZHBsZDJlUThXdVhHbVk5UEI3UQ?oc=5
 
