@@ -1,22 +1,22 @@
-🧠 **AI News (30/08/2026)**
+🧠 **AI News (31/08/2026)**
 
-**1. Tech backlash reaches fever pitch as AI angst collides with social media fears - CNBC**
+**1. We tested how AI chatbots would handle foreign propaganda. They did surprisingly well - NPR**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5
 
-**2. AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated? - The Guardian**
+**2. Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1 - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVkYWE5Mm1rejhYdjlON0UzUlMwaHg1T0hmYkJReWZoN3NtSmZlYkpvTjVJRmMzd1FoRE5ZS3RSWllxRVpfdVkxNUlzdE9zcEg3UlVxaGZBNDU4bHp1emluc2kyeHRBczJScnY2Y045NWRRT21EVjcwY3dpVnFlSEZMUzR2SGNEV3FIcDllMHZCNUJLTTEtV2hkZ1M4MFJ4NWh6bnRHS3hnNC1aaEc1SXNvWFVCZHJvYll3?oc=5
 
-**3. The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios**
+**3. How Aetna Is Making Healthcare Simpler With AI - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxOWkF0MUc5VjlPcXo5MFJYMjZmalcxZkUxdkNHbU00OFFVWkR6QUJOTFNXV080VXZPbEtnYm00WUswYVFZcndGcmZZQmRPWFdaWVAxYlVxTG5iTHFPLWpUM3lnOWpfTVhnc0s5ZnMyZWNJemJ2ZVRlcHAzbWFDblpJbUp6SDUtSTQtSlcxVjdTbFhzdkhhWnpiN2lJMHNaQQ?oc=5
 
-**4. An AI Oracle’s Rise and Fall - WSJ**
+**4. Carlsbad navy family turns to AI in search for treatment for daughter with rare genetic disorder - NBC 7 San Diego**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMickFVX3lxTE5CSW1mU1hOYWp2LWxjV2JSdUtZOTJwRElSUXVKbXEybFNXdmVZR25TQTJ2UDVXc3loMEkzcDg5R29lOERldEF3NXhreUpjMk5pQzdVNlJ6RUdQRndpbzRtbllQQlpaNG1JSGJHR29saEVoUQ?oc=5
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcWw3Y1A3ZzhtSFJsYkV2QnUxYkU1Um1GMmRodDdnaUVkTUtxWjlmSVpWajFPcUtIYTRZZFVzS1hDZUtUbzFXcHdlazdqYjJRX0NOZnlKUUgzMTNUeVRMa1NnUmRreVlMbnRDWGlsbmV0cjNja3Q1OEdVeFhaR2E2Z29uMjV5dlNfRUlDX1pKTl9mYUtTZUdZenZIaEdPT0hfM2djcFV1eFJld204ODhud0dYdmtGVmhkSjJhcEVfNzNyZ2l3NjFpdzdqOEhqbmtkNnhaYlpmd2hvQURO0gHkAUFVX3lxTE42eUNIa1d6N2V6V2ctYTZkWkRkMThiN1g4cnM5M2FwM1kwTW9GZUotZEZtd2FHMVk1RXBLZ0V0Y21iVURGbk1uQU1wb0xDWWVLUmJHNkxTSjBGWWtVS3hxbkh0bUdHSTY5MVRxV2IzYnBqcWxCOUVfLU1wWE85a05Lek5wSWNsSTQ2QlBjaUNiYzZNUzJmWXdOcHVsNDZiQUF2em9vX2tNc0dFMjBqVnFHZkdTeGdnRXJTV0Ztd0x5SVVZb3EwY3pwdVNCZk1IZ0pFalBlN0hnal9lVnp6ZmZPSnM5cg?oc=5
 
-**5. OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC**
+**5. Google for Startups Accelerator: Introducing our 2026 Australia & New Zealand AI Cohort - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxObF91RUp0RnkzRVZzUW0xSGlLRDZKUzRiSlcyVUZ5NTdsY3dWZE43YndTelZscHp5SEl0elZKTmkxQkxIYkJJai14d2ZwVlZuQWF4MGNrdnZCeUUzbGJjYzBVVEtYalZpbDgxOFhCbEIteFB5dGlfOExERko2WEJBNjNtNlg4bWdEdV9ldzUzajJiR0JEZ2E5eXcyRzVlRFB0Rm9MN2thS2YxQ1JvYm1ZN0tFQTgtX1lhZEg0U0JvcGRibWR6VUsxUQ?oc=5
 
