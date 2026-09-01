@@ -1,22 +1,22 @@
-🧠 **AI News (31/08/2026)**
+🧠 **AI News (01/09/2026)**
 
-**1. We tested how AI chatbots would handle foreign propaganda. They did surprisingly well - NPR**
+**1. Study A.I. Consciousness? The Bots Would Like a Word With You. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5
 
-**2. Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1 - Bloomberg.com**
+**2. Anthropic sued over alleged theft of ‘tens of thousands’ of songs - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVkYWE5Mm1rejhYdjlON0UzUlMwaHg1T0hmYkJReWZoN3NtSmZlYkpvTjVJRmMzd1FoRE5ZS3RSWllxRVpfdVkxNUlzdE9zcEg3UlVxaGZBNDU4bHp1emluc2kyeHRBczJScnY2Y045NWRRT21EVjcwY3dpVnFlSEZMUzR2SGNEV3FIcDllMHZCNUJLTTEtV2hkZ1M4MFJ4NWh6bnRHS3hnNC1aaEc1SXNvWFVCZHJvYll3?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPQld2RWtFcDZKTFdOekJMY2NCclRFeWJnN1I0NUVrZHBzUXY4Z2t5Z2FZdEZmTmQtTkg2REtlWVZhcVhYSTViNG4zZzlzOVlPa09vVXVkV1g4ZWNScWNwdzllVm5ndUgzQzBjcUdJdTFGWndWcUp1aFY3MTNzVWY2YVN5M1dYRFpQbG9hLWZINlo1bHVqamxLN1VYWHJPREJQMEE?oc=5
 
-**3. How Aetna Is Making Healthcare Simpler With AI - Forbes**
+**3. Sony, Warner Music sue Anthropic over songs used in AI training - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMingFBVV95cUxOWkF0MUc5VjlPcXo5MFJYMjZmalcxZkUxdkNHbU00OFFVWkR6QUJOTFNXV080VXZPbEtnYm00WUswYVFZcndGcmZZQmRPWFdaWVAxYlVxTG5iTHFPLWpUM3lnOWpfTVhnc0s5ZnMyZWNJemJ2ZVRlcHAzbWFDblpJbUp6SDUtSTQtSlcxVjdTbFhzdkhhWnpiN2lJMHNaQQ?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5
 
-**4. Carlsbad navy family turns to AI in search for treatment for daughter with rare genetic disorder - NBC 7 San Diego**
+**4. Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes. - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcWw3Y1A3ZzhtSFJsYkV2QnUxYkU1Um1GMmRodDdnaUVkTUtxWjlmSVpWajFPcUtIYTRZZFVzS1hDZUtUbzFXcHdlazdqYjJRX0NOZnlKUUgzMTNUeVRMa1NnUmRreVlMbnRDWGlsbmV0cjNja3Q1OEdVeFhaR2E2Z29uMjV5dlNfRUlDX1pKTl9mYUtTZUdZenZIaEdPT0hfM2djcFV1eFJld204ODhud0dYdmtGVmhkSjJhcEVfNzNyZ2l3NjFpdzdqOEhqbmtkNnhaYlpmd2hvQURO0gHkAUFVX3lxTE42eUNIa1d6N2V6V2ctYTZkWkRkMThiN1g4cnM5M2FwM1kwTW9GZUotZEZtd2FHMVk1RXBLZ0V0Y21iVURGbk1uQU1wb0xDWWVLUmJHNkxTSjBGWWtVS3hxbkh0bUdHSTY5MVRxV2IzYnBqcWxCOUVfLU1wWE85a05Lek5wSWNsSTQ2QlBjaUNiYzZNUzJmWXdOcHVsNDZiQUF2em9vX2tNc0dFMjBqVnFHZkdTeGdnRXJTV0Ztd0x5SVVZb3EwY3pwdVNCZk1IZ0pFalBlN0hnal9lVnp6ZmZPSnM5cg?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3JxbVFCaWdJUU02Wm15ekg2Zmt5eWY5REJMUVhRa2J0MUZNYldxLU95aXQ0SlQtU1dwV2RaOWtVZTI1d1NIRlJVdmxKVXEtbEFPUGZsbG0zV2pBMkNwUDBhUkFTRGhRR1o3ZVhYLUh5aWF3R3hydjI5aXlyNjlyYjlIZlBtcVR2b1lqQXRkUHJ1ZmRJMnE5NlRCTUZJa2ZrZ3pyMEZINDc4NkRWbWNaczBuX0s2dGpXSlBkZg?oc=5
 
-**5. Google for Startups Accelerator: Introducing our 2026 Australia & New Zealand AI Cohort - blog.google**
+**5. MediaTek Shares Soar 10% After Blockbuster Nvidia Investment - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxObF91RUp0RnkzRVZzUW0xSGlLRDZKUzRiSlcyVUZ5NTdsY3dWZE43YndTelZscHp5SEl0elZKTmkxQkxIYkJJai14d2ZwVlZuQWF4MGNrdnZCeUUzbGJjYzBVVEtYalZpbDgxOFhCbEIteFB5dGlfOExERko2WEJBNjNtNlg4bWdEdV9ldzUzajJiR0JEZ2E5eXcyRzVlRFB0Rm9MN2thS2YxQ1JvYm1ZN0tFQTgtX1lhZEg0U0JvcGRibWR6VUsxUQ?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFBScFM2RTE3eC1YNHZTZlo0aHh2UHVlWGE2dl9RdVM1dHZYQ2dlRllBekZCUVBKNGxoR1E5ZHNhbVRpM01tcVh2UDdhNkZHSldBcTlRY25xUDlLRnA3MEhIYWVXSWVubGQtc21xcnVjc1c4X1p3ZWNxSXlWeDZiY3RSZGFYcGNUVHBSeUhuMUg2NERxQ2FyZl81SlQtbFRLRGt2cV9CNGFlRG0xT3pN?oc=5
 
