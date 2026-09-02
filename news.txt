@@ -1,22 +1,22 @@
-🧠 **AI News (01/09/2026)**
+🧠 **AI News (02/09/2026)**
 
-**1. Study A.I. Consciousness? The Bots Would Like a Word With You. - The New York Times**
+**1. Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5
 
-**2. Anthropic sued over alleged theft of ‘tens of thousands’ of songs - The Guardian**
+**2. Pentagon official overseeing military AI sold millions worth of stock in AI firm - theguardian.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiogFBVV95cUxPQld2RWtFcDZKTFdOekJMY2NCclRFeWJnN1I0NUVrZHBzUXY4Z2t5Z2FZdEZmTmQtTkg2REtlWVZhcVhYSTViNG4zZzlzOVlPa09vVXVkV1g4ZWNScWNwdzllVm5ndUgzQzBjcUdJdTFGWndWcUp1aFY3MTNzVWY2YVN5M1dYRFpQbG9hLWZINlo1bHVqamxLN1VYWHJPREJQMEE?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5
 
-**3. Sony, Warner Music sue Anthropic over songs used in AI training - Reuters**
+**3. Cookeville High Teens accused of using AI for explicit images - WZTV**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnE3M2xWbDJDSXZLZTRtVUJhUFdkMFdSNTBVTFdJRmhVRnN1TGw1QlBWMnRCOVF6OTRYa3BnSnc5NEhWV0lzZS10aWVyTVR4ZWZ6bG5vQV9xc0piVmxWbERrbHBqeFFqTjJILWZoc1FtaElBNWszMlg1Y3YzYXVwZWtGMHdsZXJWX2VEdFhHbEJVZjlN?oc=5
 
-**4. Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes. - The Washington Post**
+**4. Right on Cue, Google Is Reportedly on the Verge of Shipping a Coding-First AI Model - Gizmodo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3JxbVFCaWdJUU02Wm15ekg2Zmt5eWY5REJMUVhRa2J0MUZNYldxLU95aXQ0SlQtU1dwV2RaOWtVZTI1d1NIRlJVdmxKVXEtbEFPUGZsbG0zV2pBMkNwUDBhUkFTRGhRR1o3ZVhYLUh5aWF3R3hydjI5aXlyNjlyYjlIZlBtcVR2b1lqQXRkUHJ1ZmRJMnE5NlRCTUZJa2ZrZ3pyMEZINDc4NkRWbWNaczBuX0s2dGpXSlBkZg?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNbktxaDhHaTRqMWctQkIycW1SVlE1WkZfSTlLVndVdFZzTE9RTDJVYzQ5NUlFMGRRNF9ieW9IaWJ6YW1lM2ZBc1BHN2pqbUtNeFZzcjNYXzJ5UXJjTUZZVl9McDY4R19SU3lvZjRTakxia3lvRF9fRGRrLWU0Qlpwb2N6RU52M2hMTUMtUU1BY2xLY3Y5Z0JFUnRob0NCYnlUdFNxdzJrRmRKN3YweTJEc0trZw?oc=5
 
-**5. MediaTek Shares Soar 10% After Blockbuster Nvidia Investment - Bloomberg.com**
+**5. How law firm Gilbert + Tobin governs and scales AI with OpenAI - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFBScFM2RTE3eC1YNHZTZlo0aHh2UHVlWGE2dl9RdVM1dHZYQ2dlRllBekZCUVBKNGxoR1E5ZHNhbVRpM01tcVh2UDdhNkZHSldBcTlRY25xUDlLRnA3MEhIYWVXSWVubGQtc21xcnVjc1c4X1p3ZWNxSXlWeDZiY3RSZGFYcGNUVHBSeUhuMUg2NERxQ2FyZl81SlQtbFRLRGt2cV9CNGFlRG0xT3pN?oc=5
+https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybE5DRmdfZVNQSHJzUjZSbUl1aGgtUmkyVF9JNkRZZ21xcWs3OFRLMDlLTV8wVUxuT2lMWnRrZnJDRGhOdUs5a192SjZEc0E?oc=5
 
