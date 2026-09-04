@@ -1,22 +1,22 @@
-🧠 **AI News (03/09/2026)**
+🧠 **AI News (04/09/2026)**
 
-**1. G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout - CNBC**
+**1. Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5
 
-**2. These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED**
+**2. Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNU05PeW14UGVmaGxSU1BxdmFHNnVKOFZwMFNHNWF6cXA0ZjBOa3JsZnIzbzZKY2h6a1k1Yk9Sd3F5VnlNMkhpa0c4T0R3aTJaZ2NpTGpkTjMzWGV4dVRuU21RM2JneURwZUtNUjNFV3NFSXJuZFhWMkZjX0hGel9VZg?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5
 
-**3. The Hunt for AI-Proof Assets Is Leading Investors to Sports, Casinos and Travel - WSJ**
+**3. Nvidia is driving the AI boom. Good - The Economist**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGhSSDJRbW9WQmgyN3RsQS1NRmdqN05uNGpoWFFXQkhNdHNsX0w3UklUc1lULXgxcVNfZWkwTEtDTWVRWU1PczZJaWZSb3NZRFFwdzExMEVxTU1RZlhFMWFpS2NVYXV0QTJ3TWtyMFl1VmFPMTFtYVF3VGxWbVFlWVc5Mkh5WUlodFlKc050MWJkODBTRk5CcG9vT3lQVGY2SXI0dUpPYzFGUkt2a0hycWxfR1lMZDNBcGNZUWpzelN4Z0RsRGdFdjlCclRGUnM?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5
 
-**4. Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip - San Francisco Chronicle**
+**4. OpenAI unveils GPT-6 Astra with major advances in AI capabilities: 'Now in the AGI era' - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmhHU2I5WTBWR0lNa2NHZG9yX3Q3YXFWUnJsSmVWdDRXZ3pRODdGWmlmbGFDZGl1eVFMWFlIaDFXOWphaUx3OXdUUWl2NzNrQVVnN2VIazRyQm94cUNEVl96blZlaFZRSFNVYWVON3ZCRGtvNmhYNFpYa0RXcnVoOXczeTRUYzlfSmNaMVVhNDJaNVk?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2l4c2h2R2JEUTlZSkR4QlIzR1RtN0Q0M2dzMHpGR2o0WGJ0N3hUY0tfZlBZWjk0ZnFtMVFYLUZMVnV4eXpMQkxESWd1cUgyUEFqSE5Vb1RxR2VQaDllOHUyVlpndE1PekZKYTJOMDlWOTBEc0dFMUpUWl9zekhvcUdza1lLZ21wYVNYU2JtY2JuVmljblZQUHdacS3SAaIBQVVfeXFMTlpQdmVJNXpScWN6VnoxTk1fMHctWGpzdC1Ib1FkdVNkZVE1b2RFQ1p0S1lZY18zOHJVOE1IdXVGc01nREQtZlg1R3FhaWRNVS1YRnZ2TXhMYUYxNmstTHVTOC0ySnBsQ1dHc2ZzMDJra1A1RjdmdHB1Q29Ja0tyMDNpZXRUaWR4Q0lnaDdBZlZMMGU5Y01aRzJZTmpyVE95emNn?oc=5
 
-**5. Hikers who relied on Google’s Gemini AI rescued from Mount Shasta - KRON4**
+**5. OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2JHQThVaXp3c09vS29uZFc4MUJZU29xYWlXMHpnUTN0WjB5amRNUzV0MnJDNUM4ckQxMHhjRGN0b0t2aTJQV0sxeC12bkFnb2NEZVo0YVY0WTNHMHF2RGlNYmw5ZFdhUVQxWHFnQy1yMmFlYVFPNWptc1gwdDZDVXRmbzNVVmMwVVZyZmlENlBrUjRnYVJRcElvNDNzMThXckRHR0NOSm10d9IBrwFBVV95cUxQTXhwODhGVHliM3F4RmJPRVVtU1FNeVVWZlBGOUZaM2FwdUJPV1lYajhjbl95dVB6Z0hJTjlOMEJqaEwwUTdWXzN3Ull0Y0lLNFV2SWJ4MmdBVFI5aU8yV2ZIdE04LWs2Z2JXZ1RTNHZNQTd2Yk5EeFJCRGdDU0JrdGVSNWJSendEMUJKN2QxZTI1RW1hdkp1Rlc5WDdIcFdydzhEUEJTai1zVGZBQlNB?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5
 
