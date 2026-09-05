@@ -1,22 +1,22 @@
-🧠 **AI News (04/09/2026)**
+🧠 **AI News (05/09/2026)**
 
-**1. Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC**
+**1. GPT-6 Astra: A new generation of intelligence - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5
+https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
-**2. Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times**
+**2. EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5
+https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5
 
-**3. Nvidia is driving the AI boom. Good - The Economist**
+**3. Clay Matthews reacts to TMZ's AI-generated photo depicting him - Milwaukee Journal Sentinel**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQODdXbmxZX2d3TUxzOVFnZUIzbVJHWjFHd3FSTUVZTUl5R2JuN05hUUoxQ0M5NGFxQmlMUFpwVTRtM0ZZZDhjUGNka0t2WHl2Rk95ZlgwWWVwY3lBUzF6Q1lHelJnMGV5V1dyRGt5X3dmRDVqRGpVT1AzaVc2eFhDdUV1VGppRXpPRVJKV3EwdFRINFhIUkhXaVk5ZnVVMkl3VjZReWFPaw?oc=5
 
-**4. OpenAI unveils GPT-6 Astra with major advances in AI capabilities: 'Now in the AGI era' - Fox Business**
+**4. California labor unions urge Gov. Newsom to sign AI workplace protections - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2l4c2h2R2JEUTlZSkR4QlIzR1RtN0Q0M2dzMHpGR2o0WGJ0N3hUY0tfZlBZWjk0ZnFtMVFYLUZMVnV4eXpMQkxESWd1cUgyUEFqSE5Vb1RxR2VQaDllOHUyVlpndE1PekZKYTJOMDlWOTBEc0dFMUpUWl9zekhvcUdza1lLZ21wYVNYU2JtY2JuVmljblZQUHdacS3SAaIBQVVfeXFMTlpQdmVJNXpScWN6VnoxTk1fMHctWGpzdC1Ib1FkdVNkZVE1b2RFQ1p0S1lZY18zOHJVOE1IdXVGc01nREQtZlg1R3FhaWRNVS1YRnZ2TXhMYUYxNmstTHVTOC0ySnBsQ1dHc2ZzMDJra1A1RjdmdHB1Q29Ja0tyMDNpZXRUaWR4Q0lnaDdBZlZMMGU5Y01aRzJZTmpyVE95emNn?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGR2LV90ZUNQamRuVjZCU25ac0tRTlpxbG43RmtFU0lzZkZWODNTM1dDeXR6My1KZk9KNlZWOEJselQyVDlKM2tNQ01Lb05IOENiSTFpT2hvMkNfWHBoRndQaGd4U2d6dDRERTNrR29JRWs3MUdpWF85cUwxcHlBWWpHdXZaQ1BMeHNiek5JRmtweVJaMFE5R2s4VjM5OXc2c3N3M0hLLXVGQWRHaGExcUpDRmhhQQ?oc=5
 
-**5. OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC**
+**5. Orange County to weigh temporary moratorium on AI Data Center applications - WKMG**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5
+https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFU2MUFQc2x3eElIS0hncFozRTRGN2k0Mm5lMzNHWGdTNElmaWRBVTQ2LTBZQ3BnWkV1SmNPdElBXzQyS09LeWU3YVhPZHc2Q3NCWE9XcWhYZ2FaU29rSXpoMVVEN0dXSzU4T1RDWUVOMjhMOWlhejJiZ2tKMTllMDFYQVJGZ0hLV1MyeGhYZ2xnU3FtQUE2Y0ttSzdaQ2tJNTdmTHVpZXRvR3RJWXZBS0JHcXBJa1o5ZzRUVjBqcVVWUkVY?oc=5
 
