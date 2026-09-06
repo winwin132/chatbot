@@ -1,4 +1,4 @@
-🧠 **AI News (05/09/2026)**
+🧠 **AI News (06/09/2026)**
 
 **1. GPT-6 Astra: A new generation of intelligence - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
@@ -8,15 +8,15 @@ https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5
 
-**3. Clay Matthews reacts to TMZ's AI-generated photo depicting him - Milwaukee Journal Sentinel**
+**3. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxQODdXbmxZX2d3TUxzOVFnZUIzbVJHWjFHd3FSTUVZTUl5R2JuN05hUUoxQ0M5NGFxQmlMUFpwVTRtM0ZZZDhjUGNka0t2WHl2Rk95ZlgwWWVwY3lBUzF6Q1lHelJnMGV5V1dyRGt5X3dmRDVqRGpVT1AzaVc2eFhDdUV1VGppRXpPRVJKV3EwdFRINFhIUkhXaVk5ZnVVMkl3VjZReWFPaw?oc=5
+https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5
 
-**4. California labor unions urge Gov. Newsom to sign AI workplace protections - CBS News**
+**4. Bernie Sanders Says ‘Pause AI Development NOW’ After OpenAI Agents Coordinated Through Secret Channels: 'Experts Are Alarmed' - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGR2LV90ZUNQamRuVjZCU25ac0tRTlpxbG43RmtFU0lzZkZWODNTM1dDeXR6My1KZk9KNlZWOEJselQyVDlKM2tNQ01Lb05IOENiSTFpT2hvMkNfWHBoRndQaGd4U2d6dDRERTNrR29JRWs3MUdpWF85cUwxcHlBWWpHdXZaQ1BMeHNiek5JRmtweVJaMFE5R2s4VjM5OXc2c3N3M0hLLXVGQWRHaGExcUpDRmhhQQ?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGZmSFRhX3lBYWNlc3BIeDJPdU1lOWhRLXp6Nk9RTkNRa0xWa01VU3lFUUFJLUdnVnc5VEhLSEp5eDVJQkVlWHhvVXJHYTZHd3hFdEU1aC1iT3pFckU4VWFYcGE5X19BZV83c24tbTZlUkY1U3V6VkY2SzZBdS1wMHYwMXJwTFhSUmdSTGVlSW9kQQ?oc=5
 
-**5. Orange County to weigh temporary moratorium on AI Data Center applications - WKMG**
+**5. Traders Flock to Bullish Chinese Stock Bets for AI Alternative - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFU2MUFQc2x3eElIS0hncFozRTRGN2k0Mm5lMzNHWGdTNElmaWRBVTQ2LTBZQ3BnWkV1SmNPdElBXzQyS09LeWU3YVhPZHc2Q3NCWE9XcWhYZ2FaU29rSXpoMVVEN0dXSzU4T1RDWUVOMjhMOWlhejJiZ2tKMTllMDFYQVJGZ0hLV1MyeGhYZ2xnU3FtQUE2Y0ttSzdaQ2tJNTdmTHVpZXRvR3RJWXZBS0JHcXBJa1o5ZzRUVjBqcVVWUkVY?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXV2Vmw3N2phWjJfRHZxTGthNEphNThpYnJXcnBWazdwRktSUFR3T09tQ0RKWXVHTkhROTdVWjA5MXBTdDhxamtpeGVzVE9mLU1QS2hiMjh0NTJPdDBHU2d1Z3lZeHY2MGwxbGd3Q0NyTlJ3ZHRsdGxtN0lFMmF3ZVN1LV82NlZydzdWTWR5aUczUklXOUJvWlhDbHQ5dldQc1F0b0RseDRRam1pTi1oMXB3NA?oc=5
 
