@@ -1,22 +1,22 @@
-🧠 **AI News (06/09/2026)**
+🧠 **AI News (07/09/2026)**
 
-**1. GPT-6 Astra: A new generation of intelligence - OpenAI**
+**1. An Alien Mind - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5
 
-**2. EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters**
+**2. Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1JmUTQwSGZBa1VzY1hHeHZXSEh2ODdCS3NYczRBYjNCSjNLdHRMYy16ajRsX2xZMTA4V0NsNURCbVEtR2pRWHZjSXB2bzRMSmloc0hzMlBTNUhoRDl0QjVwUmhOZ3NXekM3STV3VFVrWi1xUzMxUjJZM0hZTGRONXVmZTRSVXJsak1TWnVUX0pMdThHMnIwZDlmVG0wVXFpOWNFRXdwbjR5TWhxLUFSMXBIbHMwdWozMkNV0gHAAUFVX3lxTE9vTTVxRVhGWEthY1hSWDIwNURKR3dPcEJvNnNhczdZdlpVWThXb0JUSmdPelM0QUJraGJBZnlncko5bUVjRmg2ZU5pM1RQbmZjTTQ0aEhXSGkwUXVuMFhfSy1BZFVKNDdxX2tKVXZfMnBoeHFNMEFTVVBlSTJzV29BMWQybUh2VlgyVDVMLXRrczZkTzNFekg5ZnNFSTVBMmRJZzZ6LVFocjBLY0dNZUFrdHRyNWl0SkpHbm9tYnpOUw?oc=5
 
-**3. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch**
+**3. The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5
+https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUhZZGlzcjMycmhRMlN2VVVaTTJnbW16aWk0NFVUQmYxVW1kUjZLbUZFeW1OU1Vqb19lWk8waWFRNlg1ZjNqWHotaFpVVkhQM2FqdnBEN0RtbnNSXzFXTnVjRXFqaWxIaGpIZVNVQWU0Nzg4R01wMjB0aFo3MUd0ZTFTdFdNWV9zNmM3Q0pfMWliYU9sQTdJTHZwZ3g2N1phXzB6eVdaVFNmakR3LXNpUEFmTmUtSERVak9zRTBkZw?oc=5
 
-**4. Bernie Sanders Says ‘Pause AI Development NOW’ After OpenAI Agents Coordinated Through Secret Channels: 'Experts Are Alarmed' - Yahoo**
+**4. Backing 16 green AI projects in Asia-Pacific - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGZmSFRhX3lBYWNlc3BIeDJPdU1lOWhRLXp6Nk9RTkNRa0xWa01VU3lFUUFJLUdnVnc5VEhLSEp5eDVJQkVlWHhvVXJHYTZHd3hFdEU1aC1iT3pFckU4VWFYcGE5X19BZV83c24tbTZlUkY1U3V6VkY2SzZBdS1wMHYwMXJwTFhSUmdSTGVlSW9kQQ?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU1JYndiSTFQODZsQXhYdWJEZnA2WGtGNTFiWUFJZlNoRV9EeWhsNGw4akQ1MTA2dmttVVdvaW01Skt5Wk5tVDlscGFfc1dOV3V2S1EtWDNOVWZYTEVFYXVCcTRfbWtNekxCM1o3NF9wdGE3ZGExQWVVc2NGdy1MZjUxaU01Y2R3emliT2h6QzE4SVJGZW9hR1hndmFSLTBDcERN?oc=5
 
-**5. Traders Flock to Bullish Chinese Stock Bets for AI Alternative - Bloomberg.com**
+**5. AI data centers are transforming rural land markets — and fueling a backlash - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXV2Vmw3N2phWjJfRHZxTGthNEphNThpYnJXcnBWazdwRktSUFR3T09tQ0RKWXVHTkhROTdVWjA5MXBTdDhxamtpeGVzVE9mLU1QS2hiMjh0NTJPdDBHU2d1Z3lZeHY2MGwxbGd3Q0NyTlJ3ZHRsdGxtN0lFMmF3ZVN1LV82NlZydzdWTWR5aUczUklXOUJvWlhDbHQ5dldQc1F0b0RseDRRam1pTi1oMXB3NA?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5
 
