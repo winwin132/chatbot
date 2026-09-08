@@ -1,22 +1,22 @@
-🧠 **AI News (07/09/2026)**
+🧠 **AI News (08/09/2026)**
 
-**1. An Alien Mind - OpenAI**
+**1. Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5
+
+**2. AI cancer cures slowed by chip shortage, says UK's biggest tech boss - BBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5
+
+**3. OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5
+
+**4. OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI - Bloomberg.com**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5
+
+**5. An Alien Mind - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5
-
-**2. Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries - Fox News**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1JmUTQwSGZBa1VzY1hHeHZXSEh2ODdCS3NYczRBYjNCSjNLdHRMYy16ajRsX2xZMTA4V0NsNURCbVEtR2pRWHZjSXB2bzRMSmloc0hzMlBTNUhoRDl0QjVwUmhOZ3NXekM3STV3VFVrWi1xUzMxUjJZM0hZTGRONXVmZTRSVXJsak1TWnVUX0pMdThHMnIwZDlmVG0wVXFpOWNFRXdwbjR5TWhxLUFSMXBIbHMwdWozMkNV0gHAAUFVX3lxTE9vTTVxRVhGWEthY1hSWDIwNURKR3dPcEJvNnNhczdZdlpVWThXb0JUSmdPelM0QUJraGJBZnlncko5bUVjRmg2ZU5pM1RQbmZjTTQ0aEhXSGkwUXVuMFhfSy1BZFVKNDdxX2tKVXZfMnBoeHFNMEFTVVBlSTJzV29BMWQybUh2VlgyVDVMLXRrczZkTzNFekg5ZnNFSTVBMmRJZzZ6LVFocjBLY0dNZUFrdHRyNWl0SkpHbm9tYnpOUw?oc=5
-
-**3. The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt - Forbes**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUhZZGlzcjMycmhRMlN2VVVaTTJnbW16aWk0NFVUQmYxVW1kUjZLbUZFeW1OU1Vqb19lWk8waWFRNlg1ZjNqWHotaFpVVkhQM2FqdnBEN0RtbnNSXzFXTnVjRXFqaWxIaGpIZVNVQWU0Nzg4R01wMjB0aFo3MUd0ZTFTdFdNWV9zNmM3Q0pfMWliYU9sQTdJTHZwZ3g2N1phXzB6eVdaVFNmakR3LXNpUEFmTmUtSERVak9zRTBkZw?oc=5
-
-**4. Backing 16 green AI projects in Asia-Pacific - blog.google**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU1JYndiSTFQODZsQXhYdWJEZnA2WGtGNTFiWUFJZlNoRV9EeWhsNGw4akQ1MTA2dmttVVdvaW01Skt5Wk5tVDlscGFfc1dOV3V2S1EtWDNOVWZYTEVFYXVCcTRfbWtNekxCM1o3NF9wdGE3ZGExQWVVc2NGdy1MZjUxaU01Y2R3emliT2h6QzE4SVJGZW9hR1hndmFSLTBDcERN?oc=5
-
-**5. AI data centers are transforming rural land markets — and fueling a backlash - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5
 
