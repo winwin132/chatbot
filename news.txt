@@ -1,22 +1,22 @@
-🧠 **AI News (08/09/2026)**
+🧠 **AI News (09/09/2026)**
 
-**1. Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times**
+**1. On the Navier–Stokes Millennium Prize Problem - openai.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5
 
-**2. AI cancer cures slowed by chip shortage, says UK's biggest tech boss - BBC**
+**2. Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5
 
-**3. OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC**
+**3. Three pieces of advice HSBC has for AI investors - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5
+https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlJYQUxrQThjTmpQYXhqUjZKNlBiT3R3aDRZU1pGX3VRMC03X05peGg5bUlKYVJyNlhLMGhlWXZsZlU1V28zYmo5QjFaZWlFRF91T0QtZlpZek9yRGxROWczT0p4NkswUDZ1WTF2QUlKeWRUWHd5aFNVYTVjQ01FYkgtdEZ2OHhZbUxsUUdR?oc=5
 
-**4. OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI - Bloomberg.com**
+**4. US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5
 
-**5. An Alien Mind - OpenAI**
+**5. US Says Alibaba, DeepSeek Have ‘Systematically’ Siphoned AI Models - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk92eWg4ODl3QnlnbmROdWEwaTllZm5TTFlPZXRKSnFjUUxjcnAwUGxDd2poTDh0V2N1S2xaLTI4Y3h0V09YOXd5MmszMkdUWUE4V2pOcEp3SjJuVUUxZjhNeXBNbW14dl9fRGRIWTJfZkN2bFNGc0V2Zk40SEtiZzFvaFdETm5jN3d2eE1tVHgxbDktV3Bfa3FfQnpGV2tsYTRNSFFKWjFGaTNQaVZ1VGE5MWc?oc=5
 
