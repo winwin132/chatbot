@@ -1,22 +1,22 @@
-🧠 **AI News (09/09/2026)**
+🧠 **AI News (10/09/2026)**
 
-**1. On the Navier–Stokes Millennium Prize Problem - openai.com**
+**1. Anthropic insiders warn AI could kill all humans - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3NGZXN5Vkw0MC1ZM0RPX0Uybzl3SmREbEtvVmpoT0g2SWhHbjVMMjhGSWxSSWpJbFBXQTdhOVFjM1N2RnFWZFJqYUxiOWtMTTFWSkV1bUUzMThmZnF6RUVWYnA1aW5SQXk4dUNtN1YxbmNpZGFnTFBTX1Bib3RRQmRTaHh3X18z?oc=5
 
-**2. Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ**
+**2. First AI-driven, teacher-free school in Chicago opens with $55,000 annual tuition - NBC 5 Chicago**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnhEVzZQUDNLOUJ6aFY3MU9IeXlMYVg4QldLVTFBdGYxQXlwSThfN0dGdjdGaVYwOUpwd2EtVlJBR0VCX3ZXUzdkZDFYNzhZUWxmMEdwN0VfUkd5dTJMdVlESml3azJ2aDBjZmQ4OXhXSWJmNVJHTGZBRFpNbk1sLU1SVUlQdmlpNVEwTkxSbzVVQ0pGYlktTjZlYWhfeHRkVWdra3dfVDBESnFiazdTNmNNYlhNQ0h1VHI3VnNnR2NBUWPSAcsBQVVfeXFMUEJqNktMRlhFVkdPZ0tIU1hnSDNUX05WcF9VNXdUWUdnSGw4NjZzTHpEREdieS1PbTVpSWpIZzE5TFlZclBFMGEtendCdFRWbXVJeDd0WFYyLXBKOXN1LXRNVnIxUkpuWkpKcVM3MjluN19XVWI0UXVfbEtQczJ2bmtjMDk3NzdMeF9fZG9UVHgwWktWTDV4eVoxbzdQRjJzanRNS0FQaDdYSWctNm16bzNfbXpHWnRKTWg3WHFfYlRFR2xUUm5tTlg3dEk?oc=5
 
-**3. Three pieces of advice HSBC has for AI investors - CNBC**
+**3. Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day - theverge.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlJYQUxrQThjTmpQYXhqUjZKNlBiT3R3aDRZU1pGX3VRMC03X05peGg5bUlKYVJyNlhLMGhlWXZsZlU1V28zYmo5QjFaZWlFRF91T0QtZlpZek9yRGxROWczT0p4NkswUDZ1WTF2QUlKeWRUWHd5aFNVYTVjQ01FYkgtdEZ2OHhZbUxsUUdR?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5
 
-**4. US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters**
+**4. Apple has a new way to prove your iPhone photos aren’t AI slop - techcrunch.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjlFUHBsZzZZUXYzdzY0TVpRXzlzRUlTaWZtM3NYM3daSnNad1NONXl4dl95aVFsdXJybms1eFhGT19VYzNQVTN1UWhIb3cyTjVjZFVGUDB5c1Y3NDJIbkVEalNwWUlGeG1oanRIb0QydlVvR04wMTJGR2lqWEV3STZkbDVmY2RtbkVRU29LQUcwRTB1dm1XTA?oc=5
 
-**5. US Says Alibaba, DeepSeek Have ‘Systematically’ Siphoned AI Models - Bloomberg.com**
+**5. Apple’s Ternus era begins with premium hardware and AI push - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk92eWg4ODl3QnlnbmROdWEwaTllZm5TTFlPZXRKSnFjUUxjcnAwUGxDd2poTDh0V2N1S2xaLTI4Y3h0V09YOXd5MmszMkdUWUE4V2pOcEp3SjJuVUUxZjhNeXBNbW14dl9fRGRIWTJfZkN2bFNGc0V2Zk40SEtiZzFvaFdETm5jN3d2eE1tVHgxbDktV3Bfa3FfQnpGV2tsYTRNSFFKWjFGaTNQaVZ1VGE5MWc?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOMExBT3E1bk1EeEZvUU1DS01aLWVSbmhtTVNta2k1b25xZlR2MnZQRm5hUDFHQll1NmVZek1HcktKbmZROTlvVlhUVEdVc3RjOGJHaWRyRFpUa3Y2Z2daWmUwWnB0cVZlOWhPUDh2N0FfUEVEcnB6VmtLbFFLeV9sbEpqRC0wbGlzZi1tNHZYZ0VsLW1LUm1Ic00wNjhudWFWVjNZ?oc=5
 
