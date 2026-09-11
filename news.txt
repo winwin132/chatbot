@@ -1,22 +1,22 @@
-🧠 **AI News (10/09/2026)**
+🧠 **AI News (11/09/2026)**
 
-**1. Anthropic insiders warn AI could kill all humans - Axios**
+**1. Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3NGZXN5Vkw0MC1ZM0RPX0Uybzl3SmREbEtvVmpoT0g2SWhHbjVMMjhGSWxSSWpJbFBXQTdhOVFjM1N2RnFWZFJqYUxiOWtMTTFWSkV1bUUzMThmZnF6RUVWYnA1aW5SQXk4dUNtN1YxbmNpZGFnTFBTX1Bib3RRQmRTaHh3X18z?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5
 
-**2. First AI-driven, teacher-free school in Chicago opens with $55,000 annual tuition - NBC 5 Chicago**
+**2. Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnhEVzZQUDNLOUJ6aFY3MU9IeXlMYVg4QldLVTFBdGYxQXlwSThfN0dGdjdGaVYwOUpwd2EtVlJBR0VCX3ZXUzdkZDFYNzhZUWxmMEdwN0VfUkd5dTJMdVlESml3azJ2aDBjZmQ4OXhXSWJmNVJHTGZBRFpNbk1sLU1SVUlQdmlpNVEwTkxSbzVVQ0pGYlktTjZlYWhfeHRkVWdra3dfVDBESnFiazdTNmNNYlhNQ0h1VHI3VnNnR2NBUWPSAcsBQVVfeXFMUEJqNktMRlhFVkdPZ0tIU1hnSDNUX05WcF9VNXdUWUdnSGw4NjZzTHpEREdieS1PbTVpSWpIZzE5TFlZclBFMGEtendCdFRWbXVJeDd0WFYyLXBKOXN1LXRNVnIxUkpuWkpKcVM3MjluN19XVWI0UXVfbEtQczJ2bmtjMDk3NzdMeF9fZG9UVHgwWktWTDV4eVoxbzdQRjJzanRNS0FQaDdYSWctNm16bzNfbXpHWnRKTWg3WHFfYlRFR2xUUm5tTlg3dEk?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3NRZnFyUlUzaHZKaEZCV19MVjJ6U0tHRnh3eXc1NzBTRWk0U3VYOEZrSlJLaWdxdWRaaFh1MXVpbjRzb3lKNzBtY0NrQ3ZabmxKNXdWVHJaeW5Pb1ZHemIyTmtwQ2RxMTBWRXVfUjBxZjhoRzNWSjFtWDlPYUpTNFZRVlBEZF9YOWdXdEdzMETSAZYBQVVfeXFMT2gyeDQ0M2xEdTM5MFh5MHdoYUd6elJxSUxVYTdQaGtpdkgxelRnRUpCYTczQzN3dDRHc0kzaHBDdnNJTGdCOXk4eXlhOWdBbHgzVjFfRF9Nc19pblI3MnZmOVBqUmRIMlNET3R1SGUwaUl2Y3hnVi1RdmcxLU1GbUNzdDdJeF9fdXZVcnBkTkJpazB0XzlB?oc=5
 
-**3. Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day - theverge.com**
+**3. SF mayor proposes emergency housing plan as AI boom drives rent spike - KRON4**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUdHYUNTdldxNU91cllrNzZWbFBYNkdVSHlOQWFjSzhwdWVXb3VLeU5sMlJ3blAxYkpGZDh4LUdtNWtWR0F1S2NKaWhOYjdYcWU0UWxWUWE4NVZqd2RWNmlPZExVZ3QtSWdiTXZPdUJBNklRYTZVNTlFQXItd09yOTFxaVdBQTlpUFNETEJvS1J1NXlqOWxPYW55eVI2bGNaZUltWmNsNHhpUdIBrwFBVV95cUxPUFc1NlgxV0NZVmtpbDhqbWk0cFh3QkM5SXB5d0FabzItckhFYkJYNnQ3ZDZmUnduY1FRSEFTeHZxYlMzbC1DOXFIVm9pX0RBV3lWNl9tbjdFWmNNTzR1cGNWTXFpZkVQMll0Nko5ejJnN1R2YzdFYV8xMnJhU2pLQlRYWGtHSE1EdVdZRm00ZDJNZ2ZQZDBiajNoenpwY19ObUtoMlJEdXZDZThueGFv?oc=5
 
-**4. Apple has a new way to prove your iPhone photos aren’t AI slop - techcrunch.com**
+**4. The Gemini app is now available for Windows - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjlFUHBsZzZZUXYzdzY0TVpRXzlzRUlTaWZtM3NYM3daSnNad1NONXl4dl95aVFsdXJybms1eFhGT19VYzNQVTN1UWhIb3cyTjVjZFVGUDB5c1Y3NDJIbkVEalNwWUlGeG1oanRIb0QydlVvR04wMTJGR2lqWEV3STZkbDVmY2RtbkVRU29LQUcwRTB1dm1XTA?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5
 
-**5. Apple’s Ternus era begins with premium hardware and AI push - CNBC**
+**5. Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxOMExBT3E1bk1EeEZvUU1DS01aLWVSbmhtTVNta2k1b25xZlR2MnZQRm5hUDFHQll1NmVZek1HcktKbmZROTlvVlhUVEdVc3RjOGJHaWRyRFpUa3Y2Z2daWmUwWnB0cVZlOWhPUDh2N0FfUEVEcnB6VmtLbFFLeV9sbEpqRC0wbGlzZi1tNHZYZ0VsLW1LUm1Ic00wNjhudWFWVjNZ?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5
 
