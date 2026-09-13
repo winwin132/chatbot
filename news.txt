@@ -1,22 +1,22 @@
-🧠 **AI News (12/09/2026)**
+🧠 **AI News (13/09/2026)**
 
-**1. A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? - The New York Times**
+**1. We Must Pace the Frontier - darioamodei.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5
 
-**2. Why the AI race has its creators fearing human extinction - Financial Times**
+**2. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5
 
-**3. America’s Great AI Freakout Has Begun - wsj.com**
+**3. Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5
 
-**4. Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - wsj.com**
+**4. Kyrsten Sinema: Trump has been 'tremendous' on AI data centers - foxnews.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5
+https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uc2FLSDJNeV9Ub043dEVaLU5sUGxMbmFVWS1MdEFTdG42dWdEX3AxU25Zd1NTMGk4dG1MR1MxcDd0S3ZQYUtMakZiNFlhTnZRaGlmYVF3?oc=5
 
-**5. Detecting and countering misuse of AI: September 2026 - Anthropic**
+**5. Here’s why Trump is brushing off AI doomsaying | Analysis - The Seattle Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjZvcV9aa1hsVG1pejNhTnNCNGNVcGF1TDRzbF8zbUxmdUM3X0d5U2JnS2NOeU40V2pJcndtdGU5djVrLXhTQURjUERKcEEyUnB4bjVHQU96V0UzdlpHS3RXdktveEV0a2lUOWNNSHJsczhYWVV2QWx1ekVNbW15bFZhazdzdFI3c0hHbWtELWZ6WWRMNDBYcTBXSUdTd1lreUtKM3RvNk9rcUJXbEJTNmJR?oc=5
 
