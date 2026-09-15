@@ -1,22 +1,22 @@
-🧠 **AI News (14/09/2026)**
+🧠 **AI News (15/09/2026)**
 
-**1. What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown - The New York Times**
+**1. Trump dismisses AI alarms as a ‘HOAX’ — worrying White House officials - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNlFrWURuMElVQTVJYktYVWdWaHVueXVzV004SnRnQkx5SFFZM1JfSnJnTVBmaVZCSU5vanFnVFdFdGpQbk1YaHRjeVZJbDFTclFESy1JbldlRFhnSERteXdIc0E1Y0xmOGpnR3RR?oc=5
 
-**2. Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC**
+**2. Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVlMNmltZWw5djlZQTVhUnRmNlVTMDYyaFMydVBSRm5HQ2oxQnB6ZUM5aFVXSy0tMnNxNy1WUzMwaHZ5UEZVcnVzclV5YnBQRWlwajlGUGxueVlWb1pWSmpyNTZKQW5pSWUtQXhyY0tCV080c3F0SDg2UnBNa2lFZWNJdw?oc=5
 
-**3. US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap - Bloomberg.com**
+**3. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2lGQUtDelJmdFZJeERjWWxaVXVFeEcwUUxtQjJ1bG40VVJZZmZyR1dzMDRvVkg4aG4zWFZaOWRtTlVRTW9lY05sZ3JzNGFSbTZwc25DNG9ONlZTUEJGSlkwTDZLSlJ1MmVtMm01SGZhdmxTRTBHWnowWmlrMFhDUmF4WWtHRnRqX1FUTE9Sbk1PMFJEU29fWFZhQTRpS3ZGcGljYWJneXgzb3EtYVE?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5
 
-**4. Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead - Investor's Business Daily**
+**4. We Must Pace the Frontier - darioamodei.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5
 
-**5. Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC**
+**5. Sen. Kennedy readies AI ‘kill switch’ bill - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXlXWTBIcEh2VWJSQXRvUVZremRtVllHNTBjUXY5UDRwdnRWbmpfamFKZXhvaS16X0xWeHBjWTZ5THpuMzI0VC1QNU1BaUtpT2hCWVZLRTk5SFVWN1FmTGRrUklybGo0VTRwWXIwa3RwekFpNG9qTGdGX3Y5OUdmX2RTQXdYY2tUTm9rOTIyRkR3MlJFR3VlQjdXbjhpUzNac21OSA?oc=5
 
