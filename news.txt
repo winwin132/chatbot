@@ -1,22 +1,22 @@
-🧠 **AI News (15/09/2026)**
+🧠 **AI News (16/09/2026)**
 
-**1. Trump dismisses AI alarms as a ‘HOAX’ — worrying White House officials - CNN**
+**1. Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax' - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNlFrWURuMElVQTVJYktYVWdWaHVueXVzV004SnRnQkx5SFFZM1JfSnJnTVBmaVZCSU5vanFnVFdFdGpQbk1YaHRjeVZJbDFTclFESy1JbldlRFhnSERteXdIc0E1Y0xmOGpnR3RR?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3F0eDVLem83MjQ1eV9idTdoQm5rM0xsS2pBOEdVdDB2QXlYNVdDSHJuRVE0aVNHMEdwYTdXNzZJVVFWSEI5NThfbmZTY1lnbzRHSUZiUWM5cWVIRnRWREN3akhwcVpMekJWNVNYUTV4ekY3SGt4Sm5VbTBtWjgxTklEd25USi1OenAzNXlISkV6STU1ZGRfd3VPazMyN19Qa2xBNDRsNG1OY3BU?oc=5
 
-**2. Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown - The New York Times**
+**2. Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVlMNmltZWw5djlZQTVhUnRmNlVTMDYyaFMydVBSRm5HQ2oxQnB6ZUM5aFVXSy0tMnNxNy1WUzMwaHZ5UEZVcnVzclV5YnBQRWlwajlGUGxueVlWb1pWSmpyNTZKQW5pSWUtQXhyY0tCV080c3F0SDg2UnBNa2lFZWNJdw?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5
 
-**3. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC - BBC**
+**3. CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - cnbc.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5
+https://news.google.com/rss/articles/CBMioAFBVV95cUxPMi1zOUFOZ25mWl9LUEJ2cXQ2SmdkRVduYVhncVp6NzFuQmVlQzV0cjBlZ3BuRWEtVkVqSTFERFdiYUxYejBoX01jcDJzWFE5QlFYdXI0Y2x3c1JKYUtHVUhEb1M3SjhJQ1lqeVlybEJ1QjdtWnRKSjYtdm5SSjMzc2pST2hQcS1qWEstT2kyUWtSaEhhRHlzYV9OU1d4bVFm0gGmAUFVX3lxTE1vTXQ3QTBPaVNReEFicXFpSDVxVG90N0F6RkpDbEdRYl8tMXpXLXpWdGxGcmlra0xnS1ZZV1hCRS1pVXVmdks5YUNkdUpmNk90VUUwclJ3Ukd2Y1JhYmV0ZTJ1RUt6SjM0QzJXNUJOcDFxaDhyY0VFQkJRT0E5UFRoalJRc3l0WWtwaEdBbHpxd2hQQXI2ZXpxajBRQXNHUXVNTFlCdlE?oc=5
 
-**4. We Must Pace the Frontier - darioamodei.com**
+**4. Live updates: Bernie Sanders and Steve Bannon join AI skeptics at ‘Pro-Human’ conference as Washington debates next steps - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbXJCQVVXb1VNTkl3Mm1aZ1pnNXJidkFnVTRtRlV4SXhrSl9tcnBDSnk4UzJvOVNLam9Hc1Vhc0xNNTByWkp3eW82cUQxQ19taVhVYW1aakV6NVFjV2ZWRnRPSzN6V2hfelVKX25OV21VemM0Tk5TbHRUTFZkMXNvMTRGQ1FTWlZna253TzVYN1ZyUTBMU2FwR21nOS14Ml9rY0tyMHgxbERrUFFhOFlTNDlOYUo3MnNpTVhyLXhobHlMd2VMc1lGYTd0aHBEeEoyeWJV?oc=5
 
-**5. Sen. Kennedy readies AI ‘kill switch’ bill - Politico**
+**5. Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXlXWTBIcEh2VWJSQXRvUVZremRtVllHNTBjUXY5UDRwdnRWbmpfamFKZXhvaS16X0xWeHBjWTZ5THpuMzI0VC1QNU1BaUtpT2hCWVZLRTk5SFVWN1FmTGRrUklybGo0VTRwWXIwa3RwekFpNG9qTGdGX3Y5OUdmX2RTQXdYY2tUTm9rOTIyRkR3MlJFR3VlQjdXbjhpUzNac21OSA?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5
 
