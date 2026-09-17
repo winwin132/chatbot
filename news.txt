@@ -1,22 +1,22 @@
-🧠 **AI News (16/09/2026)**
+🧠 **AI News (17/09/2026)**
 
-**1. Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax' - Fox News**
+**1. Our framework for reporting model misalignment - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3F0eDVLem83MjQ1eV9idTdoQm5rM0xsS2pBOEdVdDB2QXlYNVdDSHJuRVE0aVNHMEdwYTdXNzZJVVFWSEI5NThfbmZTY1lnbzRHSUZiUWM5cWVIRnRWREN3akhwcVpMekJWNVNYUTV4ekY3SGt4Sm5VbTBtWjgxTklEd25USi1OenAzNXlISkV6STU1ZGRfd3VPazMyN19Qa2xBNDRsNG1OY3BU?oc=5
+https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5
 
-**2. Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times**
+**2. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5
 
-**3. CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - cnbc.com**
+**3. OpenAI reveals new cases of AI models cheating, going off script - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMioAFBVV95cUxPMi1zOUFOZ25mWl9LUEJ2cXQ2SmdkRVduYVhncVp6NzFuQmVlQzV0cjBlZ3BuRWEtVkVqSTFERFdiYUxYejBoX01jcDJzWFE5QlFYdXI0Y2x3c1JKYUtHVUhEb1M3SjhJQ1lqeVlybEJ1QjdtWnRKSjYtdm5SSjMzc2pST2hQcS1qWEstT2kyUWtSaEhhRHlzYV9OU1d4bVFm0gGmAUFVX3lxTE1vTXQ3QTBPaVNReEFicXFpSDVxVG90N0F6RkpDbEdRYl8tMXpXLXpWdGxGcmlra0xnS1ZZV1hCRS1pVXVmdks5YUNkdUpmNk90VUUwclJ3Ukd2Y1JhYmV0ZTJ1RUt6SjM0QzJXNUJOcDFxaDhyY0VFQkJRT0E5UFRoalJRc3l0WWtwaEdBbHpxd2hQQXI2ZXpxajBRQXNHUXVNTFlCdlE?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxONGVhZkdqTHVrUVNzR0xMQjBsM3FsYUlfcjZTQ1FBMm9yVkkyLTFpVHF2QVpuZTF0TktDTTlEb3VCa2Rac2xBVHdYLU1kUTFYckl6Y0RKRm1hbHlaREI5NjU2ck1xN0g4aHhLQWdtYzRtMXpueDgwTWt4R3Uyd0h6dWZULVNYY25rRWpJS293LVJ5QndpTEJ3YU41RFRmckI0VF9nLWlBRnIwRGlfZ2ZuRWhmRjE?oc=5
 
-**4. Live updates: Bernie Sanders and Steve Bannon join AI skeptics at ‘Pro-Human’ conference as Washington debates next steps - NBC News**
+**4. Reimagining research papers as interactive and reliable AI agents - Nature**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbXJCQVVXb1VNTkl3Mm1aZ1pnNXJidkFnVTRtRlV4SXhrSl9tcnBDSnk4UzJvOVNLam9Hc1Vhc0xNNTByWkp3eW82cUQxQ19taVhVYW1aakV6NVFjV2ZWRnRPSzN6V2hfelVKX25OV21VemM0Tk5TbHRUTFZkMXNvMTRGQ1FTWlZna253TzVYN1ZyUTBMU2FwR21nOS14Ml9rY0tyMHgxbERrUFFhOFlTNDlOYUo3MnNpTVhyLXhobHlMd2VMc1lGYTd0aHBEeEoyeWJV?oc=5
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE14OXhicHZBTDBkdVFiUDJ4OU1KMC1zWF9EMzRjTlZsRVp6NVVaR3cxdVhoY1AtRkJyZHpKOThZNUtXcDBjclY3enU0a1ludWtONzRUb2poNlZYeDlMNVFn?oc=5
 
-**5. Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms - The New York Times**
+**5. China's Huawei to launch two new AI chips in 2027 - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5
 
