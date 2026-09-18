@@ -1,22 +1,22 @@
-🧠 **AI News (17/09/2026)**
+🧠 **AI News (18/09/2026)**
 
-**1. Our framework for reporting model misalignment - OpenAI**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5
-
-**2. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times**
+**1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5
 
-**3. OpenAI reveals new cases of AI models cheating, going off script - The Washington Post**
+**2. OpenAI says it found more instances of AI models acting deceptively - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxONGVhZkdqTHVrUVNzR0xMQjBsM3FsYUlfcjZTQ1FBMm9yVkkyLTFpVHF2QVpuZTF0TktDTTlEb3VCa2Rac2xBVHdYLU1kUTFYckl6Y0RKRm1hbHlaREI5NjU2ck1xN0g4aHhLQWdtYzRtMXpueDgwTWt4R3Uyd0h6dWZULVNYY25rRWpJS293LVJ5QndpTEJ3YU41RFRmckI0VF9nLWlBRnIwRGlfZ2ZuRWhmRjE?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5
 
-**4. Reimagining research papers as interactive and reliable AI agents - Nature**
+**3. As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead - PBS**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE14OXhicHZBTDBkdVFiUDJ4OU1KMC1zWF9EMzRjTlZsRVp6NVVaR3cxdVhoY1AtRkJyZHpKOThZNUtXcDBjclY3enU0a1ludWtONzRUb2poNlZYeDlMNVFn?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlNWZUFoNXpBc3l6V29ETkVPeVJfWml6TWUya1YxQk1Wa3Q2a0hXaGFRTVJvbGZuOU5TOHdZVkVEQlhyTmJzcFdSeHowUktJTUtrNWlmSjVHVVFiZkVuZlNQdFdyeVVGVnY1MGIwS2I5WF85V2xVOVNULThJNGxaWnZPOFFTbjRpMG5iTmcxNlJZOVlWa0ZwM3hTQzBWcEphUlZ5cVZObWJnNFF6UTMtLVprRUNVdw?oc=5
 
-**5. China's Huawei to launch two new AI chips in 2027 - Reuters**
+**4. Will AI really kill everyone? How, exactly? - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTFBaMGFOYXpEU2g2ZUE1dVdEQmQ2Ym1CMUhBa25Lb01EZ0ROY1RLVEx4NWhWc3QtbGpCQUsxaW9xVVVMOHNkSk9jdVczY3NuUi1WTjNDb0xEUGRyX19hSklrWTlzT2NROGpEdkE0Qk9kOXp0VkFkSGVfb0ZtME4?oc=5
+
+**5. Trump administration live updates: Americans give AI in schools a poor grade - NBC News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTl4TXNTeTBBZFU3TVVVUUlOdUU4XzN0aGhpTU00aEtjWS1FbVU0T2RyOHhQb2h6SFlISHZyWFZ4RXUzS1ZUVkJnaEpvWW9xbHpkSFBrenpRSy12TE1uUjMwaXpZNFY0Y0IzS2dYVW4tZHlucm56TnhqdGtVRVl3Rm5QQWpEa0J2cTFsZTNXYnFkLUFrcWJJTXFKbXEweGdWZ0laMlYwMGhBQ3NKVWc3Q21jV3ZMMGNGQmpXb3pGVHFGeGlZSmtoMHNZcXM?oc=5
 
