@@ -1,22 +1,22 @@
-🧠 **AI News (18/09/2026)**
+🧠 **AI News (19/09/2026)**
 
-**1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times**
+**1. Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5
 
-**2. OpenAI says it found more instances of AI models acting deceptively - CNN**
+**2. AI hallucination of Chinese nuclear components almost led to US military attack - Ars Technica**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2xvcFBzUkVBYmdJYjU5eW1PSC1ZOGxGSVVPb1VGOG53Zi1rRnhfb25xVGtRdFp1THpmeGR2T1RQbUFJOUFGcjNjYmZwZW1aV1RJb2NPNFd5MWhRX0hKMjg4LTVqYmUwaWxUN3JFUjRVaDJkRTN6bnh3eTdLNnRYWmNZNFJwMExLQXY5Mm94Ry1rT1paWFBXV2RsVldSa01ZWXJJTU4zaHc4Zw?oc=5
 
-**3. As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead - PBS**
+**3. Pentagon rethinks military presence in Europe and ‘Godfather of AI’ calls for regulation: Morning Rundown - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlNWZUFoNXpBc3l6V29ETkVPeVJfWml6TWUya1YxQk1Wa3Q2a0hXaGFRTVJvbGZuOU5TOHdZVkVEQlhyTmJzcFdSeHowUktJTUtrNWlmSjVHVVFiZkVuZlNQdFdyeVVGVnY1MGIwS2I5WF85V2xVOVNULThJNGxaWnZPOFFTbjRpMG5iTmcxNlJZOVlWa0ZwM3hTQzBWcEphUlZ5cVZObWJnNFF6UTMtLVprRUNVdw?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGRYUnU4OHNMdjR6UW5ObDV0NDVUM2dsWnFwTlJFaE44RW9OaHhGRDFnR05BN3dBZWtSX2d6bEVKZ0JxTmRxanpiOFZCRUF2dnZUTlZIYm0zR05Xc2g2RjBRWTZNMHh4bUlBSlViYVlOU05iaGRJZFFPSnNLRFhMZU1fTWVkampfVFBkR3d1enpNNXlZV2xvX19KTUpZN3lTeG90YkdzVG5XZmNuYmlFYUR3?oc=5
 
-**4. Will AI really kill everyone? How, exactly? - CNN**
+**4. Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTFBaMGFOYXpEU2g2ZUE1dVdEQmQ2Ym1CMUhBa25Lb01EZ0ROY1RLVEx4NWhWc3QtbGpCQUsxaW9xVVVMOHNkSk9jdVczY3NuUi1WTjNDb0xEUGRyX19hSklrWTlzT2NROGpEdkE0Qk9kOXp0VkFkSGVfb0ZtME4?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5
 
-**5. Trump administration live updates: Americans give AI in schools a poor grade - NBC News**
+**5. Google's Gemini becomes latest AI model to break out and hack computer systems - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTl4TXNTeTBBZFU3TVVVUUlOdUU4XzN0aGhpTU00aEtjWS1FbVU0T2RyOHhQb2h6SFlISHZyWFZ4RXUzS1ZUVkJnaEpvWW9xbHpkSFBrenpRSy12TE1uUjMwaXpZNFY0Y0IzS2dYVW4tZHlucm56TnhqdGtVRVl3Rm5QQWpEa0J2cTFsZTNXYnFkLUFrcWJJTXFKbXEweGdWZ0laMlYwMGhBQ3NKVWc3Q21jV3ZMMGNGQmpXb3pGVHFGeGlZSmtoMHNZcXM?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5KMl90SzkycnBlRWtLSVAyYmtzTWxiNDdnUlpvbWx2MGI4TVBaRFFIRDB2X0Nnc3FTOUdUMDRHY2o3aG5EV3dILW1oS0lDYS05dXphNjN0RGxQQXg3QVJfTVdtLW9wV2lqUkVlT3NrZVBZanp6bHRwSkZpT1NsWnZtNEs4MFBKTlA1OE1HUU12NnlfdUtyd3k1RXlJSjRlVmVZb2xXblJCVm1NWVl0ZUdoa23SAboBQVVfeXFMTnp4LUJSVnR6TWs0eG54TU1ZMDNtYVl4OE9MbFVyaTJyVlNUdFpjNWdLN1FZWDVzUGU3Qm1KQ0xpZ0pfeXE1N1FSdFU1UVNTa2QxWnE3dmxLVUg3dE5wUTN3WG5wQ3NsMk1vdzhkT21pWnEzQmEwZDd3dmR1YXgtRzU1bV83TFBLeVBTYTNza0pVQlNlWmRqbTctaDhUZ1ZpR2VFb1dEWXE5THlRbldGLW5kWFJCekV4UGxR?oc=5
 
