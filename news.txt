@@ -1,22 +1,22 @@
-🧠 **AI News (19/09/2026)**
+🧠 **AI News (20/09/2026)**
 
-**1. Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN**
+**1. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5
+
+**2. Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5
 
-**2. AI hallucination of Chinese nuclear components almost led to US military attack - Ars Technica**
+**3. Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending - finance.yahoo.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2xvcFBzUkVBYmdJYjU5eW1PSC1ZOGxGSVVPb1VGOG53Zi1rRnhfb25xVGtRdFp1THpmeGR2T1RQbUFJOUFGcjNjYmZwZW1aV1RJb2NPNFd5MWhRX0hKMjg4LTVqYmUwaWxUN3JFUjRVaDJkRTN6bnh3eTdLNnRYWmNZNFJwMExLQXY5Mm94Ry1rT1paWFBXV2RsVldSa01ZWXJJTU4zaHc4Zw?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXBENW0tZU0tRjF2cUQ3eWo5U2pGSnNFOXI5TDhneHN0LWFoRXdraUtUZUM0bEdQcHU2Rm1BdENJbVNwU0Q2aGRWRTZRZDZxRmhyMlpJblFPT1JrTDZPMVRoakpnRGw3WC1JTGMwLW9pZDVNYjhIbi03S1UtMFp5SmxLTFZxZmd4R2R1Tw?oc=5
 
-**3. Pentagon rethinks military presence in Europe and ‘Godfather of AI’ calls for regulation: Morning Rundown - NBC News**
+**4. How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGRYUnU4OHNMdjR6UW5ObDV0NDVUM2dsWnFwTlJFaE44RW9OaHhGRDFnR05BN3dBZWtSX2d6bEVKZ0JxTmRxanpiOFZCRUF2dnZUTlZIYm0zR05Xc2g2RjBRWTZNMHh4bUlBSlViYVlOU05iaGRJZFFPSnNLRFhMZU1fTWVkampfVFBkR3d1enpNNXlZV2xvX19KTUpZN3lTeG90YkdzVG5XZmNuYmlFYUR3?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5
 
-**4. Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ**
+**5. What might an AI doomsday look like? Experts have given it some thought - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5
-
-**5. Google's Gemini becomes latest AI model to break out and hack computer systems - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5KMl90SzkycnBlRWtLSVAyYmtzTWxiNDdnUlpvbWx2MGI4TVBaRFFIRDB2X0Nnc3FTOUdUMDRHY2o3aG5EV3dILW1oS0lDYS05dXphNjN0RGxQQXg3QVJfTVdtLW9wV2lqUkVlT3NrZVBZanp6bHRwSkZpT1NsWnZtNEs4MFBKTlA1OE1HUU12NnlfdUtyd3k1RXlJSjRlVmVZb2xXblJCVm1NWVl0ZUdoa23SAboBQVVfeXFMTnp4LUJSVnR6TWs0eG54TU1ZMDNtYVl4OE9MbFVyaTJyVlNUdFpjNWdLN1FZWDVzUGU3Qm1KQ0xpZ0pfeXE1N1FSdFU1UVNTa2QxWnE3dmxLVUg3dE5wUTN3WG5wQ3NsMk1vdzhkT21pWnEzQmEwZDd3dmR1YXgtRzU1bV83TFBLeVBTYTNza0pVQlNlWmRqbTctaDhUZ1ZpR2VFb1dEWXE5THlRbldGLW5kWFJCekV4UGxR?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnZ3Y0JPQ1U1OGs5NUY5UjBVc3kxWjNGVjFieElrZ1lTcTZyNFBzOVFITk9sX2RLTXdKSmwtUGFGQnRtQWE0cTgyaDMtdW1EMDlIVTRpWnRSY2Rwcm4wNnY2M2hhRHpkUU9LWG8tRGtQU0VhTFVkbU5vNjlLS3AzeERrTQ?oc=5
 
