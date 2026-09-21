@@ -1,22 +1,22 @@
-🧠 **AI News (20/09/2026)**
+🧠 **AI News (21/09/2026)**
 
-**1. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News**
+**1. China bogeyman looms large over American firms’ AI doomsday scenario - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUVZck1LUUJ3RzdzUXp6VWVNMHozc2czS28tejlGNEctdFhvM1JjbDFMQ1BpRm9tQlZUYW5wYzRyRjQxWWUybVFLOGY3Q1FpUHdvdVpzLU1YMnlYWVh0MWQ1aXpmcldFREMzWnFlcGlWTkxVN1BWZWltc3lfdUFmTThpS1M4NWFRRzA2RWdpazlibzZsNHpxc1BBYUFWT0dqSEpGNw?oc=5
 
-**2. Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN**
+**2. In China, A.I. Is Moving Forward While the Economy Lags Behind - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5
+https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5
 
-**3. Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending - finance.yahoo.com**
+**3. Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXBENW0tZU0tRjF2cUQ3eWo5U2pGSnNFOXI5TDhneHN0LWFoRXdraUtUZUM0bEdQcHU2Rm1BdENJbVNwU0Q2aGRWRTZRZDZxRmhyMlpJblFPT1JrTDZPMVRoakpnRGw3WC1JTGMwLW9pZDVNYjhIbi03S1UtMFp5SmxLTFZxZmd4R2R1Tw?oc=5
+https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5
 
-**4. How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose - The New York Times**
+**4. Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5
 
-**5. What might an AI doomsday look like? Experts have given it some thought - NBC News**
+**5. Bessent: US proposes AI incident alert system in talks with China - 10TV**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnZ3Y0JPQ1U1OGs5NUY5UjBVc3kxWjNGVjFieElrZ1lTcTZyNFBzOVFITk9sX2RLTXdKSmwtUGFGQnRtQWE0cTgyaDMtdW1EMDlIVTRpWnRSY2Rwcm4wNnY2M2hhRHpkUU9LWG8tRGtQU0VhTFVkbU5vNjlLS3AzeERrTQ?oc=5
+https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYXgtUEdEdjZGMXBxZnRoRkpONUo1M0k3eW5lR3F3MmtWZkp6Mi0ydEoxakJRTE5HZDdFRzRISlNTT3hwZjNIWGlPczJfRmNleER0dnEwSFVWbHpqRUpuc2N5SmhOb28wa2syMy0zMXduRzBvYWJjM2dQZG11WHpCRUVOSEFpU0I3TjhMUDBpcWJCcFRxNjVqbmg5VFJmeXpWSElmblJjaHBXTk9XSmxHUVlWS1Z6NFJzUVZqR1M5a3JWZWUyYUI0V25mTm81SmRYRjNvTXpMdWx3M3g3enhvU3ZDcXpwUEVWb3lvczVVMncxWVd6?oc=5
 
