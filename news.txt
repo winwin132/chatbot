@@ -1,22 +1,22 @@
-🧠 **AI News (21/09/2026)**
+🧠 **AI News (22/09/2026)**
 
-**1. China bogeyman looms large over American firms’ AI doomsday scenario - The Guardian**
+**1. Are A.I. Models Being Misled to Act Too Human? - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUVZck1LUUJ3RzdzUXp6VWVNMHozc2czS28tejlGNEctdFhvM1JjbDFMQ1BpRm9tQlZUYW5wYzRyRjQxWWUybVFLOGY3Q1FpUHdvdVpzLU1YMnlYWVh0MWQ1aXpmcldFREMzWnFlcGlWTkxVN1BWZWltc3lfdUFmTThpS1M4NWFRRzA2RWdpazlibzZsNHpxc1BBYUFWT0dqSEpGNw?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw?oc=5
 
-**2. In China, A.I. Is Moving Forward While the Economy Lags Behind - The New York Times**
+**2. OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5
 
-**3. Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ**
+**3. These Tiny Startups Are Getting Even Smaller With Help From AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTUd1NVRXenN6MEg1RWlLdUpHV0RUdGZSQkp0WWhpTGRmVWs3bWFaMVpFM2tDb2tIRnIycXZ2alJZZjNtNzM0Z3dZVW51T2JzWExaQ0xaUXZvbWhhVVloWTJjd2tsajhoSWFoVEVIVnk?oc=5
 
-**4. Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times**
+**4. Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - geekwire.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5
 
-**5. Bessent: US proposes AI incident alert system in talks with China - 10TV**
+**5. Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYXgtUEdEdjZGMXBxZnRoRkpONUo1M0k3eW5lR3F3MmtWZkp6Mi0ydEoxakJRTE5HZDdFRzRISlNTT3hwZjNIWGlPczJfRmNleER0dnEwSFVWbHpqRUpuc2N5SmhOb28wa2syMy0zMXduRzBvYWJjM2dQZG11WHpCRUVOSEFpU0I3TjhMUDBpcWJCcFRxNjVqbmg5VFJmeXpWSElmblJjaHBXTk9XSmxHUVlWS1Z6NFJzUVZqR1M5a3JWZWUyYUI0V25mTm81SmRYRjNvTXpMdWx3M3g3enhvU3ZDcXpwUEVWb3lvczVVMncxWVd6?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5
 
