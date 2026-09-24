@@ -1,22 +1,22 @@
-🧠 **AI News (23/09/2026)**
+🧠 **AI News (24/09/2026)**
 
-**1. I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times**
+**1. Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUdBSkFIY3dyaDB0SkVqVFZaZ055V0dOc3V5Uy0wZkRBT1BxZG85R1hDRmxHUjJuUXY0TTl3cE0taXNCaDlNbUJfOGxDS3hGWE5FQ0RnMjNGQ21Ha3RSWEJKQ3AyMlFvcFNFeTVMcmxCQ2dpZ09ycVh1YUZKdl9HanZFU05jZw?oc=5
 
-**2. EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse - Reuters**
+**2. OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it - cnbc.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5
 
-**3. Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ**
+**3. Anthropic CEO says AI could cure most major diseases within next decade - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0twcDJSMXo1OEVlVUVMMkpTWFhEemcyQ2I0NUU2LVdOU0c3TlpWbmZIcFJjRGg3Qk9IeGNlXy10RDYzRXAwWTQwa0hrd1pMRTZuV0pFdUliVWVRZUVINlk4MlpSRjZ4VVpFSTNYSk9PcVprZmhfU1RZVGVsWm5RTEdhaUlKMGxQNERGOEp2dndPc0hkYXc0MUxJT2IzRk9SRWVXV1Fyd2FnZkVOQkNj0gG0AUFVX3lxTFAtd0tkZUEzdjBKVG1Obm5CRnZpUFJ4Qy1rN0V2VDJYNEJUM0tFenNfLVhyWkJaOEU2OXdYS1J2YnpMTkdvVGI4c2ZyUDlRbmViVTFGUmpCM3lhLU1uSFEyZ0tQOU9XYWpLQXFxNnBKWThwMTlGQXRIdkhPaXhXa0pfRmVwdGRBNHlJbHhnVVlUOFJDMHlzV1lqeURMWktOYW8tZ2tOM0g0M1VHd21IbGNCMXBfeQ?oc=5
 
-**4. Trump says AI will be renamed ‘super intelligence’ in all US documents - The Hill**
+**4. Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - cnbc.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHFSRVlHOGRzQlVzcWRvcHlCU2pyMGhSXzlPLUxvNnFqaldRVnpIYWJWMHpvRHY5OUR3UmV1eGtCS29LbHlHUFFDaHc5YjVhN1owS0RfT2Y1X0FSVVJsZ09WZUNNOUV4MGtZLTRMeS01bVJ2MHdaaE5VMEI3M3laVEZGejJCNHZSWDFuNWZ1NjBHd9IBlwFBVV95cUxQTnJVNkJmdXZuX2pHN0pqd1JKczNfM21JVHFLaHU5QVFHN1VERkxtNUhqQVZuZi1xaUZrZms3SzFWU201SUs2Y0cySEN2SG4wUmQ1TnVOMEo5T2lacDJpMzVoS2RwQWdUOUV2cG93bkZURUxNb2JhRkE1R1RyZlk1dkhvS1k2cGxSTjRlallVRzF4RzB4RkJr?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5
 
-**5. Trump says US Justice Department could rein in AI companies if needed - Reuters**
+**5. Meta says its Muse AI agent can do things for you. I put it to the test - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1d2pXQ0xIV2JweTRtV3ZVZ2dqa3RxaXVreFBwTUNTeGhkNXJsSFFsRG5KVGlqWUJYMURfbjgwa1NKcU4wb3pSSElwa0dRb3prV0RjMDRtb0FlVkk5U3NkaFc0T0Y?oc=5
 
