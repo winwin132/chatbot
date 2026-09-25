@@ -1,22 +1,22 @@
-🧠 **AI News (24/09/2026)**
+🧠 **AI News (25/09/2026)**
 
-**1. Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards - CNN**
+**1. ‘Extreme concern’ over first known AI hack of a government system - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUdBSkFIY3dyaDB0SkVqVFZaZ055V0dOc3V5Uy0wZkRBT1BxZG85R1hDRmxHUjJuUXY0TTl3cE0taXNCaDlNbUJfOGxDS3hGWE5FQ0RnMjNGQ21Ha3RSWEJKQ3AyMlFvcFNFeTVMcmxCQ2dpZ09ycVh1YUZKdl9HanZFU05jZw?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5
 
-**2. OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it - cnbc.com**
+**2. Rogue AI hacks government system for first time - The Latest - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3UzZTRVUnpJVEVJeHJRLWMzcmJrcXE4TUNaRWp5NThOVThaNmR0TEtQdjBCeG50SnRQMkp4Ql91VlNnYlpXRjdLUXFsdEllNjc3cHBTNlRYbTVObVpCLXFUQjN2WmxMZDZrQW1tS0pqa0drbGNkVEtPcmo2YjVOMmlxNnNsM3pZYmVkUEtqUDkzdGpDbHpMZTB5VXZDRXdac3J2V0NWeHN2UnZGNHc?oc=5
 
-**3. Anthropic CEO says AI could cure most major diseases within next decade - Fox Business**
+**3. Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0twcDJSMXo1OEVlVUVMMkpTWFhEemcyQ2I0NUU2LVdOU0c3TlpWbmZIcFJjRGg3Qk9IeGNlXy10RDYzRXAwWTQwa0hrd1pMRTZuV0pFdUliVWVRZUVINlk4MlpSRjZ4VVpFSTNYSk9PcVprZmhfU1RZVGVsWm5RTEdhaUlKMGxQNERGOEp2dndPc0hkYXc0MUxJT2IzRk9SRWVXV1Fyd2FnZkVOQkNj0gG0AUFVX3lxTFAtd0tkZUEzdjBKVG1Obm5CRnZpUFJ4Qy1rN0V2VDJYNEJUM0tFenNfLVhyWkJaOEU2OXdYS1J2YnpMTkdvVGI4c2ZyUDlRbmViVTFGUmpCM3lhLU1uSFEyZ0tQOU9XYWpLQXFxNnBKWThwMTlGQXRIdkhPaXhXa0pfRmVwdGRBNHlJbHhnVVlUOFJDMHlzV1lqeURMWktOYW8tZ2tOM0g0M1VHd21IbGNCMXBfeQ?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5
 
-**4. Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - cnbc.com**
+**4. Google Is Sending an A.I. Data Center to Outer Space - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5
 
-**5. Meta says its Muse AI agent can do things for you. I put it to the test - CNN**
+**5. Google is sending an AI satellite into space next week - The Verge**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1d2pXQ0xIV2JweTRtV3ZVZ2dqa3RxaXVreFBwTUNTeGhkNXJsSFFsRG5KVGlqWUJYMURfbjgwa1NKcU4wb3pSSElwa0dRb3prV0RjMDRtb0FlVkk5U3NkaFc0T0Y?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPdThqVkpxQ0dqWkhidzhPdnEyaUhtUE9HLTBjZjhNaGJQa3ltbVI5ZzlxUUMzYVFmZkNYN0F4Q09nUzVaWGt4bFh0RXMwcWlFTHE1MWtEYjNVNlkwMnFIQjBXaF91TkFYX0F3NjR2enc0bnNZb294TnZWQ3V1YkRfWjZidmlvdmlPZnc?oc=5
 
