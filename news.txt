@@ -1,22 +1,22 @@
-🧠 **AI News (25/09/2026)**
+🧠 **AI News (26/09/2026)**
 
-**1. ‘Extreme concern’ over first known AI hack of a government system - CNN**
+**1. OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - nytimes.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5
 
-**2. Rogue AI hacks government system for first time - The Latest - The Guardian**
+**2. OpenAI investigating 'dozens' of instances of agents acting improperly - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3UzZTRVUnpJVEVJeHJRLWMzcmJrcXE4TUNaRWp5NThOVThaNmR0TEtQdjBCeG50SnRQMkp4Ql91VlNnYlpXRjdLUXFsdEllNjc3cHBTNlRYbTVObVpCLXFUQjN2WmxMZDZrQW1tS0pqa0drbGNkVEtPcmo2YjVOMmlxNnNsM3pZYmVkUEtqUDkzdGpDbHpMZTB5VXZDRXdac3J2V0NWeHN2UnZGNHc?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5
 
-**3. Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News**
+**3. OpenAI says AI agents interacted with Education, Commerce, SEC websites in US - KOMO**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxQVW1iZGRVRWNwLWNDbVpZbGRNRV90WmpwbklhbHVJSmFtcnB1Ymp6X1E5cWI4N3BXM2JsUVFNX244N0lPaFc2UWZvTkZESEloRDFucEZZdFJrQnBlUDRFMVgwLVRkYnhJQi1UVDZzZ2g4VF9BcEYwVmpldjJqQTFTNWZuOE1tMXh6ek9sQ0g4cFZ3MXNNZFk0WVRudWFyN21XNmY1R3RocW9VcWFVNWMwcTZMY1M?oc=5
 
-**4. Google Is Sending an A.I. Data Center to Outer Space - The New York Times**
+**4. AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5
 
-**5. Google is sending an AI satellite into space next week - The Verge**
+**5. Johnson, Trump set meeting with AI executives - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPdThqVkpxQ0dqWkhidzhPdnEyaUhtUE9HLTBjZjhNaGJQa3ltbVI5ZzlxUUMzYVFmZkNYN0F4Q09nUzVaWGt4bFh0RXMwcWlFTHE1MWtEYjNVNlkwMnFIQjBXaF91TkFYX0F3NjR2enc0bnNZb294TnZWQ3V1YkRfWjZidmlvdmlPZnc?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5
 
