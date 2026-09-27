@@ -1,22 +1,22 @@
-🧠 **AI News (26/09/2026)**
+🧠 **AI News (27/09/2026)**
 
-**1. OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - nytimes.com**
+**1. China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5
+
+**2. OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5
 
-**2. OpenAI investigating 'dozens' of instances of agents acting improperly - BBC**
+**3. OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5
+https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5
 
-**3. OpenAI says AI agents interacted with Education, Commerce, SEC websites in US - KOMO**
+**4. Scoop: Top AI companies probing tens of thousands of security incidents - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxQVW1iZGRVRWNwLWNDbVpZbGRNRV90WmpwbklhbHVJSmFtcnB1Ymp6X1E5cWI4N3BXM2JsUVFNX244N0lPaFc2UWZvTkZESEloRDFucEZZdFJrQnBlUDRFMVgwLVRkYnhJQi1UVDZzZ2g4VF9BcEYwVmpldjJqQTFTNWZuOE1tMXh6ek9sQ0g4cFZ3MXNNZFk0WVRudWFyN21XNmY1R3RocW9VcWFVNWMwcTZMY1M?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5
 
-**4. AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety - Fox News**
+**5. ‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5
-
-**5. Johnson, Trump set meeting with AI executives - Politico**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5
 
