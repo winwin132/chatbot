@@ -1,22 +1,22 @@
-🧠 **AI News (01/10/2026)**
+🧠 **AI News (02/10/2026)**
 
-**1. OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5
-
-**2. Now We’re All Starting to Talk Like AI Chatbots Too - WSJ**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTE93ajdKZ0t3MThzV2d0OVRxb0xkaHhTai1XZDhTajgxOGdRS19JRzhYZlVCRkNnWjRuSkIwcl9XWG9lZnJIUURqY1BHZndqVVdCZlNXWm9laXlab0VYcXBEN044V2xqYklPaFRaOEhwRmUwZ1U3ZUp3?oc=5
-
-**3. Google rolls out Gemini 4 Argon, its most advanced AI model - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5
-
-**4. Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times**
+**1. Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5
 
-**5. Gemini 4 Argon: our next era of frontier intelligence - blog.google**
+**2. AI liability fight reaches Senate as Google releases powerful new model - Fox News**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3FLeXhoUkNGZll5QUlXTkpZdEU4WnJNNHVoeUNnS1ByZjlGMndVWXk3cEFRM0hHTmhGdkoxdTlhMi14V0xIaGQwZkFxenA2d295QUlKcHc3Nnk3bFAyeXpNU2wxMC1EVTR1SlJndnotclVselVaNzdJeGxzT2FHOUk5Vlplb1lGT2hPSTctZmdXUzRtWVI4?oc=5
+
+**3. Gemini 4 Argon: our next era of frontier intelligence - blog.google**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5
+
+**4. Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5
+
+**5. Ben Affleck Used AI For “Lots Of Things” In Netflix’s ‘Animals’: “It’s A Very Human Movie” - Deadline**
+(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1NOenAwYWR4QmE5Q2ZZR1d6TVFXdlZYUWR3UzFqWllxRWUtZjlpb3FYdDNvd21WR0xBUUpfX0F2cXIwMUJYdGpwTlBFUEhXZTJwV29DOW1EeW5CTHItRHRCbEtsN1dDaGF5cTFCY0hFbHJ5TV9Gb1pVVHd1OE1wbGdwY2Vlb2NWWFFN?oc=5
 
