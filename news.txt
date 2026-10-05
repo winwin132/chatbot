@@ -1,22 +1,22 @@
-🧠 **AI News (04/10/2026)**
+🧠 **AI News (05/10/2026)**
 
-**1. I Quit OpenAI Because Its Culture Is Broken - The Atlantic**
+**1. Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5
 
-**2. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian**
+**2. Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5
+https://news.google.com/rss/articles/CBMijgFBVV95cUxQcER3SFhsZnVPalVDQ2NRVWRERWFlMko5VnM4b2Q0VlJGQUFSLW9zU1NnSjh3T0pMUXRqX05XMnhSZVVxSTBTazlPZ25jTl9HZE9mSG1jUHQ4ckR5eUp2YTloTDVEOHEtYmtlYTFuZjBuNE9WcmVYbXNRSGRScC1IcWgxaWUtc2JqNlJ1Q2dB?oc=5
 
-**3. OpenAI investigating other potential AI hacking incidents after Hugging Face breach - Fox News**
+**3. Man’s Manslaughter Sentence Tossed Out After Court Determines AI Video of Victim Speaking Beyond the Grave Crossed the Line - People.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxQOVRxbnlsdHQ1RGM0TVNZLUF1bGVqQ2xlUnpGZHJFQ3dZR05tMjZOVGRmTm9XblhYdXg0U0pFTTF0UXNWb0pGTGdRY0hPd2tadk9vSmdRdkFCNWJjLXFhZDFJSzBOdTc2UkVXeTFTUl84cmVvVUdib0lWMS1uc3huRzdEdGdjeV8xbA?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNkZUF5NlRXNzdxV1VXR0Ezb1hlMzRiTDlEcDRaRHVBdEZGMjl0c1QtYi0xcEJsallCZUd1X0Jma3lIWlRjV2xaOTBpY2NvZGtUS1pQM1lKTDBOUGVXcmtISFZmY3VTYlVQXzh3UjlRcDh4T2ZoR2pEVGxVdklXdUVSN0hNb0xGWFB1RW1zb2I4Tm1SWkI2VGJvNWZUZ1k?oc=5
 
-**4. An A.I. Songwriting Experiment: Humans Against the Machine - The New York Times**
+**4. Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5
 
-**5. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports - CNBC**
+**5. OpenAI CEO Sam Altman Says AI’s Benefits Justify Accepting ‘Some Bad Things’ - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1lXUy1fS1h5djVWM185TC1Falc5SWJIUjFmNzBfT2NVZEhfWDhJQ0w3QkhkSjg1M040OUFyY0ZNVjZDcE50RFBJS3VFcktnaG1COEY1WFR3djVzU3JWYlc3bnQ0WC0tVXAzTUExUURHSmhXWmNNUENQTlRnWm5TdGxZUmIxc2pOR2FfY2psMm8zNGhsTDBmMHRERTA4dVBrZi1Ya2VxdXlHYjdtRk1ybUtaZFdxV1ZHaHhEb1FR?oc=5
 
