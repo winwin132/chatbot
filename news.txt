@@ -1,22 +1,22 @@
-🧠 **AI News (07/10/2026)**
+🧠 **AI News (08/10/2026)**
 
 **1. Sharing AI progress in mathematics - OpenAI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
 https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5
 
-**2. OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News**
+**2. He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdPdnU1M2xCV1lWSUVnU3BORnhBUHptZ1VSUkwySHVjcV91THBlcjdRUlktRExqTWtZVF9JS01qbHhuVjBacXBHQjRhTnMtMUVKY3R5MzVPZ01nNXhxc3E1TEFUaElNYVc5WXZuV1M2VmZfY3hlYU8yU0dlQVo4bQ?oc=5
 
-**3. US stock market hits all-time high as investors bet big on AI | Financial Markets News - Al Jazeera**
+**3. Bay Area biotech company says it's using AI to make cell therapy more accessible - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGVpQWRLR19SM1hhdGdPN2RwTXl0LWhrVU5TRUpvc0ltbEhjazZObHpMRGx0NVBydTZldHlTYTNCV0RKUUY2R1YwUEFqWXdTNkxtS0FJbUkwLXh4NGRpeUhmZlNNVU52TzM0OW1vUFRpZUJmLVFCSU1ySlpLVHBPWGRyT2FLWENwNXg5cEN2c2JRVFJRMDF3akJuUVVENHpHczhzX3B0dm8?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTAybjVvb0o2bllGMlgxMFZfb21ocnJPTGNIT2pPOW4tNEcwTTlyTEhiMTlLSVNZNU5pRUFRUmZRT01vV0NVWDdibk1tby1qOWwxRVRxeDhZUXluamdnQVlsX2JtRGZ1TjY0M1lpb0lrNXZQN2dvSHZneFNnSU5VQVhUTUtTNjVjS3ZuV1BZY01zOWk4RDVsTGtCVXEtMkd6dXZOcjFKdw?oc=5
 
-**4. Opinion | A.I. Is Lying to You. Here’s How to Fight Back. - The New York Times**
+**4. Veterans in Des Moines receive AI glasses to improve daily life - KCCI**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHBHQ3RRM29zY1k4enBMaHdweEh2XzlfUzRNdTY2eGhWaVktX2ZTVkU5ZUJHVHh6ZVNtTUd4MnRjMUxYU2ViZmJrRHhZQl9Dc3p6MkJMWVJIaUpiQlQ0NVpUd082Y3RxT3QxdXlxQkMwV2RUaEFVS0JSLXk2MXl0MlFRcw?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxONGdkaWpTQlJQTlo5OTEwMndiQkFaZHEwM1BjbGFoT29zUXJhMkIxcldWRXc5Q1h1ZDBmSHJ6TDhhX09Rek5yalNYXzNfWHlWcm5xMWNGY0tIcDFMbkFUajNLMmh5N0d5S2FoWEFTLW5oa3ppQkR0cTJuT2lINV9nb082dWRLcTFZZHA2MDNhM2p5eTB1VnNRZHdDQU9jMEtXNldj?oc=5
 
-**5. Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next - CNBC**
+**5. How AI is changing construction jobs in Hillsborough County - FOX 13 Tampa Bay**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxPblYtWWRwYjVoTE93ZXJGZXVwYzVhQ194XzhyQTVYZTlWSzQySV9UU2c0MnVFX1NWT0RoU1BjdVFrZ0ZXbnNnS1l0TE9ONEZISmRJVzY3QkF6WDVXQTZIR3VMLVhUckwweUdiUk5vYmwwTzZCTTdPV05heDhCY29fMXVoZmZZd2huWHkyTFY1N1FGaEFYckHSAZsBQVVfeXFMTjlHOFhpaGlXaFRxdlB6cXh2c2FfeW1GaXhEVFVNemdiLXZjNnFUbEJnclJuU3ZyRWpKWDB5YmNtTm1Ib09jbklLLXhaZGNSWDVRWEdOemtES1BqempUNXVULUN5MEYxS3BlT3RTdU1CS3BDSFh4VXRsRnNRZ3o3MWIyUFAwUENQQlcxQThSX2JTNkMxbi1Qek41WDA?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWE4RjVQbkNTenNwa0I4ZDlLRzZ3azgtX3lJZDRISXJsaFdmRHpqODRkQTlPdVBHN1E3SEtxdTZNNUh1dDdNejVRQmNnUWpJR2N1N2VhYjNyUWJvQkJITjRZM09hSXc3WnJkNEI3eUtCOFNYZFBkb1BsRERxNUJzYk9kWjk1YjA?oc=5
 
