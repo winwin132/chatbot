@@ -1,22 +1,22 @@
-🧠 **AI News (08/10/2026)**
+🧠 **AI News (09/10/2026)**
 
-**1. Sharing AI progress in mathematics - OpenAI**
+**1. Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5
 
-**2. He’s the Most Powerful Engineer on Earth. Here’s Why He Thinks A.I. Is Going Great. - The New York Times**
+**2. Google Cloud introduces Gemini agent for work as AI race heats up - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdPdnU1M2xCV1lWSUVnU3BORnhBUHptZ1VSUkwySHVjcV91THBlcjdRUlktRExqTWtZVF9JS01qbHhuVjBacXBHQjRhTnMtMUVKY3R5MzVPZ01nNXhxc3E1TEFUaElNYVc5WXZuV1M2VmZfY3hlYU8yU0dlQVo4bQ?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5
 
-**3. Bay Area biotech company says it's using AI to make cell therapy more accessible - CBS News**
+**3. Google Built An AI Coworker And Gave It A Confusing Name - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTAybjVvb0o2bllGMlgxMFZfb21ocnJPTGNIT2pPOW4tNEcwTTlyTEhiMTlLSVNZNU5pRUFRUmZRT01vV0NVWDdibk1tby1qOWwxRVRxeDhZUXluamdnQVlsX2JtRGZ1TjY0M1lpb0lrNXZQN2dvSHZneFNnSU5VQVhUTUtTNjVjS3ZuV1BZY01zOWk4RDVsTGtCVXEtMkd6dXZOcjFKdw?oc=5
+https://news.google.com/rss/articles/CBMirwFBVV95cUxORmV4ZVhyUklnTFBjSGZUNXZfMml0N0N0Sl9QM3MxV0hUOEtTblFwbXhmdmdnYW5RWWFzcHJzdUNNN3BHN2dCRUlHTld0ekxHbEh4SWRHd1NGcC1jVzZ4YlI4a0FIVTJhSk1Xd0xDMFh3Rk5Gdk5yaDZwcmxLbFkyOVRhZkd3b1hOMjBtWDVnMzlXX3F1c3ExTVRtbThMWkVBTkZtNWdKbWxYT2JvTWpr?oc=5
 
-**4. Veterans in Des Moines receive AI glasses to improve daily life - KCCI**
+**4. Google releases a new local-first Granola competitor - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxONGdkaWpTQlJQTlo5OTEwMndiQkFaZHEwM1BjbGFoT29zUXJhMkIxcldWRXc5Q1h1ZDBmSHJ6TDhhX09Rek5yalNYXzNfWHlWcm5xMWNGY0tIcDFMbkFUajNLMmh5N0d5S2FoWEFTLW5oa3ppQkR0cTJuT2lINV9nb082dWRLcTFZZHA2MDNhM2p5eTB1VnNRZHdDQU9jMEtXNldj?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlZTY2tBS0RPSXlTMlBrUE8tTE5Ld05GSGo1VEU0VFNRbi1POFY2NUQyb2Q3SE55cTNXYWhnbjJZMUZEajg5TnllUGJlUGhjSTBvOVdXckFzbVBzaWdSM253SGtVRDlRMHpwYXlYVDVsSFpudGpLS2RsNkdWaVk1d1lBRkc2X1hXckhxRy1tR00?oc=5
 
-**5. How AI is changing construction jobs in Hillsborough County - FOX 13 Tampa Bay**
+**5. Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWE4RjVQbkNTenNwa0I4ZDlLRzZ3azgtX3lJZDRISXJsaFdmRHpqODRkQTlPdVBHN1E3SEtxdTZNNUh1dDdNejVRQmNnUWpJR2N1N2VhYjNyUWJvQkJITjRZM09hSXc3WnJkNEI3eUtCOFNYZFBkb1BsRERxNUJzYk9kWjk1YjA?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxOTTdRWmlock9MZXVkX09SREZqQW43VE9DQ2ltalZmaE5DNzdjaGdhRm1tZHVJaTlQT2F3Q1g5NTMtcENBQWU5dXI3NTk3M0J4UkNEak5FQkdEUmlHSEJQZ09FWXRvblIzWnNRQzNha3BrWklQN3dCTkdnOVBLbkZ3bTdIb1EzZmo0NlVicF9WcTJJekRZNUdtb1kxTFpraXpMVWRpZFFFdXFRZDhhS05zTjJqNks?oc=5
 
