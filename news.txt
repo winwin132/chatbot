@@ -1,22 +1,22 @@
-🧠 **AI News (09/10/2026)**
+🧠 **AI News (10/10/2026)**
 
-**1. Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC**
+**1. Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkFsY2dFeENpS2Z1dVh4Z1VBMzVkdWEwcFdiMk0zZnY0Zk1ZUFNMYXJFZ0xLWDVwVjRsenhrQlZ6N3dEZExJN2FrSXJSVVRLZndHeUNxWTVLdy1vNXpmR1FrMEJNZWx5Q3FUVTFZTDhrbXg2ZmdjVWRPdHhLeXhUb2lFam04X253VHdoU3VfVGltcFZyZThWQm9hSkVyQy0wZmNieG9zUUhVeUdfQ0RjcEt0NzJ6NS1lZXlrS3BIQ05yR1HSAcsBQVVfeXFMTlg2bXhHU3dHMlZGNjNGckNSa0Z1ZFRhMVM1ZHQzamR2djN3MXVkRnVCZTJ3SEt4bVZqRkZVWkZRSnUxTlRvTkxtLTBBQkd3MktDWVNQUVRVVkJhQUp2alBpdS1GSVVZUXFwS2ZOaVI5ZGJfZ1JINnBTNGh4SDZHbWgzUXZ4WG1lQlRHMGFtUkJhTFhUWTFERExTSnBEd0YyQTRJb1A3bWVZT0M1bExZa3hWMlBqcHN0c19CalNKbWVVbnpOV2liUmxtUGM?oc=5
 
-**2. Google Cloud introduces Gemini agent for work as AI race heats up - Reuters**
+**2. Anthropic discloses fake tip to police among new rogue AI incidents - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5
 
-**3. Google Built An AI Coworker And Gave It A Confusing Name - Forbes**
+**3. Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website - Fox Business**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirwFBVV95cUxORmV4ZVhyUklnTFBjSGZUNXZfMml0N0N0Sl9QM3MxV0hUOEtTblFwbXhmdmdnYW5RWWFzcHJzdUNNN3BHN2dCRUlHTld0ekxHbEh4SWRHd1NGcC1jVzZ4YlI4a0FIVTJhSk1Xd0xDMFh3Rk5Gdk5yaDZwcmxLbFkyOVRhZkd3b1hOMjBtWDVnMzlXX3F1c3ExTVRtbThMWkVBTkZtNWdKbWxYT2JvTWpr?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDRNLWJQcF9iM2Zyb1BMM2gtcW40X2V5RTkxS0F2SGdGb1JNZS1nV0NWTVJMeTRwUDhsanFrQ3Q0aHZfTmVBRlQyRE1TeFNSXzNYcmFjTmRlT04wWGRkcWR4dElTVnhFLVYtVEVnNENJRGg4bGxXVnhqV1pRVUlwajdickJPazV4cFk3YWFFUHZUWS1jRHhZbVpxNG54Z3BPd2ZfZ3VCc0ExUV9Qb1JkNXE1U0RNcFZmbVBjb3J1WHcxMEJMa0FlWNIBzgFBVV95cUxQTG9UdWhnWWpKTGNGcmtQenFZMWlhbHgzYTk0VHhIZFRudHV2aElPY3VkdjMwTEJaZ01RYXZUdU9CNTdGc0w5eXR2VzJYQjZZZzd6WmI1dC1nT0x3d0pQaXR1N1dFVlNlc05Hak9PUXgycU55TmlzcjlWeWNYUXdHempFUy14dFFsNEpwckgybkVmRzZZQlZreTRCLTlKWFp3R3BnNko0djNDRlVQa3U4SnNHMVFCNlcyckRFMkVPejVPVU50TkFjRGFlZmtoQQ?oc=5
 
-**4. Google releases a new local-first Granola competitor - TechCrunch**
+**4. Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlZTY2tBS0RPSXlTMlBrUE8tTE5Ld05GSGo1VEU0VFNRbi1POFY2NUQyb2Q3SE55cTNXYWhnbjJZMUZEajg5TnllUGJlUGhjSTBvOVdXckFzbVBzaWdSM253SGtVRDlRMHpwYXlYVDVsSFpudGpLS2RsNkdWaVk1d1lBRkc2X1hXckhxRy1tR00?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5
 
-**5. Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow - Bloomberg.com**
+**5. Prize-winning image which sparked backlash was AI-generated, Nikon rules - BBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOTTdRWmlock9MZXVkX09SREZqQW43VE9DQ2ltalZmaE5DNzdjaGdhRm1tZHVJaTlQT2F3Q1g5NTMtcENBQWU5dXI3NTk3M0J4UkNEak5FQkdEUmlHSEJQZ09FWXRvblIzWnNRQzNha3BrWklQN3dCTkdnOVBLbkZ3bTdIb1EzZmo0NlVicF9WcTJJekRZNUdtb1kxTFpraXpMVWRpZFFFdXFRZDhhS05zTjJqNks?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb1o4THZyeVo1aVZDUks1MXVHM25sdFhoTFZ6dGdPWXRhQUlMMmk4c01NY1Q2UGpjWU5pWUxCNkQwZEdxaExNMUNqRktNa1F6b0htTlhIZzZDVlU?oc=5
 
