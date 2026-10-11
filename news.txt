@@ -1,22 +1,22 @@
-🧠 **AI News (10/10/2026)**
+🧠 **AI News (11/10/2026)**
 
-**1. Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia**
+**1. Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkFsY2dFeENpS2Z1dVh4Z1VBMzVkdWEwcFdiMk0zZnY0Zk1ZUFNMYXJFZ0xLWDVwVjRsenhrQlZ6N3dEZExJN2FrSXJSVVRLZndHeUNxWTVLdy1vNXpmR1FrMEJNZWx5Q3FUVTFZTDhrbXg2ZmdjVWRPdHhLeXhUb2lFam04X253VHdoU3VfVGltcFZyZThWQm9hSkVyQy0wZmNieG9zUUhVeUdfQ0RjcEt0NzJ6NS1lZXlrS3BIQ05yR1HSAcsBQVVfeXFMTlg2bXhHU3dHMlZGNjNGckNSa0Z1ZFRhMVM1ZHQzamR2djN3MXVkRnVCZTJ3SEt4bVZqRkZVWkZRSnUxTlRvTkxtLTBBQkd3MktDWVNQUVRVVkJhQUp2alBpdS1GSVVZUXFwS2ZOaVI5ZGJfZ1JINnBTNGh4SDZHbWgzUXZ4WG1lQlRHMGFtUkJhTFhUWTFERExTSnBEd0YyQTRJb1A3bWVZT0M1bExZa3hWMlBqcHN0c19CalNKbWVVbnpOV2liUmxtUGM?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5
 
-**2. Anthropic discloses fake tip to police among new rogue AI incidents - Reuters**
+**2. In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety - WRAL**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3ltN1dyNUgybVhpTlExUnNrRHFBVE4xeXUyamFDc3Noemxfd3BMRXVIWFFGLUVuSmJESXFBWGxmTl8wMVA0b2pGTTRsaU1ONm1fWGJMak9lMThETkY5UTh4TmdGQzhnbENXU1BQMFBMZUswLVhEeTBjX2JSWjlYVzdkcDF3MGxJQUpJMFdTN3ltN19DbzVKbmwxaldnVzhNRjg5eE1NU3F3c1h4d1dHTWw0NGlWQms4MU00TlF0OVEzZEwzVzgxRA?oc=5
 
-**3. Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website - Fox Business**
+**3. Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era - Fortune**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDRNLWJQcF9iM2Zyb1BMM2gtcW40X2V5RTkxS0F2SGdGb1JNZS1nV0NWTVJMeTRwUDhsanFrQ3Q0aHZfTmVBRlQyRE1TeFNSXzNYcmFjTmRlT04wWGRkcWR4dElTVnhFLVYtVEVnNENJRGg4bGxXVnhqV1pRVUlwajdickJPazV4cFk3YWFFUHZUWS1jRHhZbVpxNG54Z3BPd2ZfZ3VCc0ExUV9Qb1JkNXE1U0RNcFZmbVBjb3J1WHcxMEJMa0FlWNIBzgFBVV95cUxQTG9UdWhnWWpKTGNGcmtQenFZMWlhbHgzYTk0VHhIZFRudHV2aElPY3VkdjMwTEJaZ01RYXZUdU9CNTdGc0w5eXR2VzJYQjZZZzd6WmI1dC1nT0x3d0pQaXR1N1dFVlNlc05Hak9PUXgycU55TmlzcjlWeWNYUXdHempFUy14dFFsNEpwckgybkVmRzZZQlZreTRCLTlKWFp3R3BnNko0djNDRlVQa3U4SnNHMVFCNlcyckRFMkVPejVPVU50TkFjRGFlZmtoQQ?oc=5
+https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2FLMnBuSUgtYWRsR2lzR2xZY1pyTVFLcHhsZjkzeU40WDA0LTlnZl8tZ0FsQjlhQWkydjEtRU9IeG5OLWE3SGx0aWh0bjNuVnZ5Z2hzeDY1U3cxX1JocngzNGZVUmJpY1d3d2s3NlZVNEYyVkt6bTdZdXItbmtxN013SnNpSWRDV0ZoUmxuYWxWRGFnX2h4MmRmZTBuZmFaVHBWcFJjVFBObE95SkxEQUkwTE1vM25BU3BQMERIa00zSzJSMXlTTzNnaTZPelUtVXROTW9GRHNhMnhTdVZla1VlZw?oc=5
 
-**4. Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News**
+**4. AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action - CNN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5
+https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkM4YkxfLW5KQmZqRkxQUjJRUEVTWkU2R2ZXUnF6VE54eC1HdGFPamR6dW5KQVgzNDB4bnhvMGRwX1lNQWFOR01vb09HNTk1RFNkbVhTSVNOcGpaSU1FdHFFeVNfdVlycHo5MEhFNll4R2lLd1E0TTlEQThGUnNUUWhoWHY0NHVuUlpudXM2Nl9JaUdRckE?oc=5
 
-**5. Prize-winning image which sparked backlash was AI-generated, Nikon rules - BBC**
+**5. Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir,’ Teases Joining ‘True Detective’ - Variety**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqb1o4THZyeVo1aVZDUks1MXVHM25sdFhoTFZ6dGdPWXRhQUlMMmk4c01NY1Q2UGpjWU5pWUxCNkQwZEdxaExNMUNqRktNa1F6b0htTlhIZzZDVlU?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZmaGRJajhMMHZCWXNfc3hYR0RORlNlbE5fYXFkZWVIR2d1QUVBMWlfczBIU1FKTFB1T1RTWDVNZGJ4Y3RQVTNDTVpfc3J2SEgzb1dRMVdudTQxQzZ4OVRMaEtiOUwxaTAxemxHeUgyTTZRUk5yRGhVUXJfaTZKaXhmQWxsY2w1T3BVSWMyYw?oc=5
 
