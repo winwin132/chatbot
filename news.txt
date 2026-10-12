@@ -1,22 +1,22 @@
-🧠 **AI News (11/10/2026)**
+🧠 **AI News (12/10/2026)**
 
-**1. Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News**
+**1. Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5
 
-**2. In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety - WRAL**
+**2. Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3ltN1dyNUgybVhpTlExUnNrRHFBVE4xeXUyamFDc3Noemxfd3BMRXVIWFFGLUVuSmJESXFBWGxmTl8wMVA0b2pGTTRsaU1ONm1fWGJMak9lMThETkY5UTh4TmdGQzhnbENXU1BQMFBMZUswLVhEeTBjX2JSWjlYVzdkcDF3MGxJQUpJMFdTN3ltN19DbzVKbmwxaldnVzhNRjg5eE1NU3F3c1h4d1dHTWw0NGlWQms4MU00TlF0OVEzZEwzVzgxRA?oc=5
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5
 
-**3. Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era - Fortune**
+**3. Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2FLMnBuSUgtYWRsR2lzR2xZY1pyTVFLcHhsZjkzeU40WDA0LTlnZl8tZ0FsQjlhQWkydjEtRU9IeG5OLWE3SGx0aWh0bjNuVnZ5Z2hzeDY1U3cxX1JocngzNGZVUmJpY1d3d2s3NlZVNEYyVkt6bTdZdXItbmtxN013SnNpSWRDV0ZoUmxuYWxWRGFnX2h4MmRmZTBuZmFaVHBWcFJjVFBObE95SkxEQUkwTE1vM25BU3BQMERIa00zSzJSMXlTTzNnaTZPelUtVXROTW9GRHNhMnhTdVZla1VlZw?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5
 
-**4. AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action - CNN**
+**4. AI is automating coding. So why are software developer job postings on the rise? - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkM4YkxfLW5KQmZqRkxQUjJRUEVTWkU2R2ZXUnF6VE54eC1HdGFPamR6dW5KQVgzNDB4bnhvMGRwX1lNQWFOR01vb09HNTk1RFNkbVhTSVNOcGpaSU1FdHFFeVNfdVlycHo5MEhFNll4R2lLd1E0TTlEQThGUnNUUWhoWHY0NHVuUlpudXM2Nl9JaUdRckE?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE80a2hhYm5Pd1BrUWdvV1lNQ0pvUGVhSDRicGVQWG1IU3J1MzlBN012VDA4QjlITVdwcUFXcUl5anVacHpXZzgxaDI2a19BaHJvbnVLaU1EdXNGX3VwSWc2RDd2amhCdm9VblR3cTVodTbSAXZBVV95cUxPc1pqTVJmenh6aFNEUEdaMU0wMTN3eWRLNTBrR29LWHhQdzUyWXk3OEpvX1dEM2NzMXJSZWd4QzNDOVRhRElEaWg5YkN5ZjJ4cHYwd1NyVW5SS3owYUFJMDNvX01PbjNuVDJwQ3NDZlk0SnBITTVR?oc=5
 
-**5. Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir,’ Teases Joining ‘True Detective’ - Variety**
+**5. TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZmaGRJajhMMHZCWXNfc3hYR0RORlNlbE5fYXFkZWVIR2d1QUVBMWlfczBIU1FKTFB1T1RTWDVNZGJ4Y3RQVTNDTVpfc3J2SEgzb1dRMVdudTQxQzZ4OVRMaEtiOUwxaTAxemxHeUgyTTZRUk5yRGhVUXJfaTZKaXhmQWxsY2w1T3BVSWMyYw?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5
 
