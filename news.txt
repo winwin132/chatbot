@@ -1,22 +1,22 @@
-🧠 **AI News (14/10/2026)**
+🧠 **AI News (15/10/2026)**
 
-**1. Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters**
+**1. 22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5
 
-**2. Anthropic warns AI models could soon copy themselves across home devices - CNBC**
+**2. Apple Prepares to Debut First AI Features in China in December - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzl6TER0VWJDcVVzTm52elZnc2NHWDNhd09wS1ZfQ25XUFhOS3hqS1QwQ3VNbGlmUFVqbTlzeTVac21zUFVNMXRJZHM4RjZXMW5qaTE2UXQzRXA0RFRRcnlJUk1CR3lzb1BKZGljbkxvZ0RJOC1oREttNHNtTHQ4NVpUUm42MWpUTDE4Vk5LLUlBV2pNaWVYVTRzVndLbm1VUzFMRHFsejVHSURlQlc5UU5rSQ?oc=5
 
-**3. Anthropic warns AI models could soon replicate across home devices, become difficult to shut down - Fox News**
+**3. Exclusive | Bloomberg Doubles Down on Conversational AI - WSJ**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFB3aGVWQmlzcGNwdGVNZVhfZG1OOFlBQmVOaHpTS3E2XzJzclFnV3hXdTQ4UE5CQlQxZ2RiMjVWTDZaLVlrdU1QVkV5VzdVSjNEeFBBM3hNS2FTekVjTFBHS0tLWUJ1UGlWTFdMcGtjemhJNmZLb1kzaEJHbDNVbGp1ZTJJNms?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQOURfcGVoTnU1U3NZNXRxRElGMDZ5eFVQUUxhWXRwdXlJTmFhZWNlQnVyXzJrY283X0J4TWNkQXdyT0NzN0JEWXhRWTI4YVVNeFdaMlNkNmk0ZUktZFc2MDl4ZTFKb2N0SkZPUTJ5RnllTGkyY3VsRWpRd2ZMNlh4X1RPTWxKTDQySHZ4Nw?oc=5
 
-**4. What If AI Is the End of the World? - The Atlantic**
+**4. Social service agencies need safeguards when using AI - Phys.org**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbDY0NmNJYWRHd0ZXM3Ntd0hRQTl4cGZmUEZkQlFzeF84Wl9nNjRSaS1kZFZCZ1JMa2dhc3dpNDBXenIxdzJfMjctVk1CWG1LUGx0Q3Y3T2d0Ym83Y3BXd2NiSVJ2eVIzYmM3S1BCbmR6VUpMSnItczFPQUgzdw?oc=5
+https://news.google.com/rss/articles/CBMickFVX3lxTE53T1U1a3RObHdzQkdycHVPM0s2U3EzM2c4WXR3cWJHaC0xa2l5N2VhcFBKUW9yLWFuRDRwOXk3c1B5VVA0cWRZQnl2S0t3Ukh2SlpTWTMxZHRjWWdZdURzOEladzNuaDZGbHNPbEhoUDQzQQ?oc=5
 
-**5. Being AI-Native: It’s Easier Said Than Done - Forbes**
+**5. Video: Opinion | Can A.I. Care for You? - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2JaYmpGUVRUdGFGOUsxMHd0cW9qcTFVZ1lOXzhiT3BhSUNLRUVzMTNoVVJnSGZxQU5iZU1fVF9Rai01WWZRV2xEYXRMZ2dLYTlxemNwbzVBLUh6OUptTm5QX0ltbEVIb2JwNExKcE8zVjV2UWFZdmFKdWdraE5wczFzS2pCdURreUpGRzdtUEEteWRzOWRHTA?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVpQLVIwbU1sMlpsTUhlNFU1cmZTcUNDZ01EOWNzT21MYnRNcnJGOEl5cWRxS0o1Y0VjSmVTSTRQVW52SVhTRXVkVmctLWRiOVRBWTJld1NfWVRHbkJIc3htZE9kVXViSlphSXZiUXJZZjhGWmREajJib3NBYmZuWVNIUnk?oc=5
 
