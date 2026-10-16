@@ -1,22 +1,22 @@
-🧠 **AI News (15/10/2026)**
+🧠 **AI News (16/10/2026)**
 
-**1. 22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times**
+**1. Dependence on AI makes human brains less nimble, MIT professor says - Fox News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5
+https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5
 
-**2. Apple Prepares to Debut First AI Features in China in December - Bloomberg.com**
+**2. FAA seeks ownership stake in air traffic AI company - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzl6TER0VWJDcVVzTm52elZnc2NHWDNhd09wS1ZfQ25XUFhOS3hqS1QwQ3VNbGlmUFVqbTlzeTVac21zUFVNMXRJZHM4RjZXMW5qaTE2UXQzRXA0RFRRcnlJUk1CR3lzb1BKZGljbkxvZ0RJOC1oREttNHNtTHQ4NVpUUm42MWpUTDE4Vk5LLUlBV2pNaWVYVTRzVndLbm1VUzFMRHFsejVHSURlQlc5UU5rSQ?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE9XV1gxMm9YZHNfOHFwZVFUNTVuSEpWbnk0a0IzeVdfWXh6Tm5pTGY0MVRIaXNEQmw1c0lOdTFPcHZpZXBlZnVJY2lXTTJDdS1GcnVnZGVPYmtROW5HcXhlU1V0Y2UwdTFlT0ZWclpYdDY0U0pObE95TWFB?oc=5
 
-**3. Exclusive | Bloomberg Doubles Down on Conversational AI - WSJ**
+**3. CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQOURfcGVoTnU1U3NZNXRxRElGMDZ5eFVQUUxhWXRwdXlJTmFhZWNlQnVyXzJrY283X0J4TWNkQXdyT0NzN0JEWXhRWTI4YVVNeFdaMlNkNmk0ZUktZFc2MDl4ZTFKb2N0SkZPUTJ5RnllTGkyY3VsRWpRd2ZMNlh4X1RPTWxKTDQySHZ4Nw?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzZvdjFmM3pQNWFVTm9uVTdHRHJrQURoSVBYRDlQX0FuVUY2bEdIWDJTNzBrTmpyQ2xUZHBWQ0czc2dTbUJodmExbGlyRlVYWE1Md0F0SWhCNHlWbUIyMG82dmkzWE9uZ1ppclJmbkdiZHJVdlE3VVRHX2RDU0FRNi1R0gGHAUFVX3lxTE9Xd3d3XzhiTDg3MmpyU0pRN0pJTElSczhUamI5V0V4dWhTZG90VndhRjY4dUpFVndId0ZzX19iNjQwd2NxOUdLZzZTcHpMaXg0MWd4WTBtY21Id1gxRHZzOTN4cGtkN0pHUUNzWFhtUnZ5ay1CdEdsTG5qcEY0WmozOE1PVGtXcw?oc=5
 
-**4. Social service agencies need safeguards when using AI - Phys.org**
+**4. AI For Mars Will Rely On Lessons Learned From Customer Data - Forbes**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMickFVX3lxTE53T1U1a3RObHdzQkdycHVPM0s2U3EzM2c4WXR3cWJHaC0xa2l5N2VhcFBKUW9yLWFuRDRwOXk3c1B5VVA0cWRZQnl2S0t3Ukh2SlpTWTMxZHRjWWdZdURzOEladzNuaDZGbHNPbEhoUDQzQQ?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVjUUVvQUM3WTFQZDRIbFh5MTRLVVBNN1NHUWtOQXJBZm5meXFGSUFTWFVfMFVwUURqTEpLODdZczRhZGVLUzJVZ3VydlNFdE5ZOWN3VmpVOUg3OFUxSDZ1RXNKT2xzVWFnd0k4dmdtYnZ2N0o4bWlhSkdHOGJxdWZlUFBGRlBZd1BabVV2akJqN2Z6eFJZSl9pdk9jRDZ4eHB3akZ6bHlybzZBdzB1Vmdn?oc=5
 
-**5. Video: Opinion | Can A.I. Care for You? - The New York Times**
+**5. India’s Family Offices Bet on Homegrown AI Firms to Gain Ground - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVpQLVIwbU1sMlpsTUhlNFU1cmZTcUNDZ01EOWNzT21MYnRNcnJGOEl5cWRxS0o1Y0VjSmVTSTRQVW52SVhTRXVkVmctLWRiOVRBWTJld1NfWVRHbkJIc3htZE9kVXViSlphSXZiUXJZZjhGWmREajJib3NBYmZuWVNIUnk?oc=5
+https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGxzeU5ZYXVscEZrWTA2YzlYQ3hscDRwSk94dnlQRXpHUl8yZmJGWU8yZHF3UzFXVk5jWUdQVTVmMF81bWo3UjVldXdCYVBhNDNfNlZNbS14eWU3OGgxUXFPY1FZZ1ZOSUp6bkVuMExRMjZaWmJEbGNjNkJQcU13aEFpWmtwMDY1Y2w2YzJtNWdBXzZuU2lvZm5CTkpoRHFZUDFjWHlZbkxlRUlWUWswd3FkcVhaMDBVTk1ReXFJTkUtdk1B?oc=5
 
