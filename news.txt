@@ -1,22 +1,22 @@
-🧠 **AI News (16/10/2026)**
+🧠 **AI News (17/10/2026)**
 
-**1. Dependence on AI makes human brains less nimble, MIT professor says - Fox News**
+**1. Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmZSYVZRdEpmU2F0NlNwYUEzUlJPSjg2OTZSMVp0ZXU1d2IwaG1aXzdpMHJCNkNXNDB3M0tldUEwR21KTktqWkZfTFpkLWx3LUlwRTlpbFh5bzNOU2s5WU95ekNqTXRuV3pYM3pJNGdTRVNteTdpbUJDc0tiM3pEM1VoV3lVOHZ0OUE?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5
 
-**2. FAA seeks ownership stake in air traffic AI company - Politico**
+**2. The AI expectations gap - Anthropic**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTE9XV1gxMm9YZHNfOHFwZVFUNTVuSEpWbnk0a0IzeVdfWXh6Tm5pTGY0MVRIaXNEQmw1c0lOdTFPcHZpZXBlZnVJY2lXTTJDdS1GcnVnZGVPYmtROW5HcXhlU1V0Y2UwdTFlT0ZWclpYdDY0U0pObE95TWFB?oc=5
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5
 
-**3. CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC**
+**3. Sen. Marsha Blackburn AI video raising legal question - WAVY.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzZvdjFmM3pQNWFVTm9uVTdHRHJrQURoSVBYRDlQX0FuVUY2bEdIWDJTNzBrTmpyQ2xUZHBWQ0czc2dTbUJodmExbGlyRlVYWE1Md0F0SWhCNHlWbUIyMG82dmkzWE9uZ1ppclJmbkdiZHJVdlE3VVRHX2RDU0FRNi1R0gGHAUFVX3lxTE9Xd3d3XzhiTDg3MmpyU0pRN0pJTElSczhUamI5V0V4dWhTZG90VndhRjY4dUpFVndId0ZzX19iNjQwd2NxOUdLZzZTcHpMaXg0MWd4WTBtY21Id1gxRHZzOTN4cGtkN0pHUUNzWFhtUnZ5ay1CdEdsTG5qcEY0WmozOE1PVGtXcw?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVpMVTdBVUQxbE9Hd2xKMWgxZ3hNS1J1anVrQjFoRGJ2aVFkTXdJQ0F6N2ZOV25mOFpPWXRxb09BWWdmOHdPTnk0R09HNmJMMkU4WnJqRUU0TklpZDU1V25XbE82OEVpNXkyTnNmbkU3OVM5OWoyUFUzTVdNS0c4N2hmOWV3V2hpY2NkUzRxZl9sd9IBlwFBVV95cUxNdFliN3ZLX2JERVJnSDlsdDZXOERsZkk1MkV3eHkyRTRUUTFDNWs0eXZXdWpFRnpwQ2FLTjdFc2pfdzA0UTMyVDN3Q1YwTzZFbEdJR0d4OGtMSzdUWHQyNkVIY2pJcEloNHkwWEc0OHpRS21NVG44aXFnVFQ0NUYxc2dNdTZ4aVRGOFlfSTRrclJxVDQwOEtJ?oc=5
 
-**4. AI For Mars Will Rely On Lessons Learned From Customer Data - Forbes**
+**4. A companion between appointments: Hong Kong student’s AI tool for cancer patients - South China Morning Post**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVjUUVvQUM3WTFQZDRIbFh5MTRLVVBNN1NHUWtOQXJBZm5meXFGSUFTWFVfMFVwUURqTEpLODdZczRhZGVLUzJVZ3VydlNFdE5ZOWN3VmpVOUg3OFUxSDZ1RXNKT2xzVWFnd0k4dmdtYnZ2N0o4bWlhSkdHOGJxdWZlUFBGRlBZd1BabVV2akJqN2Z6eFJZSl9pdk9jRDZ4eHB3akZ6bHlybzZBdzB1Vmdn?oc=5
+https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDNOYk1fR3NqaFBiYVA4d2hUaU1NU3diWkExM1hDbkRLUjVzdy16UE5uUFhwMl85aDMxcUhia3kydi1NQ1lkM1B6LVN4d2pFazJ6LUV4SmxYUzY3OGFQNWZMYURvV1hxZFZGWW1hVHNXd1RNQWlUcmxMTEFMS054dGF1YTllYU5pVG9JS1FiNkZkd2hqaWNMTTR5b2t0aDMtN0MtXzl0bGpXbVJaNTBqMUc5MlROVGlHQW9KVjlOa1J4ajR3MmxQUEdtNlYwd9IBzgFBVV95cUxONUI5dC1VZmlyb1BWalBSaWtBV3kwX2IwcV94Y2dpdnFiNHA2QTFmZFgxRUhVdnJ1Yld1YUtjbElOejB2WndYSWJ1VVZsMGpfeU1CN1FQWUZMeUFfUE01b0p3RFM4VWtNSFRvS2tnRUdMZGhPcmd4Nl9lR05HNjBKZW1DalliVWJtWlJ1eG4yeVFiazk5NEdrRDNtWm5qRjdQeXlONFFtSVAwWTJKN3l4SEFNMkNvNEwxRVk4R2drYUJFanZDWEZFaW9uUGFxQQ?oc=5
 
-**5. India’s Family Offices Bet on Homegrown AI Firms to Gain Ground - Bloomberg.com**
+**5. SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGxzeU5ZYXVscEZrWTA2YzlYQ3hscDRwSk94dnlQRXpHUl8yZmJGWU8yZHF3UzFXVk5jWUdQVTVmMF81bWo3UjVldXdCYVBhNDNfNlZNbS14eWU3OGgxUXFPY1FZZ1ZOSUp6bkVuMExRMjZaWmJEbGNjNkJQcU13aEFpWmtwMDY1Y2w2YzJtNWdBXzZuU2lvZm5CTkpoRHFZUDFjWHlZbkxlRUlWUWswd3FkcVhaMDBVTk1ReXFJTkUtdk1B?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVUydUw1OHZyeFA5VXNWNFoxY1AxcFQ0RTRjR3VUb2NPN0xnQWdENmN5bjBnLUZhd29WMTB1U1E2aFdka1JOZzd6d1lZWjFxTWZTTk15WkxhNjlJbGFRWEpJU0ZUZUF4ZmdXSTFGeU9tTnpPZnhNLUFOUVF3VlBOTjhTMXBjUFpRZGN5TmwtN05yajBpRlI2R21jaS13LXNnSDN2WXpfcUVnZjTSAbABQVVfeXFMTmZtRmpLRTFHSDBXbUVJMUNkQ1RBZGNsRUVBNVpoRVJ4cGg2eE9Pb0ppVTFBaVNuRXVUaExGOEEtV0VrRW9tVF93NUNPejQ1QzZndWVUazR6clh2RS1IWDRuc3VYOGZmWF9ZZGVCQWZsd3NSR25uT3lvdTEzY2RzSTBoWV9BSkhleElkX0hpWjlwYVNSUlJOOUp6d0xiT0E0NnRFZGxxaWhHbURvWHJ4NEw?oc=5
 
