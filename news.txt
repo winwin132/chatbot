@@ -1,22 +1,22 @@
-🧠 **AI News (19/10/2026)**
+🧠 **AI News (20/10/2026)**
 
-**1. Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy - CNBC**
+**1. EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5
+https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5
 
-**2. 'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance**
+**2. Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ - TechCrunch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0U0Z2lRcVh1X1c3MjNTQzN4TGNIZDJWTmo1OEdpb0NNcWJibHVaenVNQ1Exc0UxQnhGNzVsYWIyakY1ZzFsdzY2UHZyaEg1UDhhQVhvTE5rODBEUF8xd3hhOHdfSThlLWhWWE1oc1BkY2xlcE1OWGNQdENYOEJuNWhnOG9nZl9pdjZQRnhCT0RiMGx5ekgwLXpIWTd2cnpad2lNRFpJWHFWblNUdzk0OE1jdVhaaEdaWklZ?oc=5
 
-**3. China's economic growth picks up as AI boom boosts exports - BBC**
+**3. Should you trust personal AI agents with your money and data? Here's what experts say. - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTXliZWY5b05tT0JaX0E1TjI1eWZNVjBWMzhqSTF5M2NDMEtLazY2VS0xclczUnV0R0RTYmQxMXpxSXJtaW9UN3NCTUgzekNQUGF2QTUyTTNSQ0RLekU1alFJUkpJNU1mY3F0OW9QQzFjWWU0N1prMw?oc=5
 
-**4. Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns - The Guardian**
+**4. New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFlnUkhCN01RZ09wX0ozaUZCcWY4bHMtQ0NPMXctSDNpR0F3aXhBOUw5MHZ1Q1RmUUpUWURzRkt0elhjZnp1ZVNjTHRESmY5RnBaTjZmMTA1TzVSUVVGTk1SZ29OTHJRcUY0cko0enRmRzYzOXJ2RllPbkJNZzlQZnV0NDNoTVhRaE9DX0I4anBJYTZwRDc2aGtBdGJXSTdMN3pCR1hmZmhUampManc?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5
 
-**5. Letter: Originality is more valuable in the age of AI - Financial Times**
+**5. Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help - NVIDIA Blog**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMicEFVX3lxTE54b0x1Nklna0gzcXUxZGxzVTUwZGxaak5peVZRN25ZMTZFUnBhVWxmV0hLZy0tZ2FnS0VNR2ZkZVRSUkY0Yjl0ODZ0bnRuQ3lHcTdzMHpOLUozTlRJcnQtNzYxcVRFcTRZUXlvN0FBSnY?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5
 
