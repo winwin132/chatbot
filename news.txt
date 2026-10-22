@@ -1,22 +1,22 @@
-🧠 **AI News (21/10/2026)**
+🧠 **AI News (22/10/2026)**
 
-**1. New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian**
+**1. Government websites go dark after AI-discovered flaw sparks security scramble - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5
+https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5
 
-**2. Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now - Bloomberg.com**
+**2. Senators press Google on AI in classrooms - Politico**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGY2WVpwdzdubFFLSDJGWDBIQzdQUTdTeXoyVXMzVmJkSktBVG9hXzVHVWxfUC1GLVdDalp4X3VfNjFzM3ctWUtXYTYycFEyZkdJSHVMTGcwa2lxamJKS2Yzcy01dkNuQzNIUWlCbk1yNlRUX2p3ZFZabW92SWxLYURaamFpbnRPazZnS1BNZEVjS3djSXpaSVk1dmRSV2M3cFZiMUhfWVlWLWJHdGc?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdJdnNHRmJxUm1wM1VKbUVHTXZWQnJuY0JZbEZ2a0x4WVlmT05IZGFaNDRWY1A0Y1A2UDExSFVrRzdaQkZrRVItTU9PN3JwTUllNmM5UlJwbldBM1pQTVROTTNyaHMwVkQwVkpZLXdwU21XUzY5LWNGMW5tYXFJeTNHNV90SUdRLXkyWEVuSVVkNmpmUzN5ZFhkRldpakZaTDJDUzY1OUI0eWJ6?oc=5
 
-**3. OpenAI says its AI agents weakened internal monitoring system - Yahoo! Finance Canada**
+**3. CNBC Daily Open: War worries meet AI anxiety - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGVFUzFiamVyNDFwVEJvRldDMFd0R1JvOEprOXZreU5XaUZsREZYUDdnaGJVWnN3ZTNvVnBNbVdMTlNuX1d6ZGIxWGdxenB6YXdrNEpnWWdCM2dpdEpxVjhNZklRc0w1UGpuNWctb0FkU243MmVNYW9ldDdtT29SYV8ybTNVUQ?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1semNjaklDVl9YU0QzWk9Ia0F5MHhZYk0wQTV3Y1NlVWJQcUc3MkpZRWttUTQxSk1HNEVVV05xc29SSnk3b0ZqTTFNdk1vbG9NN0k3aU10UXNkQkhTQXpNWUhUR2hGT0RJaXlaUVU1SnlETlFNRGk4ZUpVR1QwZ9IBgwFBVV95cUxPeU1hMUV2aWlmVGJsUHREc3kzUlNSdFBMampEMmd6MVFFOE5YS19fZ2hLZXlFdVBqbHluV2MzbGJ3OGlkRjU3UzZoT2FmeHBlcW1ZMWwxODRzZENySGR0aHd5ZHQ1bU16dHVrT3R6WFhFeW14aWhyNkhsak5OVS1zYm1PNA?oc=5
 
-**4. Bloom Energy vs. Oracle: Which AI Infrastructure Stock Is the Better Buy After the Jupiter Setback? - The Globe and Mail**
+**4. Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijgJBVV95cUxQdVlnd3ZkRllmczlvSkhER2IwVnZZY0lPOGl1cWlreXc4b1VkSF9SX2Zic1FFZ1ZPWU1yMHBMdHBiMWMyVGtHT2poekFfWFpzV1k5MGNBZENZYThoMTdIQTY1UGJONG1RRzBVZ1RaRXdTZ3lWd0FlelN0eGtvbVNmTUFRanBhQU93ci1EQzl0QWo4ZlI1bGlqeTNIYUhSY3E3RldXWXMwdWdhTUhENnFXUFNIWS1GTzNPTjkzU0VZb29sbUMzVE83Z0tBMEl6cEFaQWlTM0FRLVJwcDVXZG9VVTUwWHh1QjRVYWlpMzFmSHgzNTFUbjlVcHlPalFaSElQVS1QMENIVHExdlBXY1E?oc=5
+https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5
 
-**5. SpaceX Profit Beats Estimates on Big Jump in AI Business Revenue - Bloomberg.com**
+**5. SpaceX’s AI Surprise Is More Fragile Than It Looks - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTRoWkktNzlubVJqOXNvUGtMNnJSeG1aN0tIVEdINy1zQmVxbzlOVnBRMk5ENzYwVkRfYTM5LXppa2Z4NmQtOWg1Ynl6dHFxZXBuelIxci1qYUNBQi1CU2Qta21kcG1KOVF0Q3FqYzFQeGZjd2VyTzJ4TDI1LXRsTERtcjduQjJyTHJQTUJtUW1HMC1WYnlUeGdvVjFPYWdlUHB5eGRWYnctcXFwZ1dFQnZEZ2FUUQ?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnRMQkJtckU5amdkeTZMUWRVdUV0cmdfYzYyQVMyaTlxTzdIOTNOR3lJazl3TFZBWFllSEtQUkhReWtuWlE1eFFBU0VfUVYtV3ZvdWJNVUhyMnQ3VmVteXA2NlRDSEl1ODlFSnBZYU5XeldWRERkU1poSm8yU1UyOWRiMWxNb1pLLVRjMk9aUE10QXNRY1lNc3V5cjA4dzJpTWZNX1B3bHk?oc=5
 
