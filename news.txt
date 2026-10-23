@@ -1,22 +1,22 @@
-🧠 **AI News (22/10/2026)**
+🧠 **AI News (23/10/2026)**
 
-**1. Government websites go dark after AI-discovered flaw sparks security scramble - Reuters**
+**1. What to know about the AI-detected security bug impacting wide swaths of the internet - AP News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5
 
-**2. Senators press Google on AI in classrooms - Politico**
+**2. How the A.I. Boom Is Driving Up Sales of Gray Paint - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdJdnNHRmJxUm1wM1VKbUVHTXZWQnJuY0JZbEZ2a0x4WVlmT05IZGFaNDRWY1A0Y1A2UDExSFVrRzdaQkZrRVItTU9PN3JwTUllNmM5UlJwbldBM1pQTVROTTNyaHMwVkQwVkpZLXdwU21XUzY5LWNGMW5tYXFJeTNHNV90SUdRLXkyWEVuSVVkNmpmUzN5ZFhkRldpakZaTDJDUzY1OUI0eWJ6?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ3VDLTMxeXhTNEphbE9EcXRDQnNfcTIyQUNKLTF1R1BjMW40b3hqSk9PMENDQ0I5eVJ0UWFfUWhUVnlnVlh3Q0pTak1ScVR4QmE0ZTNLVU12V0NoclZoV2prLVdvUFEyYy1wNldPaV9KZUpEQ2t0dTdBZ0Q?oc=5
 
-**3. CNBC Daily Open: War worries meet AI anxiety - CNBC**
+**3. Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump - The Guardian**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1semNjaklDVl9YU0QzWk9Ia0F5MHhZYk0wQTV3Y1NlVWJQcUc3MkpZRWttUTQxSk1HNEVVV05xc29SSnk3b0ZqTTFNdk1vbG9NN0k3aU10UXNkQkhTQXpNWUhUR2hGT0RJaXlaUVU1SnlETlFNRGk4ZUpVR1QwZ9IBgwFBVV95cUxPeU1hMUV2aWlmVGJsUHREc3kzUlNSdFBMampEMmd6MVFFOE5YS19fZ2hLZXlFdVBqbHluV2MzbGJ3OGlkRjU3UzZoT2FmeHBlcW1ZMWwxODRzZENySGR0aHd5ZHQ1bU16dHVrT3R6WFhFeW14aWhyNkhsak5OVS1zYm1PNA?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5
 
-**4. Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters**
+**4. How A.I. is playing a role in the midterm election - NBC News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1F4dTQ3VzI0TXRydUhVNTNrdXk5TEJkOHNqR1dNem4yajRPQjNseWI2RDNXeUdFNVBaaUd0OVIxWG5HanNvSXB6WWp2QnY5NklqZTd5VVBTMGRFTjliOGJTdVVPekprSHdqRWNQX1EyZlNQdUpabEQ4VXNkX0p0NExEQXQ5Wm14anRVakxYT2pkT0g0Skk4?oc=5
 
-**5. SpaceX’s AI Surprise Is More Fragile Than It Looks - Bloomberg.com**
+**5. A.I. and Its Dangers Are Embedded In the Midterm Elections - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnRMQkJtckU5amdkeTZMUWRVdUV0cmdfYzYyQVMyaTlxTzdIOTNOR3lJazl3TFZBWFllSEtQUkhReWtuWlE1eFFBU0VfUVYtV3ZvdWJNVUhyMnQ3VmVteXA2NlRDSEl1ODlFSnBZYU5XeldWRERkU1poSm8yU1UyOWRiMWxNb1pLLVRjMk9aUE10QXNRY1lNc3V5cjA4dzJpTWZNX1B3bHk?oc=5
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dkcFhzRDJhakxUNEd2MFg3amZxc3p2Wjd2VnRRRllFSGdDQWpjY21LQVpyZFhLdC0yOVVxVmFvMnZjNlNBTE1ZdDVvUUptNXI5bzh4M2Y1djVjNzdRNUd5WnNXVkdLc0VzZ2ZPbjdqdUU3YnMzUllqMm9jYUJxc1ptcVdhUTZwOGtyWg?oc=5
 
