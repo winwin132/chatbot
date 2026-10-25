@@ -1,22 +1,22 @@
-🧠 **AI News (24/10/2026)**
+🧠 **AI News (25/10/2026)**
 
-**1. The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days - CNN**
+**1. Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida - ESPN**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifEFVX3lxTFBYQ2ZnSnZiSFRVLXlORjFOSWx3X1FucWpqX1BlaG1EYVhWcmFCZDgxUDFTM2V5OU9VeVpBLUhKeVM4NnU1bTJOWFB2QlI2VzVBdDR3Wm5Rc0lQWTVXMkZBeGE1T2FLMkJhLUxFc0pSaDJXc2FBWEV5T3o1Tkk?oc=5
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0VzMS1uQ19rU2N4dE93NFBZRzhpandxRnhOTE1oTEx3QVUzeVJSa1ByVEM2eUl2MmZqZzc2N2hybkN3UF8xb0JlaURJSnhuN3lJYjdDbXFtYjR2QXpXZ1F5cjhlUWhlQW50T3Z0MnN1MWZWb1M3cVRtaElYT2lHS3p4TXRQQXZpUHV2N2pMc0lHbXhKZzdIdXlBa0dEd0dzTmxsWFRUNHE?oc=5
 
-**2. AI's 'Black October': Critical PHP flaws set off global security scramble - CNBC**
+**2. Washington's message to AI execs: Please shut up - Axios**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdG9IQk05V0RreXowdWtENmZNSTZPRWFMczNQUGZCcE9nZFFOMnpLWmJmSkUtMldUMDRzNHNTSWVPSmpGTE1wM1lYS1IzQmE0MktGYTdndmtXYUdRaXRUaUMxcjAyd19IX3I4R3FXanQxZ3p1NVFCMVlHODBCUdIBgwFBVV95cUxQU1ppdm16cTYwY0FtZVhKMlVjeWZLUTl0UDRadXZ6UHV4bHNYNXFnQm0xak9zMjA5MFF5Slg4bkg5ZEt4Y1lEQy10Z200amVpUkU0UGNtNHc5bndSQks4LXR5ckpGVzlQYTRfSGNxa0Ric2U1OUU2dGQzem9wZUJHczVsbw?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5
 
-**3. AI Hacks Are Coming Thick and Fast and Overwhelming the Internet - WSJ**
+**3. Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5
 
-**4. Securing our frontier model training environment - OpenAI**
+**4. AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE) - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ280VllQUUNja25xM29wZEJuYmNjdXNub2ptTmZ4OVg3VzcxNHY2YmJ1Q2haeWdQOHZTQjRyY2o3RFlqRTJIUDZoLUZrLVpobFo2VHZ6LTBMSW5qdGNhVUhjSWFxZVAwdEk2enB2dkRKcEQxWXRzQWplem9pUDVEdEV4Z2ZoOEQxTEpxaWhIVHp2R2RSZm1RNDRCVmNOVDQ?oc=5
 
-**5. OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg.com**
+**5. Walmart worker says new AI scheduler favors 'clopening' shifts and no 2 days off in a row - Yahoo**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0dxUGFjRllSd0dic1lhbXltLXNMLWM3bkJkaVRib1hhWmpSTWRzYWx6LUdveks5Y2RmQmNQWnZ6Z29xRkt3UVlOLWx5aW1xNjR6aGphNm1NR3Y3SVgzQkwtY1ZhMWhxdlA3LV9ldUV6Mm91dGc4MlE2Rjl4N09FWW1VcF9BOW5WSTlNX1hPbw?oc=5
 
