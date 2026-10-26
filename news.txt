@@ -1,22 +1,22 @@
-🧠 **AI News (25/10/2026)**
+🧠 **AI News (26/10/2026)**
 
-**1. Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida - ESPN**
+**1. SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0VzMS1uQ19rU2N4dE93NFBZRzhpandxRnhOTE1oTEx3QVUzeVJSa1ByVEM2eUl2MmZqZzc2N2hybkN3UF8xb0JlaURJSnhuN3lJYjdDbXFtYjR2QXpXZ1F5cjhlUWhlQW50T3Z0MnN1MWZWb1M3cVRtaElYT2lHS3p4TXRQQXZpUHV2N2pMc0lHbXhKZzdIdXlBa0dEd0dzTmxsWFRUNHE?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5
 
-**2. Washington's message to AI execs: Please shut up - Axios**
+**2. Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVAyZmZTRzViZmxwNzRUSGd5MXpWNlRFLWlzT3RBMWx2cUhhaFhXUGRHeHRjam9LUldoZUpJNnVyTk9JcGdzVC1FTzNhQWVnWUJlV2hEZ1lFRzR6aE1TWXFiUG1tYWF1c3FjX00tX3FoMXk5bUtrNm1Sd2k3QTd1b0dYUUlhbHBJRDRabHg5VmdyLTV5TXRtZ1ZMWmJIeF9iYWh5T1dqMUZYbkF0ZlVBaWtn?oc=5
 
-**3. Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter**
+**3. Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals - MarketWatch**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5
+https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDNxMmp1ajNLdXJnOGRDbVlpamxIUUNnU29YUEZaNnFoVmxRUzRqTFVZcVVUSDhuMGxnN08wcXhzNVg3ekFRbXZxMERjaHNlX1F2Z3RhSWVBclFadmt4a1FEc0dNZFBqZG5JQ2JHd0o4MExXN252VDdtdkdpYUw2ZVRwbk9pU3c1eWNKRk5UdThyeWlneEdiNU5OakxwXzB3Qlg3SWQzLUdJYVBsZkUtYXd0TW1mb1ZaMmljWXNYU0VyTDBzU3c?oc=5
 
-**4. AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE) - Yahoo**
+**4. Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble - The New York Times**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ280VllQUUNja25xM29wZEJuYmNjdXNub2ptTmZ4OVg3VzcxNHY2YmJ1Q2haeWdQOHZTQjRyY2o3RFlqRTJIUDZoLUZrLVpobFo2VHZ6LTBMSW5qdGNhVUhjSWFxZVAwdEk2enB2dkRKcEQxWXRzQWplem9pUDVEdEV4Z2ZoOEQxTEpxaWhIVHp2R2RSZm1RNDRCVmNOVDQ?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjJUaXZ4MW0xNTEwVWFNZGYtS200cHVkX3lKYnhhNGlxNFZaWU50SXFtaFlqYjI0eS11SVVtUTM5cjRJTncybGpzMjREZ29Md1dWU2FzbUV3SGFMcmNHZUd3ZDRrMWlJeVdyUVA4R0lfcUFzVnBrM19KZ2p3eXlTeGJySm9IM2dE?oc=5
 
-**5. Walmart worker says new AI scheduler favors 'clopening' shifts and no 2 days off in a row - Yahoo**
+**5. Alameda girl uses AI to create talking skeleton "Uncle Murray" for Halloween display - CBS News**
 (สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0dxUGFjRllSd0dic1lhbXltLXNMLWM3bkJkaVRib1hhWmpSTWRzYWx6LUdveks5Y2RmQmNQWnZ6Z29xRkt3UVlOLWx5aW1xNjR6aGphNm1NR3Y3SVgzQkwtY1ZhMWhxdlA3LV9ldUV6Mm91dGc4MlE2Rjl4N09FWW1VcF9BOW5WSTlNX1hPbw?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklET0lqUHJHcWZ5alM1dGY3RnJoUGRfVTlFZ0ZiQzVTUkF3NnZpV2liRlpBVFowTUY2dFdMWHBEajh6RGc0d3R2LWxScWN0OFBOeld5cGczd0RKelJVYWdFZjdxWmI5MVhrNGRQOTdTN0NDY0FLZXFzRUNfOVNEU2prYm5VcmpFZU9hbE8yRGt2Tkk5VEJlRWZnTUF4dGpVcWFZNVVPQ3RDaGRQZTFkeg?oc=5
 
