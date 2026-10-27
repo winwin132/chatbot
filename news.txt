@@ -1,22 +1,22 @@
-🧠 **AI News (26/10/2026)**
+🧠 **AI News (27/10/2026)**
 
-**1. SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5
+**1. In China, the AI bubble has already burst - Reuters**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5
 
-**2. Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips - Bloomberg.com**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVAyZmZTRzViZmxwNzRUSGd5MXpWNlRFLWlzT3RBMWx2cUhhaFhXUGRHeHRjam9LUldoZUpJNnVyTk9JcGdzVC1FTzNhQWVnWUJlV2hEZ1lFRzR6aE1TWXFiUG1tYWF1c3FjX00tX3FoMXk5bUtrNm1Sd2k3QTd1b0dYUUlhbHBJRDRabHg5VmdyLTV5TXRtZ1ZMWmJIeF9iYWh5T1dqMUZYbkF0ZlVBaWtn?oc=5
+**2. The markets are starting to act seriously weird. Blame AI - CNN**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMicEFVX3lxTE16T3BsVmIwcktFNjNLM2hQYVRGZUItX053emx0aWM3Z0U2Ukk0NEIzNWlYblRlZ185UWQ0M0xOTW9nNHkxZHUwVGxzcS1BY2tualUtOVctTFhSMFN0R09pcC10OGNNVUdYYUJsdHE3NUw?oc=5
 
-**3. Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals - MarketWatch**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDNxMmp1ajNLdXJnOGRDbVlpamxIUUNnU29YUEZaNnFoVmxRUzRqTFVZcVVUSDhuMGxnN08wcXhzNVg3ekFRbXZxMERjaHNlX1F2Z3RhSWVBclFadmt4a1FEc0dNZFBqZG5JQ2JHd0o4MExXN252VDdtdkdpYUw2ZVRwbk9pU3c1eWNKRk5UdThyeWlneEdiNU5OakxwXzB3Qlg3SWQzLUdJYVBsZkUtYXd0TW1mb1ZaMmljWXNYU0VyTDBzU3c?oc=5
-
-**4. Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble - The New York Times**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
+**3. Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble - The New York Times**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjJUaXZ4MW0xNTEwVWFNZGYtS200cHVkX3lKYnhhNGlxNFZaWU50SXFtaFlqYjI0eS11SVVtUTM5cjRJTncybGpzMjREZ29Md1dWU2FzbUV3SGFMcmNHZUd3ZDRrMWlJeVdyUVA4R0lfcUFzVnBrM19KZ2p3eXlTeGJySm9IM2dE?oc=5
 
-**5. Alameda girl uses AI to create talking skeleton "Uncle Murray" for Halloween display - CBS News**
-(สรุปไม่ได้: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}})
-https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklET0lqUHJHcWZ5alM1dGY3RnJoUGRfVTlFZ0ZiQzVTUkF3NnZpV2liRlpBVFowTUY2dFdMWHBEajh6RGc0d3R2LWxScWN0OFBOeld5cGczd0RKelJVYWdFZjdxWmI5MVhrNGRQOTdTN0NDY0FLZXFzRUNfOVNEU2prYm5VcmpFZU9hbE8yRGt2Tkk5VEJlRWZnTUF4dGpVcWFZNVVPQ3RDaGRQZTFkeg?oc=5
+**4. Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem? - The New York Times**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5
+
+**5. BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush - Bloomberg.com**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVJoVHlSX2EzYWtGbG44ZzhWSTdjUnc5ZWxpWmFmdzdGTzNQTVhZS3VwQjF6QWdpeGhRZDlySng4UERmbEhxbXBpM1BYdFhuVEJndmtGS1MtZnIxMkVILVBENDZDY1FBaEY4NmlLMmxHTmlaOXltR0FaMG1nODRod1JYNVhxRE9VeVFJZ0lMa0xYU2ptbVNiTVcxeFpla212aXhNUkVLUmxlTEVvRW15NGpxUkNYQQ?oc=5
 
