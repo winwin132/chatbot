@@ -1,22 +1,22 @@
-🧠 **AI News (27/10/2026)**
+🧠 **AI News (28/10/2026)**
 
-**1. In China, the AI bubble has already burst - Reuters**
+**1. An update from Amazon engineering leadership on the role of the developer in the age of AI - About Amazon**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOajY2MDU2cll6ZWRoYVVWb3hXd2Zsb2xMbjhkOWNMRVQwd0twRFJUX3J5WjBFWlpycS1LS2UzTngxbU9kTmVTQnN2RW12UGh1S1UwWktOeS15bkdVSFNRNndqYjlCUmhMWTlmaW01bHI2UFhzc2NDUXc1c1lEbG1XN1JUTkdLQXVpaW91UEdDSHV2dw?oc=5
+
+**2. Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI - CNBC**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5
+
+**3. The era of the Renaissance Developer is here, thanks to AI. Amazon wants software engineers to adapt. - Business Insider**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEtTazhhZEFiRC1ta0ZTWW5VUjBhdHc2QkFYLVk5UjZWeXFxbTRzcE0tYzVvZ2NULTJZTk44amphaW5mNHd1anRBQmxlVUwzdGNYQy1STDEtZUYtdXZNWlY1ckdLN2lOUXIwRkhkb3BucXNmSWh4R3pfa2xlTUxMM0NVejdlamJRRGZzdE10QzNJT2lYWlk1T2dNOFB3SVE?oc=5
+
+**4. In China, the AI bubble has already burst - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5
 
-**2. The markets are starting to act seriously weird. Blame AI - CNN**
+**5. Chinese markets lose trillions as race for AI supremacy with US takes its toll - The Guardian**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMicEFVX3lxTE16T3BsVmIwcktFNjNLM2hQYVRGZUItX053emx0aWM3Z0U2Ukk0NEIzNWlYblRlZ185UWQ0M0xOTW9nNHkxZHUwVGxzcS1BY2tualUtOVctTFhSMFN0R09pcC10OGNNVUdYYUJsdHE3NUw?oc=5
-
-**3. Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble - The New York Times**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjJUaXZ4MW0xNTEwVWFNZGYtS200cHVkX3lKYnhhNGlxNFZaWU50SXFtaFlqYjI0eS11SVVtUTM5cjRJTncybGpzMjREZ29Md1dWU2FzbUV3SGFMcmNHZUd3ZDRrMWlJeVdyUVA4R0lfcUFzVnBrM19KZ2p3eXlTeGJySm9IM2dE?oc=5
-
-**4. Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem? - The New York Times**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5
-
-**5. BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush - Bloomberg.com**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVJoVHlSX2EzYWtGbG44ZzhWSTdjUnc5ZWxpWmFmdzdGTzNQTVhZS3VwQjF6QWdpeGhRZDlySng4UERmbEhxbXBpM1BYdFhuVEJndmtGS1MtZnIxMkVILVBENDZDY1FBaEY4NmlLMmxHTmlaOXltR0FaMG1nODRod1JYNVhxRE9VeVFJZ0lMa0xYU2ptbVNiTVcxeFpla212aXhNUkVLUmxlTEVvRW15NGpxUkNYQQ?oc=5
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5
 
