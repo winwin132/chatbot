@@ -1,22 +1,22 @@
-🧠 **AI News (29/10/2026)**
+🧠 **AI News (30/10/2026)**
 
-**1. AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them - The New York Times**
+**1. A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System - WIRED**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxObnc2SmpjTlVNU0UzQkVNZW1GNENySUQ2Q3dBY0xLMWRjU3BkdnhjZDl5VktMZFpyT2tCelNGT3Z2eUNybGgzWnQwMjFvbUtnV2ZSUjNqWXdsdTF4SXZRdHMwT1NyZk5GVjJzTmFqeXFDQ1A4QWJaTVRhRmZhaHdZWFhYS2xWdG1STThkeFpTZ21SVDBGQk9YRzlJN2dXMmdKc1pWT0tNaGhMMHpFZFBwX2xkOA?oc=5
 
-**2. What Should You Do With Your Money in the Age of AI? - The Atlantic**
+**2. Google value plunges by $500bn as AI fears rattle Wall Street - BBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihAFBVV95cUxPZktXMm92WTRPRWV1MUNZOXlmQmt4d2FBSFV3cGRTN2JFNzhhRmYtdk8yMUtPSmRoNFhFNlBLZEI3YnBfQy1tU1Y5emE2ZGJwNGNHOWEzRWpiWkJRVUhQWlRSdGlWWk1JSFhkc2VqaDZBODE3NEdRbTh6VnJVWUswdmVpVkg?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5
 
-**3. 'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew - BBC**
+**3. Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dnFDQzVvMlRseWFDUElaMFRvZXpRZFFQT0QtUWlSNUlkT3YzRG5kaDloWXBsZUhPUEhNa3pDWjhnQWxDQmJuWmcwbWRVTWNEZVFGTDBONzlDd3M?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5
 
-**4. Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips - CNBC**
+**4. Google stock's historically bad day raises fears of AI bubble popping - NBC News**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjg1ckNTT3R0aUxzR05RZEN2LUZYempyTkl6UW5aVUJZbjdxODAtb19za0NCdnd0ZnNVRHJMSV8yUmdDWkkwUTAtc2hmdjVPZjAyTzQ3cEhaQUFyNmJ1YkhDNG04Wl9LdWI1TVZwa3l1T0pQMmtUbXNzSnhxOWlCQmRPNGFnaFBDLTlrbzFkVTBNdFJzQWFlSjhOR1g5WUlJUi1JWFRyNlpFekNTZjMxVjln?oc=5
 
-**5. Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope - Bloomberg**
+**5. Gemini 4 Carbon: our next frontier model - blog.google**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMitgFBVV95cUxORGJsVE5PellOMG00OVVLbi1tLVFydl8ya3FJVXNadWo5NThCMFZocnFmUVBZZEVlTkJUNlJwYXFvWUtLRjdPNTJsT2lQZlZjWXc3SWY5QXpPWU5KQUJuQjdlOE5PTWFBbU9CeWV3WUVrWHJPMXZqVEVLU044OVpMVGJOelE4VkR6NkJsUzNjQmdfdUtKaW5aRHg3UzZoclFrWnVLRldHejhnWmstaTRhV3Z4MmUxQQ?oc=5
+https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5
 
