@@ -1,22 +1,22 @@
-🧠 **AI News (02/11/2026)**
+🧠 **AI News (03/11/2026)**
 
-**1. Why AI is boosting Meta's ad business while hurting Google search - CNBC**
+**1. Inside Anthropic’s Hunt for A.I. Computing Power - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5
 
-**2. People are 'vibe manufacturing' their ideas into reality, creating toys, answering machines, and jewelry - Business Insider**
+**2. US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pRY0F6dHBXNWlLY2hIYnhCMWZSQnRuU2lyTVFDZU10emZ0dDhESnJ1YzBuTW9mR0dMekhqUkx5U3VxS2hFQjVwNVo3VjQ4VF9nUU9zQm5QbDQxT3ZCaWM3aWd0RVNxTkZWNHVVMHdyTjVNTUl3NE1adFNkQnR3ZFl1N0hPZzdsVlhn?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5
 
-**3. India Large Caps Gain Favor Amid Global AI Selloff, Small-Cap Slump - Bloomberg.com**
+**3. Joe Mazzulla explains why he uses AI to help him as Celtics coach - Boston.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSURxZDYtaFZrWVZzYmtkc1J3UVZITGR3NEluUWtzbEJPZzFfeGMtMEhoUlpucGVsUjJmUGdvdnhHS3hOUW43RnZVSkNnSUYzZ3JVUkY4NEVGYlVsYVVLakFoZldPa3M0a2xVRUp6dlQyenJoWl9FMTZEOV9sSkdFSnRFSUtVQUcyRnNLcTJsR0xKY3BJQjhXRGhjX2ozb0FYTjJReWhkTEJPS25sU05oZVZlZXVOU2wtSEExRHV4ZUVFRU0?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkVCaU5FUEVLMzlUa0diUVNteGxQdTNrM3k1S05lRUlIZF96cEl4bjNaUzZPUklaYmJ6TEdBTkN4Z3FscGo3dzJqM1VIQmhZcHEtX3hUdC1OTFMyQmZIdV91Z1RnVHlUcHhlQTdiMGVXd3hrUmFJZDJzWUxNVC1kZDRRclhYM0xXR2hWUW83OUFDZk5xa2hyMkowcjA4ckV3Y0VpYURvZkYxMnZ0TXc?oc=5
 
-**4. HSBC to open Hong Kong AI Institute following Singapore launch - Reuters**
+**4. EQT Chair: Partnering with hyperscalers in AI cloud is a 'pretty safe bet' - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3pJaXZNTGtkQlJBRngzRHFQNWdsSGZQN0R6VkNUMFRKYzJtWWhob0ZoQXF5Q0R4TmRYZ0ctdkxweW1XRm9MUWwtZ090V0N1MTdXRXN2TmFpa0UzemRISEdlMmxyWmFXYmgxNVJIZVpFeS1vSEtkU1VCOEtzTk5qcjh1dkdFemU4STNhOWRUNkJDeVpJbUIyQnltQUFxalRPTS1mUTZnV0dvUQ?oc=5
 
-**5. Utah students wanted a say in classroom AI rules. Now they're getting it - KSL News**
+**5. Open AI lawsuit claims of child exploitation continues - NBC Montana**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0o5cVhPZWJMUFd0eGRkc0tSSkxhLURsdzJUT2FmUDZvNGgtYTZGVFRpRHBMOF9CdEx1RDdSb1ZBc3BfcUtDbWdDN0h0S1RVVzNfcHhRYjBKa3JlbjRmV3ZDN3cyWElzS2xGaG0xWUxRbmJfQnN4eUV6SEZfcW9hUjBhMTRjTDJET1dyM0ktU0gyQUxrTlZlQzVrOVliYnVfVFVSQXJOb045bUE?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFE2ZUpiSUpwMDBSZ0sxMEJJZmFFLVNHTFRNR3NRUGhKdUItc3V1NWFvQWIzN1hXMnF3N3NRbjFVTFZfbW4xTHNyOFlYbkdMMnU4a3JLQ1NvNE9ZN2VfcGx4NlBLOEwzYVF5U0Y4dVlfaXdiS3Q3WmhzU0ctUnZNaWtnV3N2ay1aTHFSY3JMaUFSQQ?oc=5
 
