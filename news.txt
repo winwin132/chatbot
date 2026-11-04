@@ -1,22 +1,22 @@
-🧠 **AI News (03/11/2026)**
+🧠 **AI News (04/11/2026)**
 
-**1. Inside Anthropic’s Hunt for A.I. Computing Power - The New York Times**
+**1. Google Will Turn Off Search for Schools That Reject A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5
 
-**2. US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg.com**
+**2. Google to shut off search for schools that opt out of AI - NBC News**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBsSzByWUh5YVNuZGpjVXRtQ21SMG0waXByX0JZVl85eGJ4M25FOExEMDJGTWpXbjJJa1dheEJLSXV1WEo3VWtMWEFaeWNfeW1FcWNpVTBZY2htRWxMdVExVVRvYjFQYUJyTXVSTjktMFc4VEJXb19JRTNTelM0NTh2akZrdFBTdVZr?oc=5
 
-**3. Joe Mazzulla explains why he uses AI to help him as Celtics coach - Boston.com**
+**3. Google responds to political backlash over removing search from schools that ban AI - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkVCaU5FUEVLMzlUa0diUVNteGxQdTNrM3k1S05lRUlIZF96cEl4bjNaUzZPUklaYmJ6TEdBTkN4Z3FscGo3dzJqM1VIQmhZcHEtX3hUdC1OTFMyQmZIdV91Z1RnVHlUcHhlQTdiMGVXd3hrUmFJZDJzWUxNVC1kZDRRclhYM0xXR2hWUW83OUFDZk5xa2hyMkowcjA4ckV3Y0VpYURvZkYxMnZ0TXc?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenhBb3YzeXFrNE9nVmR3QUZTZ3M2RlRleVpqMjZMUll0azhuR2ZtUmwyOEcxeEluUlN4UDdQNU54ak9HTUI2ekY4azRzUk9aTVh5dUJYVnhkTVdPMGtIYjR6V0xmdWlqb3hNRmROVzFmZFNEZlJZZV9DaTRlSGQ4akRkSGxjZ1p2dV92cTFxaEUzMTVCNTByZW42T3ZGS3hUR0JOZzRaYWozM0nSAbABQVVfeXFMTktHaFBsT1hOVXFLTVo2RUhyZHNWbkVUU3FhVjdxczdRT2ZUOXFUakJCV0pHUnNkU2NycUd6NEMxS0ozT2VxRFAtbWpnc2lKUWhBZ3c0NHRFMk9vQ19pNTBxc0NCS1N3TmZqNGdwdUcwbE51by1NdEJiM1pOcl9HQXpiMmwwaklRTWhpVC02anVSMmF2QU8yZThyWVpwUWNJb1lObmVYdDc1S0x4VDFrVmQ?oc=5
 
-**4. EQT Chair: Partnering with hyperscalers in AI cloud is a 'pretty safe bet' - CNBC**
+**4. Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3pJaXZNTGtkQlJBRngzRHFQNWdsSGZQN0R6VkNUMFRKYzJtWWhob0ZoQXF5Q0R4TmRYZ0ctdkxweW1XRm9MUWwtZ090V0N1MTdXRXN2TmFpa0UzemRISEdlMmxyWmFXYmgxNVJIZVpFeS1vSEtkU1VCOEtzTk5qcjh1dkdFemU4STNhOWRUNkJDeVpJbUIyQnltQUFxalRPTS1mUTZnV0dvUQ?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5
 
-**5. Open AI lawsuit claims of child exploitation continues - NBC Montana**
+**5. Fireworks over San Francisco linked to AI conference - San Francisco Chronicle**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFE2ZUpiSUpwMDBSZ0sxMEJJZmFFLVNHTFRNR3NRUGhKdUItc3V1NWFvQWIzN1hXMnF3N3NRbjFVTFZfbW4xTHNyOFlYbkdMMnU4a3JLQ1NvNE9ZN2VfcGx4NlBLOEwzYVF5U0Y4dVlfaXdiS3Q3WmhzU0ctUnZNaWtnV3N2ay1aTHFSY3JMaUFSQQ?oc=5
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2p1UEw5RWhrYWJZcFpva3I0QThzYzRRc1VWcGtGQTZoS0xIZUllYzM1SWlxSjJNMExESTZhcFZaUUVzbDNiYkVsaDhzZHRwUGFMbk91YUNxaWJoWW1SaXlJaFNiQWppbmRUVUFXeDJIcWV5dTZTcnVJb1RST1RIY05weEJrOWVtbEVXTjZ4X2JKSG1KaTlkMGxhWl96RjBnRzBVRXEyNnVSNjA?oc=5
 
