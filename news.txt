@@ -1,22 +1,22 @@
-🧠 **AI News (06/11/2026)**
+🧠 **AI News (07/11/2026)**
 
-**1. Stocks plunge as Dem midterm sweep fuels AI regulatory concerns - Fox Business**
+**1. US tech stocks edge up after AI slowdown fears hit value of firms - live updates - BBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE15QkdRc1NxV1JyTnFCUkVHQzZNUm9BZlA4NUI3Z2JZOHlmMDAwVmhvWU9lTDdxb19SU0dQMDNKMldYdndYR1FxSGtuaThxQ0lrNG9TYktLeHdUZ1l2eEVJWGdUa9IBaEFVX3lxTFBRVTJmNmFjajBDUk1leXdUNElhcHZsaUxnRU5kVHUyY2xfMGstWE04YkdYQnhlTjMwV0Ziakh6ZWZkZkNYa2lmLTNzeGhnRzdqVXF2SjFDMGhMZHZ1MGxadWNTa0xOT3NB?oc=5
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5
 
-**2. Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR**
+**2. AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition' - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTFB3NEIxWUZxNkZ1dHpkTlNSdWh3MTJSSTRNNzEyZmRBaTVPX05jVGlmQ2pkWVNaSXRlRjZiVXNkXy1NVjdZMnZ3NnlVNkFpVFc5Y2JSTUpGb1BHakFudjRQR1JwVGJXWmVkT3J2S2loNzl6eGFKTXBz?oc=5
 
-**3. Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News**
+**3. Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5
 
-**4. EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters**
+**4. Data center double-down: Hassett says blue wave won't stop AI build-out - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTE5MN2JaaE9uSE9UZnc4UEszM0tUUTd6TkZ0Yzh3MGx3NzEtMjhuLThkcWxuVm5HanF6OGtuN3FUV0RUREl5S05UWDhuQlh3b2xPOUJLNGpTMTNUaFBuR0FzYkk2SU5pVVBoSUJ5YjktU2twX2J2NWhEQnhn0gF_QVVfeXFMT2QxN01wcXB0ZU1iVFh6TU9HaHVfN0FVT2duWjRkc2l0MHVQNGJmd29QLV9aVk9iSk9kRHZKUF9xbUEtdUFISEhfcFQxa29va0d0dWx2amhsQ1g1UDB2TkNTcWFzRmZDejFSYUllazNSRE15MU1NR2FzcUZKWklwbw?oc=5
 
-**5. How the midterms could fuel the K-shaped AI trade - CNBC**
+**5. Democrats planning flood of AI bills when they take control of Congress - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiekFVX3lxTE85ZjJvMHpqdi03OUdNNnlyV2Y1Zk5pM1ZacjY2ZmJKSmNlTDBhSGw5TzRfZmdpTnFvWndCcFNGOTNxYmpJTHFoaVRHYk5iQkQzTWYyT2lQcmVETE5zdXZNZ21BNWMtY09NbVpEdzlxRnNGYjdxTUJmY29n0gF_QVVfeXFMT3NSbkhmRHFQTGdOZTBuMk13VkVVT2ZiT0lZMjhUcVJ5TGVCbk83cHBNS0hwcUZqajNULUF5RjJTUHlMVWRCYWVKc2FYbDdtNUJzY0FWYURKVExhaEhoOGNCa1B6VWE1QThMdlpDTzZBaEFLQTNSWWIxMGVBNS1RVQ?oc=5
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5
 
