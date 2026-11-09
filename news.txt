@@ -1,22 +1,22 @@
-🧠 **AI News (08/11/2026)**
+🧠 **AI News (09/11/2026)**
 
-**1. Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC**
+**1. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5
 
-**2. Americans are anxious about the AI boom going bust - The Washington Post**
+**2. Apple is racing to make Siri more agentic - The Verge**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3JaWFBERDlYSHRpakp2VDhPRFAxSk8wX3hyalFtZk5RVEhVQ3hnSndLdjVmdE43S0JfZkRIZ2paYk83MUNrRmlnYVFPbDJUSnJLVEF2bDg1Sk5pOFZQSm5tQVFlUUxfSVQ4SjFsSFp6T1dEMWhLMzlrTzN4WHdHblNiQndxc3dv?oc=5
 
-**3. Study reveals New York's most popular AI chatbot - Yahoo**
+**3. Apple's CEO Reportedly Pushing for More AI Features, Faster - Gizmodo**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hrNng1TGNQcXR1dzVQTDRPdDNJUjFKMERONTZVUWd3cEUxSkVEV0ZBZUg0SW1VU1U3Y3JPWTdMVGJQNFZ4aUtOZW5rX0RzNW9XV0h2OWY1TUV3V25EbzBBLVFjb0xPb1JCeFhndGQ1S3FhVVZmRnVfanMxbFIwaTM2SWJPcWdo?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxPMlpncmR6UTlPTTdDSlBzN0I3MTN6dVFmTlVWR211ZWFhSXBNLVM3MTlFcmNPbm9QOXhSQlJPLVVQcWkxU3dTRFdiOFg2Z3l2cEJlMVgwaWRubVg4MlRKM1dxUlJ1YXljTTBIRlZvMlJGTjdra240bXFqNG5OOVdPY1ZSanNQQmpaSERnNEJlZlJRSXFuTFhXMXVweHdnZw?oc=5
 
-**4. Can I Have an A.I. Chatbot Field My Mother’s Endless Complaints? - The New York Times**
+**4. AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns - PBS**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2w0Qk1iM0hiZERTTDRIT1RheVJobElSYlM0MTVsU1JGOU02TUpvekhsUkZjcFFUYTg0eTU1RlJPeUtkOVZMc2FWYXhhVnU3ZU5hN1lYLV9hYlRwNW9OUE1XVE81TFBTTFFmaWZnS0JhcmUxd0hfcnZ6SUhDM3RmOG9JcHc?oc=5
+https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmZYc2w5LXZFeVMtNEtZWUR2cURFcUhqbVA4Rk5sNXZBVnlFOWdXZ3RSenBJVG5YLWwtM2hNUWcwaUo0aFVMdTNlLTdxQVRMM1k0RlBwSVJmMk1wbWRyeHdkX19nUGZ2TGhKdTl3eWxBdG10bU1iMHU1dTYxeGpYYk5rZF9JejdRbjllTGdSRW1FNUNnVHhiUzZITGxiRlk4OW95bkN6V0wwYzFWYXZFNWxkU1I2c1RLYzBMVnhlX2ZNaWUzQ3hIRDM4TzBhLXPSAdQBQVVfeXFMTnU1Q19ObTZjMTdYTHZseGk4ek1GMHNsaEs0REFFRE85Y013bzNmVU5PMXVOdk9KMWZZdUNkSlRJZ1VvN1FFdHRJY0llWmMySHJ3WThkYzFBcW1jSXhBSU1OV3cyRFZLYUxEQ09mdHRQNlllSmE3dU5TWjNWU1A2MGh4TC1rRm5lQzRiWlJOQmlNT3ZOaXphdWJ1ZXNLVmxWamNvcFdXODJlb0p3Y1VDbFlzTVdYRGZkY3ZsUHdGUGFWNXdQQnlGOThSVmNTaXhiS1NITFE?oc=5
 
-**5. Why investors are dumping AI company stocks after Democrats’ election sweep - The Washington Post**
+**5. Indian rupee rally faces test as AI jitters calm - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHBQalQ0UlBpeEtqdmZBTlJpQTJtaVNlV1B4Zm45UnV3Q0R4VWl6MXF6U1RfZDRUSXBLQU5YWWFma0xxMnJ5OXpiRVliTFlELVoxZEZiWGFmbm8xNlJvTkJBdlZCTlY0RzlOTVNZNFp2UU1qTnFsalotZmZPcE5YbVktcm9URUNUN0dSN2draU5EYU81ekl1ZTZCOGZoZFRmVDI0NDlON2k1ZEREMEdyaWJsaHZyLTU5QWhNNnJ6bWE5U3BU?oc=5
+https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRYMGNidi13ZTlOWEpSRUR4cTdxV0ctVlowT2htXzZFMzJTUHhhSUdmcmtJczFKWFBkaWdrR1hCNUJpay1aNmVlRlNhUVZaWmpUc0pxU01ia0hUbWgwNnlaTEZmbkRNaE9GZUpoQjNpejA5ejA0akU0dWhQUmJQZG9wVFJLTF9kdE80NElJaFZZU2Y1UmhTdA?oc=5
 
