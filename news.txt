@@ -1,22 +1,22 @@
-🧠 **AI News (10/11/2026)**
+🧠 **AI News (11/11/2026)**
 
-**1. Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot - The New York Times**
+**1. Trahan crafting AI safety bill with narrower state preemption - Politico**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ?oc=5
+https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU16M2J5ZnZXN3Rrd0N3dWtvdThzTWVsblZOZmxlaTY5cEdwdWJHZXFKekNCM2JCOE04WTV0SE9kNFBUbHl4ZkhmX1M4RjNNVGlfakRiMm5NUmsybUZMODc2eEtoeTVxX3c4TWZINUxSM1IwYkNZV2xIYjFpekhRYlhVdFpJdUFxWDVid3lGbWtVSUZpMHZZdnhJZGk3Z2Y1RHR0RFBJbk1odEhjbEdHandNekY1N0NBMVlYWUttUzQ5NEFhSUtSR2xIbnM?oc=5
 
-**2. Can a ‘Find My’ for AI Chips Really Stop High Stakes Smuggling? - IEEE Spectrum**
+**2. Nvidia Scandal Tests the Resilience of the Global AI Boom - WSJ**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJTGRjX2U3QjVZRHpoMmo4cFZqaFFxam5nZ0FrR1BJLV83U0Faa0l4dkZuZGVVSzZscmtMZWJnWGRLWWh3YXd3TGVPYnk5M0l3M2FN?oc=5
+https://news.google.com/rss/articles/CBMiekFVX3lxTFBNdkpNQzkzdEJ6ckViNm9Gbi0xX2pDRjdZLUI2Zmw3clFLNldVWWszX2F1RUFDRnZRbjRfbTFIVV9iOFFWS3FSY2twXzFBcWVab2tuY0FNNWZ6RFcySk4xZjJFWmJkWGdfYmVER3kyTkVhLThqVU1DVXBB?oc=5
 
-**3. Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why - CNBC**
+**3. Swansea postpones discussion on proposed AI data center - Yahoo**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiekFVX3lxTE9mRmcyLUg0WGtROUVfM1hsLWQ1WFJiWWhiVDB5SDZScHpVaGE1eWRHV0hEUTlJcUc5UHd4THpvMGFfcTRYZURXSFdFQlhOV3dtZlprcDNNZ29HcXktUFhTb1ZrcWVkelM3Q3lobnBSaFdMMnprejVreF9B?oc=5
+https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFFlZWJXeXBoajdUMFlXTTBSUUFXQmpaRUxFdy1ya2Q4UlZGbml3N1UwUUJJcUdtLVFkc0tJT3F4cTN4NTZ1alk4QWt6UEY2RHdJRjI5anNNT3ZaeU4xbS1zdnFMY1BrdWVIZGduWXEtWmtGSkdpSTNQb2gxeXZybThDb3hSZUtUamhmMklnYzVYLWs?oc=5
 
-**4. US stocks rebound after AI rout - Financial Times**
+**4. AI boom fuels demand for 'forever chemicals' as major producers plan to increase output - Yahoo**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5
+https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEo4b1E5UWdXWHFWcUExeE9QQnF6RWRlY0xLa1F0ZVB5OE9ITjFEOFJ4U1BQdGt1X3NuMXZCeUQwQjBzUnNhRllPSjhxbVBFeDRTOEFGWmRzdXpEZWVEbXN0clZOMkE5dVpEOGEyeWoyNzhtRk1hcy1oS1o4MW1KRDNPNlhET1Y0N3VMSHdDeGE?oc=5
 
-**5. 3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk - Yahoo Finance**
+**5. CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREhzNzZRQm01UmNlcG9WQzVqZE4zMC1fbjNhUEtBYkY4VGY3VVJIRC1lUG9oajJEOU9RNDh5Z3hXSVhBby1aOVBkT3R3RUVIRHpCWFJ2cWJyNFZzbHVEcl91SGpWUE8wNVhtRzFxWENnaFN0dzdrZGRjS0hpTDR2djV6NTkxaU1IYXpr?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUJtNENyWm80blVZMUNHNFh2MXpxTmdMSnhmTzF5a0t0NUxWNjJFZ09ZejRoay04MzMwallkZ1hBV0ZRSGVoRG80V0xIcURMcnhyc2Y4VUM5VW9CX2RtcFdDTzBITF9FbnFMWG9SWVNVT2xXM0M3YVo3cUxPVmF4ag?oc=5
 
