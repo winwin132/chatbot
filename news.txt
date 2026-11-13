@@ -1,22 +1,22 @@
-🧠 **AI News (12/11/2026)**
+🧠 **AI News (13/11/2026)**
 
-**1. Exclusive | United Airlines Is Banning AI Bots From Booking Flights - WSJ**
+**1. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil - BBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJHb3JWSEhmc1BHMWxtalktN2E1bHZPZkN4dFRDT2dfVGFSLTNLRktaUXphdHVkZm9JT0dWTG5PamFFLUxTNlVGS01GVm5EYllERWRTSE9RQVBPNWNjWmNuWmZFdTJKNzFHZmRBS3VYT3JtYUwyWnNoQTE5Q09wNVh0R1lqanZubEU0VmdhSmZ2OUNXaVdR?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5
 
-**2. United Airlines bans AI agents from booking flights on behalf of travelers - CBS News**
+**2. Alpha Chicago, new private school downtown, uses AI to teach students - CBS News**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGE3aWdBUktRU1pYVDBnM0F6bXNoVldWVHJpWTNvd1pBenRtcm9fWWR0SzNDZjJUNXFYWWxsVEF6ZlZxLWpWX3hYVDM0S0htTHFQZVhNa2t6UUlwajdBWHk3NXBMeUlXeDYtWGhnaHdkeGpLX0JmNDZqTjlKeXc2b2p3UVNSNC1WYXlJc1RfWWZiVUxoUnFkYi1ORFFSakludDlRb1cxby0zUQ?oc=5
 
-**3. Not so fast, bot: Companies are banning AI agents. Here's the list. - Business Insider**
+**3. Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWJYNDdCMEdsQloxNnB6Wjdza2NyMXllRE55WGhlOXlNX1B3RVVRM3hkU3cyclJRaG9BRzhheWNEUktqQUJFaGJpS3ZMaGQ3WXVrRkphZF95RlJLa3VKcW5DNUZqcHBsVzJfYmhvT29UanJRd3c0cVc1ejEzS042aXJMWTN4bXc4U2JGQkxNRFJkMGpTV05qeC1TYmVFUTZkallRVXFwdmtqY1U?oc=5
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5
 
-**4. Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes - CNBC**
+**4. How AI Diagnosed a Medical Mystery My Doctors Missed for Decades - WSJ**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr?oc=5
+https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVBoV1QteXlwWmxpSFJXc1NIcTJmUjM4b3BxWklfZWJJLXZNSjlnYkJudkJNUGMwYkFXZXFxQWpIV0JiUXZDdzdlc0JlQzUyX3VxRUgxNnJYdHZGM0hMSUdWaTFsOXlzekVPY0JYSWJ0d3FBUGh4SHp4SEVCNno1NGhSTE9GMS1fbW5MdmZIQm9WdlJLMXN5WjFNVlJmM0x0MHo4MjJtRUlSRGJveVE?oc=5
 
-**5. Indian shares bounce back as investors seek AI shelter - Financial Times**
+**5. The AI 100: benchmarks for the third supercycle - Bessemer Venture Partners**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnY2VllRT2d5Z3k5STdzZ21iSHA5WlNaakI1UnBPUjJuNHpRRWxXaV9od2lVYWlkZUUxc3pfc09LdXVmV0xQSEREUU82eENoRkltQUZraDBZa1gzaWt6aU5wVGx2cmo4RlFod1N4eFQ0M0NBR1ZUbUx5c3d2V2hUclZnUlE?oc=5
+https://news.google.com/rss/articles/CBMifEFVX3lxTE96QkdwYnZxS1FNZjRMYk1lb1Q4NlFPbXhzZllPYUZqSW9YQjdOa2RtcGg2SUVPQy1mNmR3Q3FjX04xaXJCUGFZdXJoTy1yclg4RDZzTHBnZnh3Qjg4THJPUjA1R29tYndVMHVkeXpSSzVPV19HbFRSVlRIeWU?oc=5
 
