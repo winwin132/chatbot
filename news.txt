@@ -1,22 +1,22 @@
-🧠 **AI News (14/11/2026)**
+🧠 **AI News (15/11/2026)**
 
-**1. FAA expands AI advice to manage air traffic congestion across entire US airspace - Ars Technica**
+**1. How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1JlVVdFenkyRlRoSGVaTW0zdEVYelMtMF9McU8ycFRVMzl1VDJETzRRR2RJZG1wRmhDakRZemRidkZ3akgyVkZzcDZoaGVIOG9sRkJrdmJRRUdFNDRxelgwSmRIQWFxZkowdjlBVlFWS1FFZGpYMWNWVmx5WHdzQi1KODRER2Q5RkZTcVJZaU5rZWlVUXVfV3RPTDBFQ2l3ejMyMkw0b1ZvVVl1Q0lSaU9va0ZsQ05tUmR6S251Zw?oc=5
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5
 
-**2. Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times**
+**2. AI's four colliding crises - Axios**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVUFuNWM2NU96OGFfYk9lQThTUDBPZmpPV2NuYVlKVk5oSk84Wkpfdi15cjdGT2pTQzVJUVVqMTg3YXhpN1VHN0czeVhuQnMtbURJTFV1X05udEVOT05HWDVuVGZoa0xsbVlHUw?oc=5
 
-**3. Researchers trial AI coach for diabetes - Medical Xpress**
+**3. UFC 334: Luis Gurule celebrates upset win over Bilal Hasan with AI callout: 'ChatGPT don't know s***' - Yahoo Sports**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5
+https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFU0RTZYb3JEMzQxMGpJYUdyNDNzMWlKendFY19QVXI0MDRnVWUyQU5EcHo5dk96UFkycF8tZFVhbnJBT0VoNTNkNzUzV3l2UVc2SXlCemIzT2lkN1BRNklDZ2JuRWZDNDh6U3pjT3VQVVAtd1RZSFJVeGhEeEw1SVk1eThlUW95RmNNNHFWVjRzRVNYbm5yUk1jZ0J3MUVCcDktUjdIZWxuQ2UzS184STRQWlplWFJheHcyU2J3UlZBUDZGOXpxZ3hZSTZyTnh4TGJ5UUE4dzlRM0R0OGc?oc=5
 
-**4. ‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths - The Guardian**
+**4. Wealthy parents pay $75,000 for Alpha’s two-hour AI school day. Half of its K-8 students missed the math target - Fortune**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmZkUnVoTE4wSmlQSE90Vy1Hd0U1elZDOUtuVmxCYkVsWUtWTkNpYTdaSXQ3QjBuRGUwWE0yZ2UwSzg0UzdTbHB2WmRLeXUyQ3lBUnZ3RXhMVUtxQ1oxd1hUODVRcml2VFE3aGF6MmlCQ3JKWXNEU1AzQzZSUGhqWl8zd1NpSUxnVnRxQldMNXV4c2ZmNHhhTjZjUHREc1hMWXQydzQzWjJQbW9rcGcxcWZuMmJaRk1jMDNLbzhQUDhVUmNpcDJ3WQ?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWVPbTBORW1yd0lRZEdVUXB4QkFVeTVZTGVWaFlqUGg5OGxtQnpucXhmdDhnSG41NkN4Y0FNenJHZHJ5SHoyYzAycThMWlVPZWNOTkliVG4wak1KZ0MxdUg2cEQ1WU1RMUloSzVreENvQ0hxZTZVREttOG5RLXpsM3ZRVjRhdw?oc=5
 
-**5. Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up. - WSJ**
+**5. China’s Intelligence Coup in the AI War - The Atlantic**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQTG0welA5eGpFX1hPbWUzS2ZNUEc3U21NLXhrM0NoMlNRZG5EdGpmdmZXQUxPVDhyci01TmF2QU5wdl9HWTBPd3lvSEhfQk9NZ0E5cHlvTEtMWTRSbFp1NlA3cTBpblVJRDlYOTJrMEo3OTh3c3VFc1IyTlV5OGhOZzdGZ0R1LWpiT203YWYzSE94WE1YQ3Y3R0pLUFRYRktTd0hLSA?oc=5
 
