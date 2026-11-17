@@ -1,22 +1,2 @@
-🧠 **AI News (16/11/2026)**
-
-**1. How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5
-
-**2. ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick - The Guardian**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5
-
-**3. Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5
-
-**4. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows - The Guardian**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5
-
-**5. Aerospace Stocks Shine as Anti-AI Flows Pour Into India - Bloomberg**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGtNaHdKZXF5RXNIcUtPbVd2LTd3SzR3M0xTLWllV3poNGYyLXBfdTFfTDNsdnFVdXdYRGFHMEJUd3JnZGNxU2N6WE11QkswcUNqOUstLVBYbWQ1SHhhdGJLendtQXhLWkNFOFBQZmdndVhzcDVnV040Z1pFSzlISE84SzNWV1FLOFZwRkV5TkRudHU5eXZ0MEVsRGxwcWdkbjQtVnFvb1VaRENoTkE?oc=5
+🧠 **AI News (17/11/2026)**
 
