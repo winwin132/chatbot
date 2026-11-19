@@ -1,22 +1,22 @@
-🧠 **AI News (18/11/2026)**
+🧠 **AI News (19/11/2026)**
 
-**1. A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet - The New York Times**
+**1. NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I. - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMifEFVX3lxTFB4YlhWNC1xblo0NzdIaWExSVNOSEl6MkpHMjF3ZDV3OENZUnNzVnEwUTR5U29FWUZiLVRnckE1UTV6c0tURDJSWTlIaXc3N19tcUVILUVlZ2NOaU16ZE5aQkE4SlF6eTFERlJEUVh2WW03WnFZbmNhYlhjNHg?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5
 
-**2. Google: ‘The era of autonomous attacks has arrived’ - The Hill**
+**2. Google faces a reckoning after pushing its AI tools into classrooms - NBC News**
+(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmZEUzA0cFlZWm9ib0pyMDB5a2VtcDVnRG9kYjJFNC1UQzUtZC1IVzM1MThEY0lGQUh2TG5iZVZFV2hUaWVsVUFRYUI2WWVjRGF4Nks0YnR3TjF3WnQ5QnNLbWE2SUtCQUdoczJBZHVBUGJDZWIwZnRxMzBQMk1TUS02U1l6aDZPdHUxWU8tWEVtOE1ITVF5UmxnWXd6b1J0a2c?oc=5
+
+**3. Google: ‘The era of autonomous attacks has arrived’ - The Hill**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
 https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFZDRlBBMFZSaTlBQkwyU2FjcGliMWhDYVlWSnBZZmRTbVg5V3I1QjNfcXpRZzBLNzVRSHdpcXZyRjBGUXFic1JNa0kwQktNNjlZeWw2azNXN09ZV21pZWxiLWIzS1gzZ2Rfa3hBZjA5S0FnaWVJS1UzRVpVZDN1emp6aDQ0Si1vSXfSAY8BQVVfeXFMUE5veEVTeW5waDN5cXc0b1YwWXZ3NG5WeGRhbWk0VlBPSm5yZkFoNXdKd2JfblJRcXo1MHlldjZrSHVSZjJMTi1HUG5kMjBYWDlYOHZiZkljTWFmVF9OWGhLQUY0cl9mcloyLV9xLXItLXJ4VFBVcExvY1E4NW9xOFV6YWtOb1hvZm8yTzktNUk?oc=5
 
-**3. Google, FBI warn of rapid AI cyberattacks - 11Alive.com**
+**4. Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGF2SE1ldXFLMEo4el9FbzJ4Ty1hVFcyT0I2LTF6NC16b0NjTEcybnZCVlhOTW4xY2NxYks5Vnc4ZU8zbEZMbmhJTWV2SUZva1NIOU90eU11SXJQdXlBWlprcWFORVByZDdRNWpDSWZJQ3ZlZDNqbVVELTN5V2htTjliWXhXbjBzUm1uVUNKWmFiU2k1MUFyMkN3T3JiTGt6dnFRQmc0TXBQMGZ0NDkwVnA4Y2dpS09wOFFPUFhsdE43aHlBdGpiUURB?oc=5
+https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5
 
-**4. Open-source AI tool has been used to automate cyber intrusions: FBI - ABC News - Breaking News, Latest News and Videos**
+**5. India Startup Sells DeepSeek Access While Pursuing Sovereign AI - Bloomberg**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMingFBVV95cUxQMUxJcEQ5QVBQLTdqTWx1akZuSFdtblNmVldCMVRfeVVJVUMyMUx0dXVNSmlzWmIydENiUFU2VVNHTFNERHFHZHM5T0dIcjl0N1B5UUlFYU1mOHJSQlpWUHZ6SVlrWlc5aS1rZGtPUWhDZko3d1RXcmk5eG9nR2pTSlk5XzZyUmxoNFhFSEtDUUJCTGlwd0V4dEZSeG41d9IBowFBVV95cUxOU1N3YmlsYXVpVHlhUU1SS3Rwamg0Tkx2enRmRUluYnl0NWRRYVk3dnM5c3QyVlo5OXVabjhtaGxaZTB0Y2lmcHZoQ1ZhMFI3UVlpNkh1ZmNBZ0ZwYUpWS0JHUk5OX1VCRTVmTTN2d3NxY1ZMTDVwemhndTFHY0ZiSlpxSzNvVDF3R0N4VFJsMTIxY1AtdzRZQndteDY1NWxNSnU4?oc=5
-
-**5. China's independent AI ecosystem to draw capital despite U.S. chip curbs: Morgan Stanley - CNBC**
-(สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQemM3aE1aQTc1VnNPMmJvMlM2OXpXTGJxZXJWUkxXajM4QURqdlN0ajNVZV92eU5MUGxlcUJ1bFZseVNHdzdVR0o3Y1YzUkhHdWtWSjdEQ1FOV2xpNERCQTZzTmxyNFFUNGFsYUZQcERYdUdKazA5TWY1ZUpUV0lwTmhPMG5nNGdqV1FieHNQQ0dLdlZ5VzdpRUkwMVEyWHZGYzRtTUhtVWcwYS15VVI2S0pR?oc=5
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXctc0ZCcnJ4X3Nqcm1qTGEzM0dHY29CX0dkYXNOcnBSdHdFR211RXh6SFR1LXhVMGNZbVJJZUVnX0Nyc0c4UjREa0I0SmZxOG5zc20yWFdJMy1FMTVma0VDakdtZkUwMVhUT1VjS0k4dmJGV0tWbFFkTnB0MHNFdEQtYzhnczQzczBFMld3Q1NRM0dVbmJKQUVWRTVmWEU0bnR6NWhEMFktOVBvSHFXbXBDRjI?oc=5
 
