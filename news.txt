@@ -1,22 +1,22 @@
-🧠 **AI News (20/11/2026)**
+🧠 **AI News (21/11/2026)**
 
-**1. SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut - CNBC**
+**1. Stocks Skid Into a Correction, as A.I. Worries Intensify - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5
 
-**2. Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters**
+**2. Anthropic shares slide as AI sell-off hits global markets - as it happened - The Guardian**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5
+https://news.google.com/rss/articles/CBMivgFBVV95cUxNREIxUXl0d3liV2xuQ1VqNmJBNGVCNnc5YkN2aWNRbzJuVTdkYWJ5bXJQcFJuYVVxVXg5Ymg4ZGhfUEw1SUpjOGlnWjlDblR2Tm9PTVJoNDBrYjhqbVZFanV1ME01ZFpKTkZ1X25qUDB5RFZoRE5fX3ZnTHJGcjZvYnBNaTRqbkplVndabWlMV1lPUnZJdU5pY25uTFNiRlJDeW5Na09kVHJ0V2VOM05kcjNZN0Fab1ViUWlFZTBR?oc=5
 
-**3. computor: AI tutor as a programming learning aid - Phys.org**
+**3. Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street - WSJ**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRVFxaDFTWEJOdnRzdjc1X0Rma3ZuVHZLTlZsYmZFeFZaSGd6QUFOaVRyOHdONzdYcjBJb19mLXplbnhCaUxpMmFXc2lXRU02LVk0TzN4ZXFkV1lteDZV?oc=5
+https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5
 
-**4. Gavin Newsom Wants California to Have Power to Shut Down ‘Rogue’ AI - Newsweek**
+**4. Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2dVeVQ1SmVNSmhtU0FwVDlOZTFNakRVRWFoUDVYWmRsY24yMFZwNmFYdnVHM0dWUkFNbTBuUF9iUFZEbTVhbFZYSE51QXRpdzVFR0tWWERNcUJwVkxIaUVYZk1ENkVuMGVGWkxzQXZzcllhNVU3a2R4UVAxdm90ejB1S2c2TG9LRmhGTnVhVzNQQXl1eU0zenIwVkN6QVdI?oc=5
+https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5
 
-**5. Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC**
+**5. A third of young people in 16-country survey use AI companions, and users report more loneliness - Yahoo**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGUyRUZHVnlXRXhaSHFqajhkNFZoTEtiWXhKTjdBVnRBM3hMSm4zazlRMTRrV25RN2tHWDRCNTkzQ0l0ZnRmeHFRSm1xc1pVNUxNanBlb09UeE5Jd3ZNcFlKQnNOSTQzdTd6bXpRd0lhTXA2XzlsbzJNLThlZnVGcG9jemNoSVZodldOMzJLaw?oc=5
 
