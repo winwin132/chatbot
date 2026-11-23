@@ -1,22 +1,22 @@
-🧠 **AI News (22/11/2026)**
+🧠 **AI News (23/11/2026)**
 
-**1. Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. - The New York Times**
+**1. Perplexity and Intelligence - OpenAI**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5
 
-**2. Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance**
+**2. OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5
+https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5
 
-**3. The AI race to fix security flaws could be making tech outages more common - NBC News**
+**3. OpenAI Chief Scientist Urges Industry Limits on AI Development - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEV1UkZkWUk1UlpPVENabkhza2YzcVJEMmFTNk50anhtdnd3S21EWlJxa1EzYUw4R2NrOUtxdGhHUXF0RHo1S3VSazQ5a2Uwb0JxemF4MV9IdVd2WmVnd2g0ZFBBck5yQ2lNeVFtV2tROHBsU1U5R3hoS3htekhtWmM1LTdlN0tPVVRrYzYtUFJOMHVKRGtWS29BNXIzVzhuWlBHRk1PZndneEVIX29xSzIxTkZHV0lOTmc?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5
 
-**4. Two groups verify mathematician’s claim that Claude helped prove mathematics problem - The Guardian**
+**4. San Francisco is enjoying an AI boom, but worries about a crash are growing - BBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5
 
-**5. Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times**
+**5. Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5
 
