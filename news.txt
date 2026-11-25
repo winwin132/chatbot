@@ -1,22 +1,22 @@
-🧠 **AI News (24/11/2026)**
+🧠 **AI News (25/11/2026)**
 
-**1. Working with AI - Anthropic**
+**1. Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5
+https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5
 
-**2. ‘Produce a good result by any means’: how AI is testing South Korea’s exam obsession - The Guardian**
+**2. AI debt markets shudder as Nvidia's top 'banker' returns - CNBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3dPNkpPYTY3QjJ5VXJfdWRWd3B4dVF6RlBUNnhXNjhpR3dqOV9CRm9Scm5PR2pEYlJjYXhOVFN1c3VtcmpRZGxJTERWTGhOLVVTaWZITDBtREhFWEloaWI1b2JCaEZCVUxOQUVhMHI3T2tpMWVHdFdTa3hMUlJySWNLSVNtbnc4T3NyRGJpYl9mbl9mV01xcWE4TjhOdFhnOXlOYXV0SE1aWVZRVDVLczI1S1lrWER1ZUpvSjdwNE1tTEd4?oc=5
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5
 
-**3. Signal joins United Airlines, banks in limiting AI agents over customer risks - CNBC**
+**3. Huang's return to Nvidia brings open-weight AI debate to forefront in Washington - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSDZ6LWdYaGRCdkxSNTNiZE9QWTVmcEFMNXZhQ3NxYXBncl83NkV4NFp5am92SW5pRzRNYmswb1NzUzhIbzFGX1pieDFqWDE4Q3ZWNUlKUjNwcnEzY1FmSmRyMnh4X2lOMkh6d2RTQU9vTnAwLVHSAXtBVV95cUxNRml1MVdVMTlJNFNYQ0dWUnpuNzNUNHZ5XzAycjFIM1BTUG1hajdsU2VZMXJISW5WTkRjRW1HTmZtbm1vS1lrYndkRkJULVZQSkR5ejRsVWNsNHU4YnhUSENBOUxPYm1LSy0talo5RmNrR3ZPVGgycjFzTzQ?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5
 
-**4. AI Chipmaker Axelera in Talks to Raise Additional $400 Million - Bloomberg.com**
+**4. The AI rally sparked by Jensen Huang's return is already unraveling in Asia - Business Insider**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFFteGYzSjFPMF90bGlRRUF6Ny1YMGFDMGJFdEUzVlF0Yk83TVp5VE9SRWdvWDFhVDE1c3h1ZEtfNjB0em5aUzFfTXp4QmhfeTlPV3Znd05KdkFtQ2FsNjZzYzg2ek03TXRteVNjQ3pmTEdoaExsV0NGUkh6NWdHYjNCRWYzTmpfRTAybkNqMDJyUVBGVlgyYnB5NHJxb3oxbVVpeFVFa215V2dYZTE3WUd3?oc=5
+https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5
 
-**5. Ana SEO Agency Defines the Prompthen Article for AI Search - The Detroit News**
+**5. Watch Malaysia Tightens Controls Amid US AI Chip Curbs - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxtMG9RMnZjN3pIVEl3bjdTUG9VcTFZdHVkYTRCZVBCazF5RTc2VFlZc2Z5SE1ueFBndzNnSE1IUG9NSzZLVHBEWlRJMHF2ZDM3S3pKYzBYc0FMUXllWk81WjZIV0ZhVVk3R1g3M2Y2OThMSzRod2syRjgyODU4UjNXV2ZnSktFMUdldEdLNmxHRUgtT0c3YjF2dFhIQTFJclprbnk5ekM1SDVJSnpnbGhDdnI?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0JPNmd1WEpUUDlxR0RBZ1JoNG9xWThSZkFsV2NFcjVjbVhzRXdxSlpDZ1Y0d2JGOHQxcHlMRE04bldVS3lWOG1NX2RCSm0tTTZiR3QzYzNHRnBXQ2plM1RTaFh6T3MycXhEaDJCTC1CV3l0MWFsSTJwT2dNY0lWVXZOdW1OUndPSWcyUy1rcUZ2NVo5UXFDVXAwb3lIZ1lEUVh6UGRn?oc=5
 
