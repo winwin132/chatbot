@@ -1,22 +1,22 @@
-🧠 **AI News (25/11/2026)**
+🧠 **AI News (26/11/2026)**
 
-**1. Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios**
+**1. "The flashing red lights couldn't be brighter": Democrats demand new restrictions on AI - Axios**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5
+https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXpKRVJxZXhKY0lFc2JUUVhrNUZhek5tVVQxUmxlS2oyTUFvOTUxWWhJeF9XSmVlTkg0S3U0NDFUbDBfODF6MWlWUFZtY051eE1uNS02SjEyMTZBa2pXUWdoNkZMZi1wa1E0bTVob0dUTDN5SHZRbU9wQnd5MUVFaTkyZ296TXFBakR3VklFaVFlQQ?oc=5
 
-**2. AI debt markets shudder as Nvidia's top 'banker' returns - CNBC**
+**2. AI may soon change what it means to be a theoretical physicist - Ars Technica**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTZmbXR4c2JVaV91NXNxWE5SZXlLT2tpdGFoTWNzX0dFcnNLUndIZEN1WnFWU1dWTFJyMVNaZ2hOV1ZyTktqY1RtYlFSd2laWEJ5WmFZd1ByUm0xLUFLVC1ZazJkUWozNTg2Z2cyUmJsMmhsOTlmVTV1NGp1S3ZFdmZRb0NWRWQ0ZC0yYmtEU2tMQlM1TXJFazNtQVRPWjVEY091ZU9MeEtxQQ?oc=5
 
-**3. Huang's return to Nvidia brings open-weight AI debate to forefront in Washington - Reuters**
+**3. Iran War Updates: Tehran denounces U.S. for using AI in strikes it claims violate international law - CBS News**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5
 
-**4. The AI rally sparked by Jensen Huang's return is already unraveling in Asia - Business Insider**
+**4. Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGs5NV81UHM4cDZtWGJ2UTAyX0VyeksycmNXN0F1RDFyZmpXaTNVNmllSkhkTm5Ncnh4T1RHRU9VWWpjMzJUNmtLeGJwNUtNVHAyWXRiWExKRW1DalJjZk5LUGZqWFhLRWprclZYWVN0VHgyTE51aWUzdndmUVh0Q2puOHFHbHVBVXdTdUR3YWRiZ2hNXzM1NjN0MVd4UUlRNXlDdw?oc=5
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1BOZHJ2d0E5MXN6cVhHTVdoQm43SHlaMmJsMXlsQVJVeEtEbFVla3B4WHF0clJJV3BmNXctM2Y1SWFEU0ZkZ09FZ2hXcElpb1pqbGxaLXNZQ0djb1F4VFpBVFg3YXNFRzBLWFpmVEMwUzNVMF9XNXI1dUU4ZnBiME5Hb0VWdXlxYnRSNXJTbkZGT1U2Y1hDSV9yT25rT3haSVZVWWl1dG5WUDhRQmJOakRFdw?oc=5
 
-**5. Watch Malaysia Tightens Controls Amid US AI Chip Curbs - Bloomberg.com**
+**5. Your Move, Tesla: Xpeng Puts Humanoids, Cars, Drones On A Single AI Brain - Forbes**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0JPNmd1WEpUUDlxR0RBZ1JoNG9xWThSZkFsV2NFcjVjbVhzRXdxSlpDZ1Y0d2JGOHQxcHlMRE04bldVS3lWOG1NX2RCSm0tTTZiR3QzYzNHRnBXQ2plM1RTaFh6T3MycXhEaDJCTC1CV3l0MWFsSTJwT2dNY0lWVXZOdW1OUndPSWcyUy1rcUZ2NVo5UXFDVXAwb3lIZ1lEUVh6UGRn?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSERJX1JSTFVTX3lWWkJRUkhEZXNzbHhaNTNFLXNGVUZwQUE3NnA3cWZPenBKQ2o2WG1jalFmWVNlTFFrUmlZRmlUQmxJelBVaU9tSHliUFF2bllXSFNKYUgxWFJSZWFZRUNRcWpsdnQ0TGtpWDE3aVplZ1FlVTNiUEVmRV9NOE52czNDRHNOeVRibXkwbTRsczdTaDk3YjJPRDRLc3diMk1zUE43X0xQZWxQa3pPNHBJSE5GMmRucUI?oc=5
 
