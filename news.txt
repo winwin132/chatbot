@@ -1,22 +1,22 @@
-🧠 **AI News (26/11/2026)**
+🧠 **AI News (27/11/2026)**
 
-**1. "The flashing red lights couldn't be brighter": Democrats demand new restrictions on AI - Axios**
+**1. US authorizes SpaceX to deploy 1 million satellites for AI data centers in space - CNN**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXpKRVJxZXhKY0lFc2JUUVhrNUZhek5tVVQxUmxlS2oyTUFvOTUxWWhJeF9XSmVlTkg0S3U0NDFUbDBfODF6MWlWUFZtY051eE1uNS02SjEyMTZBa2pXUWdoNkZMZi1wa1E0bTVob0dUTDN5SHZRbU9wQnd5MUVFaTkyZ296TXFBakR3VklFaVFlQQ?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5
 
-**2. AI may soon change what it means to be a theoretical physicist - Ars Technica**
+**2. EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTZmbXR4c2JVaV91NXNxWE5SZXlLT2tpdGFoTWNzX0dFcnNLUndIZEN1WnFWU1dWTFJyMVNaZ2hOV1ZyTktqY1RtYlFSd2laWEJ5WmFZd1ByUm0xLUFLVC1ZazJkUWozNTg2Z2cyUmJsMmhsOTlmVTV1NGp1S3ZFdmZRb0NWRWQ0ZC0yYmtEU2tMQlM1TXJFazNtQVRPWjVEY091ZU9MeEtxQQ?oc=5
+https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5
 
-**3. Iran War Updates: Tehran denounces U.S. for using AI in strikes it claims violate international law - CBS News**
+**3. Singapore Talking to US to Keep AI Chip Access, Deputy PM Says - Bloomberg.com**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5
+https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTF6RUh5d1BiSVM4cDdTQUxicmQ2alpjS2l0V2hQWWUwbGlTalB3dlByQXhkV0hRd0FsSnduSkVHY0J1VFByMFFvWTN6SV9nT1NNYUloME9TLXV1d05Yb3dGSi1sQ19sRTg0eXJhemxPM2xIYWpwaDduTlFhd2daVWpnOWt4SmJEenU3ZkRnd0Y5MV9lN0tQS1FBazYwb21GSGJpNWswd1M2WFRza1Q3cC1R?oc=5
 
-**4. Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix - Bloomberg.com**
+**4. In the AI era, dependability is the key to customer loyalty - Fast Company**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1BOZHJ2d0E5MXN6cVhHTVdoQm43SHlaMmJsMXlsQVJVeEtEbFVla3B4WHF0clJJV3BmNXctM2Y1SWFEU0ZkZ09FZ2hXcElpb1pqbGxaLXNZQ0djb1F4VFpBVFg3YXNFRzBLWFpmVEMwUzNVMF9XNXI1dUU4ZnBiME5Hb0VWdXlxYnRSNXJTbkZGT1U2Y1hDSV9yT25rT3haSVZVWWl1dG5WUDhRQmJOakRFdw?oc=5
+https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlZNel9Cc0c5WmU1N2I1ZFRKNjFjS3hGai1kbXFNY1RmQ2o1TVpSVjR2M0JTZFM1cDI5UTVuVDRCMnJHUXJRdFRkTGRxQjVHeldVMUw4R05DR0ZrTXB2SkFBN01LekxpX2VqMkUzQlE3VDNRYTktVFJyRVZfVWhNdmN5VGNScV9OSThybmYySUlBbTJhUHJkVFNBcw?oc=5
 
-**5. Your Move, Tesla: Xpeng Puts Humanoids, Cars, Drones On A Single AI Brain - Forbes**
+**5. AI data centre boom piles pressure on stressed US defence sector - Financial Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSERJX1JSTFVTX3lWWkJRUkhEZXNzbHhaNTNFLXNGVUZwQUE3NnA3cWZPenBKQ2o2WG1jalFmWVNlTFFrUmlZRmlUQmxJelBVaU9tSHliUFF2bllXSFNKYUgxWFJSZWFZRUNRcWpsdnQ0TGtpWDE3aVplZ1FlVTNiUEVmRV9NOE52czNDRHNOeVRibXkwbTRsczdTaDk3YjJPRDRLc3diMk1zUE43X0xQZWxQa3pPNHBJSE5GMmRucUI?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXVJYTZQS21pelB4NVVReDUxRnhpaVlBcDZ6bUdrem41YndfMzF3YmJvTmJVdk5aOTItZWttVFBaaUphTlNYQllqeVlVb1BQc3hkMjdPblZwVmI3ZXY2dEhJMFhVd3pBczk1X3hMajhrUElHWEVKMEpwVG95dzd3UGl2c0g?oc=5
 
