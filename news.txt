@@ -1,22 +1,22 @@
-🧠 **AI News (27/11/2026)**
+🧠 **AI News (28/11/2026)**
 
-**1. US authorizes SpaceX to deploy 1 million satellites for AI data centers in space - CNN**
+**1. AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn - The Guardian**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5
 
-**2. EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters**
+**2. Could AI break encryption? What mathematical breakthroughs mean for cybersecurity - The Guardian**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5
+https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHAxM3BibFJQcXdRTThreUROWVplVFpnQnVjRktrbHJROHZxLWs0a1JnejVVeW93RjVOb0dZX25JcXhVUWttUFNwQnVkenRQM3p6ZHN1ankwazRIWFI2SWdKZlNkQkRxSHJ5cEFsbXZMV28yZTZ5SmZVeWdWbHBpck5uM1BCbEVhQ0tUVWtVRnhTYm52ZmdJdXExOUF5dWtGUVg2NkUwaUZjTUFpd29XbF9IWVMxSlJZVFlLUmR6djJyN3hEMjI3NVZXYw?oc=5
 
-**3. Singapore Talking to US to Keep AI Chip Access, Deputy PM Says - Bloomberg.com**
+**3. Can AI crack encryption? - Financial Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTF6RUh5d1BiSVM4cDdTQUxicmQ2alpjS2l0V2hQWWUwbGlTalB3dlByQXhkV0hRd0FsSnduSkVHY0J1VFByMFFvWTN6SV9nT1NNYUloME9TLXV1d05Yb3dGSi1sQ19sRTg0eXJhemxPM2xIYWpwaDduTlFhd2daVWpnOWt4SmJEenU3ZkRnd0Y5MV9lN0tQS1FBazYwb21GSGJpNWswd1M2WFRza1Q3cC1R?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1ZGUTg2NDZzVUQzb1NBVnNET0YtNDB2OWZEV25LWnNua05BMjh6dHQyXzRtUjJHNUZDdEFMOGk5Rkk1YVpBeUx4d3hSUTFzQzFmamlQb3o3bUR6dDRJdnJ6ZXJIdkYwTmRwamFIS3NuZXJwSGNzV25XMDdyNFI2U1Iwa2o?oc=5
 
-**4. In the AI era, dependability is the key to customer loyalty - Fast Company**
+**4. Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction - The New York Times**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlZNel9Cc0c5WmU1N2I1ZFRKNjFjS3hGai1kbXFNY1RmQ2o1TVpSVjR2M0JTZFM1cDI5UTVuVDRCMnJHUXJRdFRkTGRxQjVHeldVMUw4R05DR0ZrTXB2SkFBN01LekxpX2VqMkUzQlE3VDNRYTktVFJyRVZfVWhNdmN5VGNScV9OSThybmYySUlBbTJhUHJkVFNBcw?oc=5
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjlyd2E5RXotcDlldWU0Z3d4MDl3VWYybTRic0NrWnRyelg3Ym13b2c0WXpWX0xyV3hDV1BpYkdwbzRqaWxXc1A2NVhuT0Q4TkVCYVlGTFVFUGgyT18yRnR5T05oc2Q0QlpQWjY2ajZCR2dqa2cxMlFGVTgweTVldVhrZ05TNkRfaXpV?oc=5
 
-**5. AI data centre boom piles pressure on stressed US defence sector - Financial Times**
+**5. GTA 6: The AI race to clone the world's biggest video game for PC - BBC**
 (สรุปไม่ได้: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.)
-https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXVJYTZQS21pelB4NVVReDUxRnhpaVlBcDZ6bUdrem41YndfMzF3YmJvTmJVdk5aOTItZWttVFBaaUphTlNYQllqeVlVb1BQc3hkMjdPblZwVmI3ZXY2dEhJMFhVd3pBczk1X3hMajhrUElHWEVKMEpwVG95dzd3UGl2c0g?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5
 
